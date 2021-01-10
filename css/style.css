@@ -1,0 +1,759 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+html {
+    box-sizing: border-box;
+    /*Pra que no nos afecte el padding*/
+    font-size: 62.5%;
+    /** Reset para rems, -62.5% = 10 px de 16 px*/
+}
+
+*,
+*:before,
+*:after {
+    /*Para que siempre se mantenga el ancho y el largo, e ignore al padding*/
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+p {
+    font-weight: 300;
+    font-size: 19px;
+}
+
+li {
+    font-weight: 300 !important;
+    font-size: 20px;
+}
+
+
+/**Globales - contenido que es reutizable.**/
+
+
+/*Para las imagenes que no salgan grandotas, afecta todas las imagenes, para que sean responsivas*/
+
+
+/*Es una declaracion importante*/
+
+
+/*Hace que las imagenes se ajusten al contenedor*/
+
+img {
+    width: 100%
+}
+
+.contenedor {
+    width: 100%;
+    max-width: 140rem;
+    /** = 1200px; **/
+    margin: 0 auto;
+}
+
+.texto-brexia {
+    font-size: 17px;
+    font-weight: 400;
+}
+
+
+/*Sistema para el tama;o de palabras, en los headers*/
+
+
+/*Top Header*/
+
+.top-header {
+    background-color: #2c3573;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    width: 100%;
+    text-decoration: none;
+    position: fixed;
+    text-align: center;
+    word-wrap: break-word;
+    position: fixed;
+}
+
+.top-header-inter {
+    margin: 0 auto;
+    max-width: 500px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 0.5rem;
+}
+
+.top-header-inter span {
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+    color: white;
+    margin: 0;
+}
+
+.top-header-inter span :hover {
+    color: rgb(95, 189, 1);
+}
+
+.top-header a {
+    text-decoration: none;
+}
+
+@media (max-width: 767px) {
+    .top-header-inter span {
+        font-size: 11px;
+    }
+    .top-header-inter {
+        max-width: 290px;
+    }
+    .top-header {
+        padding-top: 0.2rem;
+        padding-bottom: 0.8rem;
+    }
+}
+
+
+/*MId header*/
+
+.mid-header {
+    margin: 0rem auto 0rem;
+    padding-top: 3.2rem;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+@media (max-width: 767px) {
+    .mid-image {
+        margin-top: 2rem !important;
+    }
+}
+
+
+/*
+.mid-header {
+    margin: 0rem auto 0rem;
+    padding-top: 3.2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.deepmid-header {
+    flex-basis: calc(43% - 1rem);
+}
+*/
+
+.menu-literal {
+    color: #c787a2;
+    font-size: 12px !important;
+    margin-top: 0px;
+}
+
+.mid-font {
+    color: #a3a3a3 !important;
+    padding-top: 3.5rem;
+    letter-spacing: -0.01rem;
+    word-spacing: 0.1rem;
+}
+
+.mid-font a {
+    text-decoration: none;
+    color: #a3a3a3 !important;
+}
+
+.mid-font a:hover {
+    color: #a3a3a3 !important;
+}
+
+.mid-font a:hover {
+    color: #a3a3a3 !important;
+}
+
+.mid-font a:focus {
+    color: #a3a3a3 !important;
+}
+
+.mid-image {
+    text-align: center;
+    max-width: 50%;
+    margin-top: 4rem;
+    margin-left: 4rem;
+}
+
+@media (max-width: 1300px) and (min-width: 852px) {
+    .mid-image {
+        padding-top: 50px;
+    }
+}
+
+.mobile-toggle {
+    color: #fff;
+    background-color: #00235d;
+    cursor: pointer;
+    padding: 10px 13px;
+    text-align: center;
+    font-size: 13px;
+    vertical-align: middle;
+    margin: 8px 0 8px 1em;
+    line-height: 20px;
+    border-radius: .40rem;
+}
+
+
+/*Redes Sociales*/
+
+.icono {
+    /*flex-basis: 20rem; /*para el ancho*/
+    /*pensando mas a futuro usamos procentajes, en lo de responsive web desing*/
+    flex-basis: calc(44.4% - 10px);
+    /*Tomas el 100 por ciento y lo divides entre 3*/
+    /*Usamos calc para realizar una operacion matematica*/
+    text-align: center;
+    /*Alinea al centro el texto e imagenes, además existe right, left,justify.*/
+}
+
+.company-social {
+    margin-left: 0;
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 4.6rem;
+    text-align: center;
+    list-style: none;
+}
+
+.company-social li {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+.company-social a {
+    margin: 0 2px 0 0;
+    font-size: 12px !important;
+}
+
+.company-social a:hover {
+    color: #fff;
+}
+
+.company-social a i {
+    border-radius: 50%;
+    color: #ffffff !important;
+    display: inline-block;
+    height: 45px;
+    line-height: 45px;
+    margin: 0px 0px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color .3s;
+    webkit-transition: background-color .3s;
+    width: 45px;
+}
+
+.company-social .social-facebook a i {
+    background-color: #a3a3a3;
+}
+
+.company-social .social-twitter a i {
+    background-color: #a3a3a3;
+}
+
+.company-social .social-instagram a i {
+    background-color: #a3a3a3;
+}
+
+.company-social .social-whatsapp a i {
+    background-color: #a3a3a3;
+}
+
+.company-social .social-youtube a i {
+    background-color: #a3a3a3;
+}
+
+.company-social .social-facebook a:hover i {
+    background: #4893ce;
+}
+
+.company-social .social-twitter a:hover i {
+    background: #82e6ff;
+}
+
+.company-social .social-instagram a:hover i {
+    background: #d6249f;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%)
+}
+
+.company-social .social-whatsapp a:hover i {
+    background: #128c7e;
+}
+
+.company-social .social-youtube a:hover i {
+    background: red;
+}
+
+
+/*Low Header*/
+
+.low-header {
+    padding-top: 7rem;
+    text-align: center;
+    list-style: none;
+    padding-top: 3rem;
+    word-spacing: 0em;
+}
+
+.low-header li {
+    display: inline;
+    padding-right: 2.3vw;
+}
+
+.low-header a {
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #a86182;
+}
+
+.low-header ul li a:focus {
+    color: #7a3a58 !important;
+}
+
+.low-header ul li a:hover {
+    color: #7a3a58!important;
+}
+
+.low-header ul li a:active {
+    color: #7a3a58!important;
+}
+
+.low-header ul {
+    padding-left: 2.2rem !important;
+}
+
+
+/*Hamburger Menu*/
+
+
+/* ### GENERAL SITE STYLES ### */
+
+#site-wrapper {
+    z-index: 0;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+#site-canvas {
+    width: 100%;
+    position: relative;
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    -webkit-transition: 300ms ease all;
+    transition: 300ms ease all;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+
+.show-nav #site-canvas {
+    -webkit-transform: translateX(10vw);
+    transform: translateX(10vw);
+    -webkit-transform: translate3d(10vw, 0, 0);
+    transform: translate3d(80vw, 0, 0);
+}
+
+#top-header {
+    z-index: 1;
+    -webkit-transition: 300ms ease all;
+    transition: 300ms ease all;
+}
+
+.mover-header {
+    -webkit-transform: translateX(10vw);
+    transform: translateX(10vw);
+    -webkit-transform: translate3d(10vw, 0, 0);
+    transform: translate3d(80vw, 0, 0);
+}
+
+
+/* ### MENU STYLES ### */
+
+.boton-brexia-menu {
+    display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 4rem;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    background: #755160;
+    font-weight: 500;
+    font-size: 14px;
+    text-decoration: none;
+    height: 7rem;
+    width: 18rem;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.linea-menu {
+    border-top: 1px solid white;
+    margin: 0 auto;
+    max-width: 260wpx;
+    padding-top: 1rem;
+}
+
+.icono-menu {
+    margin-left: 85%;
+}
+
+#site-menu {
+    width: 80vw;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: -80vw;
+    background: #00235d;
+}
+
+.resaltar {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.site-menu-content {
+    margin: 0px auto;
+    padding: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+.site-menu ul li {
+    list-style: none;
+}
+
+#site-menu i {
+    color: white;
+    font-size: 3em;
+}
+
+#site-menu a {
+    display: block;
+    padding: 0.7em 0em 0.7em 0em;
+    outline: none;
+    box-shadow: none;
+    font-weight: 700;
+    text-decoration: none;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    -webkit-transition: 300ms ease all;
+    transition: 300ms ease all;
+}
+
+#site-menu a:focus {
+    color: #c787a2;
+}
+
+
+/* ### GENERAL CONTENT STYLES ### */
+
+.menu-a {
+    text-decoration: none;
+    color: rgba(86, 178, 171, 0.5);
+    -webkit-transition: 300ms ease all;
+    transition: 300ms ease all;
+    margin-left: 2rem;
+}
+
+.menu-a:hover {
+    color: rgb(86, 178, 171);
+}
+
+.contentido p {
+    font-size: 2px;
+}
+
+.nav-icon:hover {
+    color: rgb(86, 178, 171);
+}
+
+.color-brexia {
+    color: #c787a2;
+    font-size: 4em !important;
+    -webkit-transition: 300ms ease all;
+    transition: 300ms ease all;
+}
+
+.justificar {
+    float: right;
+    padding-top: 4.5rem;
+    padding-right: 3rem;
+}
+
+@media (min-width: 886px) {
+    .contentido {
+        display: none;
+    }
+    .mostrar-texto {
+        display: none;
+    }
+}
+
+@media (max-width: 886px) {
+    .icono {
+        display: none;
+    }
+    .mid-font {
+        display: none;
+    }
+    .mid-header {
+        margin: 0rem auto 0rem;
+        padding-top: 3.2rem;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .contenedor.low-header {
+        display: none;
+    }
+    .mid-image {
+        max-width: 100%;
+        margin-left: 23px;
+    }
+    .top-header p {
+        font-size: 12px;
+    }
+    .top-header {
+        padding-top: 0.8rem;
+        padding-bottom: 0.8rem;
+    }
+}
+
+.scrollup {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    bottom: 0px;
+    right: 20px;
+    background: #c787a2;
+    -webkit-border-radius: 2px 2px 0 0;
+    -moz-border-radius: 2px 2px 0 0;
+    border-radius: 2px 2px 0 0;
+}
+
+a.scrollup {
+    outline: 0;
+    text-align: center;
+    transition: all 0.3s ease-out 0s;
+}
+
+a.scrollup:hover,
+a.scrollup:active,
+a.scrollup:focus {
+    opacity: 1;
+    text-decoration: none;
+}
+
+a.scrollup i {
+    margin-top: 10px;
+    color: #fff;
+}
+
+a.scrollup i:hover {
+    text-decoration: none;
+}
+
+@media (max-width: 886px) {
+    .low-header {
+        display: none;
+    }
+}
+
+
+/*CONTACTO*/
+
+.contenedor-contacto {
+    width: 100%;
+    max-width: 2500px;
+    /** = 1200px; **/
+    margin: 0 auto;
+}
+
+.centrar-texto {
+    text-align: center;
+}
+
+.fondo-contacto {
+    background-color: #00235d !important;
+    color: white;
+    height: 190px;
+}
+
+.fondo-contacto h1 {
+    font-family: 'Lato', sans-serif;
+    padding-top: 3rem;
+    font-size: 55px;
+    font-weight: 300;
+    margin: 2rem;
+}
+
+.fondo-contacto h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.contenedor-info-contacto {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.tercer-p p {
+    font-family: 'Lato', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #777777;
+}
+
+.primer-p {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 38px;
+    text-align: center;
+    color: #00235d;
+}
+
+.segundo-p {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 24px;
+    color: #00235d;
+    justify-content: right;
+}
+
+.contacto-box {
+    display: flex;
+}
+
+.direccion-icono {
+    padding-top: 20px;
+    font-size: 28px;
+    color: #c0d41f;
+    margin-right: 1rem;
+}
+
+.formulario h3 {
+    font-family: 'Lato', sans-serif;
+    font-size: 38px;
+    color: #00235d;
+    line-height: 38px;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+}
+
+
+/*END-CONTACTO*/
+
+
+/*INICIO*/
+
+.contenedor-principal {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.titulos-principal h1 {
+    text-align: center;
+    font-size: 27px;
+    font-weight: 700;
+    color: #00235d;
+}
+
+.textos-principal p {
+    font-size: 18px;
+    font-weight: 300;
+    color: #777777;
+    text-align: justify;
+    word-spacing: 2px;
+    line-height: 25px;
+}
+
+
+/*END_INICIO*/
+
+
+/*VIDEO*/
+
+.reproductor>iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%
+}
+
+.contenedor-video {
+    display: block;
+    margin: 20px auto;
+}
+
+.reproductor {
+    width: 300px;
+    height: 300px;
+    border: 1px solid #000;
+    position: relative
+}
+
+img.imagen-previa {
+    bottom: 0;
+    display: block;
+    left: 0;
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+div.youtube-play {
+    height: 300px;
+    width: 300px;
+    left: 50%;
+    top: 50%;
+    margin-left: -36px;
+    margin-top: -36px;
+    opacity: 0.7;
+    position: absolute;
+    background: url("https://cdn2.iconfinder.com/data/icons/social-icons-color/512/youtube-64.png") no-repeat;
+}
+
+div.youtube-play:hover {
+    opacity: 1;
+}
+
+#youtube-iframe {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+/*END_VIDEO*/
