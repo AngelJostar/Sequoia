@@ -17,11 +17,6 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-p {
-    font-weight: 300;
-    font-size: 19px;
-}
-
 li {
     font-weight: 300 !important;
     font-size: 20px;
@@ -757,3 +752,21 @@ div.youtube-play:hover {
 
 
 /*END_VIDEO*/
+
+
+/*FOOTER*/
+
+.contenedor-footer {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+.texto-footer p {
+    font-size: 15px;
+    color: #a8b0b3;
+    font-weight: 500;
+    text-align: center;
+}
+
+
+/*END_FOOTER*/
