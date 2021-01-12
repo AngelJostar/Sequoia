@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>MÉDICOS ESPECIALISTAS EN CÁNCER</title>
+<title>Contact - Centro Sequoia</title>
 <link rel="stylesheet" rel="preload" href="css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="css/normalize.css" media="all">
 
@@ -112,10 +112,30 @@
             <div>
                 <img src="img/Mapas/MAPA-CDMX-1015x542.jpg" alt="Mapa-CDMX">
             </div>
+            
             <div class="formulario">
                 <h3>Formulario de contacto</h3>
             </div>
+            <div class="formulario">
+                <form action="enviar " method="post">
+                <h2 class="contacto-h2">Envíanos tus dudas y comentarios</h2>
+                <p>NOMBRE *</p>
+                <input type="text" name="nombre" placeholder="Nombre" required>
+                <p>CORREO *</p>
+                <input type="email" name="correo" placeholder="Correo" required>
+                <p>TELÉFONO</p>
+                <input type="tel" name="telefono" placeholder="Teléfono" required>
+                <p>ASUNTO</p>
+                <input type="text" name="asunto" placeholder="Asunto">
+                <p>MENSAJE</p>
+                <textarea name="mensaje" placeholder="Escriba aqui su mensaje" required></textarea>
+                <input type="submit" value="ENVIAR" id="boton">
+                </form>
+            </div>
         </section>
+
+
+
 
 
 
