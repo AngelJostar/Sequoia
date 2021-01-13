@@ -1249,3 +1249,16 @@ div.youtube-play:hover {
 
 
 /*END_CRECIMIENTO_INFANTIL-DEFICIENTE*/
+
+
+/*Especialistas-en-crecimiento*/
+
+.especialistas-en-crecimiento-negritas {
+    font-weight: 600;
+    font-size: 17px;
+    text-align: center;
+    color: #777777;
+}
+
+
+/*Fin de especialista-en-crecimiento*/
