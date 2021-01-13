@@ -74,8 +74,24 @@
                 <div class="justificar-texto-90">
                     <p>Hay señales a las que debe prestar atención que podrían indicar que su hijo no está creciendo como debería: </p>
                 </div>
-                <div>
-                    
+                <div class="grid-iconos">
+                    <div>
+                        <i class="fad fa-tshirt"></i>
+                        <p class="padding-2">Gasta la ropa antes que se le quede chiquita</p>
+                        <i class="fas fa-child"></i>
+                        <p>Lo confunden con alguien más joven</p>
+                    </div>
+                    <div>
+                        <i class="fas fa-tape"></i>
+                        <p>Mucho más bajo que los compañeros de clase u otros de su edad</p>
+                        <i class="far fa-thumbs-down"></i>
+                        <p>Otros niños se burlan de su estatura</p>
+                    </div>
+                    <div>
+                        <i class="fas fa-user-friends"></i>
+                        <p>Más bajo que tú/tus otros hijos a las misma edad</p>
+                    </div>
+
                 </div>
 
             </div>
@@ -93,7 +109,7 @@
 
 <a href="#" class="scrollup"><i class="fas fa-angle-double-up fa-2x"></i></a>
 <!--####FOOTER####-->
-<script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
+<script src="1351.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 <script src="js/jquery-3.5.1.min.js"></script>
