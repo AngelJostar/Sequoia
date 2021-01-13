@@ -62,17 +62,6 @@
                 <h1>Somos especialistas en crecimiento infantil</h1>
             </div>
             <div class="textos-principal">
-<<<<<<< HEAD
-                <p>Centro SEQUOIA es un Centro Pediátrico Exclusivo para el Crecimiento infantil formado por Médicos Pediatras Endocrinólogos , certificados por el Consejo Mexicano de Endocrinología A.C. Ellos diagnosticarán las causas por las que tu hijo
-                    no crece adecuadamente y lo ayudaran a alcanzar una mayor estatura.</p>
-            </div>
-            <div>
-
-                <div class="contenedor-video">
-                    <div class="reproductor" data-id="BXOOo5c3LGM"></div>
-                </div>
-
-=======
                 <p>Centro SEQUOIA es un Centro Pediátrico Exclusivo para el Crecimiento infantil formado por Médicos Pediatras Endocrinólogos, certificados por el Consejo Mexicano de Endocrinología A.C. Ellos diagnosticarán las causas por las que tu hijo
                     no crece adecuadamente y lo ayudaran a alcanzar una mayor estatura.</p>
             </div>
@@ -107,7 +96,6 @@
             <div class="textos-principal">
                 <p>Seguramente te has preguntado, ¿Si el crecimiento de tu niño es normal? ¿Por qué un hermano menor casi lo alcanza o es más alto? ¿Tu hijo está creciendo más lento de lo habitual? o ¿Por qué está en los primeros lugares de las formaciones
                     escolares?, mientras que sus compañeros cada vez tienen mayor altura. </p>
->>>>>>> 0e272863913d2dadf637bb79d0b6e53284e322de
             </div>
             <div class="contenedor-calculadora">
                 <a href="#"><img src="img/index/calculadora-de-estatura.webp" alt="calculadora-de-estatura"></a>
