@@ -91,8 +91,40 @@
                         <i class="fas fa-user-friends"></i>
                         <p>Más bajo que tú/tus otros hijos a las misma edad</p>
                     </div>
-
                 </div>
+                <div class="encabezado-crecimiento-deficiente">
+                    <h2>¿Qué significa un crecimiento deficiente en mi hijo?</h2>
+                </div>
+                <div class="justificar-texto-90">
+                    <p>En algunos niños y niñas, el crecimiento deficiente puede no ser una causa de preocupación, pero, en otros, puede estar asociado con serios problemas de salud, el niño puede presentar afectaciones en: </p>
+                </div>
+                <div class="grid-iconos">
+                    <div>
+                        <i class="fas fa-heartbeat"></i>
+                        <p class="padding-1">Función cardiaca</p>
+                        <i class="fal fa-glasses"></i>
+                        <p class="padding-1">Visión</p>
+                        <i class="fas fa-lungs"></i>
+                        <p >Salud respiratoria</p>
+                    </div>
+                    <div>
+                        <i class="fad fa-book-open"></i>
+                        <p>Desarrollo psicomotor</p>
+                        <i class="far fa-ear"></i>
+                        <p class="padding-1">Audición</p>
+                        <i class="fad fa-skeleton"></i>
+                        <p>Salud osea</p>
+                    </div>
+                    <div>
+                        <i class="fad fa-kidneys"></i>
+                        <p class="padding-1">Desarrollo renal</p>
+                        <i class="far fa-shield-virus"></i>
+                        <p>Sistema inmunológico</p>
+                        <i class="fas fa-child"></i>
+                        <p>Composición corporal</p>
+                    </div>
+                </div>
+
 
             </div>
 
