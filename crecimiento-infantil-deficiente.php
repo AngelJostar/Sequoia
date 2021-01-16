@@ -76,19 +76,19 @@
                 </div>
                 <div class="grid-iconos">
                     <div>
-                        <i class="fad fa-tshirt"></i>
+                        <img src="img/iconos/Shirt.png" alt="playera">
                         <p class="padding-2">Gasta la ropa antes que se le quede chiquita</p>
-                        <i class="fas fa-child"></i>
+                        <img src="/img/iconos/child.png" alt="niño">
                         <p>Lo confunden con alguien más joven</p>
                     </div>
                     <div>
-                        <i class="fas fa-tape"></i>
+                        <img src="/img/iconos/caliper.png" alt="cinta">
                         <p>Mucho más bajo que los compañeros de clase u otros de su edad</p>
-                        <i class="far fa-thumbs-down"></i>
+                        <img src="/img/iconos/dislike.png" alt="dislike">
                         <p>Otros niños se burlan de su estatura</p>
                     </div>
                     <div>
-                        <i class="fas fa-user-friends"></i>
+                        <img src="/img/iconos/family.png" alt="familia">
                         <p>Más bajo que tú/tus otros hijos a las misma edad</p>
                     </div>
                 </div>
@@ -100,27 +100,27 @@
                 </div>
                 <div class="grid-iconos">
                     <div>
-                        <i class="fas fa-heartbeat"></i>
+                        <img src="/img/iconos/heart.png" alt="corazon">
                         <p class="padding-1">Función cardiaca</p>
-                        <i class="fal fa-glasses"></i>
+                        <img src="/img/iconos/lentes.png" alt="lentes">
                         <p class="padding-1">Visión</p>
-                        <i class="fas fa-lungs"></i>
-                        <p >Salud respiratoria</p>
+                        <img src="/img/iconos/pulmones.png" alt="pulmones">
+                        <p>Salud respiratoria</p>
                     </div>
                     <div>
-                        <i class="fad fa-book-open"></i>
+                        <img src="/img/iconos/book.png" alt="libro">
                         <p>Desarrollo psicomotor</p>
-                        <i class="far fa-ear"></i>
+                        <img src="/img/iconos/oreja.png" alt="oreja">
                         <p class="padding-1">Audición</p>
-                        <i class="fad fa-skeleton"></i>
+                        <img src="/img/iconos/hueso.png" alt="hueso">
                         <p>Salud osea</p>
                     </div>
                     <div>
-                        <i class="fad fa-kidneys"></i>
+                        <img src="/img/iconos/rinon.png" alt="familia">
                         <p class="padding-1">Desarrollo renal</p>
-                        <i class="far fa-shield-virus"></i>
+                        <img src="/img/iconos/inmonologico.png" alt="familia">
                         <p>Sistema inmunológico</p>
-                        <i class="fas fa-child"></i>
+                        <img src="/img/iconos/composicion-coorporal.png" alt="familia">
                         <p>Composición corporal</p>
                     </div>
                 </div>
@@ -141,7 +141,7 @@
 
 <a href="#" class="scrollup"><i class="fas fa-angle-double-up fa-2x"></i></a>
 <!--####FOOTER####-->
-<script src="1351.js" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 <script src="js/jquery-3.5.1.min.js"></script>

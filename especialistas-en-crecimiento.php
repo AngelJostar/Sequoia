@@ -11,6 +11,7 @@
 <link rel="stylesheet" rel="preload" href="css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="css/normalize.css" media="all">
 
+
 </head>
 
 <?php include_once 'includes/tags/google_tag_manager_body.php';?>
@@ -110,22 +111,21 @@
                 </div>
                 <div class="grid-iconos">
                     <div>
-                        <i class="fad fa-tshirt"></i>
+                        <img src="img/iconos/Shirt.png" alt="playera">
                         <p class="padding-2">Gasta la ropa antes que se le quede chiquita</p>
-                        <i class="fas fa-child"></i>
+                        <img src="/img/iconos/child.png" alt="niño">
                         <p>Lo confunden con alguien más joven</p>
                     </div>
                     <div>
-                        <i class="fas fa-tape"></i>
+                        <img src="/img/iconos/caliper.png" alt="cinta">
                         <p>Mucho más bajo que los compañeros de clase u otros de su edad</p>
-                        <i class="far fa-thumbs-down"></i>
+                        <img src="/img/iconos/dislike.png" alt="dislike">
                         <p>Otros niños se burlan de su estatura</p>
                     </div>
                     <div>
-                        <i class="fas fa-user-friends"></i>
+                        <img src="/img/iconos/family.png" alt="familia">
                         <p>Más bajo que tú/tus otros hijos a las misma edad</p>
                     </div>
-
                 </div>
 
                 <div class="encabezado-crecimiento-deficiente">
@@ -174,7 +174,7 @@
 
 <a href="#" class="scrollup"><i class="fas fa-angle-double-up fa-2x"></i></a>
 <!--####FOOTER####-->
-<script src="1351.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 <script src="js/jquery-3.5.1.min.js"></script>

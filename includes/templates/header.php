@@ -66,11 +66,11 @@
         <div class="low-header">
             <ul>
                 <li><a href="index">Inicio</a></li>
-                <li><a href="como-tratamos-el-cancer ">Crecimiento infantil</a></li>
-                <li><a href="ser-paciente ">Especialistas en crecimiento infantil</a></li>
-                <li><a href="aspectos-basicos-cancer ">Reconoce el crecimiento deficiente</a></li>
-                <li><a href="tipos-de-cancer ">Preguntas frecuentes</a></li>
-                <li><a href="contacto ">Contacto</a></li>
+                <li><a href="crecimiento-infantil" class="menu-a">Crecimiento Infantil</a></li>
+                <li><a href="especialistas-en-crecimiento-infantil" class="menu-a">Especialistas en crecimiento infantil</a></li>
+                <li><a href="crecimiento-infantil-deficiente" class="menu-a">Crecimiento infantil deficiente</a></li>
+                <li><a href="preguntas-frecuentes" class="menu-a">Preguntas Frecuentes</a></li>
+                <li><a href="contacto">Contacto</a></li>
             </ul>
         </div>
     </div>
