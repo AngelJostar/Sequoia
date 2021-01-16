@@ -68,17 +68,7 @@
                 <h2>CRECIMIENTO INFANTIL GENERALIDADES</h2>
                 <p>Te presentamos toda la información necesaria para entender a fondo el crecimiento de tu hijo o hija</p>
                 <div class="aprende-mas">
-                    <p>APRENDE MÁS</p>
-                </div>
-            </div>
-
-            <div class="curvi-cuadros-crecimiento ">
-                <h2>CRECIMIENTO INFANTIL GENERALIDADES</h2>
-                <p>Te presentamos toda la información necesaria para entender a fondo el crecimiento de tu hijo o hija</p>
-                <div class="aprende-mas">
-                    <a href="">
-                        <p>APRENDE MÁS</p>
-                    </a>
+                    <a href="generalidades-del-crecimiento-infantil"><p>APRENDE MÁS</p></a>
                 </div>
             </div>
 
@@ -87,7 +77,7 @@
                 <p>El crecimiento de niños y niñas puede variar según su edad. Las tasas de crecimiento dependen de la edad de los niños y niñas.</p>
                 <div class="aprende-mas">
                     <a href="">
-                        <p>APRENDE MÁS</p>
+                        <a href="crecimiento-por-edad"><p>APRENDE MÁS</p></a>
                     </a>
                 </div>
             </div>
@@ -97,7 +87,7 @@
                 <p>Los diferentes trastornos del crecimiento pueden afectar la salud de un niño de muchas formas diferentes y pueden ser causados por una variedad de factores.</p>
                 <div class="aprende-mas">
                     <a href="">
-                        <p>APRENDE MÁS</p>
+                        <a href="causas-de-la-baja-estatura"><p>APRENDE MÁS</p></a>
                     </a>
                 </div>
             </div>
@@ -119,7 +109,7 @@
                 <p>Además de tener más confianza y habilidades sociales debidas a su complexión física, las personas altas también pueden presumir de mayor sueldo, más likes en redes sociales y también de una productividad laboral más amplia.</p>
                 <div class="aprende-mas">
                     <a href="">
-                        <p>APRENDE MÁS</p>
+                        <a href="#"><p>APRENDE MÁS</p></a>
                     </a>
                 </div>
             </div>

@@ -34,7 +34,7 @@
                         <div class="linea-menu"></div>
                         <li><a href="crecimiento-infantil" class="menu-a">Crecimiento Infantil</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="especialistas-en-crecimiento-infantil" class="menu-a">Especialistas en crecimiento infantil</a></li>
+                        <li><a href="generalidades-del-crecimiento-infantil" class="menu-a">Especialistas en crecimiento infantil</a></li>
                         <div class="linea-menu"></div>
                         <li><a href="crecimiento-infantil-deficiente" class="menu-a">Crecimiento infantil deficiente</a></li>
                         <div class="linea-menu"></div>
@@ -67,7 +67,7 @@
             <ul>
                 <li><a href="index">Inicio</a></li>
                 <li><a href="crecimiento-infantil" class="menu-a">Crecimiento Infantil</a></li>
-                <li><a href="especialistas-en-crecimiento-infantil" class="menu-a">Especialistas en crecimiento infantil</a></li>
+                <li><a href="generalidades-del-crecimiento-infantil" class="menu-a">Especialistas en crecimiento infantil</a></li>
                 <li><a href="crecimiento-infantil-deficiente" class="menu-a">Crecimiento infantil deficiente</a></li>
                 <li><a href="preguntas-frecuentes" class="menu-a">Preguntas Frecuentes</a></li>
                 <li><a href="contacto">Contacto</a></li>
