@@ -7,11 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<<<<<<< HEAD
-<title>MÉDICOS ESPECIALISTAS EN CÁNCER</title>
-=======
 <title>Home - Centro Sequoia</title>
->>>>>>> 0e272863913d2dadf637bb79d0b6e53284e322de
 <link rel="stylesheet" rel="preload" href="css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="css/normalize.css" media="all">
 
@@ -58,7 +54,6 @@
 
 
         <section class="contenedor-principal">
-            <i class="fas fa-abacus"></i>
             <div class="titulos-principal">
                 <h1>Somos especialistas en crecimiento infantil</h1>
             </div>

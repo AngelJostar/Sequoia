@@ -30,17 +30,15 @@
                     </div>
                     <a href="#" class="toggle-nav icono-menu"><i class="far fa-window-close"></i></a>
                     <ul class="resaltar">
-                        <li><a href="index " class="menu-a">Inicio</a></li>
+                        <li><a href="index" class="menu-a">Inicio</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="como-tratamos-el-cancer " class="menu-a">¿Cómo tratamos el Cáncer?</a></li>
+                        <li><a href="crecimiento-infantil" class="menu-a">Crecimiento Infantil</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="ser-paciente " class="menu-a">Ser paciente en Brexia</a></li>
+                        <li><a href="especialistas-en-crecimiento-infantil" class="menu-a">Especialistas en crecimiento infantil</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="aspectos-basicos-cancer " class="menu-a">Aspectos básicos del Cáncer</a></li>
+                        <li><a href="crecimiento-infantil-deficiente" class="menu-a">Crecimiento infantil deficiente</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="tipos-de-cancer " class="menu-a">Tipos de Cáncer</a></li>
-                        <div class="linea-menu"></div>
-                        <li><a href="segundo-opinion " class="menu-a">Segunda Opinión</a></li>
+                        <li><a href="preguntas-frecuentes" class="menu-a">Preguntas Frecuentes</a></li>
                         <div class="linea-menu"></div>
                         <li><a href="contacto " class="menu-a">Contacto</a></li>
                         <div class="linea-menu"></div>

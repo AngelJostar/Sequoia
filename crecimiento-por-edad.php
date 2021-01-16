@@ -54,75 +54,63 @@
 
         <div class="contendor-crecimiento">
             <div class="cuadros-crecimiento">
-                <h1>Todo lo que debes saber sobre crecimiento infantil</h1>
-                <p>En Centro Sequoia queremos que tomes decisiones informadas, por eso te presentamos a continuación toda la información que necesitas para entender el crecimiento de tu hijo o hija.</p>
+                <h1>Importancia de ser más alto</h1>
+                <p>¿Una mayor altura aporta ventajas a una persona en su vida? Si es así, ¿cuáles son exactamente esas ventajas? ¿Qué tan grandes son esas ventajas? ¿En qué aspectos de la vida? ¿Por qué la altura aporta ventajas a una persona?</p>
             </div>
             <div class="contenedor-video">
                 <div class="reproductor" data-id="BXOOo5c3LGM"></div>
             </div>
+            <div class="encabezado-crecimiento-deficiente">
+                <h2>La importancia de ser MÁS ALTO</h2>
+            </div>
             <div class="justificar-texto-90">
-                <p>A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu niño o niña:
-                </p>
+                <p>Las investigaciones científicas sugieren que los hombres y mujeres altos tienen una ventaja significativa sobre otros más chaparros.</p>
+            </div>
+            <div class="encabezado-crecimiento-deficiente">
+                <h2>¡Ser alto es uno de los factores que hacen que las personas tengan éxito y sean felices!</h2>
+            </div>
+            <div class="justificar-texto-90">
+                <p>Ser chaparrito afecta desde la vida empresarial hasta las relaciones en pareja.</p>
+            </div>
+            <div class="justificar-texto-90">
+                <p>Las ventajas de ser más alto, que conduce a una imagen más exitosa y efectiva son:</p>
             </div>
             <div class="curvi-cuadros-crecimiento ">
-                <h2>CRECIMIENTO INFANTIL GENERALIDADES</h2>
-                <p>Te presentamos toda la información necesaria para entender a fondo el crecimiento de tu hijo o hija</p>
+                <h2>Ser más alto mejora la relación entre hombres y mujeres (conseguir pareja)</h2>
+                <p>Las personas altas suelen ser más atractivos para hombres y mujeres. Esto causa un problema de autoestima en las personas de baja estatura y conduce a relaciones poco saludables.</p>
                 <div class="aprende-mas">
                     <p>APRENDE MÁS</p>
                 </div>
             </div>
-
             <div class="curvi-cuadros-crecimiento ">
-                <h2>CRECIMIENTO INFANTIL GENERALIDADES</h2>
-                <p>Te presentamos toda la información necesaria para entender a fondo el crecimiento de tu hijo o hija</p>
+                <h2>Ser más alto mejora la vida empresarial</h2>
+                <p>En nuestra sociedad se considera que los hombres y mujeres más altos son más dominantes e inteligentes. Se estima que si una persona ganara cinco centímetros adicionales de altura, podría ganar porcentajes adicionales de ingreso económico por año.</p>
                 <div class="aprende-mas">
-                    <a href="">
-                        <p>APRENDE MÁS</p>
-                    </a>
+                    <p>APRENDE MÁS</p>
                 </div>
             </div>
-
             <div class="curvi-cuadros-crecimiento ">
-                <h2>CRECIMIENTO INFANTIL POR EDAD DE NIÑOS Y ADOLECENTES</h2>
-                <p>El crecimiento de niños y niñas puede variar según su edad. Las tasas de crecimiento dependen de la edad de los niños y niñas.</p>
+                <h2>Ser más alto mejora el rendimiento en los deportes</h2>
+                <p>Es una gran ventaja tener piernas y brazos mas largos para casi todas las ramas deportivas. Esto es natural especialmente para deportes relacionados con la altura como el futbol, basquetbol, béisbol, tenis, taekwondo, etc.</p>
                 <div class="aprende-mas">
-                    <a href="">
-                        <p>APRENDE MÁS</p>
-                    </a>
+                    <p>APRENDE MÁS</p>
                 </div>
             </div>
-
             <div class="curvi-cuadros-crecimiento ">
-                <h2>CAUSAS DE LA BAJA ESTATURA</h2>
-                <p>Los diferentes trastornos del crecimiento pueden afectar la salud de un niño de muchas formas diferentes y pueden ser causados por una variedad de factores.</p>
+                <h2>Ser más alto mejora la imagen y autoestima de tu hijo</h2>
+                <p>Las personas altas son más estéticas. Esto los hace lucir mejor con la ropa que usan, lo que les da una ventaja en apariencia. Socialmente las personas altas tienen más probabilidades de adaptarse y obtener una aprobación social, lo que les ayuda a ser más felices en su vida diaria.</p>
                 <div class="aprende-mas">
-                    <a href="">
-                        <p>APRENDE MÁS</p>
-                    </a>
+                    <p>APRENDE MÁS</p>
                 </div>
             </div>
-
-            <div class="curvi-cuadros-crecimiento ">
-                <h2>¿CÓMO SABER SI TU HIJO O HIJA ESTA CRECIENDO BIEN?</h2>
-                <p>Aprende a reconocer el crecimiento deficiente en tu hijo o hija. Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado.
-                </p>
-                <div class="aprende-mas">
-                    <a href="">
-                        <p>APRENDE MÁS</p>
-                    </a>
-                </div>
+            <div class="justificar-texto-90">
+                <p>Por supuesto que hay excepciones, gente baja que tiene un éxito tremendo. Pero, para muchos la altura es otra ventaja extra para sobresalir en la vida.</p>
+            </div>
+            <div class="encabezado-crecimiento-deficiente">
+                <h2>En Centro Sequoia <br> ¡Tu hija o hijo puede ser más alto!</h2>
             </div>
 
-            <div class="curvi-cuadros-crecimiento ">
-                <h2>IMPORTANCIA DE SER MAS ALTO
-                </h2>
-                <p>Además de tener más confianza y habilidades sociales debidas a su complexión física, las personas altas también pueden presumir de mayor sueldo, más likes en redes sociales y también de una productividad laboral más amplia.</p>
-                <div class="aprende-mas">
-                    <a href="">
-                        <p>APRENDE MÁS</p>
-                    </a>
-                </div>
-            </div>
+
         </div>
 
 
