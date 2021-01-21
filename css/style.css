@@ -1331,3 +1331,25 @@ div.youtube-play:hover {
 
 
 /*Crecimiento infantil- generlidades*/
+
+
+/*Deporte y estatura - importancia de ser mas alto*/
+
+.justificar-texto-91 {
+    font-size: 16px;
+    color: #777777;
+    text-align: justify;
+    margin: 0 auto;
+}
+
+
+/*trabajo - importancia de ser mas alto*/
+
+.justificar-texto-verde h2 {
+    max-width: 80%;
+    font-weight: 600;
+    font-size: 18px;
+    color: rgb(192, 212, 31);
+    text-align: center;
+    margin: 0 auto;
+}
