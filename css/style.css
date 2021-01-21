@@ -1213,7 +1213,8 @@ div.youtube-play:hover {
     margin: 0 auto;
 }
 
-.encabezado-crecimiento-deficiente h2 {
+.encabezado-crecimiento-deficiente h2,
+h1 {
     font-weight: 600;
     font-size: 18px;
     color: rgb(192, 212, 31);
