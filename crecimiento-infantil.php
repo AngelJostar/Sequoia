@@ -57,12 +57,15 @@
                 <h1>Todo lo que debes saber sobre crecimiento infantil</h1>
                 <p>En Centro Sequoia queremos que tomes decisiones informadas, por eso te presentamos a continuación toda la información que necesitas para entender el crecimiento de tu hijo o hija.</p>
             </div>
-            <div class="contenedor-video">
-                <div class="reproductor" data-id="BXOOo5c3LGM"></div>
+            <div>
+                video
             </div>
             <div class="justificar-texto-90">
                 <p>A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu niño o niña:
                 </p>
+            </div>
+            <div>
+                <img src="img/banners/altura-crecimiento-estatura-hijo-hija-1.webp" alt="">
             </div>
             <div class="curvi-cuadros-crecimiento ">
                 <h2>CRECIMIENTO INFANTIL GENERALIDADES</h2>
@@ -112,6 +115,9 @@
                         <a href="#"><p>APRENDE MÁS</p></a>
                     </a>
                 </div>
+            </div>
+            <div>
+                <img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="especialistas crecimiento">
             </div>
         </div>
 

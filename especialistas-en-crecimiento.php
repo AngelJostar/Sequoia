@@ -67,6 +67,9 @@
                     se enfocan en tratar únicamente la estatura de
                     los niños y niñas.</p>
             </div>
+            <div>
+                video
+            </div>
             <div class="contenedor-infantil-deficiente">
                 <div class="justificar-texto-90">
                     <p>Si su hijo o hija tiene problemas de crecimiento,
@@ -74,9 +77,6 @@
                         las hormonas y las glándulas que las producen,
                         un endocrinólogo es el especialista adecuado.
                     </p>
-                </div>
-                <div class="contenedor-video">
-                    <div class="reproductor" data-id="BXOOo5c3LGM"></div>
                 </div>
                 <div class="encabezado-crecimiento-deficiente">
                     <h2>El Pediatra Endocrinólogo es el
@@ -91,6 +91,9 @@
                         ciencia que estudia estas glándulas y los efectos de
                         las hormonas en los niños.
                         </p>
+                </div>
+                <div>
+                    <img src="img/banners/estatura-crecer-crecimiento-infantil-1.webp" alt="estatura crecer crecimiento">
                 </div>
                 <div class="encabezado-crecimiento-deficiente">
                     <h2>¿Cuándo acudir con un especialista en
@@ -111,23 +114,12 @@
                 </div>
                 <div class="grid-iconos">
                     <div>
-                        <img src="img/iconos/Shirt.png" alt="playera">
-                        <p class="padding-2">Gasta la ropa antes que se le quede chiquita</p>
-                        <img src="/img/iconos/child.png" alt="niño">
-                        <p>Lo confunden con alguien más joven</p>
-                    </div>
-                    <div>
-                        <img src="/img/iconos/caliper.png" alt="cinta">
-                        <p>Mucho más bajo que los compañeros de clase u otros de su edad</p>
-                        <img src="/img/iconos/dislike.png" alt="dislike">
-                        <p>Otros niños se burlan de su estatura</p>
-                    </div>
-                    <div>
-                        <img src="/img/iconos/family.png" alt="familia">
-                        <p>Más bajo que tú/tus otros hijos a las misma edad</p>
+                        <img src="img/banners/sintomas-crecimiento-deficiente-hijo-hija.webp" alt="sintomas crecimiento deficiente">
                     </div>
                 </div>
-
+                <div>
+                    <img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-1.webp" alt="contacto crecimiento infantil">
+                </div>
                 <div class="encabezado-crecimiento-deficiente">
                     <h2>¿Por qué acudir a Centro Sequoia?</h2>
                 </div>
@@ -158,7 +150,9 @@
                     estatura.
                     </p>
                 </div>
-
+                <div>
+                    <img src="img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil">
+                </div>
             </div>
 
 

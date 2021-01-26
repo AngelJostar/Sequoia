@@ -65,8 +65,8 @@
                     <p>Cualquiera que sea la edad de su hijo, es importante saber si está creciendo como debería. Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado.
                     </p>
                 </div>
-                <div class="contenedor-video">
-                    <div class="reproductor" data-id="BXOOo5c3LGM"></div>
+                <div>
+                    Video
                 </div>
                 <div class="encabezado-crecimiento-deficiente">
                     <h2>¿Cómo reconocer un crecimiento deficiente en tu hijo?</h2>
@@ -75,22 +75,10 @@
                     <p>Hay señales a las que debe prestar atención que podrían indicar que su hijo no está creciendo como debería: </p>
                 </div>
                 <div class="grid-iconos">
-                    <div>
-                        <img src="img/iconos/Shirt.png" alt="playera">
-                        <p class="padding-2">Gasta la ropa antes que se le quede chiquita</p>
-                        <img src="/img/iconos/child.png" alt="niño">
-                        <p>Lo confunden con alguien más joven</p>
-                    </div>
-                    <div>
-                        <img src="/img/iconos/caliper.png" alt="cinta">
-                        <p>Mucho más bajo que los compañeros de clase u otros de su edad</p>
-                        <img src="/img/iconos/dislike.png" alt="dislike">
-                        <p>Otros niños se burlan de su estatura</p>
-                    </div>
-                    <div>
-                        <img src="/img/iconos/family.png" alt="familia">
-                        <p>Más bajo que tú/tus otros hijos a las misma edad</p>
-                    </div>
+                    iconos
+                </div>
+                <div>
+                    <img src="img/banners/contacto-crecimiento-infantil-estatura-medir-hija-1.webp" alt="">
                 </div>
                 <div class="encabezado-crecimiento-deficiente">
                     <h2>¿Qué significa un crecimiento deficiente en mi hijo?</h2>
@@ -99,32 +87,14 @@
                     <p>En algunos niños y niñas, el crecimiento deficiente puede no ser una causa de preocupación, pero, en otros, puede estar asociado con serios problemas de salud, el niño puede presentar afectaciones en: </p>
                 </div>
                 <div class="grid-iconos">
-                    <div>
-                        <img src="/img/iconos/heart.png" alt="corazon">
-                        <p class="padding-1">Función cardiaca</p>
-                        <img src="/img/iconos/lentes.png" alt="lentes">
-                        <p class="padding-1">Visión</p>
-                        <img src="/img/iconos/pulmones.png" alt="pulmones">
-                        <p>Salud respiratoria</p>
-                    </div>
-                    <div>
-                        <img src="/img/iconos/book.png" alt="libro">
-                        <p>Desarrollo psicomotor</p>
-                        <img src="/img/iconos/oreja.png" alt="oreja">
-                        <p class="padding-1">Audición</p>
-                        <img src="/img/iconos/hueso.png" alt="hueso">
-                        <p>Salud osea</p>
-                    </div>
-                    <div>
-                        <img src="/img/iconos/rinon.png" alt="familia">
-                        <p class="padding-1">Desarrollo renal</p>
-                        <img src="/img/iconos/inmonologico.png" alt="familia">
-                        <p>Sistema inmunológico</p>
-                        <img src="/img/iconos/composicion-coorporal.png" alt="familia">
-                        <p>Composición corporal</p>
-                    </div>
+                    iconos
                 </div>
-
+                <div>
+                    <img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="especialista crecimiento infantil">
+                </div>
+                <div>
+                    <img src="img/banners/causas-crecimiento-hijo-hija-2.webp" alt="causas crecimiento hijo">
+                </div>
 
             </div>
 

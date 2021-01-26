@@ -58,13 +58,12 @@
             <h1>Todo lo que debes saber sobre crecimiento infantil</h1>
             <p>En Centro Sequoia queremos que tomes decisiones informadas, por eso te presentamos a continuación toda la información que necesitas para entender el crecimiento de tu hijo o hija.</p>
         </div>
-        <div class="contenedor-video">
-            <div class="reproductor" data-id="BXOOo5c3LGM"></div>
+        <div>
+            video
         </div>
-        <div class="contenedor-video">
-            <div class="reproductor" data-id="BXOOo5c3LGM"></div>
+        <div>
+            video
         </div>
-
         <div class="body-container">
             <div class="container">
                 <h2 >Preguntas frecuentes</h2>
@@ -106,6 +105,9 @@
                                 tendrá mejores beneficios.</p>
                         </div>
                     </div>
+                    <div>
+                        <img src="img/banners/altura-crecimiento-estatura-hijo-hija-1.webp" alt="altura crecimiento estatura">
+                    </div>
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">6.-¿Hasta qué edad se puede recibir tratamiento?</span><span class="icon" aria-hidden="true"></span></button>
                         <div class="accordion-content">
@@ -121,7 +123,7 @@
                         </div>
                     </div>
                     <div class="accordion-item">
-                        <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">8.-¿Qué puede favorecer el crecimiento <br> de mi hijo?</span><span class="icon" aria-hidden="true"></span></button>
+                        <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">8.-¿Qué puede favorecer el <br> crecimiento de mi hijo?</span><span class="icon" aria-hidden="true"></span></button>
                         <div class="accordion-content">
                             <ul>
                                 <li>Una alimentación balanceada rica en proteínas</li>
@@ -145,10 +147,13 @@
                         </div>
                     </div>
                     <div class="accordion-item">
-                        <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">10.-¿Cuáles son las ventajas de ser más alto?</span><span class="icon" aria-hidden="true"></span></button>
+                        <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">10.-¿Cuáles son las ventajas de ser <br> más alto?</span><span class="icon" aria-hidden="true"></span></button>
                         <div class="accordion-content">
                             <p>Estadísticamente las personas que miden más tienen mayor probabilidad de tener éxito social y laboral dado que sencillamente se les percibe como más inteligentes y poderosos.</p>
                         </div>
+                    </div>
+                    <div>
+                        <img src="img/banners/medir-edad-hijo-hija-crecimiento-infantil-1.webp" alt="medir edad hijo hija">
                     </div>
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">11.-¿Cómo afecta la estatura en la autoestima de un niño?</span><span class="icon" aria-hidden="true"></span></button>
@@ -166,8 +171,15 @@
                                 es la pubertad.</p>
                         </div>
                     </div>
+                    <div>
+                        <img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="">
+                    </div>
                 </div>
             </div>
+
+        </div>
+        <div>
+            <img src="img/banners/contacto-crecimiento-infantil-estatura-medir-hija-2.webp" alt="">
         </div>
 
         <?php include_once 'includes/templates/footer.php';?>
