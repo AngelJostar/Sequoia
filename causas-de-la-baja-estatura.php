@@ -64,10 +64,10 @@
                     alcanzar una mayor estatura para sobresalir
                     física y socialmente.</p>
             </div>
+            <div>
+                video
+            </div>
             <div class="contenedor-generalidades">
-                <div class="contenedor-video">
-                    <div class="reproductor" data-id="BXOOo5c3LGM"></div>
-                </div>
                 <div class="contenedor-generalidades">
                     <div class="generalidades-negritas">
                         <p>Entre las causas de una baja estatura que NO SE ASOCIAN a enfermedades reconocidas, se
@@ -99,6 +99,9 @@
                             <li>Medicamentos.</li>
                         </ul>
                     </div>
+                </div>
+                <div>
+                    <img src="img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="">
                 </div>
                 <p>X Banner Chico Importancia de ser mas alto</p>
                 <div class="encabezado-crecimiento-deficiente">
@@ -138,6 +141,9 @@
                     <a href="../contacto "><button class="boton-e boton-esp">Síndromes que afectan el
                     crecimiento</button></a>
                 </div>
+                <div>
+                    <img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="especialistas-crecimiento-estatura-doctor">
+                </div>
                 <div class="justificar-texto-90">
                     <p>Te invitamos a que agendes una cita para que uno
                         de nuestros médicos endocrinólogos pediatras
@@ -146,14 +152,9 @@
                         tratamiento adecuado en caso de requerirlo.
                     </p>
                 </div>     
-                <p>Banner
-                    Una consulta con un
-                    especialista no es motivo para
-                    alarma, pero ya que tu niño tiene
-                    un tiempo limitado para crecer,
-                    debes darle seguimiento lo
-                    antes posible
-                    CONTACTANOS</p>
+                <div>
+                    <img src="img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto-crecimiento-infantil">
+                </div>
             
 
             </div>

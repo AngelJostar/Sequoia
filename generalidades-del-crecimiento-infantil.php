@@ -66,6 +66,9 @@
                     ocurre habitualmente, hacia el final de la
                     segunda década de la vida</p>
             </div>
+            <div>
+                video
+            </div>
             <div class="contenedor-generalidades">
                 <div class="contenedor-video">
                     <div class="reproductor" data-id="BXOOo5c3LGM"></div>
@@ -111,7 +114,9 @@
                 <div class="centrar-texto texto-boton-esp pb-2">
                     <a href="../contacto "><button class="boton-e boton-esp">Estirón Puberal</button></a>
                 </div>
-                <p>Video</p>
+                <div>
+                    <img src="img/banners/medir-edad-hijo-hija-crecimiento-infantil-2.webp" alt="medir edad hijo">
+                </div>
                 <div class="encabezado-crecimiento-deficiente">
                     <h2>Crecimiento Infantil</h2>
                 </div>
@@ -133,7 +138,9 @@
 
                     </p>
                 </div>
-
+                <div>
+                    <img src="img/banners/altura-crecimiento-estatura-hijo-hija-1.webp" alt="altura crecimiento estatura">
+                </div>
                 <div class="contenedor-generalidades">
                     <div class="generalidades-negritas">
                         <p>Factores endógenos(propios del niño):
@@ -202,7 +209,9 @@
                         </ul>
                     </div>
                 </div>
-                <p>Banner grande vertical A contacto</p>
+                <div>
+                    <img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto-crecimiento-infantil">
+                </div>
             
 
             </div>

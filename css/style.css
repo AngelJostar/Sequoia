@@ -1076,6 +1076,14 @@ textarea {
 }
 
 .justificar-texto-90 h3 {
+    max-width: 90%;
+    font-size: 18px;
+    color: #000000;
+    text-align: justify;
+    margin: 0 auto;
+}
+
+.justificar-texto-90 h3 {
     max-width: 100%;
     font-size: 18px;
     font-weight: bold;
@@ -1144,6 +1152,15 @@ h1 {
     font-size: 16px;
     color: #777777;
     text-align: justify;
+    margin: 0 auto;
+}
+
+.encabezado-crecimiento-deficiente h4 {
+    max-width: 90%;
+    font-weight: 600;
+    font-size: 18px;
+    color: #777777;
+    text-align: center;
     margin: 0 auto;
 }
 

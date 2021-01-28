@@ -54,9 +54,14 @@
 
 
         <section class="contenedor-contacto">
-            <div class="fondo-contacto">
-                <h1 class="centrar-texto">Contacto</h1>
-                <h2 class="centrar-texto">SEQUOIA</h2>
+        <div class="cuadros-crecimiento">
+                <h1>Contacto
+                </h1>
+                <p>En Centro Sequoia somos endocrinólogos pediatras
+                    especialistas en crecimiento infantil.
+                    Diagnosticaremos las causas por las que tu hijo no
+                    crece correctamente y lograremos que alcance una
+                    mayor estatura.</p>
             </div>
         </section>
         <section class="contenedor-info-contacto">
@@ -131,6 +136,9 @@
                 <textarea name="mensaje" placeholder="Escriba aqui su mensaje" required></textarea>
                 <input type="submit" value="ENVIAR" id="boton">
                 </form>
+            </div>
+            <div>
+                <img src="img/banners/estatura-crecer-crecimiento-infantil-2.webp" alt="estatura crecer crecimiento">
             </div>
         </section>
 

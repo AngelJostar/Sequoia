@@ -61,7 +61,10 @@
                 <div class="reproductor" data-id="BXOOo5c3LGM"></div>
             </div>
             <div class="encabezado-crecimiento-deficiente">
-                <h2>“Las tasas de crecimiento dependen de la edad de los niños”</h2>
+                <h1>“Las tasas de crecimiento dependen de la edad de los niños”</h1>
+            </div>
+            <div>
+                video
             </div>
             <div class="justificar-texto-90">
                 <p>Existe una guía conocida como la "regla de los cinco" que describe la tasa de crecimiento típica de un niño. Esta sugiere:</p>
@@ -78,6 +81,9 @@
             <div class="justificar-texto-90">
                 <p>Se estima que alrededor del 80% del crecimiento de un niño ocurrirá antes de la pubertad y durante la pubertad hay un período rápido de crecimiento, llamado estirón puberal, que es cuando finalmente se debe alcanzar la estatura adulta.
                     Para las niñas, la pubertad generalmente comienza alrededor de los 11 años, y para los niños, la pubertad comienza alrededor de los 13 años.</p>
+            </div>
+            <div>
+                <img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-1.webp" alt="contacto-crecimiento-infantil">
             </div>
             <div class="curvi-cuadros-crecimiento ">
                 <h2>Crecimiento en bebes (0-2 años de edad)</h2>
@@ -107,12 +113,15 @@
                     <p>APRENDE MÁS</p>
                 </div>
             </div>
-            <p>
-                BANEERR
-            </p>
+            <div>
+                <img src="img/banners/crecer-estatura-niño-crecimiento-infantil-1.webp" alt="crecer-estatura-niño">
+            </div>
             <div class="justificar-texto-90">
                 <p>Te invitamos a que agendes una cita para que uno de nuestros médicos endocrinólogo pediatra especialista en crecimiento pueda hacer un diagnóstico personalizado de tu hijo y diseñar el tratamiento adecuado en caso de requerirlo y no sufra
                     de estatura baja.</p>
+            </div>
+            <div>
+                <img src="img/banners/altura-crecimiento-estatura-hijo-hija-2.webp" alt="altura-crecimiento-estatura">
             </div>
 
 

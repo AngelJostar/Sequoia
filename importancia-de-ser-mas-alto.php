@@ -57,8 +57,8 @@
                 <h1>Importancia de ser más alto</h1>
                 <p>¿Una mayor altura aporta ventajas a una persona en su vida? Si es así, ¿cuáles son exactamente esas ventajas? ¿Qué tan grandes son esas ventajas? ¿En qué aspectos de la vida? ¿Por qué la altura aporta ventajas a una persona?</p>
             </div>
-            <div class="contenedor-video">
-                <div class="reproductor" data-id="BXOOo5c3LGM"></div>
+            <div>
+                video
             </div>
             <div class="encabezado-crecimiento-deficiente">
                 <h2>La importancia de ser MÁS ALTO</h2>
@@ -74,6 +74,9 @@
             </div>
             <div class="justificar-texto-90">
                 <p>Las ventajas de ser más alto, que conduce a una imagen más exitosa y efectiva son:</p>
+            </div>
+            <div>
+                <img src="img/banners/contacto-crecimiento-infantil-estatura-medir-hija-1.webp" alt="contacto-crecimiento-infantil">
             </div>
             <div class="curvi-cuadros-crecimiento ">
                 <h2>Ser más alto mejora la relación entre hombres y mujeres (conseguir pareja)</h2>
@@ -107,7 +110,16 @@
                 <p>Por supuesto que hay excepciones, gente baja que tiene un éxito tremendo. Pero, para muchos la altura es otra ventaja extra para sobresalir en la vida.</p>
             </div>
             <div class="encabezado-crecimiento-deficiente">
+                <h2>¿Cuánto mides? ¿Qué tan alto le
+                    gustaría ser? ¿Y qué tan alto le
+                    dices a otras personas que eres?
+                    </h2>
+            </div>
+            <div class="encabezado-crecimiento-deficiente">
                 <h2>En Centro Sequoia <br> ¡Tu hija o hijo puede ser más alto!</h2>
+            </div>
+            <div>
+                <img src="img/banners/crecer-estatura-niño-crecimiento-infantil-2.webp" alt="crecer-estatura-niño">
             </div>
 
 
