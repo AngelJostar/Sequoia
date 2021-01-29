@@ -1160,7 +1160,7 @@ h1 {
     font-weight: 600;
     font-size: 18px;
     color: #777777;
-    text-align: center;
+    text-align: justify;
     margin: 0 auto;
 }
 
@@ -1214,6 +1214,14 @@ h1 {
 
 .contenedor-generalidades {
     max-width: 90%;
+    margin: 0 auto;
+}
+
+.contenedor-generalidades p {
+    max-width: 90%;
+    font-size: 16px;
+    color: #777777;
+    text-align: justify;
     margin: 0 auto;
 }
 
@@ -1271,6 +1279,11 @@ h1 {
     color: #777777;
     text-align: justify;
     margin: 0 auto;
+}
+
+.justificar-texto-90-listas p {
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 

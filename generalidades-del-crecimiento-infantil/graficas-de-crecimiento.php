@@ -55,129 +55,38 @@
         <div class="contendor-crecimiento">
 
             <div class="encabezado-crecimiento-deficiente">
-                <h1>Baja Estatura en niños </h1>
+                <h1>Graficas de Crecimiento</h1>
             </div>
             <div class="justificar-texto-90">
-                <p>La baja estatura es una estatura que es inferior a la de casi todos los demás niños de la misma edad y sexo, es un motivo frecuente de consulta.</p>
-            </div>
-            <div class="contenedor-generalidades">
-                <div class="justificar-texto-90-listas">
-                    <ul>
-                        <li>Su hijo puede ser pequeño para su edad, pero está creciendo bien y probablemente llegará a la pubertad después que sus amigos, a esto se le conoce como “retraso constitucional del crecimiento".</li>
-                        <li>Si uno o ambos padres son bajos, es muy probable que su hijo también lo sea. Su hijo deberá ser tan alto como uno de sus padres.</li>
-                    </ul>
-                </div>
+                <p>Las gráficas o curvas de crecimiento se elaboran con las mediciones de amplios grupos de niños de distintas edades. Estos datos se someten a métodos estadísticos y se diseñan unas curvas de crecimiento. Tenemos gráficas para diferentes mediciones para niños y niñas.</p>
             </div>
             <div class="justificar-texto-90">
-                <p>A veces, la baja estatura puede ser un síntoma de un problema de salud como:</p>
+                <p>Hasta los dos años se miden el peso, la longitud (la medida de pies a cabeza con el niño acostado) y el perímetro cefálico (tamaño de la cabeza en redondo). A partir de los dos años y hasta el final de crecimiento se miden el peso y la talla (la medida de pies a cabeza estando de pie). También es útil conocer el índice de masa corporal (IMC), que se obtiene dividiendo el peso por la talla al cuadrado (peso/talla2).</p>
             </div>
-            <div class="justificar-texto-90">
-                <p>Trastornos de los huesos o el esqueleto, como:</p>
-            </div>
-            <div class="contenedor-generalidades">
-                <div class="justificar-texto-90-listas">
-                    <ul>
-                        <li>Raquitismo</li>
-                        <li>Acondroplasia</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="justificar-texto-90">
-                <p>Enfermedades prolongadas (crónicas), como:</p>
-            </div>
-            <div class="contenedor-generalidades">
-                <div class="justificar-texto-90-listas">
-                    <ul>
-                        <li>Asma</li>
-                        <li>Celiaquía</li>
-                        <li>Enfermedad cardíaca congénita</li>
-                        <li>Enfermedad de Cushing</li>
-                        <li>Diabetes</li>
-                        <li>Hipotiroidismo</li>
-                        <li>Enfermedad inflamatoria intestinal</li>
-                        <li>Artritis reumatoide juvenil</li>
-                        <li>Enfermedad de los riñones</li>
-                        <li>Anemia falciforme</li>
-                        <li>Talasemia</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="justificar-texto-90">
-                <p>Afecciones genéticas, como:</p>
-            </div>
-            <div class="contenedor-generalidades">
-                <div class="justificar-texto-90-listas">
-                    <ul>
-                        <li>Síndrome de Down</li>
-                        <li>Síndrome de Noonan</li>
-                        <li>Síndrome de Russell-Silver</li>
-                        <li>Síndrome de Turner</li>
-                        <li>Síndrome de Williams</li>
-                    </ul>
-                </div>
-            </div>
-            <div class="justificar-texto-90">
-                <p>Otras razones incluyen:</p>
-            </div>
-            <div class="contenedor-generalidades">
-                <div class="justificar-texto-90-listas">
-                    <ul>
-                        <li>Deficiencia en la hormona del crecimiento</li>
-                        <li>Infecciones en el bebé en desarrollo antes del nacimiento</li>
-                        <li>Desnutrición</li>
-                        <li>Crecimiento pobre del bebé mientras está en el vientre (restricción del crecimiento intrauterino) o un bebé pequeño para la edad gestacional</li>
-                    </ul>
-                </div>
+            <div>
+                Imagenes graficas
             </div>
             <div class="encabezado-crecimiento-deficiente">
-                <h2>¿Cuáles son los síntomas de la estatura baja en los niños?</h2>
-                <h4>El síntoma principal de la estatura baja en los niños es ser:</h4>
-            </div>
-            <div class="contenedor-generalidades">
-                <div class="justificar-texto-90-listas">
-                    <ul>
-                        <li>Muy bajos en comparación con otros niños de la misma edad y sexo</li>
-                    </ul>
-                </div>
+                <h2>¿Qué son los percentiles?</h2>
             </div>
             <div class="justificar-texto-90">
-                <p>Los niños con estatura baja por lo general:</p>
+                <p>Los percentiles son una medida estadística que nos indica cómo es un valor en relación a otros. En este caso, cómo es el peso, o la altura o le perímetro cefálico de un niño frente a otros de su edad y sexo.</p>
             </div>
-            <div class="contenedor-generalidades">
-                <div class="justificar-texto-90-listas">
-                    <ul>
-                        <li>Crecen lentamente</li>
-                        <li>Sus dientes definitivos salen más tarde de lo normal</li>
-                        <li>Tienen proporciones normales (sus brazos y piernas concuerdan con su estatura)</li>
-                    </ul>
-                </div>
+            <div class="justificar-texto-90">
+                <p>Cuanto mayor sea el número de percentil, más grande será el niño respecto a los de su misma edad y, cuanto menor número de percentil, menor tamaño tendrá. El percentil es solo un dato estadístico cuya interpretación requiere conocimiento y experiencia en el crecimiento normal, sus variaciones normales y las que sugieren problemas.</p>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>¿Cómo se determina la baja estatura?</h2>
-                <h4>Los especialistas:</h4>
+            <div class="justificar-texto-90">
+                <p>Conocer cómo es el patrón normal de crecimiento y sus desviaciones, permite detectar, de forma precoz, la aparición de determinados problemas, pero también contribuye a evitar intervenciones o estudios innecesarios en niños que tienen variaciones normales del crecimiento.</p>
             </div>
-            <div class="contenedor-generalidades">
-                <div class="justificar-texto-90-listas">
-                    <ul>
-                        <li>Miden la estatura y el peso de su hijo y los representan en un gráfico de crecimiento</li>
-                        <li>Obtienen radiografías de los huesos de la mano de su hijo para medir la edad ósea</li>
-                    </ul>
-                </div>
+            <div class="justificar-texto-90">
+                <p>
+                Por sí solos, los percentiles de crecimiento no indican el estado de salud de un niño. Es sólo una comparación. El percentil concreto de un niño, como dato aislado, no tiene demasiado valor. Las curvas de crecimiento no deben utilizarse como instrumento único para tomar decisiones, aunque los datos que proporcionan contribuyen a formar una impresión global del niño. El crecimiento debe valorarse en un contexto amplio y requiere considerar otros factores, como la talla de la familia o el ambiente.</p>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h4>Para averiguar la causa de la baja estatura de su hijo, los médicos pueden solicitar:</h4>
+            <div class="justificar-texto-90">
+                <p>Además del percentil también es útil conocer la velocidad de aumento del peso y de la talla. Las gráficas de crecimiento tienen más utilidad para realizar un seguimiento a lo largo del tiempo. Ver la variación del crecimiento a distintas edades y conocer cómo es la curva particular de un niño concreto es más importante que un valor aislado. Si un niño crece siguiendo un cierto patrón y en un momento dado cambia ese patrón y empieza a crecer más despacio, podemos estar ante un problema de salud y descubrirlo observando su curva de crecimiento. Aunque en determinados periodos, como entre los 6 y 18 meses o en la adolescencia, algunos niños normales pueden cambiar de percentil.</p>
             </div>
-            <div class="contenedor-generalidades">
-                <div class="justificar-texto-90-listas">
-                    <ul>
-                        <li>Tomografía computarizada (TC) o resonancia magnética nuclear (RMN) de la cabeza</li>
-                        <li>Estimulación de la hormona del crecimiento</li>
-                        <li>Pruebas de función tiroidea</li>
-                        <li>Nivel del factor de crecimiento de tipo insulínico 1 (IGF-1)</li>
-                        <li>Exámenes de sangre para buscar problemas en el hígado, riñones, tiroides, sistema inmunitario y otros problemas médicos</li>
-                    </ul>
-                </div>
-            </div>
+
+           
         </div>
 
         <?php include_once '../includes/templates/footer.php';?>
