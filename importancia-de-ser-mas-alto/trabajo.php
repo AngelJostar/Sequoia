@@ -66,14 +66,18 @@
             <div class="justificar-texto-90">
                 <p>Durante décadas, los antropólogos han estudiado lo que se conoce como "prima de altura": la diferencia positiva de los ingresos que, en promedio, reciben las personas más altas.</p>       
             </div>
-            <p>imagen</p>
+            <div class="imagen-80 centrar-imagen ">
+                <img src="/img/nueva/trabajo1.webp" alt="Brexia_especialistas">
+            </div>
             <div class="justificar-texto-90">
                 <p>Un último estudio, en México, encontró que medir 1.80 m de altura genera $25,000 pesos más de ingresos anuales en comparación con los hombres y mujeres 5 centímetros más bajos. Otros estudios en Estados Unidos e Inglaterra estiman esta ganancia de $25,000 pesos extra es por cada 2 centímetros de altura en comparación con otros. Y otro estudio realizado por la Universidad de Florida, encontró que cada centímetro de estatura equivale a un aumento de salario de aproximadamente $19,000 pesos por año.</p>
             </div>
             <div class="justificar-texto-90">
                 <p>Según este cálculo, alguien que mide 1.80 cm de altura gana $100,000 peos más al año que alguien que mide 1.70 cm.</p>
             </div>
-            <p>grafica-imagen</p>
+            <div class="imagen-80 centrar-imagen ">
+                <img src="/img/nueva/trabajo2.webp" alt="Brexia_especialistas">
+            </div>
             <div class="justificar-texto-verde">
                 <h2>"Las personas más altas son percibidas como más inteligentes y poderosas"</h2>
             </div>

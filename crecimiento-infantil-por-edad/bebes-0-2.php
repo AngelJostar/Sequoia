@@ -118,8 +118,8 @@
                 <p>Se debe tener en cuenta el caso de los niños prematuros, cuyo seguimiento y percentiles deben seguir criterios diferentes, que el pediatra te habrá explicado, o te explicará, en su momento.</p>
                 <p>Basándonos en las indicaciones de la OMS, podemos calcular el crecimiento del bebé y el niño mes a mes, basándonos en si es niño o niña, en su edad.</p>
             </div>
-            <div>
-                IMAGEN DE BEBE
+            <div class="imagen-80 centrar-imagen ">
+                <img src="/img/nueva/imagen-bebe.webp" alt="Brexia_especialistas">
             </div>
             <div class="encabezado-crecimiento-deficiente">
                 <h2>Graficas estándar de crecimiento en niños y niñas de de 0 a 2 años </h2>
@@ -133,20 +133,20 @@
             <div class="encabezado-crecimiento-deficiente">
                 <h2>Percentiles de longitud de niñas y niños por edad y sexo de 0 a 2 años</h2>
             </div>
-            <div>
-                FOTO DE ESTADISTICAS
+            <div class="imagen-80 centrar-imagen ">
+                <img src="/img/nueva/longitud1" alt="Brexia_especialistas">
             </div>
-            <div>
-                FOTO DE ESTADISTICAS 2
+            <div class="imagen-80 centrar-imagen ">
+                <img src="/img/nueva/longitud2.webp" alt="Brexia_especialistas">
             </div>
             <div class="encabezado-crecimiento-deficiente">
                 <h2>Percentiles de peso de niñas y niños por edad y sexo de 0 a 2 años</h2>
             </div>
-            <div>
-                FOTO DE ESTADISTICAS 3
+            <div class="imagen-80 centrar-imagen ">
+                <img src="/img/nueva/peso1.webp" alt="Brexia_especialistas">
             </div>
-            <div>
-                FOTO DE ESTADISTICAS 4
+            <div class="imagen-80 centrar-imagen ">
+                <img src="/img/nueva/peso2.webp" alt="Brexia_especialistas">
             </div>
             <div>
                 Banner grande a contacto

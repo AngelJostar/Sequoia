@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Importancia de ser mas alto - pareja</title>
+<title>Etapas del desarrollo de Tanner</title>
 <link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
 
@@ -55,36 +55,28 @@
         <div class="contendor-crecimiento">
 
             <div class="encabezado-crecimiento-deficiente">
-                <h2>La estatura y las relaciones de pareja</h2>
-            </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>¿Importa la estatura al elegir pareja?</h2>
+                <h1>Etapas del desarrollo de Tanner</h1>
             </div>
             <div class="justificar-texto-90">
-                <p>La estatura es más importante al elegir pareja que aspectos como sonrisa, ojos, tono de voz y estilo de vestir, revela estudio.</p>
+                <p>El crecimiento y desarrollo físico es un proceso continuo y complejo, determinado por factores genéticos y modulado por factores ambientales, de tal modo que la máxima expresión de la potencialidad genética dependerá básicamente del estado de salud y nutrición del individuo. Una vez iniciado el desarrollo puberal, el proceso avanza en forma progresiva, completándose en un lapso promedio de 3 a 4 años. En las niñas la pubertad normalmente se completa a los 16 años y en los varones a los 18 años aproximadamente.</p>
             </div>
             <div class="justificar-texto-90">
-                <p>La estatura es un factor importante al momento de elegir pareja. De hecho, la característica que destaca como “primer filtro” es la personalidad, seguida de cerca por estatura y complexión física, ambos, criterios que son más valorados
-                    que la sonrisa, ojos, el tono de voz o estilo de vestir, revela un estudio en torno a las características que tanto mujeres como hombres toman en cuenta al buscar y elegir pareja. </p>
-            </div>
-            <div class="imagen-80 centrar-imagen ">
-                <img src="/img/nueva/image001.webp" alt="Brexia_especialistas">
+                <p>Para evaluar la progresión de los patrones normales de pubertad, los autores Tanner y Marshall describieron los “estadios de Tanner”, que es una clasificación que evalúa el grado de desarrollo puberal para ambos sexos, clasificándose en 5 estadios o grados lo que nos permite tener un lenguaje universal común siendo ampliamente aceptada en la práctica clínica. Es así como en las niñas se considera el desarrollo mamario y del vello pubiano, en los niños se describe el desarrollo de los genitales externos, principalmente el grado de volumen testicular, así como también se valora el vello pubiano.</p>
             </div>
             <div class="justificar-texto-90">
-                <p>El estudio, realizado con mexicanas y mexicanos, también consultó la estatura ideal que se busca en un hombre, a lo que el 50% de los encuestados respondió que el rango ideal es de 1.76 a 1.80 metros, mientras que el 12% se inclinó por
-                    un rango de 1.71 a 1.75 metros. El 2% dijo preferir parejas con una estatura de menos de 1.70.</p>
+                <p>Estos estadios se enumeran en números romanos del I al V, siendo I el estado previo a la pubertad o sin evidencia de desarrollo puberal, mientras que el estadio V corresponde a las características obtenidas al alcanzar el desarrollo completo.</p>
+            </div>
+            <div>
+            <p>Tabla I</p>
             </div>
             <div class="justificar-texto-90">
-                <p>Según una investigación de Michael O. Emerson y George Yancey, sociólogos de la Universidad de Rice en Houston, en lo primero que se fijan las mujeres físicamente de los hombres a la hora de buscar pareja, es en la estatura. </p>
+                <p>En general la pubertad progresa a razón de un estadio de Tanner por año. Esto es muy importante para evaluar si el proceso está ocurriendo normalmente o no.</p>    
             </div>
-            <div class="imagen-80 centrar-imagen ">
-                <img src="/img/nueva/image003.webp" alt="Brexia_especialistas">
+            <div>
+            <p>Tabla II</p>
             </div>
-            <div class="justificar-texto-90">
-                <p>Ser alto ayuda en la vida romántica de tu hijo o hija. Por lo tanto, los adolescentes más altos de ambos sexos suelen tener más citas que sus compañeros más bajos, y los hombres y mujeres más altos tienen más probabilidades de encontrar una pareja a largo plazo. </p>
-            </div>
-            
 
+           
         </div>
 
         <?php include_once '../includes/templates/footer.php';?>

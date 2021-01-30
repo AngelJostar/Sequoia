@@ -74,8 +74,9 @@
                         </ul>
                     </div>
             </div>
-            <p>imagen</p>
-            
+            <div class="imagen-80 centrar-imagen ">
+                <img src="/img/nueva/deporte.webp" alt="Brexia_especialistas">
+            </div>
             <div class="contenedor-generalidades">
                 <div class="encabezado-crecimiento-deficiente">
                     <h2>Las ventajas de una altura superior en los deportes incluyen:</h2>
