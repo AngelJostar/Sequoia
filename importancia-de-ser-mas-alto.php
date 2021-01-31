@@ -82,38 +82,46 @@
                 <h2>Ser más alto mejora la relación entre hombres y mujeres (conseguir pareja)</h2>
                 <p>Las personas altas suelen ser más atractivos para hombres y mujeres. Esto causa un problema de autoestima en las personas de baja estatura y conduce a relaciones poco saludables.</p>
                 <div class="aprende-mas">
-                    <p>APRENDE MÁS</p>
+                    <a href="importancia-de-ser-mas-alto/pareja">
+                        <p>APRENDE MÁS</p>
+                    </a>
                 </div>
             </div>
             <div class="curvi-cuadros-crecimiento ">
                 <h2>Ser más alto mejora la vida empresarial</h2>
-                <p>En nuestra sociedad se considera que los hombres y mujeres más altos son más dominantes e inteligentes. Se estima que si una persona ganara cinco centímetros adicionales de altura, podría ganar porcentajes adicionales de ingreso económico por año.</p>
+                <p>En nuestra sociedad se considera que los hombres y mujeres más altos son más dominantes e inteligentes. Se estima que si una persona ganara cinco centímetros adicionales de altura, podría ganar porcentajes adicionales de ingreso económico
+                    por año.</p>
                 <div class="aprende-mas">
-                    <p>APRENDE MÁS</p>
+                    <a href="importancia-de-ser-mas-alto/trabajo">
+                        <p>APRENDE MÁS</p>
+                    </a>
                 </div>
             </div>
             <div class="curvi-cuadros-crecimiento ">
                 <h2>Ser más alto mejora el rendimiento en los deportes</h2>
                 <p>Es una gran ventaja tener piernas y brazos mas largos para casi todas las ramas deportivas. Esto es natural especialmente para deportes relacionados con la altura como el futbol, basquetbol, béisbol, tenis, taekwondo, etc.</p>
                 <div class="aprende-mas">
-                    <p>APRENDE MÁS</p>
+                    <a href="importancia-de-ser-mas-alto/deporte">
+                        <p>APRENDE MÁS</p>
+                    </a>
                 </div>
             </div>
             <div class="curvi-cuadros-crecimiento ">
                 <h2>Ser más alto mejora la imagen y autoestima de tu hijo</h2>
-                <p>Las personas altas son más estéticas. Esto los hace lucir mejor con la ropa que usan, lo que les da una ventaja en apariencia. Socialmente las personas altas tienen más probabilidades de adaptarse y obtener una aprobación social, lo que les ayuda a ser más felices en su vida diaria.</p>
+                <p>Las personas altas son más estéticas. Esto los hace lucir mejor con la ropa que usan, lo que les da una ventaja en apariencia. Socialmente las personas altas tienen más probabilidades de adaptarse y obtener una aprobación social, lo que
+                    les ayuda a ser más felices en su vida diaria.</p>
                 <div class="aprende-mas">
-                    <p>APRENDE MÁS</p>
+                    <a href="importancia-de-ser-mas-alto/autoestima">
+                        <p>APRENDE MÁS</p>
+                    </a>
                 </div>
             </div>
             <div class="justificar-texto-90">
                 <p>Por supuesto que hay excepciones, gente baja que tiene un éxito tremendo. Pero, para muchos la altura es otra ventaja extra para sobresalir en la vida.</p>
             </div>
             <div class="encabezado-crecimiento-deficiente">
-                <h2>¿Cuánto mides? ¿Qué tan alto le
-                    gustaría ser? ¿Y qué tan alto le
-                    dices a otras personas que eres?
-                    </h2>
+                <h2>¿Cuánto mides? ¿Qué tan alto le gustaría ser? ¿Y qué tan alto le dices a otras personas que eres?
+                </h2>
             </div>
             <div class="encabezado-crecimiento-deficiente">
                 <h2>En Centro Sequoia <br> ¡Tu hija o hijo puede ser más alto!</h2>

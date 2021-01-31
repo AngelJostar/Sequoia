@@ -89,28 +89,36 @@
                 <h2>Crecimiento en bebes (0-2 años de edad)</h2>
                 <p>Desde el nacimiento hasta el segundo año, es importante realizar un seguimiento del crecimiento de su bebé para identificar potencialmente cualquier problema temprano. Obtenga más información sobre el crecimiento de los bebés.</p>
                 <div class="aprende-mas">
-                    <p>APRENDE MÁS</p>
+                    <a href="crecimiento-infantil-por-edad/bebes-0-2">
+                        <p>APRENDE MÁS</p>
+                    </a>
                 </div>
             </div>
             <div class="curvi-cuadros-crecimiento ">
                 <h2>Crecimiento en niños pequeños (de 2 a 5 años de edad)</h2>
                 <p>Su pequeño bebé se ha convertido de repente en un niño pequeño, ¡y parece de la nada! Obtenga más información sobre el crecimiento de los niños pequeños.</p>
                 <div class="aprende-mas">
-                    <p>APRENDE MÁS</p>
+                    <a href="crecimiento-infantil-por-edad/niños-chicos-2-5">
+                        <p>APRENDE MÁS</p>
+                    </a>
                 </div>
             </div>
             <div class="curvi-cuadros-crecimiento ">
                 <h2>Crecimiento en niños (6-11 años)</h2>
                 <p>Si su hijo comenzó la escuela y usted nota señales de que tal vez su hijo no está creciendo como debería. Como por ejemplo, que este dentro de los 3 mas bajitos de su salón de clases.</p>
                 <div class="aprende-mas">
-                    <p>APRENDE MÁS</p>
+                    <a href="crecimiento-infantil-por-edad/niños-de-6-11">
+                        <p>APRENDE MÁS</p>
+                    </a>
                 </div>
             </div>
             <div class="curvi-cuadros-crecimiento ">
                 <h2>Crecimiento en adolescentes (12-16 años)</h2>
                 <p>La pubertad es un momento de crecimiento rápido. A esta edad es importante actuar rápido ya que una vez que tu hijo termine de crecer ya no es posible hacer nada para corregir su estatura.</p>
                 <div class="aprende-mas">
-                    <p>APRENDE MÁS</p>
+                    <a href="crecimiento-infantil-por-edad/adolecentes-12-16">
+                        <p>APRENDE MÁS</p>
+                    </a>
                 </div>
             </div>
             <div>
