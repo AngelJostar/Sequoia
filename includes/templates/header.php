@@ -5,7 +5,9 @@
                 <a href="index "><img src="../img/Logo-Horizontal.jpg" alt="imagen-logo"></a>
             </div>
             <div class="mid-font">
-            <a href="tel:+5555238959"><p class="centrar-texto fontW-700">Llámanos, estamos disponibles <br> tel: (55) 5523 8959</p></a>
+                <a href="tel:+5555238959">
+                    <p class="centrar-texto fontW-700">Llámanos, estamos disponibles <br> tel: (55) 5523 8959</p>
+                </a>
             </div>
             <div class="mid-font">
                 <p class="centrar-texto fontW-700">Escríbenos por Whatsapp <br> <a href="https://api.whatsapp.com/send?phone=5215551358125&text=">(celular): 52 (1) 55 5135 8125</a></p>
@@ -32,15 +34,15 @@
                     <ul class="resaltar">
                         <li><a href="index" class="menu-a">Inicio</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="crecimiento-infantil" class="menu-a">Crecimiento Infantil</a></li>
+                        <li><a href="../../crecimiento-infantil" class="menu-a">Crecimiento Infantil</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="generalidades-del-crecimiento-infantil" class="menu-a">Especialistas en crecimiento infantil</a></li>
+                        <li><a href="../../generalidades-del-crecimiento-infantil" class="menu-a">Especialistas en crecimiento infantil</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="crecimiento-infantil-deficiente" class="menu-a">Crecimiento infantil deficiente</a></li>
+                        <li><a href="../../crecimiento-infantil-deficiente" class="menu-a">Crecimiento infantil deficiente</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="preguntas-frecuentes" class="menu-a">Preguntas Frecuentes</a></li>
+                        <li><a href="../../preguntas-frecuentes" class="menu-a">Preguntas Frecuentes</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="contacto " class="menu-a">Contacto</a></li>
+                        <li><a href="../../contacto" class="menu-a">Contacto</a></li>
                         <div class="linea-menu"></div>
                     </ul>
                     <div class="centrar-texto">
