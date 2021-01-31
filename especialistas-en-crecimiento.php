@@ -67,8 +67,8 @@
                     se enfocan en tratar únicamente la estatura de
                     los niños y niñas.</p>
             </div>
-            <div>
-                video
+            <div class="contenedor-video">
+                <div class="reproductor-rectangular" data-id="b2npaRv2dEw"></div>
             </div>
             <div class="contenedor-infantil-deficiente">
                 <div class="justificar-texto-90">

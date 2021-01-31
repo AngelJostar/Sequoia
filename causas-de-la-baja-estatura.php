@@ -64,8 +64,8 @@
                     alcanzar una mayor estatura para sobresalir
                     física y socialmente.</p>
             </div>
-            <div>
-                video
+            <div class="contenedor-video">
+                <div class="reproductor" data-id="BXOOo5c3LGM"></div>
             </div>
             <div class="contenedor-generalidades">
                 <div class="contenedor-generalidades">

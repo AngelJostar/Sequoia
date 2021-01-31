@@ -58,11 +58,11 @@
             <h1>Todo lo que debes saber sobre crecimiento infantil</h1>
             <p>En Centro Sequoia queremos que tomes decisiones informadas, por eso te presentamos a continuación toda la información que necesitas para entender el crecimiento de tu hijo o hija.</p>
         </div>
-        <div>
-            video
+        <div class="contenedor-video">
+            <div class="reproductor-rectangular" data-id="ycdUsYYrFBI"></div>
         </div>
-        <div>
-            video
+        <div class="contenedor-video">
+            <div class="reproductor-rectangular" data-id="pkn_mCXr8Gw"></div>
         </div>
         <div class="body-container">
             <div class="container">

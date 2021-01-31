@@ -63,8 +63,8 @@
                     no crece adecuadamente y lo ayudaran a alcanzar una mayor estatura.</p>
             </div>
 
-            <div>
-                video
+            <div class="contenedor-video">
+                <div class="reproductor" data-id="wXL4utyJGQc"></div>
             </div>
 
             <div class="textos-principal">
@@ -78,9 +78,8 @@
             <div class="titulos-principal">
                 <h2>Aprende del crecimiento de tu hijo</h2>
             </div>
-
-            <div>
-                video
+            <div class="contenedor-video">
+                <div class="reproductor-rectangular" data-id="_bpb-KOnmwE"></div>
             </div>
             <div>
                 <img src="img/banners/estatura-crecer-crecimiento-infantil-2.webp" alt="Banners-estatura-crecer">
@@ -92,8 +91,8 @@
                 <p>Seguramente te has preguntado, ¿Si el crecimiento de tu niño es normal? ¿Por qué un hermano menor casi lo alcanza o es más alto? ¿Tu hijo está creciendo más lento de lo habitual? o ¿Por qué está en los primeros lugares de las formaciones
                     escolares?, mientras que sus compañeros cada vez tienen mayor altura. </p>
             </div>
-            <div>
-                video
+            <div class="contenedor-video">
+                <div class="reproductor" data-id="U250LTLFuok"></div>
             </div>
             <div class="contenedor-calculadora">
                 <a href="#"><img src="img/banners/altura-crecimiento-estatura-hijo-hija-1.webp" alt="calculadora-de-estatura"></a>

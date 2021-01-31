@@ -66,13 +66,10 @@
                     ocurre habitualmente, hacia el final de la
                     segunda década de la vida</p>
             </div>
-            <div>
-                video
+            <div class="contenedor-video">
+                <div class="reproductor-rectangular" data-id="yIhxulvi3r0"></div>
             </div>
             <div class="contenedor-generalidades">
-                <div class="contenedor-video">
-                    <div class="reproductor" data-id="BXOOo5c3LGM"></div>
-                </div>
                 <div class="encabezado-crecimiento-deficiente">
                     <h2>Temas importantes relacionados con el
                         crecimiento de tu hijo o hija</h2>

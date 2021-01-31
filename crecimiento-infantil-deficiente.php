@@ -65,8 +65,8 @@
                     <p>Cualquiera que sea la edad de su hijo, es importante saber si está creciendo como debería. Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado.
                     </p>
                 </div>
-                <div>
-                    Video
+                <div class="contenedor-video">
+                    <div class="reproductor-rectangular" data-id="u-fkiafxU70"></div>
                 </div>
                 <div class="encabezado-crecimiento-deficiente">
                     <h2>¿Cómo reconocer un crecimiento deficiente en tu hijo?</h2>

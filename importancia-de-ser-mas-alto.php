@@ -57,8 +57,8 @@
                 <h1>Importancia de ser más alto</h1>
                 <p>¿Una mayor altura aporta ventajas a una persona en su vida? Si es así, ¿cuáles son exactamente esas ventajas? ¿Qué tan grandes son esas ventajas? ¿En qué aspectos de la vida? ¿Por qué la altura aporta ventajas a una persona?</p>
             </div>
-            <div>
-                video
+            <div class="contenedor-video">
+                <div class="reproductor-rectangular" data-id="N9i126SBdP8"></div>
             </div>
             <div class="encabezado-crecimiento-deficiente">
                 <h2>La importancia de ser MÁS ALTO</h2>

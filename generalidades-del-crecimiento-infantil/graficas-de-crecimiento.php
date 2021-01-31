@@ -64,7 +64,7 @@
                 <p>Hasta los dos años se miden el peso, la longitud (la medida de pies a cabeza con el niño acostado) y el perímetro cefálico (tamaño de la cabeza en redondo). A partir de los dos años y hasta el final de crecimiento se miden el peso y la talla (la medida de pies a cabeza estando de pie). También es útil conocer el índice de masa corporal (IMC), que se obtiene dividiendo el peso por la talla al cuadrado (peso/talla2).</p>
             </div>
             <div>
-                Imagenes graficas
+                <img src="../img/generalidades-del-crecimiento-infantil/graficas-de-crecimiento-1.webp" alt="graficas-de-crecimiento">
             </div>
             <div class="encabezado-crecimiento-deficiente">
                 <h2>¿Qué son los percentiles?</h2>
