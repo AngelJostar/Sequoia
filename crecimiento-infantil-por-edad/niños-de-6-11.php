@@ -101,22 +101,20 @@
             <div class="encabezado-crecimiento-deficiente">
                 <h2>Graficas estándar de crecimiento en niños y niñas de 6 a 11 años </h2>
             </div>
-
-
-            <div>
-                FOTO DE ESTADISTICAS
+            <div class="imagen-80 centrar-imagen ">
+                <img src="/img/nueva/estatura-6-11-niños.webp" alt="Brexia_especialistas">
             </div>
-            <div>
-                FOTO DE ESTADISTICAS 2
+            <div class="imagen-80 centrar-imagen ">
+                <img src="/img/nueva/estatura-6-11-niñas.webp" alt="Brexia_especialistas">
             </div>
             <div class="encabezado-crecimiento-deficiente">
                 <h2>Graficas estándar de Índice de Masa Corporal (IMC) en niños y niñas de 6 a 11 años </h2>
             </div>
-            <div>
-                FOTO DE ESTADISTICAS 3
+            <div class="imagen-80 centrar-imagen ">
+                <img src="/img/nueva/imc-niños-6-11.webp" alt="Brexia_especialistas">
             </div>
-            <div>
-                FOTO DE ESTADISTICAS 4
+            <div class="imagen-80 centrar-imagen ">
+                <img src="/img/nueva/imc-niñas-6-11.webp" alt="Brexia_especialistas">
             </div>
             <div>
                 Banner grande a contacto

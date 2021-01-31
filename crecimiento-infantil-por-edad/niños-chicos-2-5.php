@@ -102,20 +102,20 @@
             <div class="encabezado-crecimiento-deficiente">
                 <h2>Graficas estándar de crecimiento en niños y niñas de 2 a 5 años </h2>
             </div>
-            <div>
-                FOTO DE ESTADISTICAS
+            <div class="imagen-80 centrar-imagen ">
+                <img src="/img/nueva/estatura-niñas-1.webp" alt="Brexia_especialistas">
             </div>
-            <div>
-                FOTO DE ESTADISTICAS 2
+            <div class="imagen-80 centrar-imagen ">
+                <img src="/img/nueva/estatura-niños-2.webp" alt="Brexia_especialistas">
             </div>
             <div class="encabezado-crecimiento-deficiente">
                 <h2>Graficas estándar de peso en niños y niñas de 2 a 5 años </h2>
             </div>
-            <div>
-                FOTO DE ESTADISTICAS 3
+            <div class="imagen-80 centrar-imagen ">
+                <img src="/img/nueva/peso-niñas-1.webp" alt="Brexia_especialistas">
             </div>
-            <div>
-                FOTO DE ESTADISTICAS 4
+            <div class="imagen-80 centrar-imagen ">
+                <img src="/img/nueva/peso-niños-2.webp" alt="Brexia_especialistas">
             </div>
             <div>
                 Banner grande a contacto

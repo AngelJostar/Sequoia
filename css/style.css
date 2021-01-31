@@ -1432,3 +1432,20 @@ td {
 
 
 /*End_tablas*/
+
+.texto-izquierda {
+    max-width: 90%;
+    font-weight: 600;
+    font-size: 16px;
+    color: rgb(192, 212, 31);
+    text-align: left;
+    margin: 0 auto;
+}
+
+.imagen-80 {
+    max-width: 80%
+}
+
+.centrar-imagen {
+    margin: 0 auto;
+}

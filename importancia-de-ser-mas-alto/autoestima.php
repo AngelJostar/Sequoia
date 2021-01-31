@@ -64,7 +64,9 @@
             <div class="justificar-texto-90">
                 <p>De acuerdo con un estudio publicado en la revista Psychiatry Research, las personas que son de baja estatura suelen padecer baja autoestima. De acuerdo a la investigación de la Universidad de Oxford, las personas que son de baja estatura tienen un complejo de inferioridad y se sienten amenazados por los demás. En la adolescencia donde los cambios corporales están desconcertando al joven que al compararse con sus compañeros se siente atrasado en su crecimiento ser más bajos que sus compañeros los podría hacer vulnerables al acoso escolar, afectando su rendimiento académico y su desarrollo psicosocial.</p>
             </div>
-            <p>imagen</p>
+            <div class="imagen-80 centrar-imagen ">
+                <img src="/img/nueva/autoestima1.webp" alt="Brexia_especialistas">
+            </div>
             <div class="justificar-texto-verde">
                 <h2>A continuación se presentan puntos clave para determinar una sana autoestima en el adolescente:</h2>
             </div>
@@ -101,7 +103,9 @@
             <div class="justificar-texto-90">
                 <p>Por tanto, las personas con el complejo de Napoleón suelen compensar su baja estatura con comportamientos negativos en sus vidas, por lo que pueden ser más agresivas y celosas. Este complejo también es conocido como complejo napoleónico o complejo del hombre bajito.</p>
             </div>      
-            <p>imagen</p>      
+            <div class="imagen-80 centrar-imagen ">
+                <img src="/img/nueva/autoestima2.webp" alt="Brexia_especialistas">
+            </div>      
             <p>*****Banner chico hacia pareja
 ***** Banner grande contacto
 

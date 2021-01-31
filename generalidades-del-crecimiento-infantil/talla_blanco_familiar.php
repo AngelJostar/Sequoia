@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Importancia de ser mas alto - pareja</title>
+<title>Talla Blanco Familiar</title>
 <link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
 
@@ -55,35 +55,28 @@
         <div class="contendor-crecimiento">
 
             <div class="encabezado-crecimiento-deficiente">
-                <h2>La estatura y las relaciones de pareja</h2>
+                <h1>Talla Diana</h1>
+            </div>
+            <div class="justificar-texto-90">
+                <p>El crecimiento es uno de los indicadores más sensibles del estado de salud de un niño/a, de ahí la supervisión continuada del crecimiento que se realiza especialmente en los primeros años de vida. Este proceso se ve influenciado por factores
+                    endróguenos y exógenos: entre los primeros se encuentra el componente genético, dada la correlación existente entre la talla de los padres y talla del individuo adulto; de tal manera, que a cualquier edad puede estimarse la talla que
+                    alcanzará un niño/a, a la cual denominamos Talla Diana en función de la talla de sus padres.</p>
+            </div>
+            <div class="justificar-texto-90">
+                <p>También los factores metabólicos como el déficit de hormona del crecimiento (GH), el hipotiroidismo o la diabetes mal controlada, pueden alterar el crecimiento esperable genéticamente. Entre los factores ambientales o exógenos, inciden
+                    en el crecimiento aspectos como son la nutrición, la actividad física y los aspectos psicológicos, como es la deprivación emocional.</p>
             </div>
             <div class="encabezado-crecimiento-deficiente">
-                <h2>¿Importa la estatura al elegir pareja?</h2>
+                <h2>Cálculo de Talla diana</h2>
             </div>
             <div class="justificar-texto-90">
-                <p>La estatura es más importante al elegir pareja que aspectos como sonrisa, ojos, tono de voz y estilo de vestir, revela estudio.</p>
-            </div>
-            <div class="justificar-texto-90">
-                <p>La estatura es un factor importante al momento de elegir pareja. De hecho, la característica que destaca como “primer filtro” es la personalidad, seguida de cerca por estatura y complexión física, ambos, criterios que son más valorados
-                    que la sonrisa, ojos, el tono de voz o estilo de vestir, revela un estudio en torno a las características que tanto mujeres como hombres toman en cuenta al buscar y elegir pareja. </p>
+                <p>Se suma la altura del padre y de la madre, se divide por dos y se le suma 6,5 si se trata de un niño y se le resta 6,5 si se trata de una niña. Hay que tener en cuenta (según los autores de tal cálculo) que el resultado final es solo valido
+                    en un 85% de los casos y que el margen de error es de 5 a 10 cm.</p>
             </div>
             <div class="imagen-80 centrar-imagen ">
-                <img src="/img/nueva/image001.webp" alt="Brexia_especialistas">
+                <img src="/img/nueva/tabla-formula.webp" alt="Brexia_especialistas">
             </div>
-            <div class="justificar-texto-90">
-                <p>El estudio, realizado con mexicanas y mexicanos, también consultó la estatura ideal que se busca en un hombre, a lo que el 50% de los encuestados respondió que el rango ideal es de 1.76 a 1.80 metros, mientras que el 12% se inclinó por
-                    un rango de 1.71 a 1.75 metros. El 2% dijo preferir parejas con una estatura de menos de 1.70.</p>
-            </div>
-            <div class="justificar-texto-90">
-                <p>Según una investigación de Michael O. Emerson y George Yancey, sociólogos de la Universidad de Rice en Houston, en lo primero que se fijan las mujeres físicamente de los hombres a la hora de buscar pareja, es en la estatura. </p>
-            </div>
-            <div class="imagen-80 centrar-imagen ">
-                <img src="/img/nueva/image003.webp" alt="Brexia_especialistas">
-            </div>
-            <div class="justificar-texto-90">
-                <p>Ser alto ayuda en la vida romántica de tu hijo o hija. Por lo tanto, los adolescentes más altos de ambos sexos suelen tener más citas que sus compañeros más bajos, y los hombres y mujeres más altos tienen más probabilidades de encontrar una pareja a largo plazo. </p>
-            </div>
-            
+
 
         </div>
 
