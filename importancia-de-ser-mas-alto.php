@@ -82,7 +82,7 @@
                 <h2>Ser más alto mejora la relación entre hombres y mujeres (conseguir pareja)</h2>
                 <p>Las personas altas suelen ser más atractivos para hombres y mujeres. Esto causa un problema de autoestima en las personas de baja estatura y conduce a relaciones poco saludables.</p>
                 <div class="aprende-mas">
-                    <a href="importancia-de-ser-mas-alto/pareja">
+                    <a href="Importancia-de-ser-mas-alto/pareja">
                         <p>APRENDE MÁS</p>
                     </a>
                 </div>
@@ -92,7 +92,7 @@
                 <p>En nuestra sociedad se considera que los hombres y mujeres más altos son más dominantes e inteligentes. Se estima que si una persona ganara cinco centímetros adicionales de altura, podría ganar porcentajes adicionales de ingreso económico
                     por año.</p>
                 <div class="aprende-mas">
-                    <a href="importancia-de-ser-mas-alto/trabajo">
+                    <a href="Importancia-de-ser-mas-alto/trabajo">
                         <p>APRENDE MÁS</p>
                     </a>
                 </div>
@@ -101,7 +101,7 @@
                 <h2>Ser más alto mejora el rendimiento en los deportes</h2>
                 <p>Es una gran ventaja tener piernas y brazos mas largos para casi todas las ramas deportivas. Esto es natural especialmente para deportes relacionados con la altura como el futbol, basquetbol, béisbol, tenis, taekwondo, etc.</p>
                 <div class="aprende-mas">
-                    <a href="importancia-de-ser-mas-alto/deporte">
+                    <a href="Importancia-de-ser-mas-alto/deporte">
                         <p>APRENDE MÁS</p>
                     </a>
                 </div>
@@ -111,7 +111,7 @@
                 <p>Las personas altas son más estéticas. Esto los hace lucir mejor con la ropa que usan, lo que les da una ventaja en apariencia. Socialmente las personas altas tienen más probabilidades de adaptarse y obtener una aprobación social, lo que
                     les ayuda a ser más felices en su vida diaria.</p>
                 <div class="aprende-mas">
-                    <a href="importancia-de-ser-mas-alto/autoestima">
+                    <a href="Importancia-de-ser-mas-alto/autoestima">
                         <p>APRENDE MÁS</p>
                     </a>
                 </div>
