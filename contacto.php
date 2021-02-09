@@ -14,36 +14,7 @@
 </head>
 
 <?php include_once 'includes/tags/google_tag_manager_body.php';?>
-<div id="top-header" class="top-header">
-    <div class="top-header-inter">
-        <a href="tel:+5555238959">
-            <span>
-                        &nbsp; Tel. CDMX: <br> 
-                        <span>
-                        <i class="fas fa-phone"></i>
-                        (55)5687-6118
-                        </span>
-            </span>
-        </a>
-        <a href="tel:+5555238959">
-            <span>  &nbsp; Tel. GDL: <br>
-                        <span>
-                        <i class="fas fa-phone"></i>
-                        (33)3615-2835
-                        </span>
-            </span>
-        </a>
-        <a href="tel:+5555238959">
-            <span>  
-                        &nbsp; Tel. MTY: <br>
-                        <span>
-                        <i class="fas fa-phone"></i>
-                         (81)11592265
-                        </span>
-            </span>
-        </a>
-    </div>
-</div>
+<?php include_once 'includes/templates/top-header.php';?>
 <!--####HEADER####-->
 <section id="site-wrapper">
 
