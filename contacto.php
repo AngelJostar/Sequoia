@@ -23,8 +23,10 @@
 
         <?php include_once 'includes/templates/header.php';?>
 
-
+        
         <section class="contenedor-contacto">
+            
+
         <div class="cuadros-crecimiento">
                 <div class="titulos-principal titulos-grid">
                     <div class="flexbox padre">
@@ -35,6 +37,9 @@
                         <div class="barra-titulo"></div>
                     </div>
                 </div>
+            </div>
+            <div>
+                <img src="/img/banners/BANNERS-Principal-2021.webp" alt="Portada">
             </div>
             <div class="textos-azules">
             <p>En <span class="font-bold">Centro Sequoia</span> somos endocrinólogos pediatras
