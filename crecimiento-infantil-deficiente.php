@@ -25,40 +25,53 @@
 
 
         <div class="contendor-crecimiento">
-            <div class="cuadros-crecimiento">
-                <h1>Aprende a reconocer el crecimiento deficiente de tu hijo
-                </h1>
+        <div class="cuadros-crecimiento">
+                <div class="titulos-principal titulos-grid">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1 style="font-size: 14px !important;">APRENDE A RECONOCER EL <span class="font-blanquitas">CRECIMIENTO DEFICIENTE</span> DE TU HIJO</h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="textos-principal">
                 <p>Es muy importante que sepas si la tasa de crecimiento del niño es la que debería ser, a cualquier edad. Si el niño no está creciendo adecuadamente, puede ser el primer signo de una posible condición médica. Esta página puede orientarte
                     sobre los signos claves que indicarían un crecimiento deficiente y lo que pueden significar para la salud del niño.</p>
             </div>
+            <div class="textos-principal">
+                <p>Cualquiera que sea la edad de su hijo, es importante saber si está creciendo como debería. Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado.
+                        </p>
+            </div>
             <div class="contenedor-infantil-deficiente">
-                <div class="justificar-texto-90">
-                    <p>Cualquiera que sea la edad de su hijo, es importante saber si está creciendo como debería. Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado.
-                    </p>
-                </div>
                 <div class="contenedor-video">
                     <div class="reproductor-rectangular" data-id="u-fkiafxU70"></div>
                 </div>
-                <div class="encabezado-crecimiento-deficiente">
+                <div class="cuadros-crecimiento margin-top-20">
+                    <div class="titulos-principal">
                     <h2>¿Cómo reconocer un crecimiento deficiente en tu hijo?</h2>
+                    </div>
                 </div>
-                <div class="justificar-texto-90">
+                <div class="textos-principal">
                     <p>Hay señales a las que debe prestar atención que podrían indicar que su hijo no está creciendo como debería: </p>
                 </div>
-                <div class="grid-iconos">
-                    iconos
+                <div>
+                    <img src="img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="">
                 </div>
                 <div>
                     <img src="img/banners/contacto-crecimiento-infantil-estatura-medir-hija-1.webp" alt="">
                 </div>
-                <div class="encabezado-crecimiento-deficiente">
-                    <h2>¿Qué significa un crecimiento deficiente en mi hijo?</h2>
+                <div class="cuadros-crecimiento margin-top-20">
+                    <div class="titulos-principal">
+                    <h2>¿QUÉ SIGNIFICA UN CRECIMIENTO <br> DEFICIENTE EN MI HIJO?</h2>
+                    </div>
                 </div>
-                <div class="justificar-texto-90">
+                <div class="textos-principal">
                     <p>En algunos niños y niñas, el crecimiento deficiente puede no ser una causa de preocupación, pero, en otros, puede estar asociado con serios problemas de salud, el niño puede presentar afectaciones en: </p>
                 </div>
-                <div class="grid-iconos">
-                    iconos
+                <div>
+                    <img src="img/banners/ICONOS WEB Sequoia 2021-17.webp" alt="">
                 </div>
                 <div>
                     <img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="especialista crecimiento infantil">

@@ -26,8 +26,25 @@
         <?php include_once 'includes/templates/header.php';?>
 
         <div class="cuadros-crecimiento">
-            <h1>Todo lo que debes saber sobre crecimiento infantil</h1>
-            <p>En Centro Sequoia queremos que tomes decisiones informadas, por eso te presentamos a continuación toda la información que necesitas para entender el crecimiento de tu hijo o hija.</p>
+            <div class="titulos-principal titulos-grid">
+                <div class="flexbox padre">
+                    <div class="barra-titulo"></div>
+                </div>
+                <h1 style="font-size: 17px !important;"> <span class="font-blanquitas">PREGUNTAS FRECUENTES</span><br>DEL CRECIMIENTO DE TU HIJ@</h1>
+                <div class="flexbox padre">
+                    <div class="barra-titulo"></div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <img src="img/banners/PREGUNTAS-FRECUENTES-BANNER.webp" alt="altura crecimiento estatura">
+        </div>
+        <div class="titulos-azules">
+            <h3>¿Mi hij@ esta creciendo bien?</h3>
+            <h3>¿Qué puedo hacer para que mi hijo cresca?</h3>
+            <h3>¿A qué edad dejan de crecer los adolecentes?</h3>
+            <h3>Porqué algunos niños crecen más rápido que otros?</h3>
+            <h3>Niños y niñas crecen diferente?</h3>
         </div>
         <div class="contenedor-video">
             <div class="reproductor-rectangular" data-id="ycdUsYYrFBI"></div>
@@ -35,9 +52,13 @@
         <div class="contenedor-video">
             <div class="reproductor-rectangular" data-id="pkn_mCXr8Gw"></div>
         </div>
+        <div class="cuadros-crecimiento margin-top-20">
+            <div class="titulos-principal">
+                <h2 style="font-size: 40px !important;" class="letra-cursiva">Preguntas frecuentes</h2>
+            </div>
+        </div>
         <div class="body-container">
             <div class="container">
-                <h2 >Preguntas frecuentes</h2>
                 <div class="accordion">
                     <div class="accordion-item">
                         <button id="accordion-button-1" aria-expanded="false"><span class="accordion-title">1.-¿Cómo puedo saber si mi hijo está creciendo bien?</span><span class="icon" aria-hidden="true"></span></button>
@@ -77,7 +98,7 @@
                         </div>
                     </div>
                     <div>
-                        <img src="img/banners/altura-crecimiento-estatura-hijo-hija-1.webp" alt="altura crecimiento estatura">
+                        <img src="img/banners/CRECIMIENTO-Sequoia-Inicio-2021.webp" alt="altura crecimiento estatura">
                     </div>
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">6.-¿Hasta qué edad se puede recibir tratamiento?</span><span class="icon" aria-hidden="true"></span></button>
@@ -90,7 +111,8 @@
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">7.-¿Cuánto tiempo dura el tratamiento?</span><span class="icon" aria-hidden="true"></span></button>
                         <div class="accordion-content">
                             <p>El periodo de tratamiento depende de la situación de cada niño y de la edad a la que se comience. Según las estimaciones de crecimiento de cada paciente el médico le planteará la duración necesaria para alcanzar la estatura
-                                ideal.</p>
+                                ideal.
+                            </p>
                         </div>
                     </div>
                     <div class="accordion-item">
@@ -124,7 +146,7 @@
                         </div>
                     </div>
                     <div>
-                        <img src="img/banners/medir-edad-hijo-hija-crecimiento-infantil-1.webp" alt="medir edad hijo hija">
+                        <img src="img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="medir edad hijo hija">
                     </div>
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">11.-¿Cómo afecta la estatura en la autoestima de un niño?</span><span class="icon" aria-hidden="true"></span></button>
@@ -145,79 +167,67 @@
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">13.-¿Padres bajitos tendrán hijos bajitos?</span><span class="icon" aria-hidden="true"></span></button>
                         <div class="accordion-content">
-                            <p>Los padres bajitos no necesariamente tendrán hijos bajitos, los padres pudieron haber tenido
-condiciones que afectaran su crecimiento tales como una desnutrición o una baja producción de
-hormona de crecimiento, esto se puede transmitir a los hijos de manera que si nosotros mejoramos
-las condiciones de nutrición y el nivel de horma de los hijos ellos podrán crecer mejor. </p>
+                            <p>Los padres bajitos no necesariamente tendrán hijos bajitos, los padres pudieron haber tenido condiciones que afectaran su crecimiento tales como una desnutrición o una baja producción de hormona de crecimiento, esto se puede
+                                transmitir a los hijos de manera que si nosotros mejoramos las condiciones de nutrición y el nivel de horma de los hijos ellos podrán crecer mejor. </p>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">14.-¿Qué puede causar talla baja?</span><span class="icon" aria-hidden="true"></span></button>
                         <div class="accordion-content">
-                            <p>La talla baja puede ser de origen genético, es decir se puede heredar una talla baja, también
-patrones de alimentación, de ejercicio y de sueño tiene influencia sobre el crecimiento del niño, de
-manera que si nosotros mejoramos esto ellos pueden crecer mejor. </p>
+                            <p>La talla baja puede ser de origen genético, es decir se puede heredar una talla baja, también patrones de alimentación, de ejercicio y de sueño tiene influencia sobre el crecimiento del niño, de manera que si nosotros mejoramos
+                                esto ellos pueden crecer mejor. </p>
                         </div>
                     </div>
                     <div class="accordion-item">
-                        <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">15.-¿Existen alimentos que favorecen el crecimiento <br> de los niños?</span><span class="icon" aria-hidden="true"></span></button>
+                        <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">15.-¿Existen alimentos que favorecen <br> el crecimiento de los niños?</span><span class="icon" aria-hidden="true"></span></button>
                         <div class="accordion-content">
                             <p>Sí, hay alimentos que favorecen el crecimiento de los niños estos son:
-                            <ul>
-                                <li>Lácteos (Queso, leche y derivados) Son proveedores de calcio, fosforo y proteínas que son importantes para el hueso.</li>
-                                <li>Proteínas: Huevo, carne, pollo y pescado.</li>
-                                <li>Verduras y Frutas: Ayudan a la colonización intestinal de bacterias que permiten que los
-                                    alimentos sean bien digeridos y utilizados.</li>
-                            </ul>
+                                <ul>
+                                    <li>Lácteos (Queso, leche y derivados) Son proveedores de calcio, fosforo y proteínas que son importantes para el hueso.</li>
+                                    <li>Proteínas: Huevo, carne, pollo y pescado.</li>
+                                    <li>Verduras y Frutas: Ayudan a la colonización intestinal de bacterias que permiten que los alimentos sean bien digeridos y utilizados.</li>
+                                </ul>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">16.-¿El uso de tecnologías afecta el crecimiento de los niños?</span><span class="icon" aria-hidden="true"></span></button>
                         <div class="accordion-content">
-                            <p>El uso de la tecnología como tal no tiene problema en el crecimiento de niños, siempre y cuando el
-uso de tecnologías no afecte la actividad física y el dormir. El sueño es esencial para crecer, si los
-niños se desvelan o no duermen bien el proceso de crecimiento se afectará.</p>
+                            <p>El uso de la tecnología como tal no tiene problema en el crecimiento de niños, siempre y cuando el uso de tecnologías no afecte la actividad física y el dormir. El sueño es esencial para crecer, si los niños se desvelan o no
+                                duermen bien el proceso de crecimiento se afectará.</p>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">17.-¿Niños enfermizos pueden ver afectado su crecimiento?
 </span><span class="icon" aria-hidden="true"></span></button>
                         <div class="accordion-content">
-                            <p>En niños que presentan fiebre de corta duración no se ve afectado su crecimiento. Sin embargo,
-cualquier padecimiento o problema de salud que dure más de dos o tres semanas va a ocasionar
-que el ritmo de crecimiento disminuya.</p>
+                            <p>En niños que presentan fiebre de corta duración no se ve afectado su crecimiento. Sin embargo, cualquier padecimiento o problema de salud que dure más de dos o tres semanas va a ocasionar que el ritmo de crecimiento disminuya.</p>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">18.-¿Qué problemas de salud se puede detectar con la talla baja?
 </span><span class="icon" aria-hidden="true"></span></button>
                         <div class="accordion-content">
-                            <p>Se pueden detectar enfermedades con deficiencias endocrinológicas, hormonales, problemas
-renales, nutricionales, respiratorios, síndromes que afectan el crecimiento, etc. </p>
+                            <p>Se pueden detectar enfermedades con deficiencias endocrinológicas, hormonales, problemas renales, nutricionales, respiratorios, síndromes que afectan el crecimiento, etc. </p>
                         </div>
                     </div>
                     <div class="accordion-item">
-                        <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">19.-¿Un niño que es mucho más alto que sus <br> compañeros tiene asegurado que será un adulto
+                        <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">19.-¿Un niño que es mucho más alto que sus compañeros tiene asegurado que será un adulto
 alto?</span><span class="icon" aria-hidden="true"></span></button>
                         <div class="accordion-content">
-                            <p>No, hay factores que pueden adelantar el crecer más como la obesidad y la pubertad precoz, esto
-hará que se cierren los cartílagos de crecimiento antes de tiempo y a su vez detener el crecimiento
-y no llegar a crecer más.</p>
+                            <p>No, hay factores que pueden adelantar el crecer más como la obesidad y la pubertad precoz, esto hará que se cierren los cartílagos de crecimiento antes de tiempo y a su vez detener el crecimiento y no llegar a crecer más.</p>
                         </div>
                     </div>
                     <div class="accordion-item">
-                        <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">20.-¿El inicio de la pubertad marca que se detenga el crecimiento de un niño?</span><span class="icon" aria-hidden="true"></span></button>
+                        <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">20.-¿El inicio de la pubertad marca <br> que se detenga el crecimiento de un niño?</span><span class="icon" aria-hidden="true"></span></button>
                         <div class="accordion-content">
-                            <p>No marca la detención porque seguimos creciendo, cuando entra en juego las hormonas sexuales
-estas harán que los huesos vallan madurando más rápido. Al terminar esto ya no se puede crecer
-ya que el hueso ya está completamente unido. </p>
+                            <p>No marca la detención porque seguimos creciendo, cuando entra en juego las hormonas sexuales estas harán que los huesos vallan madurando más rápido. Al terminar esto ya no se puede crecer ya que el hueso ya está completamente
+                                unido. </p>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">21.- El crecimiento de un niño no es cuestión de suerte.</span><span class="icon" aria-hidden="true"></span></button>
                         <div class="accordion-content">
-                            <p>El crecimiento es un proceso vital de todo ser humano, para un buen crecimiento se tiene que
-tomar en cuenta que hay ciertos factores a cuidar en los niños:</p>
+                            <p>El crecimiento es un proceso vital de todo ser humano, para un buen crecimiento se tiene que tomar en cuenta que hay ciertos factores a cuidar en los niños:</p>
                             <ul>
                                 <li>Estatura familiar: Lo que papá y mamá miden (genética)</li>
                                 <li>Problemas de salud: Desde que está en vientre de mamá hasta que termina su desarrollo.</li>
@@ -226,7 +236,7 @@ tomar en cuenta que hay ciertos factores a cuidar en los niños:</p>
                         </div>
                     </div>
                     <div>
-                        <img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="">
+                        <img src="img/banners/BANNER-2-NIÑA-VERTICAL.webp" alt="">
                     </div>
                 </div>
             </div>

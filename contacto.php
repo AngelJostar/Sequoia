@@ -26,9 +26,18 @@
 
         <section class="contenedor-contacto">
         <div class="cuadros-crecimiento">
-                <h1>Contacto
-                </h1>
-                <p>En Centro Sequoia somos endocrinólogos pediatras
+                <div class="titulos-principal titulos-grid">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1 style="font-size: 25px; "> <span class="font-blanquitas">CONTACTO</h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="textos-azules">
+            <p>En <span class="font-bold">Centro Sequoia</span> somos endocrinólogos pediatras
                     especialistas en crecimiento infantil.
                     Diagnosticaremos las causas por las que tu hijo no
                     crece correctamente y lograremos que alcance una
@@ -36,61 +45,67 @@
             </div>
         </section>
         <section class="contenedor-info-contacto">
-
-            <p class="primer-p">Centros en CDMX, Guadalajara y Monterrey</p>
-
+                        <div class="cuadros-crecimiento">
+                <div class="titulos-principal">
+                    <h2>Centros en CDMX, Guadalajara y Monterrey</h2>
+                </div>
+            </div>
             <div class="contacto-box">
                 <div>
                     <i class="direccion-icono fas fa-route"></i>
                 </div>
                 <div>
-                    <p class="segundo-p">MÉXICO CDMX</p>
                     <div class="tercer-p">
-                        <p>TELÉFONO: 555687-6118 <br> DIRECCIÓN: San Francisco #516 Colonia Del Valle, Del. Benito Juárez, C.P. 03100, Méx, D.F. <br> Email: contacto@centrosequoia.com.mx <br> HORARIO DE ATENCIÓN: De Lunes a Viernes de 10:00 a 20:00 hrs.
-                            Sábados de 10:00 a 14:00 hrs.</p>
+                        <h2 class="font-ciudades">CDMX <br> <span>55 56 87-61 18</span> </h2>
+                        <p><span class="font-blanquitas">DIRECCIÓN:</span> San Francisco #516 Colonia Del Valle, </p>
+                        <p>Del. Benito Juárez. C.P. 03100, Méx, DF.</p>
+                        <p><span class="font-blanquitas">Email:</span> contacto@centrosequoia.com.mx </p>
+                        <p><span class="font-blanquitas">HORARIO DE ATENCIÓN:</span></p> 
+                        <p>De Lunes a Viernes de 10:00 a 20:00 hrs.</p>
+                        <p>Sábados de 10:00 a 14:00 hrs.</p>
                     </div>
                 </div>
             </div>
-            <div>
+            <div class="img-90">
                 <img src="img/Mapas/MAPA-CDMX-1015x542.jpg" alt="Mapa-CDMX">
             </div>
-            <p class="primer-p">Centros en CDMX, Guadalajara y Monterrey</p>
-
             <div class="contacto-box">
                 <div>
                     <i class="direccion-icono fas fa-route"></i>
                 </div>
                 <div>
-                    <p class="segundo-p">GUADALAJARA</p>
                     <div class="tercer-p">
-                        <p>TELÉFONO: 33 3615-2835 <br> DIRECCIÓN: José María Vigil #2750, Colonia Providencia, C.P. 44639, Guadalajara, Jalisco <br> Email: guadalajara@centrosequoia.com.mx <br> HORARIO DE ATENCIÓN: De Lunes a Viernes de 10:00 a 14:00 y 16:00
-                            a 20:00hrs. Sábados de 10:00 a 14:00hrs</p>
+                        <h2 class="font-ciudades">GDL<br> <span>33 36 15-28 35 </span> </h2>
+                        <p><span class="font-blanquitas">DIRECCIÓN:</span> José María Vigil #2750, Colonia Providencia,</p>
+                        <p>C.P.44639, Guadalajara, Jalisco</p>
+                        <p><span class="font-blanquitas">Email:</span> guadalajara@centrosequoia.com.mx </p>
+                        <p><span class="font-blanquitas">HORARIO DE ATENCIÓN:</span></p> 
+                        <p>De Lunes a Viernes de 10:00 a 14:00 y 16:00 a 20:00hrs. </p>
+                        <p>Sábados de 10:00 a 14:00 hrs.</p>
                     </div>
                 </div>
             </div>
-            <div>
+            <div class="img-90">
                 <img src="img/Mapas/MAPA-CDMX-1015x542.jpg" alt="Mapa-CDMX">
             </div>
-            <p class="primer-p">Centros en CDMX, Guadalajara y Monterrey</p>
-
             <div class="contacto-box">
                 <div>
                     <i class="direccion-icono fas fa-route"></i>
                 </div>
                 <div>
-                    <p class="segundo-p">MONTERREY</p>
                     <div class="tercer-p">
-                        <p>TELÉFONO: 8111592265 <br> DIRECCIÓN: Rio Amazonas Ote. #316 Col. Del Valle San Pedro Garza Garcia N.L. C.P. 66220 <br> Email: monterrey@centrosequoia.com.mx <br> HORARIO DE ATENCIÓN: De Lunes a Viernes de 10:00 a 14:00 y 16:00
-                            a 20:00hrs. Sábados de 10:00 a 14:00hrs</p>
+                        <h2 class="font-ciudades">MTY<br> <span>81 11 59 22 65</span> </h2>
+                        <p><span class="font-blanquitas">DIRECCIÓN:</span>Rio Amazonas Ote. #316 Col. Del Valle</p>
+                        <p>San Pedro Garza Garcia N.L C.P.66220</p>
+                        <p><span class="font-blanquitas">Email:</span>monterrey@centrosequoia.com.mx</p>
+                        <p><span class="font-blanquitas">HORARIO DE ATENCIÓN:</span></p> 
+                        <p>De Lunes a Viernes de 10:00 a 14:00 y 16:00 a 20:00hrs.</p>
+                        <p>Sábados de 10:00 a 14:00 hrs.</p>
                     </div>
                 </div>
             </div>
-            <div>
+            <div class="img-90">
                 <img src="img/Mapas/MAPA-CDMX-1015x542.jpg" alt="Mapa-CDMX">
-            </div>
-            
-            <div class="formulario">
-                <h3>Formulario de contacto</h3>
             </div>
             <div class="formulario">
                 <form action="enviar " method="post">

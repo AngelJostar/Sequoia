@@ -26,9 +26,17 @@
 
         <div class="contendor-crecimiento">
             <div class="cuadros-crecimiento">
-                <h1>Crecimiento infantil-generalidades
-
-                </h1>
+                <div class="titulos-principal titulos-grid">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1> <span class="font-bold">CRECIMIENTO <br> GENERALIDADES</h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="textos-principal">
                 <p>El crecimiento es el proceso biológico más característico de la infancia. Se inicia en el momento de la fecundación del óvulo y se extiende hasta que finaliza la maduración de los huesos y se completa el desarrollo sexual, lo que ocurre
                     habitualmente, hacia el final de la segunda década de la vida</p>
             </div>
@@ -36,13 +44,15 @@
                 <div class="reproductor-rectangular" data-id="yIhxulvi3r0"></div>
             </div>
             <div class="contenedor-generalidades">
-                <div class="encabezado-crecimiento-deficiente">
-                    <h2>Temas importantes relacionados con el crecimiento de tu hijo o hija</h2>
+                <div class="cuadros-crecimiento margin-top-20 ">
+                    <div class="titulos-principal">
+                    <h2>TEMAS IMPORTANTES RELACIONADOS CON EL CRECIMIENTO DE TU HIJ@</h2>
+                    </div>
                 </div>
-                <div class="justificar-texto-90">
+                <div class="textos-principal">
                     <p>La desinformación puede retrasar las intervenciones cuando realmente es necesario hacer algo. A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu niño o niña:</p>
                 </div>
-                <div class="centrar-texto texto-boton-esp pb-2">
+                <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
                     <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e boton-esp">Factores que afectan el crecimiento</button></a>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2">
@@ -72,32 +82,30 @@
                 <div class="centrar-texto texto-boton-esp pb-2">
                     <a href="/Generalidades-del-crecimiento-infantil/estiron_puberal"><button class="boton-e boton-esp">Estirón Puberal</button></a>
                 </div>
-                <div>
+                <div class="img-90">
                     <img src="img/banners/medir-edad-hijo-hija-crecimiento-infantil-2.webp" alt="medir edad hijo">
                 </div>
-                <div class="encabezado-crecimiento-deficiente">
-                    <h2>Crecimiento Infantil</h2>
+                <div class="cuadros-crecimiento margin-top-20 ">
+                    <div class="titulos-principal">
+                    <h2>CRECIMIENTO INFANTIL</h2>
+                    </div>
                 </div>
-                <div class="justificar-texto-90">
+                <div class="textos-principal margin-top-20">
                     <p>El crecimiento infantil es un proceso extremadamente complejo en el que intervienen diversos factores y es uno de los indicadores del estado de salud del niño, ya que muchas enfermedades pueden dar como primera manifestación la detención
                         del crecimiento.
                     </p>
                 </div>
-                <div class="justificar-texto-90">
-                    <p>Para la adecuada valoración de la talla de un niño es importante considerar los distintos factores que intervienen e interactúan en el correcto desarrollo infantil:
-
-                    </p>
-                </div>
-                <div>
-                    <img src="img/banners/altura-crecimiento-estatura-hijo-hija-1.webp" alt="altura crecimiento estatura">
+                <div class="textos-principal">
+                    <p>Para la adecuada valoración de la talla de un niño es importante considerar los distintos factores que intervienen e interactúan en el correcto desarrollo infantil:                    </p>
                 </div>
                 <div class="contenedor-generalidades">
-                    <div class="generalidades-negritas">
-                        <p>Factores endógenos(propios del niño):
-                        </p>
+                    <div class="cuadros-crecimiento margin-top-20 ">
+                        <div class="titulos-principal">
+                        <h2>FACTORES ENDÓGENOS <br> (PROPIOS DEL NIÑO)</h2>
+                        </div>
                     </div>
-                    <div class="justificar-texto-90-listas">
-                        <ul type="square">
+                    <div class="textos-principal">
+                        <ul type="point">
                             <li> Factores genéticos del crecimiento: Existen genes en el cuerpo humano que participan en el crecimiento de un niño y que son heredados de ambos padres . Los genes del crecimiento de los papás determinan el 80 % de la talla final
                                 adulta de su hijo.</li>
                             <li>Factores hormonales del crecimiento: Durante la etapa fetal interactúan genes y hormonas producidas por el bebe y la placenta para cumplir la función del crecimiento y después del nacimiento la hormona de crecimiento y las
@@ -105,14 +113,14 @@
                         </ul>
                     </div>
                 </div>
-                <div class="contenedor-generalidades">
-                    <div class="generalidades-negritas">
-                        <p>Factores Exógenos(externos):
-                        </p>
+                <div class="cuadros-crecimiento margin-top-20 ">
+                        <div class="titulos-principal">
+                        <h2>FACTORES EXÓGENOS <br> (EXTERNOS):</h2>
+                        </div>
                     </div>
-                    <div class="justificar-texto-90-listas">
-                        <ul type="square">
-                            <li> La alimentación correcta del niño aporta el material energético necesario para su crecimiento. La desnutrición o enfermedades que no permitan la absorción adecuada de los nutrientes pueden dar como resultado una talla baja.
+                    <div class="textos-principal">
+                        <ul type="point">
+                        <li> La alimentación correcta del niño aporta el material energético necesario para su crecimiento. La desnutrición o enfermedades que no permitan la absorción adecuada de los nutrientes pueden dar como resultado una talla baja.
                             </li>
                             <li>Hábitos: La práctica regular del ejercicio para niños es beneficioso para el crecimiento, no así el de competición o alto rendimiento. El sueño durante la noche y de manera temprana es otro factor que influye en la producción
                                 de la hormona de crecimiento natural.</li>
@@ -122,7 +130,7 @@
                             </li>
                         </ul>
                     </div>
-                </div>
+                
                 <div>
                     <img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto-crecimiento-infantil">
                 </div>

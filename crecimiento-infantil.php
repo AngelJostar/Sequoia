@@ -24,77 +24,100 @@
         <?php include_once 'includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
-            <div class="cuadros-crecimiento">
-                <h1>Todo lo que debes saber sobre crecimiento infantil</h1>
-                <p>En Centro Sequoia queremos que tomes decisiones informadas, por eso te presentamos a continuación toda la información que necesitas para entender el crecimiento de tu hijo o hija.</p>
+        <div class="cuadros-crecimiento">
+                <div class="titulos-principal titulos-grid">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1> <span class="font-blanquitas">TODO LO QUE DEBES SABER</span> SOBRE CRECIMIENTO INFANTIL</h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
             </div>
+            <p>En Centro Sequoia queremos que tomes decisiones informadas, por eso te presentamos a continuación toda la información que necesitas para entender el crecimiento de tu hijo o hija.</p>
             <div class="contenedor-video">
                 <div class="reproductor-rectangular" data-id="N9i126SBdP8"></div>
             </div>
-            <div class="justificar-texto-90">
-                <p>A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu niño o niña:
-                </p>
+            <div class="textos-principal">
+                <p>A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu niño o niña:</p>
             </div>
-            <div>
-                <img src="img/banners/altura-crecimiento-estatura-hijo-hija-1.webp" alt="">
-            </div>
-            <div class="curvi-cuadros-crecimiento ">
-                <h2>CRECIMIENTO INFANTIL GENERALIDADES</h2>
-                <p>Te presentamos toda la información necesaria para entender a fondo el crecimiento de tu hijo o hija</p>
-                <div class="aprende-mas">
-                    <a href="generalidades-del-crecimiento-infantil">
-                        <p>APRENDE MÁS</p>
-                    </a>
+            <div class="cuadros-crecimiento">
+                <div class="titulos-principal">
+                    <h2>CRECIMIENTO INFANTIL <br> <span class="letra-cursiva"> generalidades</span></h2>
+                </div>
+                <div>
+                    <img src="img/banners/the-boy-pretends-to-be-superhero-and-is-playing-as-an-astronaut-draw-concept.webp" alt="">
+                </div> 
+                <div class="texto-crecimiento">
+                    <p>A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu niño o niña:</p>
+                </div>
+                <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
+                    <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
 
-            <div class="curvi-cuadros-crecimiento ">
-                <h2>CRECIMIENTO INFANTIL POR EDAD DE NIÑOS Y ADOLECENTES</h2>
-                <p>El crecimiento de niños y niñas puede variar según su edad. Las tasas de crecimiento dependen de la edad de los niños y niñas.</p>
-                <div class="aprende-mas">
-                    <a href="">
-                        <a href="crecimiento-infantil-por-edad">
-                            <p>APRENDE MÁS</p>
-                        </a>
-                    </a>
+            <div class="cuadros-crecimiento">
+                <div class="titulos-principal">
+                <h2>CRECIMIENTO<br> <span class="letra-cursiva">Por edad de niños y adolescentes</span></h2>
+                </div>
+                <div>
+                    <img src="img/banners/children-playing-grass.webp" alt="">
+                </div> 
+                <div class="texto-crecimiento">
+                    <p>Los diferentes trastornos del crecimiento pueden afectar la salud de un niño de muchas formas diferentes y pueden ser causados por una variedad de factores.</p>
+                </div>
+                <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
+                    <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
 
-            <div class="curvi-cuadros-crecimiento ">
-                <h2>CAUSAS DE LA BAJA ESTATURA</h2>
-                <p>Los diferentes trastornos del crecimiento pueden afectar la salud de un niño de muchas formas diferentes y pueden ser causados por una variedad de factores.</p>
-                <div class="aprende-mas">
-                    <a href="">
-                        <a href="causas-de-la-baja-estatura">
-                            <p>APRENDE MÁS</p>
-                        </a>
-                    </a>
+            <div class="cuadros-crecimiento">
+                <div class="titulos-principal">
+                    <h2>¿CÓMO SABER SI TU HIJO O HIJA <br> ESTA CRECIENDO BIEN?</span></h2>
+                </div>
+                <div>
+                    <img src="img/banners/pulse-oximeter-on-kids-finger-for-measure-pulse-rate-and-oxygen-level-on-white-wooden-table-healthy-concept.webp" alt="">
+                </div> 
+                <div class="texto-crecimiento">
+                    <p>Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado.</p>
+                </div>
+                <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
+                    <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
 
-            <div class="curvi-cuadros-crecimiento ">
-                <h2>¿CÓMO SABER SI TU HIJO O HIJA ESTA CRECIENDO BIEN?</h2>
-                <p>Aprende a reconocer el crecimiento deficiente en tu hijo o hija. Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado.
-                </p>
-                <div class="aprende-mas">
-                    <a href="causas-de-la-baja-estatura">
-                        <p>APRENDE MÁS</p>
-                    </a>
+            <div class="cuadros-crecimiento">
+                <div class="titulos-principal">
+                    <h2>CRECIMIENTO INFANTIL <br> <span class="letra-cursiva"> generalidades</span></h2>
+                </div>
+                <div>
+                    <img src="img/banners/mother-with-little-daughter-measure-the-fabric-for-sewing.webp" alt="">
+                </div> 
+                <div class="texto-crecimiento">
+                    <p>A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu niño o niña:</p>
+                </div>
+                <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
+                    <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
 
-            <div class="curvi-cuadros-crecimiento ">
-                <h2>IMPORTANCIA DE SER MAS ALTO
-                </h2>
-                <p>Además de tener más confianza y habilidades sociales debidas a su complexión física, las personas altas también pueden presumir de mayor sueldo, más likes en redes sociales y también de una productividad laboral más amplia.</p>
-                <div class="aprende-mas">
-                    <a href="">
-                        <a href="importancia-de-ser-mas-alto">
-                            <p>APRENDE MÁS</p>
-                        </a>
-                    </a>
+            <div class="cuadros-crecimiento">
+                <div class="titulos-principal">
+                    <h2>CRECIMIENTO INFANTIL <br> <span class="letra-cursiva"> generalidades</span></h2>
+                </div>
+                <div>
+                    <img src="img/banners/little-preschool-boy-plays-the-superhero-outdoors.webp" alt="">
+                </div> 
+                <div class="texto-crecimiento">
+                    <p>A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu niño o niña:</p>
+                </div>
+                <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
+                    <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
+
+
             <div>
                 <img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="especialistas crecimiento">
             </div>

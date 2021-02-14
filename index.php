@@ -23,15 +23,16 @@
     <section id="site-canvas">
 
         <?php include_once 'includes/templates/header.php';?>
-
-
-
         <section class="contenedor-principal">
             <div class="cuadros-crecimiento">
                 <div class="titulos-principal titulos-grid">
-                    <div class="barra-titulo"></div>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
                     <h1> <span class="font-blanquitas">SOMOS ESPECIALISTAS </span><br> EN CRECIMINETO INFANTIL</h1>
-                    <div class="barra-titulo"></div>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
                 </div>
             </div>
 
@@ -96,7 +97,7 @@
             </div>
             <div class="cuadros-crecimiento">
                 <div class="titulos-principal">
-                    <h2>Somos el grupo médico más <br> especializado en <br> Crecimiento infantil <br> de México </span>
+                    <h2>Somos el grupo médico más <br> especializado en <br><span class="letra-cursiva">Crecimiento infantil</span><br> de México </span>
                     </h2>
                 </div>
             </div>
