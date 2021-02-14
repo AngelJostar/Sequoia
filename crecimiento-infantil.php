@@ -57,60 +57,60 @@
                 </div>
             </div>
 
-            <div class="cuadros-crecimiento">
+            <div class="cuadros-crecimiento-crecimiento">
                 <div class="titulos-principal">
-                <h2>CRECIMIENTO<br> <span class="letra-cursiva">Por edad de niños y adolescentes</span></h2>
+                <h2>CRECIMIENTO INFANTIL<br> <span class="letra-cursiva">Por edad de niños y adolescentes</span></h2>
                 </div>
                 <div>
                     <img src="img/banners/children-playing-grass.webp" alt="">
                 </div> 
                 <div class="texto-crecimiento">
-                    <p>Los diferentes trastornos del crecimiento pueden afectar la salud de un niño de muchas formas diferentes y pueden ser causados por una variedad de factores.</p>
+                    <p>El crecimiento de niños y niñas puede variar según su. Las tasas de crecimiento dependen de la edad de los niños y niñas.</p>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
                     <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
 
-            <div class="cuadros-crecimiento">
+            <div class="cuadros-crecimiento-crecimiento">
                 <div class="titulos-principal">
-                    <h2>¿CÓMO SABER SI TU HIJO O HIJA <br> ESTA CRECIENDO BIEN?</span></h2>
+                    <h2>CAUSAS DE LA<br> <span class="letra-cursiva">Baja Estatura</span></h2>
                 </div>
                 <div>
                     <img src="img/banners/pulse-oximeter-on-kids-finger-for-measure-pulse-rate-and-oxygen-level-on-white-wooden-table-healthy-concept.webp" alt="">
                 </div> 
                 <div class="texto-crecimiento">
-                    <p>Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado.</p>
+                    <p>Los diferentes transtornos del crecimiento pueden afectar la salud de un niño de muchas formas diferentes y pueden ser causados por una variedad de factores</p>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
                     <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
 
-            <div class="cuadros-crecimiento">
+            <div class="cuadros-crecimiento-crecimiento">
                 <div class="titulos-principal">
-                    <h2>CRECIMIENTO INFANTIL <br> <span class="letra-cursiva"> generalidades</span></h2>
+                    <h2>¿CÓMO SABER SI TU HIJO O HIJA ESTA CRECIENDO BIEN?</span></h2>
                 </div>
                 <div>
                     <img src="img/banners/mother-with-little-daughter-measure-the-fabric-for-sewing.webp" alt="">
                 </div> 
                 <div class="texto-crecimiento">
-                    <p>A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu niño o niña:</p>
+                    <p>Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado</p>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
                     <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
 
-            <div class="cuadros-crecimiento">
+            <div class="cuadros-crecimiento-crecimiento">
                 <div class="titulos-principal">
-                    <h2>CRECIMIENTO INFANTIL <br> <span class="letra-cursiva"> generalidades</span></h2>
+                    <h2>CAUSAS DE LA <br> <span class="letra-cursiva">Baja Estatura</span></h2>
                 </div>
                 <div>
                     <img src="img/banners/little-preschool-boy-plays-the-superhero-outdoors.webp" alt="">
                 </div> 
                 <div class="texto-crecimiento">
-                    <p>A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu niño o niña:</p>
+                    <p>Además de tener más confianza y habilidades sociales debidas a su complexión física, las personas altas también pueden presumir de mayor..</p>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
                     <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>

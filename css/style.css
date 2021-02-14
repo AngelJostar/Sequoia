@@ -1342,6 +1342,34 @@ div.youtube-play:hover {
     margin-bottom: 2rem;
 }
 
+.cuadros-crecimiento-crecimiento {
+    background-color: #00205E;
+    -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.383);
+    -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.383);
+    margin-top: 40px;
+}
+
+.cuadros-crecimiento-crecimiento p {
+    color: rgba(255, 255, 255, 0.89);
+    font-size: 17px;
+    max-width: 90%;
+    margin: 0 auto;
+    font-weight: 300;
+    padding-bottom: 1rem;
+    line-height: 23px;
+}
+
+.cuadros-crecimiento-crecimiento h1 {
+    color: rgba(255, 255, 255, 0.89);
+    font-size: 18px;
+    max-width: 90%;
+    text-align: center;
+    margin: 0 auto;
+    font-weight: 400;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
 
 /*END_CRECIMIENTO_INFANTIL*/
 
