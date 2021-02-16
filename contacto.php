@@ -117,12 +117,19 @@
                 <h2 class="contacto-h2">Envíanos tus dudas y comentarios</h2>
                 <p>NOMBRE *</p>
                 <input type="text" name="nombre" placeholder="Nombre" required>
-                <p>CORREO *</p>
+                <p>CORREO ELECTRONICO    *</p>
                 <input type="email" name="correo" placeholder="Correo" required>
                 <p>TELÉFONO</p>
                 <input type="tel" name="telefono" placeholder="Teléfono" required>
-                <p>ASUNTO</p>
-                <input type="text" name="asunto" placeholder="Asunto">
+                <p>ELIGE UN CENTRO</p>
+                <select name="OS">
+                <option value="1">Windows Vista</option> 
+                <option value="2">Windows 7</option> 
+                <option value="3">Windows XP</option>
+                <option value="10">Fedora</option> 
+                <option value="11">Debian</option> 
+                <option value="12">Suse</option> 
+                </select>
                 <p>MENSAJE</p>
                 <textarea name="mensaje" placeholder="Escriba aqui su mensaje" required></textarea>
                 <input type="submit" value="ENVIAR" id="boton">
@@ -152,8 +159,9 @@
 </section>
 <!--####HEADER####-->
 
-<a href="#" class="scrollup"><i class="fas fa-angle-double-up fa-2x"></i></a>
-<!--####FOOTER####-->
+<a href="contacto" class="scrollup">
+    <p>CONTACTO</p>
+</a><!--####FOOTER####-->
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>

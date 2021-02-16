@@ -1,7 +1,7 @@
 <header>
     <div class="contenedor">
         <div class="mid-header">
-            <div class="mid-image deepmid-header">
+            <div class="mid-image deepmid-header" id="mid-image">
                 <a href="index "><img src="../img/Logo-Horizontal.jpg" alt="imagen-logo"></a>
             </div>
             <div class="mid-font">

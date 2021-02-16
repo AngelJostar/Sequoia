@@ -23,7 +23,7 @@
     <section id="site-canvas">
 
         <?php include_once 'includes/templates/header.php';?>
-        <section class="contenedor-principal">
+        <section class="contenedor-principal" id="contenedor-principal">
             <div class="cuadros-crecimiento">
                 <div class="titulos-principal titulos-grid">
                     <div class="flexbox padre">
@@ -123,7 +123,7 @@
 
 <!--####HEADER####-->
 
-<a href="#" class="scrollup">
+<a href="contacto" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

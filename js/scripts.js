@@ -14,10 +14,18 @@ $(document).ready(function() {
             // Do things on Nav Close
             $('#site-wrapper').removeClass('show-nav');
             $('#top-header').removeClass('mover-header');
+            $('#mid-image').removeClass('blur');
+            $('#contenedor-principal').removeClass('blur');
+            $('#top-header').removeClass('blur');
+
+
         } else {
             // Do things on Nav Open
             $('#site-wrapper').addClass('show-nav');
             $('#top-header').addClass('mover-header');
+            $('#mid-image').addClass('blur');
+            $('#contenedor-principal').addClass('blur');
+            $('#top-header').addClass('blur');
         }
         //$('#site-wrapper').toggleClass('show-nav');
     }
