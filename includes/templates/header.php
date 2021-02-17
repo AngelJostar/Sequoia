@@ -2,7 +2,7 @@
     <div class="contenedor">
         <div class="mid-header">
             <div class="mid-image deepmid-header" id="mid-image">
-                <a href="index "><img src="../img/Logo-Horizontal.jpg" alt="imagen-logo"></a>
+                <a href="index "><img src="../img/Logo-Horizontal.webp" alt="imagen-logo"></a>
             </div>
             <div class="mid-font">
                 <a href="tel:+5555238959">
@@ -30,7 +30,10 @@
                 <div class="site-menu-content">
                     <div class="encabezado-menu">
                     </div>
-                    <a href="#" class="toggle-nav icono-menu"><i class="far fa-window-close"></i></a>
+                    <div class="menu-header">
+                        <a href="index "><img src="../img/Logo-Horizontal.webp" alt="imagen-logo"></a>
+                        <a href="#" class="toggle-nav icono-menu"><i class="far fa-window-close"></i></a>
+                    </div>
                     <ul class="resaltar">
                         <li><a href="index" class="menu-a">Inicio</a></li>
                         <div class="linea-menu"></div>
@@ -46,10 +49,13 @@
                         <div class="linea-menu"></div>
                     </ul>
                     <div class="centrar-texto">
-                        <a href="tel:+5555238959"><button class="boton-brexia-menu">Llámanos <br> (55) 5523 8959</button></a>
+                        <a href="tel:+5555238959"><button class="boton-brexia-menu"><span class="color-verde">CDMX:</span><br><span>(55)5687-6118</span></button></a>
                     </div>
                     <div class="centrar-texto">
-                        <a href="../contacto "><button class="boton-brexia-menu">Escribenos a <br> contacto@brexia.mx</button></a>
+                        <a href="../contacto "><button class="boton-brexia-menu"><span class="color-verde">GDL</span><br><span>(33)3615-2835</span></button></a>
+                    </div>
+                    <div class="centrar-texto">
+                        <a href="../contacto "><button class="boton-brexia-menu"><span class="color-verde">MTY</span><br><span>(81)1159-2265</span></button></a>
                     </div>
                 </div>
             </div>
