@@ -39,8 +39,8 @@
             <div class="contenedor-video">
                 <div class="reproductor-rectangular" data-id="N9i126SBdP8"></div>
             </div>
-            <div class="textos-principal">
-                <p>A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu niño o niña:</p>
+            <div class="textos-principal-t">
+                <p>A continuación puedes explorar los temas más<br>importantes relacionados con el crecimiento de tu hij@</p>
             </div>
             <div class="cuadros-crecimiento">
                 <div class="titulos-principal">
@@ -50,7 +50,7 @@
                     <img src="img/banners/the-boy-pretends-to-be-superhero-and-is-playing-as-an-astronaut-draw-concept.webp" alt="">
                 </div>
                 <div class="texto-crecimiento">
-                    <p>A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu niño o niña:</p>
+                    <p>A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu hij@</p>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
                     <a href="generalidades-del-crecimiento-infantil"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
