@@ -1655,3 +1655,206 @@ td {
 
 
 /*END_AVISO DE PRIVACIDAD*/
+
+
+/*Importancia de ser mas alto*/
+
+.caja-imagen-hojas {
+    position: relative;
+    display: inline-block;
+    width: 375px;
+}
+
+.texto-imagen-izquierda h2 {
+    font-weight: 700;
+    position: absolute;
+    text-align: center;
+    top: 25px;
+    left: 10px;
+    width: 232px;
+    font-size: 10.8px !important;
+    font-weight: bolder;
+    color: #00205E !important;
+}
+
+.titulos-principal-2 h2 {
+    text-align: center;
+    font-weight: 700;
+    color: #FFF;
+    padding: 37px 0 10px 0;
+    margin: 0;
+    font-size: 17px !important;
+}
+
+.texto-importancia p {
+    margin: 0 auto;
+    max-width: 95%;
+    font-size: 12px;
+    font-weight: 400;
+    color: #FFF;
+    text-align: center;
+    line-height: 20px;
+    margin-top: 0;
+    padding-bottom: 34px;
+}
+
+.texto-importancia-2 p {
+    margin: 0 auto;
+    max-width: 93%;
+    font-size: 11.5px;
+    font-weight: 300;
+    color: #FFF;
+    text-align: center;
+    line-height: 20px;
+    margin-top: 0;
+    padding-bottom: 0;
+}
+
+.contenedor-video-2 {
+    display: block;
+    margin: auto;
+    width: 90%;
+    max-width: 600px;
+    padding-top: 2rem;
+}
+
+.box {
+    width: 300px;
+    height: 100px;
+    background: #fff;
+    margin: 40px auto;
+    /*box-shadow: 0 5px 5px 0 rgb(192, 212, 31) inset, 0 5px 5px 0 rgb(192, 212, 31);
+*/
+}
+
+.box h3 {
+    text-align: center;
+    position: relative;
+    top: 80px;
+    font-size: 1em;
+}
+
+.efecto3 {
+    position: relative;
+}
+
+.efecto3::before {
+    /* no aplica contenidos */
+    content: "";
+    position: absolute;
+    /* posiciona la sombra por detras de la caja */
+    z-index: -1;
+    top: -10px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    box-shadow: 0 5px 5px 0 rgb(192, 212, 31) inset;
+}
+
+.efecto3::after {
+    /* no aplica contenidos */
+    content: "";
+    position: absolute;
+    /* posiciona la sombra por detras de la caja */
+    z-index: -1;
+    /* aplica una sombra centrada con un gris oscuro y 20px de difuminado */
+    -webkit-box-shadow: 0 0 20px #777;
+    -moz-box-shadow: 0 0 20px #777;
+    box-shadow: 0 5px 5px 0 rgb(192, 212, 31);
+    /* centra verticalmente y separa la sombra de los bordes izquierdo y derecho */
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    /* redondea las esquinas de la sombra */
+    /*-moz-border-radius: 100px / 10px;
+    border-radius: 100px / 10px;*/
+}
+
+.player {
+    width: 480px;
+    height: 80px;
+    border-radius: 0 40px 40px 0;
+    background-color: #0000FF;
+    position: relative;
+    color: #FFF;
+}
+
+.player:before {
+    width: 80px;
+    height: 80px;
+    border-radius: 0 40px 40px 0;
+    background-color: #FFF;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+    content: '';
+}
+
+.margin-negativo {
+    margin-bottom: -25px;
+}
+
+.titulos-principal-3 h2 {
+    text-align: center;
+    font-weight: 700;
+    color: #FFF;
+    padding: 25px 0 20px 0;
+    margin: 0;
+    font-size: 14px !important;
+}
+
+.titulos-principal-33 h2 {
+    text-align: center;
+    font-weight: 700;
+    color: #FFF;
+    padding: 20px 0 0 0;
+    margin: 0;
+    font-size: 16px !important;
+}
+
+.font-blanquitas-curveadas {
+    font-weight: 400;
+    font-style: italic;
+}
+
+.img-95 {
+    max-width: 93%;
+    margin: 0 auto;
+}
+
+.textos-principal-importancia p {
+    margin: 0 auto;
+    max-width: 90%;
+    font-size: 13px;
+    font-weight: 500;
+    color: rgb(135, 135, 135);
+    text-align: center;
+    word-spacing: 0;
+    line-height: 20px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.textos-principal-2 p {
+    margin: 0 auto;
+    max-width: 90%;
+    font-size: 11px;
+    font-weight: 500;
+    color: rgb(135, 135, 135);
+    text-align: center;
+    word-spacing: 0;
+    line-height: 20px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.margin-negativo-2 {
+    margin-bottom: -20px;
+}
+
+.letra-cursiva-2 {
+    font-family: 'Dawning of a New Day', cursive;
+    font-size: 27px;
+    font-weight: 500;
+}
