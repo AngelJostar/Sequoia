@@ -24,7 +24,7 @@
         <?php include_once 'includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
-        <div class="cuadros-crecimiento">
+            <div class="cuadros-crecimiento">
                 <div class="titulos-principal titulos-grid">
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
@@ -48,27 +48,27 @@
                 </div>
                 <div>
                     <img src="img/banners/the-boy-pretends-to-be-superhero-and-is-playing-as-an-astronaut-draw-concept.webp" alt="">
-                </div> 
+                </div>
                 <div class="texto-crecimiento">
                     <p>A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu niño o niña:</p>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
-                    <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
+                    <a href="generalidades-del-crecimiento-infantil"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
 
             <div class="cuadros-crecimiento-crecimiento">
                 <div class="titulos-principal">
-                <h2>CRECIMIENTO INFANTIL<br> <span class="letra-cursiva">Por edad de niños y adolescentes</span></h2>
+                    <h2>CRECIMIENTO INFANTIL<br> <span class="letra-cursiva">Por edad de niños y adolescentes</span></h2>
                 </div>
                 <div>
                     <img src="img/banners/children-playing-grass.webp" alt="">
-                </div> 
+                </div>
                 <div class="texto-crecimiento">
                     <p>El crecimiento de niños y niñas puede variar según su. Las tasas de crecimiento dependen de la edad de los niños y niñas.</p>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
-                    <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
+                    <a href="crecimiento-infantil-por-edad"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
 
@@ -78,22 +78,23 @@
                 </div>
                 <div>
                     <img src="img/banners/pulse-oximeter-on-kids-finger-for-measure-pulse-rate-and-oxygen-level-on-white-wooden-table-healthy-concept.webp" alt="">
-                </div> 
+                </div>
                 <div class="texto-crecimiento">
                     <p>Los diferentes transtornos del crecimiento pueden afectar la salud de un niño de muchas formas diferentes y pueden ser causados por una variedad de factores</p>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
-                    <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
+                    <a href="causas-de-la-baja-estatura"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
 
             <div class="cuadros-crecimiento-crecimiento">
                 <div class="titulos-principal">
-                    <h2>¿CÓMO SABER SI TU HIJO O HIJA ESTA CRECIENDO BIEN?</span></h2>
+                    <h2>¿CÓMO SABER SI TU HIJO O HIJA ESTA CRECIENDO BIEN?</span>
+                    </h2>
                 </div>
                 <div>
                     <img src="img/banners/mother-with-little-daughter-measure-the-fabric-for-sewing.webp" alt="">
-                </div> 
+                </div>
                 <div class="texto-crecimiento">
                     <p>Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado</p>
                 </div>
@@ -108,12 +109,12 @@
                 </div>
                 <div>
                     <img src="img/banners/little-preschool-boy-plays-the-superhero-outdoors.webp" alt="">
-                </div> 
+                </div>
                 <div class="texto-crecimiento">
                     <p>Además de tener más confianza y habilidades sociales debidas a su complexión física, las personas altas también pueden presumir de mayor..</p>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
-                    <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
+                    <a href="causas-de-la-baja-estatura"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
 
@@ -137,7 +138,9 @@
 </section>
 <!--####HEADER####-->
 
-<a href="#" class="scrollup"><i class="fas fa-angle-double-up fa-2x"></i></a>
+<a href="contacto" class="scrollup">
+    <p>CONTACTO</p>
+</a>
 <!--####FOOTER####-->
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>

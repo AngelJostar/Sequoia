@@ -23,7 +23,7 @@
     <section id="site-canvas">
 
         <?php include_once 'includes/templates/header.php';?>
-        <section class="contenedor-principal">
+        <section class="contenedor-principal" id="contenedor-principal">
             <div class="cuadros-crecimiento">
                 <div class="titulos-principal titulos-grid">
                     <div class="flexbox padre">
@@ -35,7 +35,10 @@
                     </div>
                 </div>
             </div>
-
+            <div class="sombras-img">
+                <img src="/img/banners/BANNERS-Principal-2021.webp" alt="Portada">
+            </div>
+            
             <div class="textos-principal">
                 <p><span class="font-negritas">Centro SEQUOIA</span> es un <span class="font-negritas">Centro Pediátrico Exclusivo para el Crecimiento infantil</span> formado por Médicos Pediatras Endocrinólogos, certificados por el Consejo Mexicano de Endocrinología
                     A.C. Ellos diagnosticarán las causas por las que tu hijo no crece adecuadamente y lo ayudaran a alcanzar una mayor estatura.</p>
@@ -72,14 +75,11 @@
             </div>
 
             <div class="textos-principal">
-                <p>Seguramente te has preguntado, ¿Si el crecimiento de tu niño es normal? ¿Por qué un hermano menor casi lo alcanza o es más alto? ¿Tu hijo está creciendo más lento de lo habitual? o ¿Por qué está en los primeros lugares de las formaciones
-                    escolares?, mientras que sus compañeros cada vez tienen mayor altura. </p>
+                <p><span class="font-bold">Seguramente te has preguntado,</span> ¿Si el crecimiento de tu niño es normal? <span class="font-bold">¿Por qué un hermano menor casi lo alcanza o es más alto?</span> ¿Tu hijo está creciendo más lento de lo habitual? o <span class="font-bold">¿Por qué está en los primeros lugares de las formaciones
+                    escolares?</span>, mientras que sus compañeros cada vez tienen mayor altura. </p>
             </div>
             <div class="contenedor-video">
                 <div class="reproductor" data-id="U250LTLFuok"></div>
-            </div>
-            <div class="contenedor-calculadora">
-                <a href="#"><img src="img/banners/altura-crecimiento-estatura-hijo-hija-1.webp" alt="calculadora-de-estatura"></a>
             </div>
             <div class="cuadros-crecimiento">
                 <div class="titulos-principal">
@@ -97,7 +97,7 @@
             </div>
             <div class="cuadros-crecimiento">
                 <div class="titulos-principal">
-                    <h2>Somos el grupo médico más <br> especializado en <br><span class="letra-cursiva">Crecimiento infantil</span><br> de México </span>
+                    <h2>Somos el grupo médico más <br> especializado en <br><span style="font-size: 30px !important;" class="letra-cursiva">Crecimiento Infantil</span><br> de México </span>
                     </h2>
                 </div>
             </div>
@@ -121,7 +121,7 @@
 
 <!--####HEADER####-->
 
-<a href="#" class="scrollup">
+<a href="contacto" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

@@ -25,7 +25,7 @@
 
 
         <div class="contendor-crecimiento">
-        <div class="cuadros-crecimiento">
+            <div class="cuadros-crecimiento">
                 <div class="titulos-principal titulos-grid">
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
@@ -37,20 +37,19 @@
                 </div>
             </div>
             <div class="textos-principal">
-                <p>Es muy importante que sepas si la tasa de crecimiento del niño es la que debería ser, a cualquier edad. Si el niño no está creciendo adecuadamente, puede ser el primer signo de una posible condición médica. Esta página puede orientarte
-                    sobre los signos claves que indicarían un crecimiento deficiente y lo que pueden significar para la salud del niño.</p>
+                <p>Es muy importante que sepas si la tasa de crecimiento del niño es la que debería ser, a cualquier edad.</p>
             </div>
             <div class="textos-principal">
                 <p>Cualquiera que sea la edad de su hijo, es importante saber si está creciendo como debería. Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado.
-                        </p>
+                </p>
             </div>
             <div class="contenedor-infantil-deficiente">
                 <div class="contenedor-video">
-                    <div class="reproductor-rectangular" data-id="u-fkiafxU70"></div>
+                    <div class="reproductor-rectangular" data-id="zs9O0oeo3V4"></div>
                 </div>
                 <div class="cuadros-crecimiento margin-top-20">
                     <div class="titulos-principal">
-                    <h2>¿Cómo reconocer un crecimiento deficiente en tu hijo?</h2>
+                        <h2>¿CÓMO RECONOCCER UN CRECIMIENTO DEFICIENTE EN TU HIJO?</h2>
                     </div>
                 </div>
                 <div class="textos-principal">
@@ -64,7 +63,7 @@
                 </div>
                 <div class="cuadros-crecimiento margin-top-20">
                     <div class="titulos-principal">
-                    <h2>¿QUÉ SIGNIFICA UN CRECIMIENTO <br> DEFICIENTE EN MI HIJO?</h2>
+                        <h2>¿QUÉ SIGNIFICA UN CRECIMIENTO <br> DEFICIENTE EN MI HIJO?</h2>
                     </div>
                 </div>
                 <div class="textos-principal">
@@ -93,7 +92,9 @@
 </section>
 <!--####HEADER####-->
 
-<a href="#" class="scrollup"><i class="fas fa-angle-double-up fa-2x"></i></a>
+<a href="contacto" class="scrollup">
+    <p>CONTACTO</p>
+</a>
 <!--####FOOTER####-->
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
