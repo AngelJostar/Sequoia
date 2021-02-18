@@ -35,17 +35,17 @@
                         <a href="#" class="toggle-nav icono-menu"><i class="far fa-window-close"></i></a>
                     </div>
                     <ul class="resaltar">
-                        <li><a href="index" class="menu-a">Inicio</a></li>
+                        <li class="size-hojita hojita-menu margin-top-20"><a href="index" class="menu-a"> <img src="../../img/banners/HOJITA VERDE-01.webp" alt="hojita verde"> Inicio</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="../../crecimiento-infantil" class="menu-a">Crecimiento Infantil</a></li>
+                        <li class="size-hojita hojita-menu"><a href="index" class="menu-a"> <img src="../../img/banners/HOJITA VERDE-01.webp" alt="hojita verde">Crecimiento Infantil</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="../../especialistas-en-crecimiento" class="menu-a">Especialistas en crecimiento infantil</a></li>
+                        <li class="size-hojita hojita-menu"><a href="index" class="menu-a"> <img src="../../img/banners/HOJITA VERDE-01.webp" alt="hojita verde">Especialistas en crecimiento infantil</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="../../crecimiento-infantil-deficiente" class="menu-a">Crecimiento infantil deficiente</a></li>
+                        <li class="size-hojita hojita-menu"><a href="index" class="menu-a"> <img src="../../img/banners/HOJITA VERDE-01.webp" alt="hojita verde"> infantil deficiente</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="../../preguntas-frecuentes" class="menu-a">Preguntas Frecuentes</a></li>
+                        <li class="size-hojita hojita-menu"><a href="index" class="menu-a"> <img src="../../img/banners/HOJITA VERDE-01.webp" alt="hojita verde"> Frecuentes</a></li>
                         <div class="linea-menu"></div>
-                        <li><a href="../../contacto" class="menu-a">Contacto</a></li>
+                        <li class="size-hojita hojita-menu"><a href="index" class="menu-a"> <img src="../../img/banners/HOJITA VERDE-01.webp" alt="hojita verde">Contacto</a></li>
                         <div class="linea-menu"></div>
                     </ul>
                     <div class="centrar-texto">
@@ -57,6 +57,19 @@
                     <div class="centrar-texto">
                         <a href="../contacto "><button class="boton-brexia-menu"><span class="color-verde">MTY</span><br><span>(81)1159-2265</span></button></a>
                     </div>
+                    <div class="redes-footer margin-top-20">
+        <div class="wow fadeInDown" data-wow-delay="0.1s">
+            <div class="widget">
+                <ul class="company-social company-social-header">
+                    <li class="social-facebook"><a href="https://www.facebook.com/CentroBrexia/?ref=br_rs"><i class="fab fa-facebook-f fa-2x"></i></a></li>
+                    <li class="social-whatsapp"><a href="https://api.whatsapp.com/send?phone=5215551358125&text=%22Hola!%20me%20gustar%C3%ADa%20obtener%20mas%20informaci%C3%B3n%22"><i class="fab fa-whatsapp fa-2x"></i></a></li>
+                    <li class="social-twitter"><a href="https://twitter.com/Centro_Brexia"><i class="fab fa-twitter fa-2x"></i></a></li>
+                    <li class="social-instagram"><a href="https://www.instagram.com/centro.brexia/?hl=es-la"><i class="fab fa-instagram fa-2x"></i></a></li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
                 </div>
             </div>
             <!-- CANVAS CONTENT -->
