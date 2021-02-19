@@ -27,14 +27,20 @@
 
         <div class="contendor-crecimiento">
             <div class="cuadros-crecimiento">
-                <div class="titulos-principal titulos-grid">
+                <div style="grid-template-columns: 9% 82% 9% !important;" class="titulos-principal titulos-grid">
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1 style="font-size: 14px !important;"> <span class="font-blanquitas">El especialista adecuado</span><br> para tratar el crecimiento infantil es el endocrinólogo pediatra especializado en crecimiento</h1>
+                    <h1 style="font-size: 14px !important;"> <span class="font-blanquitas">El especialista adecuado</span> para tratar<br>el crecimiento infantil es el endocrinólogo<br>pediatra especializado en crecimiento</h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
+                </div>
+            </div>
+            <div class="caja-imagen-hojas pb-2">
+                <img src="/img/banners/banner-doctora.webp" alt="">
+                <div class="texto-imagen-izquierda-esp">
+                    <h2>Es muy importante que sepas que existen<br>médicos, pediatras con subespecialidad<br>en endocrinología pediátrica, ¿que además<br>después se enfocan en tratar únicamente la estatura de los niños y niñas.</h2>
                 </div>
             </div>
             <div class="contenedor-video">
@@ -61,7 +67,7 @@
                 </div>
                 <div class="cuadros-crecimiento">
                     <div class="titulos-principal margin-top-20">
-                        <h2>¿Cuándo acudir con un especialista en crecimiento infantil?</h2>
+                        <h2><span class="font-blanquitas">¿Cuándo acudir con un especialista en crecimiento infantil?</span></h2>
                     </div>
                 </div>
                 <div class="textos-principal">
@@ -76,10 +82,12 @@
                 <div>
                     <img src="img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="contacto crecimiento infantil">
                 </div>
-            
+                <div>
+                    <img src="img/banners/BANNER-DR-MONICA-HORIZONTAL.webp" alt="contacto crecimiento infantil">
+                </div>
                 <div class="cuadros-crecimiento">
                     <div class="titulos-principal margin-top-20">
-                        <h2>¿POR QUÉ ACUDIR A <span class="font-blanquitas">CENTRO SEQUOIA</span></h2>
+                        <h2>¿POR QUÉ ACUDIR A <span class="font-blanquitas">CENTRO SEQUOIA?</span></h2>
                     </div>
                 </div>
                 <div class="textos-principal">
@@ -87,9 +95,11 @@
                         el centro más especializado en crecimiento de México.
                     </p>
                 </div>
-                                <div class="cuadros-crecimiento">
-                    <div class="titulos-principal margin-top-20">
-                    <h2 style="max-width: 90%; margin: 0 auto;">Los endocrinólogos pediatras especializados en crecimiento infantil de Centro Sequoia son la mejor opción para los niños y niñas que busquen conseguir una mayor estatura. </h2>
+                <div class="cuadros-crecimiento">
+                    <div class="titulos-principal-esp margin-top-20 pt-15 pb-15">
+                        <div class="barra-titulo"></div>
+                        <h2>Los endocrinólogos pediatras especializados en crecimiento infantil de Centro Sequoia son la mejor opción para los niños y niñas que busquen conseguir una mayor estatura. </h2>
+                        <div class="barra-titulo"></div>
                     </div>
                 </div>
                 <div class="textos-principal">

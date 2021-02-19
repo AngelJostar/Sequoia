@@ -36,8 +36,19 @@
                     </div>
                 </div>
             </div>
+            <div class="caja-imagen-hojas">
+                <img src="/img/banners/banner-niños.webp" alt="banner-doctor">
+                <div class="texto-imagen-derecha">
+                    <h2><span class="font-remarcadas">Es muy importante que<br>sepas si la tasa de<br>crecimiento del niño<br>es la que debería ser,<br>a cualquier edad.</span></h2>
+                </div>
+            </div>
             <div class="textos-principal">
-                <p>Es muy importante que sepas si la tasa de crecimiento del niño es la que debería ser, a cualquier edad.</p>
+                <p>Si el niño no está creciendo adecuadamente, puede ser el primer signo de una posible condición médica.
+                </p>
+            </div>
+            <div class="textos-principal">
+                <p>Esta página puede orientarte sobre los signos claves que indicarían un crecimiento deficiente y lo que pueden significar para la salud del niño.
+                </p>
             </div>
             <div class="textos-principal">
                 <p>Cualquiera que sea la edad de su hijo, es importante saber si está creciendo como debería. Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado.
@@ -49,7 +60,7 @@
                 </div>
                 <div class="cuadros-crecimiento margin-top-20">
                     <div class="titulos-principal">
-                        <h2>¿CÓMO RECONOCCER UN CRECIMIENTO DEFICIENTE EN TU HIJO?</h2>
+                        <h2><span class="font-remarcadas">¿CÓMO RECONOCER UN CRECIMIENTO DEFICIENTE<br>EN TU HIJO?</span></h2>
                     </div>
                 </div>
                 <div class="textos-principal">
@@ -63,7 +74,7 @@
                 </div>
                 <div class="cuadros-crecimiento margin-top-20">
                     <div class="titulos-principal">
-                        <h2>¿QUÉ SIGNIFICA UN CRECIMIENTO <br> DEFICIENTE EN MI HIJO?</h2>
+                        <h2><span class="font-remarcadas">¿QUÉ SIGNIFICA UN CRECIMIENTO <br> DEFICIENTE EN MI HIJO?<br></h2>
                     </div>
                 </div>
                 <div class="textos-principal">
@@ -73,10 +84,7 @@
                     <img src="img/banners/ICONOS WEB Sequoia 2021-17.webp" alt="">
                 </div>
                 <div>
-                    <img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="especialista crecimiento infantil">
-                </div>
-                <div>
-                    <img src="img/banners/causas-crecimiento-hijo-hija-2.webp" alt="causas crecimiento hijo">
+                    <img src="img/banners/banner-niño-llorando.webp" alt="causas crecimiento hijo">
                 </div>
 
             </div>
