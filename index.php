@@ -66,7 +66,7 @@
                 </div>
             </div>
             <div class="pb-2">
-                <img src="img/banners/Banner-mujer-y-niño.webp" alt="Banners-estatura-crecer">
+                <img src="img/banners/Banner-mujer-y-nino.webp" alt="Banners-estatura-crecer">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">
