@@ -36,7 +36,7 @@
                 </div>
             </div>
             <div class="caja-imagen-hojas">
-                <img src="/img/banners/banner-doctor-doctora.webp" alt="">
+                <img src="/img/banners/banner-doctor-doctora.webp" alt="banner-doctor">
                 <div class="texto-imagen-derecha">
                     <h2>En <span class="font-remarcadas">Centro Sequoia</span><br>queremos que tomes<br><span class="font-remarcadas">decisiones informadas</span>, por eso<br>te presentamos a continuación<br>toda la información que<br>necesitas para entender
                         el
@@ -116,7 +116,7 @@
                 </div>
                 <div>
                     <img src="img/banners/ninio-en-la-nauraleza.webp" alt="">
-                </div>
+                </div>  
                 <div class="texto-crecimiento">
                     <p>Además de tener más confianza y habilidades sociales debidas a su complexión física, las personas altas también pueden presumir de mayor..</p>
                 </div>
