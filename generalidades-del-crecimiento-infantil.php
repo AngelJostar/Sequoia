@@ -26,7 +26,7 @@
 
         <div class="contendor-crecimiento">
             <div class="cuadros-crecimiento">
-                <div class="titulos-principal titulos-grid">
+                <div  style="grid-template-columns: 25% 50% 25% !important;" class="titulos-principal titulos-grid">
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
