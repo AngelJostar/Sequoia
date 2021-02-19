@@ -587,9 +587,14 @@
         font-weight: 600;
     }
     
+    .font-remarcadas {
+        font-weight: bolder;
+    }
+    
     .letra-cursiva {
         font-family: 'Pacifico', cursive;
-        font-size: 40px;
+        font-weight: 200;
+        font-size: 30px;
     }
     
     .margin-top-20 {
@@ -808,12 +813,12 @@
     .titulos-principal h2 {
         max-width: 95%;
         text-align: center;
-        font-weight: 500;
+        font-weight: 600;
         color: #ffffff;
-        padding: 20px 0 20px 0;
+        padding: 30px 0 20px 0;
         margin: 0 auto;
         font-size: 18px;
-        line-height: 1.15;
+        line-height: 1.5;
     }
     
     .titulos-azules {
@@ -893,12 +898,12 @@
     
     .titulos-grid {
         display: grid;
-        grid-template-columns: 5% 90% 5%;
+        grid-template-columns: 12% 76% 12%;
     }
     
     .barra-titulo {
         border-top: 3px solid rgb(192, 212, 31);
-        border-radius: 0px 0px 100px 100px;
+        border-radius: 0px 0px 200px 00px;
         width: 100%;
     }
     
@@ -1225,7 +1230,6 @@
     
     .cuadros-crecimiento p {
         color: rgba(255, 255, 255, 0.89);
-        font-size: 17px;
         max-width: 90%;
         margin: 0 auto;
         font-weight: 300;
@@ -1235,8 +1239,8 @@
     
     .cuadros-crecimiento h1 {
         color: rgba(255, 255, 255, 0.89);
-        font-size: 18px;
-        max-width: 90%;
+        font-size: 17px;
+        max-width: 100%;
         text-align: center;
         margin: 0 auto;
         font-weight: 400;
@@ -1309,26 +1313,26 @@
     .texto-crecimiento {
         margin: 0 auto;
         max-width: 95%;
-        font-size: 10px;
+        font-size: 40px;
         font-weight: 500;
         color: rgb(135, 135, 135);
         text-align: center;
         word-spacing: 1px;
         line-height: 20px;
         margin-top: 2rem;
-        margin-bottom: 2rem;
+        margin-bottom: 1rem;
     }
     
     .cuadros-crecimiento-crecimiento {
         background-color: #00205E;
         -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.383);
-        -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.383);
-        margin-top: 40px;
+        -moz-box-shadow: 2px 2px 5px rgb a(0, 0, 0, 0.383);
+        margin-top: 30px;
     }
     
     .cuadros-crecimiento-crecimiento p {
         color: rgba(255, 255, 255, 0.89);
-        font-size: 17px;
+        font-size: 15px;
         max-width: 90%;
         margin: 0 auto;
         font-weight: 300;
@@ -1483,6 +1487,10 @@
         padding-bottom: 1.7rem;
     }
     
+    .pt-2 img {
+        padding-top: 2.5rem;
+    }
+    
     .justificar-texto-90-listas li {
         font-size: 16px;
         color: #777777;
@@ -1609,6 +1617,30 @@
     }
     
     .texto-imagen-izquierda h2 {
+        font-weight: 700;
+        position: absolute;
+        text-align: center;
+        top: 25px;
+        left: 10px;
+        width: 232px;
+        font-size: 10.8px !important;
+        font-weight: bolder;
+        color: #00205E !important;
+    }
+    
+    .texto-imagen-derecha h2 {
+        font-weight: 700;
+        position: absolute;
+        text-align: center;
+        top: 35px;
+        left: 145px;
+        width: 232px;
+        font-size: 10.8px !important;
+        font-weight: bolder;
+        color: #00205E !important;
+    }
+    
+    .texto-encabezado h1 {
         font-weight: 700;
         position: absolute;
         text-align: center;

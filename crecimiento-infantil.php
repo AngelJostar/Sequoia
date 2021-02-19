@@ -35,24 +35,31 @@
                     </div>
                 </div>
             </div>
-            <p>En Centro Sequoia queremos que tomes decisiones informadas, por eso te presentamos a continuación toda la información que necesitas para entender el crecimiento de tu hijo o hija.</p>
+            <div class="caja-imagen-hojas">
+                <img src="/img/banners/banner-doctor-doctora.webp" alt="">
+                <div class="texto-imagen-derecha">
+                    <h2>En <span class="font-remarcadas">Centro Sequoia</span><br>queremos que tomes<br><span class="font-remarcadas">decisiones informadas</span>, por eso<br>te presentamos a continuación<br>toda la información que<br>necesitas para entender
+                        el
+                        <br>crecimiento de tu hijo o hija.</h2>
+                </div>
+            </div>
             <div class="contenedor-video">
                 <div class="reproductor-rectangular" data-id="N9i126SBdP8"></div>
             </div>
-            <div class="textos-principal-t">
-                <p>A continuación puedes explorar los temas más<br>importantes relacionados con el crecimiento de tu hij@</p>
+            <div class="textos-principal">
+                <p>A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu hij@</p>
             </div>
             <div class="cuadros-crecimiento">
                 <div class="titulos-principal">
-                    <h2>CRECIMIENTO INFANTIL <br> <span class="letra-cursiva"> generalidades</span></h2>
+                    <h2>CRECIMIENTO INFANTIL <br> <span class="letra-cursiva"> Generalidades</span></h2>
                 </div>
                 <div>
-                    <img src="img/banners/the-boy-pretends-to-be-superhero-and-is-playing-as-an-astronaut-draw-concept.webp" alt="">
+                    <img src="img/banners/ninio-astronauta.webp" alt="">
                 </div>
                 <div class="texto-crecimiento">
-                    <p>A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu hij@</p>
+                    <p>Le presentamos toda la información necesaria para entender a fondo el crecimiento de tu hijo o hija.</p>
                 </div>
-                <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
+                <div class="centrar-texto texto-boton-esp pb-2">
                     <a href="generalidades-del-crecimiento-infantil"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
@@ -62,12 +69,12 @@
                     <h2>CRECIMIENTO INFANTIL<br> <span class="letra-cursiva">Por edad de niños y adolescentes</span></h2>
                 </div>
                 <div>
-                    <img src="img/banners/children-playing-grass.webp" alt="">
+                    <img src="img/banners/ninios-acostados.webp" alt="">
                 </div>
                 <div class="texto-crecimiento">
                     <p>El crecimiento de niños y niñas puede variar según su. Las tasas de crecimiento dependen de la edad de los niños y niñas.</p>
                 </div>
-                <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
+                <div class="centrar-texto texto-boton-esp pb-2">
                     <a href="crecimiento-infantil-por-edad"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
@@ -77,12 +84,12 @@
                     <h2>CAUSAS DE LA<br> <span class="letra-cursiva">Baja Estatura</span></h2>
                 </div>
                 <div>
-                    <img src="img/banners/pulse-oximeter-on-kids-finger-for-measure-pulse-rate-and-oxygen-level-on-white-wooden-table-healthy-concept.webp" alt="">
+                    <img src="img/banners/oximetro.webp" alt="">
                 </div>
                 <div class="texto-crecimiento">
                     <p>Los diferentes transtornos del crecimiento pueden afectar la salud de un niño de muchas formas diferentes y pueden ser causados por una variedad de factores</p>
                 </div>
-                <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
+                <div class="centrar-texto texto-boton-esp pb-2 ">
                     <a href="causas-de-la-baja-estatura"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
@@ -93,42 +100,34 @@
                     </h2>
                 </div>
                 <div>
-                    <img src="img/banners/mother-with-little-daughter-measure-the-fabric-for-sewing.webp" alt="">
+                    <img src="img/banners/ninia-con-vestido.webp" alt="">
                 </div>
                 <div class="texto-crecimiento">
                     <p>Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado</p>
                 </div>
-                <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
+                <div class="centrar-texto texto-boton-esp pb-2">
                     <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
 
-            <div class="cuadros-crecimiento-crecimiento">
+            <div class="cuadros-crecimiento-crecimiento ">
                 <div class="titulos-principal">
                     <h2>CAUSAS DE LA <br> <span class="letra-cursiva">Baja Estatura</span></h2>
                 </div>
                 <div>
-                    <img src="img/banners/little-preschool-boy-plays-the-superhero-outdoors.webp" alt="">
+                    <img src="img/banners/ninio-en-la-nauraleza.webp" alt="">
                 </div>
                 <div class="texto-crecimiento">
                     <p>Además de tener más confianza y habilidades sociales debidas a su complexión física, las personas altas también pueden presumir de mayor..</p>
                 </div>
-                <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
+                <div class="centrar-texto texto-boton-esp pb-2">
                     <a href="causas-de-la-baja-estatura"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
-
-
-            <div>
+            <div class="pt-2">
                 <img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="especialistas crecimiento">
             </div>
         </div>
-
-
-
-
-
-
 
         <?php include_once 'includes/templates/footer.php';?>
 
