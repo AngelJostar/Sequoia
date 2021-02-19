@@ -24,12 +24,12 @@
         <?php include_once 'includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
-            <div class="cuadros-crecimiento">
-                <div class="titulos-principal titulos-grid">
+        <div class="cuadros-crecimiento">
+                <div  style="grid-template-columns: 25% 50% 25% !important;" class="titulos-principal titulos-grid">
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1> <span class="font-blanquitas">IMPORTANCIA DE SER MÁS ALTO</span></h1>
+                    <h1> <span class="font-bold">IMPORTANCIA DE<br>SER MÁS ALTO</h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>

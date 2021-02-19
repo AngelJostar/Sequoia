@@ -813,7 +813,7 @@
     .titulos-principal h2 {
         max-width: 95%;
         text-align: center;
-        font-weight: 600;
+        font-weight: 500;
         color: #ffffff;
         padding: 30px 0 20px 0;
         margin: 0 auto;
@@ -1106,7 +1106,6 @@
         height: 20px;
         max-width: 100%;
         margin-top: 15px;
-        margin-bottom: 25px;
     }
     
     .letras-blue-footer {
@@ -1226,6 +1225,55 @@
         background-color: #00205E;
         -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.383);
         -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.383);
+    }
+    
+    .cuadros-crecimiento-2 {
+        background-color: #00205E;
+    }
+    
+    .efecto3-2 {
+        position: relative;
+    }
+    
+    .efecto3-2:after {
+        /* no aplica contenidos */
+        content: "";
+        position: absolute;
+        /* posiciona la sombra por detras de la caja */
+        z-index: -1;
+        /* aplica una sombra centrada con un gris oscuro y 20px de difuminado */
+        -webkit-box-shadow: 0 0 20px #777;
+        -moz-box-shadow: 0 0 20px #777;
+        box-shadow: 0 5px 7px 2px rgb(167, 167, 167);
+        /* centra verticalmente y separa la sombra de los bordes izquierdo y derecho */
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        /* redondea las esquinas de la sombra */
+        -moz-border-radius: 100px / 10px;
+        border-radius: 100px / 10px;
+    }
+    
+    .cuadros-crecimiento-2 p {
+        color: rgba(255, 255, 255, 0.89);
+        max-width: 90%;
+        margin: 0 auto;
+        font-weight: 300;
+        padding-bottom: 1rem;
+        line-height: 23px;
+    }
+    
+    .cuadros-crecimiento-2 h1 {
+        color: rgba(255, 255, 255, 0.89);
+        font-size: 17px;
+        max-width: 100%;
+        text-align: center;
+        margin: 0 auto;
+        font-weight: 400;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        line-height: 1.15;
     }
     
     .cuadros-crecimiento p {
@@ -1487,8 +1535,16 @@
         padding-bottom: 1.7rem;
     }
     
+    .pb-25 {
+        padding-bottom: 2.5rem;
+    }
+    
     .pt-2 img {
         padding-top: 2.5rem;
+    }
+    
+    .mt-2 {
+        margin-top: 2.5rem;
     }
     
     .justificar-texto-90-listas li {
@@ -1787,6 +1843,10 @@
     
     .margin-negativo {
         margin-bottom: -25px;
+    }
+    
+    .margin-negativo-top-18 {
+        margin-top: -18px;
     }
     
     .titulos-principal-3 h2 {
