@@ -1,5 +1,5 @@
 <div class="caja-imagen-footer">
-    <img src="/img/index/fondo-footer.webp" alt="banner-doctor">
+    <img class="img-footer" src="/img/index/fondo-footer.webp" alt="banner-doctor">
     <div class="texto-imagen-footer">
         <footer class="contenedor-footer">
             <div class="texto-footer">

@@ -4,18 +4,13 @@
             <div class="mid-image deepmid-header" id="mid-image">
                 <a href="index "><img src="../img/Logo-Horizontal.webp" alt="imagen-logo"></a>
             </div>
-            <div class="mid-font">
-                <a href="tel:+5555238959">
-                    <p class="centrar-texto fontW-700">Llámanos, estamos disponibles <br> tel: (55) 5523 8959</p>
-                </a>
-            </div>
-            <div class="mid-font">
-                <p class="centrar-texto fontW-700">Escríbenos por Whatsapp <br> <a href="https://api.whatsapp.com/send?phone=5215551358125&text=">(celular): 52 (1) 55 5135 8125</a></p>
-            </div>
             <div class="icono">
                 <div data-wow-delay="0.1s">
                     <div>
                         <ul class="company-social">
+                        <div class="linea-redes">
+                            
+                        </div>
                             <li class="social-facebook"><a href="https://www.facebook.com/CentroBrexia/?ref=br_rs"><i class="fab fa-facebook-f fa-2x"></i></a></li>
                             <li class="social-youtube"><a href="https://www.youtube.com/channel/UCTG33NkFEG3LtPXwwzJFXYA?view_as=subscriber"><i class="fab fa-youtube fa-2x"></i></a></li>
                             <li class="social-whatsapp"><a href="https://api.whatsapp.com/send?phone=5215551358125&text=%22Hola!%20me%20gustar%C3%ADa%20obtener%20mas%20informaci%C3%B3n%22"><i class="fab fa-whatsapp fa-2x"></i></a></li>

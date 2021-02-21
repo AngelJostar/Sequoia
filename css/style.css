@@ -24,6 +24,8 @@
     
     img {
         width: 100%;
+        display: block;
+        margin: auto;
     }
     
     .contenedor {
@@ -76,6 +78,10 @@
         text-decoration: none;
     }
     
+    .top-header-icono {
+        padding-top: 10px;
+    }
+    
     .verticalLine {
         border-left: thick solid #ff0000;
     }
@@ -105,7 +111,7 @@
         margin: 0rem auto 0rem;
         padding-top: 3.2rem;
         display: grid;
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: repeat(2, 1fr);
     }
     
     .size-hojita img {
@@ -172,12 +178,6 @@
         margin-left: 4rem;
     }
     
-    @media (max-width: 1300px) and (min-width: 852px) {
-        .mid-image {
-            padding-top: 50px;
-        }
-    }
-    
     .mobile-toggle {
         color: #BFDB49;
         background-color: #00235d;
@@ -206,7 +206,7 @@
         margin-left: 0;
         padding-left: 0;
         padding-right: 0;
-        margin-top: 10px;
+        margin-top: 60px;
         text-align: center;
         list-style: none;
     }
@@ -266,6 +266,12 @@
     .company-social .social-youtube a:hover i {
         background: red;
     }
+    
+    .linea-redes {
+        border-top: 3px solid #000000;
+        margin: 0 auto;
+        max-width: 260px;
+    }
     /*Low Header*/
     
     .low-header {
@@ -274,6 +280,8 @@
         list-style: none;
         padding-top: 3rem;
         word-spacing: 0em;
+        max-width: 800px;
+        margin: 0 auto;
     }
     
     .low-header li {
@@ -968,7 +976,6 @@
     .reproductor {
         margin: 0 auto;
         display: block;
-        width: 100%;
         padding-bottom: 56.25%;
         overflow: hidden;
         position: relative;
@@ -982,7 +989,6 @@
     .reproductor-rectangular {
         margin: 0 auto;
         display: block;
-        width: 100%;
         padding-bottom: 56.25%;
         overflow: hidden;
         position: relative;
@@ -1063,12 +1069,17 @@
     }
     
     .texto-footer p {
-        font-size: 12px;
+        font-size: calc(0.8em + 0.8vw);
         color: #a8b0b3;
         font-weight: 600;
         text-align: center;
         padding-bottom: 10px;
         line-height: 18px;
+    }
+    
+    .img-footer {
+        max-width: 190em;
+        max-height: 45em;
     }
     
     .boton {
@@ -1143,15 +1154,6 @@
         /*Usamos calc para realizar una operacion matematica*/
         text-align: center;
         /*Alinea al centro el texto e imagenes, además existe right, left,justify.*/
-    }
-    
-    .company-social {
-        margin-left: 0;
-        padding-left: 0;
-        padding-right: 0;
-        margin-top: 10px;
-        text-align: center;
-        list-style: none;
     }
     
     .company-social li {
@@ -1957,3 +1959,12 @@
     .blur {
         filter: blur(2px);
     }
+    /*MEDIA QUERY PARA DESKTOP*/
+    
+    @media (min-width: 580px) {
+        .img-responsive {
+            max-width: 600px;
+        }
+    }
+    
+    @media (min-width: 1200px) {}

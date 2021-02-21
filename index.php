@@ -35,7 +35,7 @@
                     </div>
                 </div>
             </div>
-            <div class="sombras-img efecto3-2">
+            <div class="sombras-img efecto3-2 ">
                 <img src="/img/banners/BANNERS-Principal-2021.webp" alt="Portada">
             </div>
 
@@ -111,7 +111,7 @@
                     buscamos brindarte una grata experiencia y los mejores resultados para tu hijo.</p>
             </div>
             <div>
-                <img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento">
+                <img class="img-responsive" src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento">
             </div>
 
         </section>
