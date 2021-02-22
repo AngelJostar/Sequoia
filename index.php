@@ -35,7 +35,7 @@
                     </div>
                 </div>
             </div>
-            <div class="sombras-img efecto3-2 ">
+            <div class="sombras-img efecto3-2 tamaño-img">
                 <img src="/img/banners/BANNERS-Principal-2021.webp" alt="Portada">
             </div>
 
@@ -52,7 +52,7 @@
                 <p>En Centro Sequoia <span class="font-negritas">única y exclusivamente</span> atendemos los padecimientos que afectan la estatura de los niños. <br> <span class="font-negritas">Nuestros médicos especialistas</span> tienen la experiencia
                     de mas de 30,000 casos atendidos en este campo, lo que nos lleva a ser el centro <span class="font-negritas">MÁS ESPECIALIZADO EN CRECIMIENTO INFANTIL DE MÉXICO.</span></p>
             </div>
-            <div class="pb-25">
+            <div class="pb-25 tamaño-img">
                 <img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="banners-especialistas">
             </div>
             <div class="contenedor-video">

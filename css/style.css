@@ -28,6 +28,11 @@
         margin: auto;
     }
     
+    .tamaño-img {
+        margin: 0 auto;
+        max-width: 100%;
+    }
+    
     .contenedor {
         width: 100%;
         max-width: 140rem;
@@ -174,8 +179,8 @@
     .mid-image {
         text-align: center;
         max-width: 50%;
-        margin-top: 4rem;
-        margin-left: 4rem;
+        margin: 0 auto;
+        margin-top: 3rem;
     }
     
     .mobile-toggle {
@@ -306,10 +311,6 @@
     
     .low-header ul li a:active {
         color: #02132f !important;
-    }
-    
-    .low-header ul {
-        padding-left: 2.2rem !important;
     }
     /*Hamburger Menu*/
     /* ### GENERAL SITE STYLES ### */
@@ -463,7 +464,6 @@
         color: rgba(86, 178, 171, 0.5);
         -webkit-transition: 300ms ease all;
         transition: 300ms ease all;
-        margin-left: 2rem;
     }
     
     .menu-a:hover {
@@ -1967,4 +1967,9 @@
         }
     }
     
-    @media (min-width: 1200px) {}
+    @media (min-width: 1200px) {
+        .tamaño-img {
+            margin: 0 auto;
+            max-width: 60%;
+        }
+    }
