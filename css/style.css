@@ -211,7 +211,7 @@
         margin-left: 0;
         padding-left: 0;
         padding-right: 0;
-        margin-top: 60px;
+        margin-top: 10px;
         text-align: center;
         list-style: none;
     }
@@ -969,7 +969,7 @@
     .contenedor-video {
         display: block;
         width: 100%;
-        max-width: 600px;
+        max-width: 300px;
         margin: 0 auto;
     }
     
@@ -979,8 +979,8 @@
         padding-bottom: 56.25%;
         overflow: hidden;
         position: relative;
-        width: 300px;
-        height: 300px;
+        width: 400px;
+        height: 400px;
         cursor: hand;
         cursor: pointer;
         display: block;
@@ -1004,8 +1004,8 @@
         display: block;
         left: 0;
         margin: auto;
-        width: 300px;
-        height: 300px;
+        width: 400px;
+        height: 400px;
         position: absolute;
         object-fit: cover;
         right: 0;
@@ -1729,9 +1729,14 @@
     .texto-imagen-footer {
         font-weight: 700;
         position: absolute;
-        text-align: center;
-        margin: 0 auto;
         top: 20px;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+        text-align: center;
+        display: block;
+        margin: auto;
         width: 100%;
         font-size: 10.8px !important;
         font-weight: bolder;
@@ -1788,7 +1793,7 @@
         display: block;
         margin: auto;
         width: 90%;
-        max-width: 600px;
+        max-width: 900px;
         padding-top: 2rem;
     }
     
@@ -1965,11 +1970,53 @@
         .img-responsive {
             max-width: 600px;
         }
+        .texto-imagen-footer {
+            max-width: 80%;
+        }
+        .img-footer {
+            max-height: 55em;
+        }
+        .texto-imagen-footer {
+            top: 60px;
+        }
+        .ocultar-media {
+            display: none;
+        }
+        .tel-grid-footer {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+        }
+        .texto-footer p {
+            color: #00205E;
+            font-size: 18px;
+            line-height: 22px;
+        }
+        .letras-blue-footer {
+            font-size: 15px;
+        }
+        .texto-imagen-footer {
+            line-height: 20px;
+        }
+    }
+    
+    @media (max-width: 580px) {
+        .mostrar-media {
+            display: none;
+        }
     }
     
     @media (min-width: 1200px) {
         .tamaño-img {
             margin: 0 auto;
-            max-width: 60%;
+            max-width: 75%;
+        }
+        .ocultar {
+            display: none;
+        }
+    }
+    
+    @media (max-width: 1200px) {
+        .mostrar {
+            display: none;
         }
     }

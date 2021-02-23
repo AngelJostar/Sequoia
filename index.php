@@ -35,9 +35,13 @@
                     </div>
                 </div>
             </div>
-            <div class="sombras-img efecto3-2 tamaño-img">
+            <div class="sombras-img efecto3-2 tamaño-img ocultar">
                 <img src="/img/banners/BANNERS-Principal-2021.webp" alt="Portada">
             </div>
+            <div class="tamaño-img mostrar">
+                <img src="/img/banners/Banners-principal-desktop.webp" alt="Portada">
+            </div>
+
 
             <div class="textos-principal">
                 <p><span class="font-negritas">Centro SEQUOIA</span> es un <span class="font-negritas">Centro Pediátrico Exclusivo para el Crecimiento infantil</span> formado por Médicos Pediatras Endocrinólogos, certificados por el Consejo Mexicano de Endocrinología
@@ -55,7 +59,7 @@
             <div class="pb-25 tamaño-img">
                 <img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="banners-especialistas">
             </div>
-            <div class="contenedor-video">
+            <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="_bpb-KOnmwE"></div>
             </div>
             <div class="linea-c"></div>
@@ -65,8 +69,11 @@
                     </h2>
                 </div>
             </div>
-            <div class="pb-2">
+            <div class="pb-2 ocultar ">
                 <img src="img/banners/Banner-mujer-y-nino.webp" alt="Banners-estatura-crecer">
+            </div>
+            <div class="pb-2 mostrar tamaño-img">
+                <img src="img/banners/BANNER-7-HORIZONTAL.webp" alt="Banners-estatura-crecer">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">
@@ -92,7 +99,7 @@
                     <span class="font-bold">Tráelo a una valoración a Centro Sequoia para que un especialista en crecimiento lo evalúe y pueda mejorar y superar sus proyecciones estimadas de altura.</span>
                 </p>
             </div>
-            <div>
+            <div class="tamaño-img">
                 <img src="img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-2">
@@ -110,8 +117,11 @@
                 <p><span class="font-bold">Centro Sequoia</span> es el <span class="font-bold">CENTRO MÁS ESPECIALIZADO</span> de México en baja estatura. Nuestro equipo médico de alta especialidad junto con el personal altamente calificado para el servicio,
                     buscamos brindarte una grata experiencia y los mejores resultados para tu hijo.</p>
             </div>
-            <div>
-                <img class="img-responsive" src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento">
+            <div class="ocultar">
+                <img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento">
+            </div>
+            <div class="tamaño-img mostrar">
+                <img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento">
             </div>
 
         </section>
