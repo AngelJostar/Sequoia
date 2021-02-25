@@ -36,11 +36,15 @@
                 </div>
             </div>
             <div class="sombras-img efecto3-2 tamaño-img ocultar">
-                <img src="/img/banners/BANNERS-Principal-2021.webp" alt="Portada">
+                <img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada">
             </div>
-            <div class="tamaño-img mostrar">
-                <img src="/img/banners/Banners-principal-desktop.webp" alt="Portada">
+            <div class="sombras-img efecto3-2 tamaño-img mostrar">
+                <img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada">
             </div>
+<<<<<<< HEAD
+=======
+            
+>>>>>>> 56d85d7684d31704bd0a8d854c98024f8c00e692
             <div class="textos-principal">
                 <p><span class="font-negritas">Centro SEQUOIA</span> es un <span class="font-negritas">Centro Pediátrico Exclusivo para el Crecimiento infantil</span> formado por Médicos Pediatras Endocrinólogos, certificados por el Consejo Mexicano de Endocrinología
                     A.C. Ellos diagnosticarán las causas por las que tu hijo no crece adecuadamente y lo ayudaran a alcanzar una mayor estatura.</p>
@@ -67,10 +71,10 @@
                     </h2>
                 </div>
             </div>
-            <div class="pb-2 ocultar ">
+            <div class="pb-2 ocultar-media ">
                 <img src="img/banners/Banner-mujer-y-nino.webp" alt="Banners-estatura-crecer">
             </div>
-            <div class="pb-2 mostrar tamaño-img">
+            <div class="pb-2 mostrar-media tamaño-img">
                 <img src="img/banners/BANNER-7-HORIZONTAL.webp" alt="Banners-estatura-crecer">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
@@ -115,10 +119,10 @@
                 <p><span class="font-bold">Centro Sequoia</span> es el <span class="font-bold">CENTRO MÁS ESPECIALIZADO</span> de México en baja estatura. Nuestro equipo médico de alta especialidad junto con el personal altamente calificado para el servicio,
                     buscamos brindarte una grata experiencia y los mejores resultados para tu hijo.</p>
             </div>
-            <div class="ocultar">
+            <div class="ocultar-media">
                 <img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento">
             </div>
-            <div class="tamaño-img mostrar">
+            <div class="tamaño-img mostrar-media">
                 <img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento">
             </div>
 
