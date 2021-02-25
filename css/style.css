@@ -211,7 +211,7 @@
         margin-left: 0;
         padding-left: 0;
         padding-right: 0;
-        margin-top: 10px;
+        margin-top: 65px;
         text-align: center;
         list-style: none;
     }
@@ -659,7 +659,7 @@
         font-weight: 400;
         line-height: 26px;
         color: #ffffff;
-        line-height: 8px;
+        line-height: 12px;
     }
     
     .primer-p {
@@ -683,13 +683,14 @@
     .contacto-box {
         max-width: 90%;
         display: flex;
+        margin: 0 auto;
+        justify-content: center;
     }
     
     .direccion-icono {
         padding-top: 20px;
         font-size: 28px;
         color: #c0d41f;
-        margin-left: 2rem;
     }
     
     .formulario h3 {
@@ -702,7 +703,7 @@
     }
     
     .font-ciudades {
-        font-size: 27px;
+        font-size: 4vw;
         font-weight: 900;
         text-align: center;
         color: #c0d41f;
@@ -786,17 +787,13 @@
     
     @media (min-width: 720px) {
         .tercer-p p {
-            font-size: 16px;
+            font-size: 1.5vw;
         }
         .primer-p {
             font-size: 38px;
         }
         .segundo-p {
             font-size: 26px;
-        }
-        .contenedor-info-contacto {
-            max-width: 53%;
-            margin: 0 auto;
         }
     }
     /*END-CONTACTO*/
@@ -979,8 +976,8 @@
         padding-bottom: 56.25%;
         overflow: hidden;
         position: relative;
-        width: 400px;
-        height: 400px;
+        width: 300px;
+        height: 300px;
         cursor: hand;
         cursor: pointer;
         display: block;
@@ -1004,8 +1001,8 @@
         display: block;
         left: 0;
         margin: auto;
-        width: 400px;
-        height: 400px;
+        width: 300px;
+        height: 300px;
         position: absolute;
         object-fit: cover;
         right: 0;
@@ -1696,8 +1693,8 @@
         text-align: center;
         top: 25px;
         left: 10px;
-        width: 232px;
-        font-size: 10.8px !important;
+        width: 60%;
+        font-size: 10.8px;
         font-weight: bolder;
         color: #00205E !important;
     }
@@ -1707,9 +1704,9 @@
         position: absolute;
         text-align: center;
         top: 16px;
-        left: 10px;
-        width: 232px;
-        font-size: 10px !important;
+        left: 10%;
+        width: 50%;
+        font-size: 8px;
         font-weight: bolder;
         color: #00205E !important;
     }
@@ -1718,10 +1715,10 @@
         font-weight: 700;
         position: absolute;
         text-align: center;
-        top: 35px;
-        left: 145px;
-        width: 232px;
-        font-size: 10.8px !important;
+        top: 17%;
+        left: 40%;
+        width: 65%;
+        font-size: 10.8px;
         font-weight: bolder;
         color: #00205E !important;
     }
@@ -1997,6 +1994,41 @@
         .texto-imagen-footer {
             line-height: 20px;
         }
+        .caja-imagen-hojas {
+            position: relative;
+            width: 60.2%;
+            margin: 0 auto;
+        }
+        .texto-imagen-izquierda-esp h2 {
+            font-size: 1.3vw;
+        }
+        .texto-imagen-derecha h2 {
+            top: 22%;
+            font-size: 1.6vw;
+        }
+        .cuadros-crecimiento-crecimiento {
+            max-width: 75%;
+            margin: 0 auto;
+            margin-top: 30px;
+        }
+        .tamaño-img {
+            margin: 0 auto;
+            max-width: 75%;
+        }
+        .contenedor-video {
+            max-width: 400px;
+        }
+        .reproductor {
+            width: 400px;
+            height: 400px;
+        }
+        img.imagen-previa {
+            width: 400px;
+            height: 400px;
+        }
+        .texto-imagen-izquierda h2 {
+            font-size: 1.5vw;
+        }
     }
     
     @media (max-width: 580px) {
@@ -2008,10 +2040,13 @@
     @media (min-width: 1200px) {
         .tamaño-img {
             margin: 0 auto;
-            max-width: 75%;
+            max-width: 60.2%;
         }
         .ocultar {
             display: none;
+        }
+        .cuadros-crecimiento-crecimiento {
+            max-width: 60.2%;
         }
     }
     

@@ -40,10 +40,10 @@
             <div class="caja-imagen-hojas pb-2">
                 <img src="/img/banners/banner-doctora.webp" alt="">
                 <div class="texto-imagen-izquierda-esp">
-                    <h2>Es muy importante que sepas que existen<br>médicos, pediatras con subespecialidad<br>en endocrinología pediátrica, ¿que además<br>después se enfocan en tratar únicamente la estatura de los niños y niñas.</h2>
+                    <h2>Es muy importante que sepas que existen<br>médicos, pediatras con subespecialidad<br>en endocrinología pediátrica, ¿que además<br>después se enfocan en tratar únicamente <br> la estatura de los niños y niñas.</h2>
                 </div>
             </div>
-            <div class="contenedor-video">
+            <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="b2npaRv2dEw"></div>
             </div>
             <div class="contenedor-infantil-deficiente">
@@ -79,10 +79,10 @@
                         <h2><span class="font-blanquitas"> Agenda</span> una cita con nuestros especialistas cuando tu hijo o hija:</h2>
                     </div>
                 </div>
-                <div>
+                <div class="tamaño-img">
                     <img src="img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="contacto crecimiento infantil">
                 </div>
-                <div>
+                <div class="tamaño-img">
                     <img src="img/banners/BANNER-DR-MONICA-HORIZONTAL.webp" alt="contacto crecimiento infantil">
                 </div>
                 <div class="cuadros-crecimiento">
@@ -108,8 +108,11 @@
                         consigan una mayor estatura.
                     </p>
                 </div>
-                <div>
+                <div class="tamaño-img ocultar-media ">
                     <img src="img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil">
+                </div>
+                <div class="tamaño-img mostrar-media">
+                    <img src="img/banners/BANNER-4-HORIZONTAL.webp" alt="estatura crecimiento infantil">
                 </div>
             </div>
 

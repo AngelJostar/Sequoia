@@ -49,7 +49,7 @@
             <div class="textos-principal">
                 <p>A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu hij@</p>
             </div>
-            <div class="cuadros-crecimiento">
+            <div class="cuadros-crecimiento-crecimiento">
                 <div class="titulos-principal">
                     <h2>CRECIMIENTO INFANTIL <br> <span class="letra-cursiva"> Generalidades</span></h2>
                 </div>
@@ -124,8 +124,11 @@
                     <a href="causas-de-la-baja-estatura"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
-            <div class="pt-2">
+            <div class="pt-2 ocultar-media">
                 <img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="especialistas crecimiento">
+            </div>
+            <div class="tamaño-img mostrar-media">
+                <img src="img/banners/BANNER-6-HORIZONTAL.webp" alt="contacto crecimiento">
             </div>
         </div>
 

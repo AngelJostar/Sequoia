@@ -66,10 +66,10 @@
                 <div class="textos-principal">
                     <p>Hay señales a las que debe prestar atención que podrían indicar que su hijo no está creciendo como debería: </p>
                 </div>
-                <div>
+                <div class="tamaño-img">
                     <img src="img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="">
                 </div>
-                <div>
+                <div class="tamaño-img">
                     <img src="img/banners/contacto-crecimiento-infantil-estatura-medir-hija-1.webp" alt="">
                 </div>
                 <div class="cuadros-crecimiento margin-top-20">
@@ -80,11 +80,14 @@
                 <div class="textos-principal">
                     <p>En algunos niños y niñas, el crecimiento deficiente puede no ser una causa de preocupación, pero, en otros, puede estar asociado con serios problemas de salud, el niño puede presentar afectaciones en: </p>
                 </div>
-                <div>
+                <div class="tamaño-img">
                     <img src="img/banners/ICONOS WEB Sequoia 2021-17.webp" alt="">
                 </div>
-                <div>
-                    <img src="img/banners/banner-niño-llorando.webp" alt="causas crecimiento hijo">
+                <div class="tamaño-img ocultar-media">
+                    <img src="img/banners/banner-nino-llorando.webp" alt="causas crecimiento hijo">
+                </div>
+                <div class="tamaño-img mostrar-media">
+                    <img src="img/banners/BANNER-5-HORIZONTAL.webp" alt="causas crecimiento hijo">
                 </div>
 
             </div>
