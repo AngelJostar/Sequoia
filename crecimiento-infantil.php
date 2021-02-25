@@ -24,12 +24,23 @@
         <?php include_once 'includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
-            <div class="cuadros-crecimiento">
-                <div class="titulos-principal titulos-grid">
+        <div class="cuadros-crecimiento ocultar-media">
+            <div style="grid-template-columns: 12% 76% 12% !important;" class="titulos-principal titulos-grid">
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1> <span class="font-blanquitas">TODO LO QUE DEBES SABER</span> SOBRE CRECIMIENTO INFANTIL</h1>
+                    <h1> <span class="font-blanquitas">TODO LO QUE DEBES SABER</span><br>SOBRE CRECIMIENTO INFANTIL</h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="cuadros-crecimiento mostrar-media">
+                <div style="grid-template-columns: 35% 30% 35% !important;" class="titulos-principal titulos-grid">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1> <span class="font-blanquitas">TODO LO QUE DEBES SABER</span><br>SOBRE CRECIMIENTO INFANTIL</h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
