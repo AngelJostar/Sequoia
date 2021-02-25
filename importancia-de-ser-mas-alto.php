@@ -143,8 +143,11 @@
                     <h2><span class="letra-cursiva-2">¡Tu hija o hijo puede ser más alto!</span></h2>
                 </div>
             </div>
-            <div>
+            <div class="tamaño-img ocultar-media">
                 <img src="img/importancia-de-ser-mas-alto/BANNER-5-VERTICAL.webp" alt="especialistas crecimiento">
+            </div>
+            <div class="tamaño-img mostrar-media">
+                <img src="img/banners/BANNER-5-HORIZONTAL.webp" alt="especialistas crecimiento">
             </div>
         </div>
 

@@ -40,7 +40,7 @@
                 <p>El crecimiento es el proceso biológico más característico de la infancia. Se inicia en el momento de la fecundación del óvulo y se extiende hasta que finaliza la maduración de los huesos y se completa el desarrollo sexual, lo que ocurre
                     habitualmente, hacia el final de la segunda década de la vida</p>
             </div>
-            <div class="contenedor-video">
+            <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="yIhxulvi3r0"></div>
             </div>
             <div class="contenedor-generalidades">
@@ -130,12 +130,6 @@
                             </li>
                         </ul>
                     </div>
-                
-                <div>
-                    <img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto-crecimiento-infantil">
-                </div>
-
-
             </div>
 
 
