@@ -25,14 +25,12 @@
 
         
         <section class="contenedor-contacto">
-            
-
-        <div class="cuadros-crecimiento">
-                <div class="titulos-principal titulos-grid">
+            <div class="cuadros-crecimiento">
+                <div class="titulos-grid-contacto">
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1 style="font-size: 25px; "> <span class="font-blanquitas">CONTACTO</h1>
+                    <h1 style=" font-size: calc(2em + 1vw); "> <span class="font-blanquitas">CONTACTO</h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>

@@ -26,11 +26,11 @@
 
         <div class="contendor-crecimiento">
             <div class="cuadros-crecimiento">
-                <div class="titulos-principal titulos-grid">
+                <div class="titulos-grid-crecimiento-infantil-deficiente">
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1 style="font-size: 14px !important;">APRENDE A RECONOCER EL <span class="font-blanquitas">CRECIMIENTO DEFICIENTE</span> DE TU HIJO</h1>
+                    <h1 style="font-size: calc(.8em + 1.5vw);">APRENDE A RECONOCER EL<br> <span class="font-blanquitas">CRECIMIENTO DEFICIENTE</span> DE TU HIJO</h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>

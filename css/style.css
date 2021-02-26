@@ -909,11 +909,6 @@
         /* or whatever color you prefer */
     }
     
-    .titulos-grid {
-        display: grid;
-        grid-template-columns: 12% 76% 12%;
-    }
-    
     .barra-titulo {
         border-top: 3px solid rgb(192, 212, 31);
         border-radius: 0px 0px 200px 00px;
@@ -961,6 +956,37 @@
         transition: all 0.2s ease;
     }
     /*END_INICIO*/
+    /*++++++++++++++++++++++++++++++ENCABEZADOS DE PAGINAS (GREEDS)++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+    /*La uso en index, contacto*/
+    
+    .titulos-grid-index {
+        display: grid;
+        grid-template-columns: 18% 64% 18%;
+    }
+    
+    .titulos-grid-contacto {
+        display: grid;
+        grid-template-columns: 28% 44% 28%;
+    }
+    /*La uso en crecimiento infantil deficiente*/
+    
+    .titulos-grid-crecimiento-infantil-deficiente {
+        display: grid;
+        grid-template-columns: 11% 78% 11%;
+    }
+    /*La uso en crecimiento infantil deficiente*/
+    
+    .titulos-grid-crecimiento-infantil {
+        display: grid;
+        grid-template-columns: 15% 70% 15%;
+    }
+    /*La uso en generalidades del crecimiento infantil y en importancia de ser más alto*/
+    
+    .titulos-grid-gci {
+        display: grid;
+        grid-template-columns: 26% 48% 26%;
+    }
+    /*++++++++++++++++++++++++++++++FINAL DE ENCABEZADOS DE PAGINAS (GREEDS)++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     /*VIDEO*/
     
     .contenedor-video {
@@ -2029,6 +2055,32 @@
         .texto-imagen-izquierda h2 {
             font-size: 1.5vw;
         }
+        /*++++++++++++++++++++++++++++++ENCABEZADOS DE PAGINAS (GREEDS PARA 580)++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+        /*La uso en index, contacto*/
+        .titulos-grid-index {
+            display: grid;
+            grid-template-columns: 30% 40% 30%;
+        }
+        .titulos-grid-contacto {
+            display: grid;
+            grid-template-columns: 37% 26% 37%;
+        }
+        /*La uso en crecimiento infantil deficiente*/
+        .titulos-grid-crecimiento-infantil-deficiente {
+            display: grid;
+            grid-template-columns: 25% 50% 25%;
+        }
+        /*La uso en crecimiento infantil*/
+        .titulos-grid-crecimiento-infantil {
+            display: grid;
+            grid-template-columns: 28% 44% 28%;
+        }
+        /*La uso en generalidades del crecimiento infantil y en importancia de ser más alto*/
+        .titulos-grid-gci {
+            display: grid;
+            grid-template-columns: 35% 30% 35%;
+        }
+        /*++++++++++++++++++++++++++++++FINAL DE ENCABEZADOS DE PAGINAS (GREEDS)++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     }
     
     @media (max-width: 580px) {
@@ -2048,6 +2100,32 @@
         .cuadros-crecimiento-crecimiento {
             max-width: 60.2%;
         }
+        /*++++++++++++++++++++++++++++++ENCABEZADOS DE PAGINAS (GREEDS)++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+        /*La uso en index, contacto*/
+        .titulos-grid-index {
+            display: grid;
+            grid-template-columns: 37% 26% 37%;
+        }
+        .titulos-grid-contacto {
+            display: grid;
+            grid-template-columns: 40% 20% 40%;
+        }
+        /*La uso en crecimiento infantil deficiente*/
+        .titulos-grid-crecimiento-infantil-deficiente {
+            display: grid;
+            grid-template-columns: 29% 42% 29%;
+        }
+        /*La uso en crecimiento infantil*/
+        .titulos-grid-crecimiento-infantil {
+            display: grid;
+            grid-template-columns: 35% 30% 35%;
+        }
+        /*La uso en generalidades del crecimiento infantil y en importancia de ser más alto*/
+        .titulos-grid-gci {
+            display: grid;
+            grid-template-columns: 40% 20% 40%;
+        }
+        /*++++++++++++++++++++++++++++++FINAL DE ENCABEZADOS DE PAGINAS (GREEDS)++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     }
     
     @media (max-width: 1200px) {

@@ -25,11 +25,11 @@
         <?php include_once 'includes/templates/header.php';?>
         <section class="contenedor-principal" id="contenedor-principal">
             <div class="cuadros-crecimiento">
-                <div style="grid-template-columns: 17% 66% 17% !important;" class="titulos-principal titulos-grid">
+                <div class="titulos-grid-index">
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1> <span class="font-bold">SOMOS ESPECIALISTAS</span><br>EN CRECIMIENTO INFANTIL</h1>
+                    <h1><span class="font-bold">SOMOS ESPECIALISTAS</span><br>EN CRECIMIENTO INFANTIL</h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
@@ -41,10 +41,7 @@
             <div class="sombras-img efecto3-2 tamaño-img mostrar">
                 <img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada">
             </div>
-<<<<<<< HEAD
-=======
             
->>>>>>> 56d85d7684d31704bd0a8d854c98024f8c00e692
             <div class="textos-principal">
                 <p><span class="font-negritas">Centro SEQUOIA</span> es un <span class="font-negritas">Centro Pediátrico Exclusivo para el Crecimiento infantil</span> formado por Médicos Pediatras Endocrinólogos, certificados por el Consejo Mexicano de Endocrinología
                     A.C. Ellos diagnosticarán las causas por las que tu hijo no crece adecuadamente y lo ayudaran a alcanzar una mayor estatura.</p>
@@ -112,7 +109,6 @@
             </div>
             <div class="cuadros-crecimiento">
                 <div class="titulos-principal">
-
                 </div>
             </div>
             <div class="textos-principal">

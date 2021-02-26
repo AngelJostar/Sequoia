@@ -26,11 +26,11 @@
 
         <div class="contendor-crecimiento">
             <div class="cuadros-crecimiento">
-                <div  style="grid-template-columns: 25% 50% 25% !important;" class="titulos-principal titulos-grid">
+                <div class="titulos-grid-gci">
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1> <span class="font-bold">CRECIMIENTO <br> GENERALIDADES</h1>
+                    <h1 style="font-size: calc(1.35em + 1vw);"> <span class="font-bold">CRECIMIENTO <br> GENERALIDADES</h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
