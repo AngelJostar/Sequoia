@@ -43,7 +43,7 @@
                 <img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada">
             </div>
             
-            <div class="textos-principal">
+            <div class="textos-principal pt-15">
                 <p><span class="font-negritas">Centro SEQUOIA</span> es un <span class="font-negritas">Centro Pediátrico Exclusivo para el Crecimiento infantil</span> formado por Médicos Pediatras Endocrinólogos, certificados por el Consejo Mexicano de Endocrinología
                     A.C. Ellos diagnosticarán las causas por las que tu hijo no crece adecuadamente y lo ayudaran a alcanzar una mayor estatura.</p>
             </div>

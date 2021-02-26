@@ -855,7 +855,7 @@
     .textos-principal p {
         margin: 0 auto;
         max-width: 90%;
-        font-size: 13px;
+        font-size: calc(13px + .3vw);
         font-weight: 500;
         color: rgb(135, 135, 135);
         text-align: center;
@@ -2091,6 +2091,17 @@
             grid-template-columns: 35% 30% 35%;
         }
         /*++++++++++++++++++++++++++++++FINAL DE ENCABEZADOS DE PAGINAS (GREEDS)++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+        .textos-principal p {
+            margin: 0 auto;
+            max-width: 57%;
+            font-weight: 500;
+            color: rgb(135, 135, 135);
+            text-align: center;
+            word-spacing: 1px;
+            line-height: 1.7;
+            margin-top: 2rem;
+            margin-bottom: 2rem;
+        }
     }
     
     @media (max-width: 580px) {
