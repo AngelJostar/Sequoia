@@ -64,13 +64,13 @@
             </div>
             <div class="cuadros-crecimiento-crecimiento margin-negativo-2">
                 <div class="titulos-principal-3">
-                    <h2>SER MÁS ALTO MEJORA LA RELACIÓN ENTRE HOMBRES Y MUJERES<span class="font-blanquitas-curveadas"> (CONSEGUIR PAREJA)</span></h2>
+                    <h2>SER MÁS ALTO MEJORA LA RELACIÓN ENTRE <br> HOMBRES Y MUJERES<span class="font-blanquitas-curveadas"> (CONSEGUIR PAREJA)</span></h2>
                 </div>
                 <div class="img-95 padding-1">
                     <img src="img/importancia-de-ser-mas-alto/pexels-pixabay-258421.webp" alt="">
                 </div>
                 <div class="texto-importancia-2">
-                    <p>Las personas altas suelen ser más atractivas para hombres<br>y mujeres. Esto causa un problema de autoestima en<br>las personas de baja estatura y conduce a relaciones<br>poco saludables.
+                    <p>Las personas altas suelen ser más atractivas para hombres y mujeres. Esto causa un problema de autoestima en las personas de baja estatura y conduce a relaciones poco saludables.
                     </p>
                 </div>
                 <div class="centrar-texto texto-boton-esp-2 pb-2 margin-top-20">
@@ -85,7 +85,7 @@
                     <img src="img/importancia-de-ser-mas-alto/portrait-of-confident-businessman.webp" alt="">
                 </div>
                 <div class="texto-importancia-2">
-                    <P>En nuestra sociedad se considera que los hombres y mujeres<br> más altos son más dominantes e inteligentes.<br>Se estigma que si una persona ganara cinco centímetros<br>adicionales de altura, podría ganar porcentajes adicionales<br>de
+                    <P>En nuestra sociedad se considera que los hombres y mujeres más altos son más dominantes e inteligentes. Se estigma que si una persona ganara cinco centímetros adicionales de altura, podría ganar porcentajes adicionales de
                         ingreso económico por año.</P>
                 </div>
                 <div class="centrar-texto texto-boton-esp-2 pb-2 margin-top-20">
@@ -100,7 +100,7 @@
                     <img src="img/importancia-de-ser-mas-alto/female-football-player-with-ball-close-up.webp" alt="">
                 </div>
                 <div class="texto-importancia-2">
-                    <P>Es una gran ventaja tener piernas y brazos mas largos para<br>casi todas las ramas deportivas. Esto es natural<br>especialmente para deportes relacionados con la altura<br>como el futbol, basquetbol, béisbol, tenis, taekwondo, etc.
+                    <P>Es una gran ventaja tener piernas y brazos mas largos para casi todas las ramas deportivas. Esto es natural especialmente para deportes relacionados con la altura como el futbol, basquetbol, béisbol, tenis, taekwondo, etc.
                     </P>
                 </div>
                 <div class="centrar-texto texto-boton-esp-2 pb-2 margin-top-20">
@@ -116,7 +116,7 @@
                     <img src="img/importancia-de-ser-mas-alto/banner-with-surprised-children-peeking-edge.webp" alt="">
                 </div>
                 <div class="texto-importancia-2">
-                    <p>Las personas altas son más estéticas. Esto los hace lucir<br>mejor con la ropa que usan, lo que les da una ventaja en<br>apariencia. Socialmente las personas altas tienen más<br>probabilidades de adaptarse y obtener una aprobación<br>social,
+                    <p>Las personas altas son más estéticas. Esto los hace lucir mejor con la ropa que usan, lo que les da una ventaja en apariencia. Socialmente las personas altas tienen más probabilidades de adaptarse y obtener una aprobación social,
                         lo que les ayuda a ser más felices en su vida diaria.</p>
                 </div>
                 <div class="centrar-texto texto-boton-esp-2 pb-2 margin-top-20">
@@ -126,7 +126,7 @@
             <div class="textos-principal-2 margin-negativo">
                 <p>Por supuesto que hay excepciones, gente baja que tiene un<br>éxito tremendo. Pero, para muchos la altura es otra ventaja<br>extra para sobresalir en la vida.</p>
             </div>
-            <div class="cuadros-crecimiento-crecimiento">
+            <div class="cuadros-crecimiento-crecimiento pt-15">
                 <div class="titulos-principal-33 ">
                     <h2>¿Cuánto mides?</h2>
                 </div>

@@ -82,8 +82,11 @@
                 <div class="centrar-texto texto-boton-esp pb-2">
                     <a href="/Generalidades-del-crecimiento-infantil/estiron_puberal"><button class="boton-e boton-esp">Estirón Puberal</button></a>
                 </div>
-                <div class="img-90">
+                <div class="ocultar-media">
                     <img src="img/banners/medir-edad-hijo-hija-crecimiento-infantil-2.webp" alt="medir edad hijo">
+                </div>
+                <div class="tamaño-img mostrar-media">
+                    <img src="img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="medir edad hijo">
                 </div>
                 <div class="cuadros-crecimiento margin-top-20 ">
                     <div class="titulos-principal">

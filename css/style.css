@@ -1811,12 +1811,12 @@
     
     .texto-importancia-2 p {
         margin: 0 auto;
-        max-width: 93%;
-        font-size: 11.5px;
+        max-width: 90%;
+        font-size: calc(1.1em + 1vw);
         font-weight: 300;
         color: #FFF;
         text-align: center;
-        line-height: 20px;
+        line-height: 1.15;
         margin-top: 0;
         padding-bottom: 0;
     }
@@ -1931,21 +1931,23 @@
     }
     
     .titulos-principal-3 h2 {
+        max-width: 90%;
+        margin: 0 auto;
         text-align: center;
         font-weight: 700;
         color: #FFF;
         padding: 25px 0 20px 0;
-        margin: 0;
-        font-size: 14px !important;
+        font-size: calc(1.1em + 1vw);
+        line-height: 1.15;
     }
     
     .titulos-principal-33 h2 {
         text-align: center;
         font-weight: 700;
         color: #FFF;
-        padding: 20px 0 0 0;
         margin: 0;
-        font-size: 16px !important;
+        font-size: calc(1.2em + 1vw);
+        line-height: 1.15;
     }
     
     .font-blanquitas-curveadas {
@@ -1990,7 +1992,7 @@
     
     .letra-cursiva-2 {
         font-family: 'Pacifico', cursive;
-        font-size: 20px;
+        font-size: calc(1.2em + 1vw);
         font-weight: 500;
     }
     
@@ -2059,7 +2061,7 @@
             height: 400px;
         }
         img.imagen-previa {
-            width: 400px;
+            width: 401px;
             height: 400px;
         }
         .texto-imagen-izquierda h2 {
@@ -2147,6 +2149,9 @@
             grid-template-columns: 40% 20% 40%;
         }
         /*++++++++++++++++++++++++++++++FINAL DE ENCABEZADOS DE PAGINAS (GREEDS)++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+        .texto-importancia-2 p {
+            max-width: 70%;
+        }
     }
     
     @media (max-width: 1200px) {
