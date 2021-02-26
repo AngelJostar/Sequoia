@@ -23,6 +23,7 @@
     <section id="site-canvas">
 
         <?php include_once 'includes/templates/header.php';?>
+        
         <section class="contenedor-principal" id="contenedor-principal">
             <div class="cuadros-crecimiento">
                 <div class="titulos-grid-index">
@@ -48,7 +49,7 @@
             </div>
 
             <div class="contenedor-video">
-                <div class="reproductor" data-id="wXL4utyJGQc"></div>
+                <div class="reproductor-rectangular" data-id="wXL4utyJGQc"></div>
             </div>
 
             <div class="textos-principal">

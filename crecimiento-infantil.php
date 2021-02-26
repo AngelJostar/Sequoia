@@ -110,7 +110,7 @@
                 </div>
             </div>
 
-            <div class="cuadros-crecimiento-crecimiento ">
+            <div class="cuadros-crecimiento-crecimiento">
                 <div class="titulos-principal">
                     <h2>CAUSAS DE LA <br> <span class="letra-cursiva">Baja Estatura</span></h2>
                 </div>

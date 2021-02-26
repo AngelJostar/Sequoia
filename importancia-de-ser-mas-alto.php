@@ -23,9 +23,16 @@
 
         <?php include_once 'includes/templates/header.php';?>
 
+<<<<<<< HEAD
         <div class="contendor-crecimiento">
         <div class="cuadros-crecimiento">
                 <div class="titulos-grid-gci">
+=======
+
+        <section class="contenedor-principal" id="contenedor-principal">
+            <div class="cuadros-crecimiento">
+                <div style="grid-template-columns: 25% 50% 25% !important;" class="titulos-principal titulos-grid">
+>>>>>>> 942e488f8525b4faebe4c911b1579b0e763d8b9a
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
@@ -143,8 +150,11 @@
                     <h2><span class="letra-cursiva-2">¡Tu hija o hijo puede ser más alto!</span></h2>
                 </div>
             </div>
-            <div>
+            <div class="tamaño-img ocultar-media">
                 <img src="img/importancia-de-ser-mas-alto/BANNER-5-VERTICAL.webp" alt="especialistas crecimiento">
+            </div>
+            <div class="tamaño-img mostrar-media">
+                <img src="img/banners/BANNER-5-HORIZONTAL.webp" alt="especialistas crecimiento">
             </div>
         </div>
 
