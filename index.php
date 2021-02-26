@@ -49,7 +49,7 @@
             </div>
 
             <div class="contenedor-video">
-                <div class="reproductor-rectangular" data-id="wXL4utyJGQc"></div>
+                <div class="reproductor" data-id="wXL4utyJGQc"></div>
             </div>
 
             <div class="textos-principal">

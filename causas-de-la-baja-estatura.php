@@ -63,7 +63,7 @@
                         </ul>
                     </div>
                 </div>
-                <div>
+                <div class="tamaño-img">
                     <img src="img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="">
                 </div>
                 <p>X Banner Chico Importancia de ser mas alto</p>
@@ -101,16 +101,20 @@
                     <a href="Causas-de-la-baja-estatura/sindromes-que-afectan-el-crecimiento"><button class="boton-e boton-esp">Síndromes que afectan el
                     crecimiento</button></a>
                 </div>
-                <div>
+                <div class="tamaño-img">
                     <img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="especialistas-crecimiento-estatura-doctor">
                 </div>
                 <div class="justificar-texto-90">
                     <p>Te invitamos a que agendes una cita para que uno de nuestros médicos endocrinólogos pediatras especialistas en crecimiento pueda hacer un diagnóstico personalizado de tu hijo y diseñar el tratamiento adecuado en caso de requerirlo.
                     </p>
                 </div>
-                <div>
+                <div class="ocultar-media">
                     <img src="img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto-crecimiento-infantil">
                 </div>
+                <div class="tamaño-img mostrar-media">
+                    <img src="img/banners/BANNER-DR-MONICA-HORIZONTAL.webp" alt="contacto-crecimiento-infantil">
+                </div>
+
             </div>
         </section>
 

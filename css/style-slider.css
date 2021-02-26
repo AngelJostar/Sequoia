@@ -45,7 +45,7 @@
     width: 100%;
     padding: 1em 0.5rem;
     color: #00205E;
-    font-size: 1.5rem;
+    font-size: calc(0.7em + 1vw);
     font-weight: 500;
     border: #BFDB49 5px solid;
     border-radius: 25px;
@@ -74,7 +74,7 @@
 .accordion button .icon {
     display: inline-block;
     position: absolute;
-    top: 18px;
+    top: 30%;
     right: 0;
     width: 22px;
     height: 22px;
