@@ -1226,8 +1226,10 @@
     /*CRECIMIENTO_INFANTIL*/
     
     .contendor-crecimiento {
+        padding-top: 2rem;
         max-width: 100%;
         margin: 0 auto;
+        line-height: 0;
     }
     
     .cuadros-crecimiento {
@@ -1312,6 +1314,7 @@
         color: #777777;
         text-align: justify;
         margin: 0 auto;
+        line-height: 1.15;
     }
     
     .justificar-texto-90 h3 {
@@ -1421,6 +1424,7 @@
         font-size: 18px;
         color: rgb(192, 212, 31);
         text-align: center;
+        line-height: 1.15;
     }
     
     .encabezado-crecimiento-deficiente p {
@@ -1490,6 +1494,7 @@
         font-size: 16px;
         margin: 0 auto;
         padding: 0.5rem;
+        line-height: 1.15;
     }
     
     .boton-e {
@@ -1561,6 +1566,7 @@
         color: #777777;
         text-align: justify;
         margin: 0 auto;
+        line-height: 1.15;
     }
     
     .justificar-texto-90-listas p {
@@ -1693,10 +1699,11 @@
         text-align: center;
         top: 25px;
         left: 10px;
-        width: 60%;
+        width: 70%;
         font-size: 10.8px;
         font-weight: bolder;
         color: #00205E !important;
+        line-height: 1.15;
     }
     
     .texto-imagen-izquierda-esp h2 {
@@ -1709,6 +1716,7 @@
         font-size: 8px;
         font-weight: bolder;
         color: #00205E !important;
+        line-height: 1.15;
     }
     
     .texto-imagen-derecha h2 {
@@ -1721,6 +1729,7 @@
         font-size: 10.8px;
         font-weight: bolder;
         color: #00205E !important;
+        line-height: 1.15;
     }
     
     .texto-imagen-footer {
@@ -1808,6 +1817,7 @@
         text-align: center;
         position: relative;
         top: 29px;
+        line-height: 1.15;
     }
     
     .efecto3 {

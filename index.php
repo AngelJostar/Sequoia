@@ -23,6 +23,7 @@
     <section id="site-canvas">
 
         <?php include_once 'includes/templates/header.php';?>
+        
         <section class="contenedor-principal" id="contenedor-principal">
             <div class="cuadros-crecimiento">
                 <div style="grid-template-columns: 17% 66% 17% !important;" class="titulos-principal titulos-grid">

@@ -23,9 +23,10 @@
 
         <?php include_once 'includes/templates/header.php';?>
 
-        <div class="contendor-crecimiento">
-        <div class="cuadros-crecimiento">
-                <div  style="grid-template-columns: 25% 50% 25% !important;" class="titulos-principal titulos-grid">
+
+        <section class="contenedor-principal" id="contenedor-principal">
+            <div class="cuadros-crecimiento">
+                <div style="grid-template-columns: 25% 50% 25% !important;" class="titulos-principal titulos-grid">
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>

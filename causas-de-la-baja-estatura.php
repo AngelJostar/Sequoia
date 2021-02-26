@@ -22,9 +22,8 @@
     <section id="site-canvas">
 
         <?php include_once 'includes/templates/header.php';?>
-
-
-        <div class="contendor-crecimiento">
+        
+        <section class="contenedor-principal" id="contenedor-principal">
             <div class="cuadros-crecimiento">
                 <h1>Causas de la baja estatura</h1>
                 <p>Un crecimiento más lento de lo normal puede ser señal de un problema de salud importante. Así mismo algunos de los niños que tienen baja estatura que no está relacionada con alguna afección médica también pueden querer alcanzar una mayor
@@ -112,12 +111,9 @@
                 <div>
                     <img src="img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto-crecimiento-infantil">
                 </div>
-
-
             </div>
+        </section>
 
-
-        </div>
 
         <?php include_once 'includes/templates/footer.php';?>
 
@@ -129,8 +125,9 @@
 
 <a href="contacto" class="scrollup">
     <p>CONTACTO</p>
-</a><!--####FOOTER####-->
-<script src="1351.js" crossorigin="anonymous"></script>
+</a>
+<!--####FOOTER####-->
+<script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 <script src="js/jquery-3.5.1.min.js"></script>
