@@ -56,14 +56,30 @@
                         <h2><span class="font-blanquitas">El Pediatra Endocrinólogo</span><br>es el especialista encargado de <br> los <span class="font-blanquitas">problemas del crecimieto</span> </h2>
                     </div>
                 </div>
-                <div class="textos-principal">
+                <div class="ocultar-media">
+                    <div class="textos-principal ocultar-media">
                     <p><span class="font-negritas">Las hormonas son sustancias químicas</span> que afectan el funcionamiento muchas partes del cuerpo. Por ejemplo, las hormonas deciden cómo crece y madura un niño. <span class="font-negritas">La endocrinología pediátrica es la ciencia que estudia estas glándulas y los
                         efectos de las hormonas en los niños. </span>
                     </p>
+                    </div>
+                    <div class="contenedor-video">
+                        <div class="reproductor" data-id="wXL4utyJGQc"></div>
+                    </div>
                 </div>
-                <div class="contenedor-video">
-                    <div class="reproductor" data-id="wXL4utyJGQc"></div>
+
+                <div class="grid-index-2  mostrar-media pt-20">
+                    <div class="contenedor-video">
+                        <div class="reproductor" data-id="wXL4utyJGQc"></div>
+                    </div>
+
+                    <div class="textos-principal-2columas">
+                    <p><span class="font-negritas">Las hormonas son sustancias químicas</span> que afectan el funcionamiento muchas partes del cuerpo. Por ejemplo, las hormonas deciden cómo crece y madura un niño. <span class="font-negritas">La endocrinología pediátrica es la ciencia que estudia estas glándulas y los
+                        efectos de las hormonas en los niños. </span>
+                    </p>
+                    </div>
                 </div>
+
+
                 <div class="cuadros-crecimiento">
                     <div class="titulos-principal margin-top-20">
                         <h2><span class="font-blanquitas">¿Cuándo acudir con un especialista en crecimiento infantil?</span></h2>
@@ -78,7 +94,7 @@
                         <h2><span class="font-blanquitas"> Agenda</span> una cita con nuestros especialistas cuando tu hijo o hija:</h2>
                     </div>
                 </div>
-                <div class="tamaño-img">
+                <div class="tamaño-img pt-20">
                     <img src="img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="contacto crecimiento infantil">
                 </div>
                 <div class="tamaño-img">

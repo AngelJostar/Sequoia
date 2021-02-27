@@ -42,15 +42,15 @@
                     <h2><span class="font-remarcadas">Es muy importante que<br>sepas si la tasa de<br>crecimiento del niño<br>es la que debería ser,<br>a cualquier edad.</span></h2>
                 </div>
             </div>
-            <div class="textos-principal">
+            <div class="textos-principal justificar-texto ">
                 <p>Si el niño no está creciendo adecuadamente, puede ser el primer signo de una posible condición médica.
                 </p>
             </div>
-            <div class="textos-principal">
+            <div class="textos-principal justificar-texto">
                 <p>Esta página puede orientarte sobre los signos claves que indicarían un crecimiento deficiente y lo que pueden significar para la salud del niño.
                 </p>
             </div>
-            <div class="textos-principal">
+            <div class="textos-principal justificar-texto">
                 <p>Cualquiera que sea la edad de su hijo, es importante saber si está creciendo como debería. Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado.
                 </p>
             </div>
