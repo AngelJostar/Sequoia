@@ -48,13 +48,15 @@
                     A.C. Ellos diagnosticarán las causas por las que tu hijo no crece adecuadamente y lo ayudaran a alcanzar una mayor estatura.</p>
             </div>
 
-            <div class="contenedor-video">
-                <div class="reproductor" data-id="wXL4utyJGQc"></div>
-            </div>
+            <div class="grid-index-2">
+                <div class="contenedor-video ">
+                    <div class="reproductor" data-id="wXL4utyJGQc"></div>
+                </div>
 
-            <div class="textos-principal">
-                <p>En Centro Sequoia <span class="font-negritas">única y exclusivamente</span> atendemos los padecimientos que afectan la estatura de los niños. <br> <span class="font-negritas">Nuestros médicos especialistas</span> tienen la experiencia
-                    de mas de 30,000 casos atendidos en este campo, lo que nos lleva a ser el centro <span class="font-negritas">MÁS ESPECIALIZADO EN CRECIMIENTO INFANTIL DE MÉXICO.</span></p>
+                <div class="textos-principal-2columas">
+                    <p>En Centro Sequoia <span class="font-negritas">única y exclusivamente</span> atendemos los padecimientos que afectan la estatura de los niños. <br> <span class="font-negritas">Nuestros médicos especialistas</span> tienen la experiencia
+                        de mas de 30,000 casos atendidos en este campo, lo que nos lleva a ser el centro <span class="font-negritas">MÁS ESPECIALIZADO EN CRECIMIENTO INFANTIL DE MÉXICO.</span></p>
+                </div>
             </div>
             <div class="pb-25 tamaño-img">
                 <img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="banners-especialistas">
@@ -69,26 +71,42 @@
                     </h2>
                 </div>
             </div>
-            <div class="pb-2 ocultar-media ">
+            <div class="pb-2 ocultar-media pt-15 ">
                 <img src="img/banners/Banner-mujer-y-nino.webp" alt="Banners-estatura-crecer">
             </div>
-            <div class="pb-2 mostrar-media tamaño-img">
+            <div class="pb-2 mostrar-media tamaño-img pt-15">
                 <img src="img/banners/BANNER-7-HORIZONTAL.webp" alt="Banners-estatura-crecer">
             </div>
-            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
                     <h2>¿SABES SI TU HIJO O HIJA ESTA <br> <span class="font-bold">CRECIENDO ADECUADAMENTE </span></h2>
                 </div>
             </div>
 
-            <div class="textos-principal">
-                <p><span class="font-bold">Seguramente te has preguntado,</span> ¿Si el crecimiento de tu niño es normal? <span class="font-bold">¿Por qué un hermano menor casi lo alcanza o es más alto?</span> ¿Tu hijo está creciendo más lento de lo habitual?
+            <div class="ocultar-media">
+                <div class="textos-principal ocultar-media">
+                    <p><span class="font-bold">Seguramente te has preguntado,</span> ¿Si el crecimiento de tu niño es normal? <span class="font-bold">¿Por qué un hermano menor casi lo alcanza o es más alto?</span> ¿Tu hijo está creciendo más lento de lo habitual?
+                        o <span class="font-bold">¿Por qué está en los primeros lugares de las formaciones
+                        escolares?</span>, mientras que sus compañeros cada vez tienen mayor altura. </p>
+                </div>
+                <div class="contenedor-video">
+                    <div class="reproductor" data-id="U250LTLFuok"></div>
+                </div>
+            </div>
+
+            <div class="grid-index-2  mostrar-media pt-20">
+                <div class="contenedor-video ">
+                    <div class="reproductor" data-id="U250LTLFuok"></div>
+                </div>
+
+                <div class="textos-principal-2columas">
+                    <p><span class="font-bold">Seguramente te has preguntado,</span> ¿Si el crecimiento de tu niño es normal? <span class="font-bold">¿Por qué un hermano menor casi lo alcanza o es más alto?</span> ¿Tu hijo está creciendo más lento de lo habitual?
                     o <span class="font-bold">¿Por qué está en los primeros lugares de las formaciones
                     escolares?</span>, mientras que sus compañeros cada vez tienen mayor altura. </p>
+                </div>
             </div>
-            <div class="contenedor-video">
-                <div class="reproductor" data-id="U250LTLFuok"></div>
-            </div>
+
+
             <div class="cuadros-crecimiento-2 efecto3-2 mt-2">
                 <div class="titulos-principal">
                     <h2><span class="font-bold">¿PUEDO HACER QUE MI <br> HIJA O HIJO SEA MAS ALTO? </span></h2>

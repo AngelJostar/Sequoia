@@ -855,7 +855,20 @@
     .textos-principal p {
         margin: 0 auto;
         max-width: 90%;
-        font-size: calc(13px + .3vw);
+        font-size: calc(13px + .6vw);
+        font-weight: 500;
+        color: rgb(135, 135, 135);
+        text-align: center;
+        word-spacing: 1px;
+        line-height: 20px;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    
+    .textos-principal-2columas p {
+        margin: 0 auto;
+        max-width: 90%;
+        font-size: calc(13px + .6vw);
         font-weight: 500;
         color: rgb(135, 135, 135);
         text-align: center;
@@ -1165,6 +1178,10 @@
     
     .pt-15 {
         padding-top: 15px;
+    }
+    
+    .pt-20 {
+        padding-top: 30px;
     }
     /*END_FOOTER*/
     /*Redes Sociales*/
@@ -2095,7 +2112,18 @@
         /*++++++++++++++++++++++++++++++FINAL DE ENCABEZADOS DE PAGINAS (GREEDS)++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
         .textos-principal p {
             margin: 0 auto;
-            max-width: 57%;
+            max-width: 55%;
+            font-weight: 500;
+            color: rgb(135, 135, 135);
+            text-align: center;
+            word-spacing: 1px;
+            line-height: 1.7;
+            margin-top: 2rem;
+            margin-bottom: 2rem;
+        }
+        .textos-principal-2columas p {
+            margin: 0 auto;
+            max-width: 55%;
             font-weight: 500;
             color: rgb(135, 135, 135);
             text-align: center;
@@ -2151,6 +2179,37 @@
         /*++++++++++++++++++++++++++++++FINAL DE ENCABEZADOS DE PAGINAS (GREEDS)++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
         .texto-importancia-2 p {
             max-width: 70%;
+        }
+        .textos-principal p {
+            margin: 0 auto;
+            max-width: 55%;
+            font-weight: 500;
+            color: rgb(135, 135, 135);
+            text-align: center;
+            word-spacing: 1px;
+            line-height: 1.7;
+            margin-top: 2rem;
+            margin-bottom: 2rem;
+        }
+        .textos-principal-2columas p {
+            margin: 0 auto;
+            max-width: 100%;
+            font-weight: 500;
+            color: rgb(135, 135, 135);
+            text-align: center;
+            word-spacing: 1px;
+            line-height: 1.7;
+            margin-bottom: 2rem;
+        }
+        .grid-index-2 {
+            max-width: 55%;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 50% 50%;
+            column-gap: 2rem;
+        }
+        .grid-index-2 p {
+            text-align: left;
         }
     }
     
