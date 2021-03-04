@@ -123,13 +123,10 @@
                 <p>TELÉFONO</p>
                 <input type="tel" name="telefono" placeholder="Teléfono" required>
                 <p>ELIGE UN CENTRO</p>
-                <select name="OS">
-                <option value="1">Windows Vista</option> 
-                <option value="2">Windows 7</option> 
-                <option value="3">Windows XP</option>
-                <option value="10">Fedora</option> 
-                <option value="11">Debian</option> 
-                <option value="12">Suse</option> 
+                <select name="centro">
+                <option value="1">CDMX</option> 
+                <option value="2">GUADALAJARA</option> 
+                <option value="3">MONTERREY</option>
                 </select>
                 <p>MENSAJE</p>
                 <textarea name="mensaje" placeholder="Escriba aqui su mensaje" required></textarea>
