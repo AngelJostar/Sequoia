@@ -1644,20 +1644,14 @@
         line-height: 1.15;
     }
     
-    .justificar-texto-90-listas ul {
-        list-style: none;
-        padding: 0px;
+    li::marker {
+        color: rgb(192, 212, 31);
+        font-size: 3rem;
     }
     
     .justificar-texto-90-listas li::before {
-        content: "\2022";
-        color: rgb(192, 212, 31);
-        display: inline-block;
-        padding-right: 35px;
-        font-size: 90px;
-        line-height: 25px;
-        vertical-align: -19px;
-        width: 15px;
+        display: list-item;
+        padding-inline-start: 1ch;
     }
     
     .justificar-texto-90-listas p {

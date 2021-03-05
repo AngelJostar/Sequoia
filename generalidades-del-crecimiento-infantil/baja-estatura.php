@@ -24,31 +24,11 @@
         <?php include_once '../includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
-<<<<<<< HEAD
-            <div class="cuadros-crecimiento">
-                <div class="titulos-grid-baja-estatura">
-                    <div class="flexbox padre">
-                        <div class="barra-titulo"></div>
-                    </div>
-                    <h1><span class="font-bold">BAJA ESTATURA<br>EN NIÑOS</span></h1>
-                    <div class="flexbox padre">
-                        <div class="barra-titulo"></div>
-                    </div>
-=======
 
             <div class="caja-imagen-hojas">
                 <img src="/img/banners/Banner-doctores.webp" alt="">
                 <div class="texto-imagen-izquierda">
                     <h2>La baja estatura es una estatura que es inferior a la de casi todos los demás niños de la misma edad y sexo, es un motivo frecuente de consulta.</h2>
-                </div>
-            </div>
-            <div class="contenedor-generalidades">
-                <div class="justificar-texto-90-listas">
-                    <ul>
-                        <li>Su hijo puede ser pequeño para su edad, pero está creciendo bien y probablemente llegará a la pubertad después que sus amigos, a esto se le conoce como “retraso constitucional del crecimiento".</li>
-                        <li>Si uno o ambos padres son bajos, es muy probable que su hijo también lo sea. Su hijo deberá ser tan alto como uno de sus padres.</li>
-                    </ul>
->>>>>>> 171d071a999c52b7da274980922900d62b42a921
                 </div>
             </div>
             <div class="justificar-texto-85 centrar-texto">
@@ -146,41 +126,40 @@
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
                     <h2><span class="font-bold">¿CÓMO SE DETERMINA<br>LA BAJA ESTATURA?</span></h2>
+                </div>
             </div>
-        </div>
-        <div class="justificar-texto-85 pt-15">
-            <p><span class="font-bold">Los especialistas:</span></p>
-        </div>
-        <div class="contenedor-75porciento pb-25">
-            <div class="justificar-texto-90-listas">
-                <ul>
-                    <li>Miden la estatura y el peso de su hijo y los representan en un gráfico de crecimiento</li>
-                    <li>Obtienen radiografías de los huesos de la mano de su hijo para medir la edad ósea</li>
-                </ul>
+            <div class="justificar-texto-85 pt-15">
+                <p><span class="font-bold">Los especialistas:</span></p>
             </div>
-        </div>
-        <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
-            <div class="titulos-principal">
-                <h2><span class="font-bold">PARA AVERIGUAR LA CAUSA DE LA<br>BAJA ESTATURA DE SU HIJO,<br>LOS MÉDICOS PUEDEN SOLICITAR:</span></h2>
+            <div class="contenedor-75porciento pb-25">
+                <div class="justificar-texto-90-listas">
+                    <ul>
+                        <li>Miden la estatura y el peso de su hijo y los representan en un gráfico de crecimiento</li>
+                        <li>Obtienen radiografías de los huesos de la mano de su hijo para medir la edad ósea</li>
+                    </ul>
+                </div>
             </div>
-        </div>
-        <div class="contenedor-75porciento">
-            <div class="justificar-texto-90-listas">
-                <ul>
-                    <li>Tomografía computarizada (TC) o resonancia magnética nuclear (RMN) de la cabeza</li>
-                    <li>Estimulación de la hormona del crecimiento</li>
-                    <li>Pruebas de función tiroidea</li>
-                    <li>Nivel del factor de crecimiento de tipo insulínico 1 (IGF-1)</li>
-                    <li>Exámenes de sangre para buscar problemas en el hígado, riñones, tiroides, sistema inmunitario y otros problemas médicos</li>
-                </ul>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">PARA AVERIGUAR LA CAUSA DE LA<br>BAJA ESTATURA DE SU HIJO,<br>LOS MÉDICOS PUEDEN SOLICITAR:</span></h2>
+                </div>
+            </div>
+            <div class="contenedor-75porciento">
+                <div class="justificar-texto-90-listas">
+                    <ul>
+                        <li>Tomografía computarizada (TC) o resonancia magnética nuclear (RMN) de la cabeza</li>
+                        <li>Estimulación de la hormona del crecimiento</li>
+                        <li>Pruebas de función tiroidea</li>
+                        <li>Nivel del factor de crecimiento de tipo insulínico 1 (IGF-1)</li>
+                        <li>Exámenes de sangre para buscar problemas en el hígado, riñones, tiroides, sistema inmunitario y otros problemas médicos</li>
+                    </ul>
+                </div>
+
             </div>
             <div class="tamaño-img">
                 <img src="../img/banners/BANNER-Como-medir-a-tu-hijo-de-manera-correcta.webp" alt="contacto crecimiento">
             </div>
-        </div>
-        <div class="tamaño-img mostrar-media">
-            <img src="img/generalidades-del-crecimiento-infantil/BANNER-¿Como-medir-a-tu-hijo-de-manera-correcta--.webp" alt="medir edad hijo">
-        </div>
+
         </div>
 
         <?php include_once '../includes/templates/footer.php';?>
