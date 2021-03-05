@@ -28,16 +28,8 @@
             <div class="caja-imagen-hojas">
                 <img src="/img/banners/Banner-doctoras.webp" alt="">
                 <div class="texto-imagen-izquierda">
-                    <h2>¿Una mayor altura aporta ventajas a una <br> persona en su vida?, Si es así, <br>¿cuáles son exactamente esas ventajas? <br> ¿Qué tan grandes son esas ventajas? <br> ¿En qué aspectos de la vida? <br> ¿Por qué la altura aporta ventajas
-                        a una <br> persona?</h2>
+                    <h2>La edad ósea muestra la maduración del esqueleto en un momento dado. No necesariamente tiene que coincidir con la edad real o cronológica del niño. Una diferencia de más de un año entre una y otra puede indicar que hay un problema de crecimiento.</h2>
                 </div>
-            </div>
-
-            <div class="encabezado-crecimiento-deficiente">
-                <h1>Edad Ósea</h1>
-            </div>
-            <div class="justificar-texto-90">
-                <p>La edad ósea muestra la maduración del esqueleto en un momento dado. No necesariamente tiene que coincidir con la edad real o cronológica del niño. Una diferencia de más de un año entre una y otra puede indicar que hay un problema de crecimiento.</p>
             </div>
             <div class="encabezado-crecimiento-deficiente">
                 <h2>¿Para qué es útil la edad ósea?</h2>
@@ -73,6 +65,9 @@
             </div>
             <div class="justificar-texto-90">
                 <p>La forma más habitual es con una radiografía de la mano. Se hace de la mano por la gran cantidad de huesos que hay en ella, cada uno con su cartílago de crecimiento. Para cada año de edad hay un modelo de imagen radiológica, con el que se compara la radiografía del niño que se quiere estudiar. A través de la comparación de imágenes se sabe cuál es la edad ósea. </p>
+            </div>
+            <div class="tamaño-img">
+                <img src="../img/banners/Banner-Graficas-de-Crecimiento.webp" alt="contacto crecimiento">
             </div>
 
         </div>

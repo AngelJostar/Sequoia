@@ -28,16 +28,8 @@
             <div class="caja-imagen-hojas">
                 <img src="/img/banners/Banner-doctor-doctora-graficas.webp" alt="">
                 <div class="texto-imagen-izquierda">
-                    <h2>¿Una mayor altura aporta ventajas a una <br> persona en su vida?, Si es así, <br>¿cuáles son exactamente esas ventajas? <br> ¿Qué tan grandes son esas ventajas? <br> ¿En qué aspectos de la vida? <br> ¿Por qué la altura aporta ventajas
-                        a una <br> persona?</h2>
+                    <h2>Las gráficas o curvas de crecimiento se elaboran con las mediciones de amplios grupos de niños de distintas edades. Estos datos se someten a métodos estadísticos y se diseñan unas curvas de crecimiento. Tenemos gráficas para diferentes mediciones para niños y niñas.</h2>
                 </div>
-            </div>
-
-            <div class="encabezado-crecimiento-deficiente">
-                <h1>Graficas de Crecimiento</h1>
-            </div>
-            <div class="justificar-texto-90">
-                <p>Las gráficas o curvas de crecimiento se elaboran con las mediciones de amplios grupos de niños de distintas edades. Estos datos se someten a métodos estadísticos y se diseñan unas curvas de crecimiento. Tenemos gráficas para diferentes mediciones para niños y niñas.</p>
             </div>
             <div class="justificar-texto-90">
                 <p>Hasta los dos años se miden el peso, la longitud (la medida de pies a cabeza con el niño acostado) y el perímetro cefálico (tamaño de la cabeza en redondo). A partir de los dos años y hasta el final de crecimiento se miden el peso y la talla (la medida de pies a cabeza estando de pie). También es útil conocer el índice de masa corporal (IMC), que se obtiene dividiendo el peso por la talla al cuadrado (peso/talla2).</p>
@@ -64,6 +56,9 @@
             <div class="justificar-texto-90">
                 <p>Además del percentil también es útil conocer la velocidad de aumento del peso y de la talla. Las gráficas de crecimiento tienen más utilidad para realizar un seguimiento a lo largo del tiempo. Ver la variación del crecimiento a distintas edades y conocer cómo es la curva particular de un niño concreto es más importante que un valor aislado. Si un niño crece siguiendo un cierto patrón y en un momento dado cambia ese patrón y empieza a crecer más despacio, podemos estar ante un problema de salud y descubrirlo observando su curva de crecimiento. Aunque en determinados periodos, como entre los 6 y 18 meses o en la adolescencia, algunos niños normales pueden cambiar de percentil.</p>
             </div>
+            <div class="tamaño-img">
+                <img src="../img/banners/Banner-Talla-Familiar-Genertica.webp" alt="contacto crecimiento">
+            </div>   
 
            
         </div>

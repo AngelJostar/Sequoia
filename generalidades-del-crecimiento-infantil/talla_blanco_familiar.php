@@ -29,18 +29,8 @@
             <div class="caja-imagen-hojas">
                 <img src="/img/banners/Banner-doctor-media-edad.webp" alt="">
                 <div class="texto-imagen-izquierda">
-                    <h2>¿Una mayor altura aporta ventajas a una <br> persona en su vida?, Si es así, <br>¿cuáles son exactamente esas ventajas? <br> ¿Qué tan grandes son esas ventajas? <br> ¿En qué aspectos de la vida? <br> ¿Por qué la altura aporta ventajas
-                        a una <br> persona?</h2>
+                    <h2>La Talla Blanco familiar es el promedio de crecimiento que los padres heredan a sus hij@s</h2>
                 </div>
-            </div>
-
-            <div class="encabezado-crecimiento-deficiente">
-                <h1>Talla Diana</h1>
-            </div>
-            <div class="justificar-texto-90">
-                <p>El crecimiento es uno de los indicadores más sensibles del estado de salud de un niño/a, de ahí la supervisión continuada del crecimiento que se realiza especialmente en los primeros años de vida. Este proceso se ve influenciado por factores
-                    endróguenos y exógenos: entre los primeros se encuentra el componente genético, dada la correlación existente entre la talla de los padres y talla del individuo adulto; de tal manera, que a cualquier edad puede estimarse la talla que
-                    alcanzará un niño/a, a la cual denominamos Talla Diana en función de la talla de sus padres.</p>
             </div>
             <div class="justificar-texto-90">
                 <p>También los factores metabólicos como el déficit de hormona del crecimiento (GH), el hipotiroidismo o la diabetes mal controlada, pueden alterar el crecimiento esperable genéticamente. Entre los factores ambientales o exógenos, inciden
@@ -56,6 +46,9 @@
             <div class="imagen-80 centrar-imagen ">
                 <img src="/img/nueva/tabla-formula.webp" alt="Brexia_especialistas">
             </div>
+            <div class="tamaño-img">
+                <img src="../img/banners/Banner-Pubertad-adelantada-o-atrasada.webp" alt="contacto crecimiento">
+            </div> 
 
 
         </div>

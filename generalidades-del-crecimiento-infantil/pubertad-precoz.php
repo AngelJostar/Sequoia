@@ -29,17 +29,8 @@
             <div class="caja-imagen-hojas">
                 <img src="/img/banners/Banner-doctor-doctora-pubertad.webp" alt="">
                 <div class="texto-imagen-izquierda">
-                    <h2>¿Una mayor altura aporta ventajas a una <br> persona en su vida?, Si es así, <br>¿cuáles son exactamente esas ventajas? <br> ¿Qué tan grandes son esas ventajas? <br> ¿En qué aspectos de la vida? <br> ¿Por qué la altura aporta ventajas
-                        a una <br> persona?</h2>
+                    <h2>El término pubertad precoz se refiere a la maduración sexual que comienza antes de los 9 años en niños o antes de los 8 años en niñas.</h2>
                 </div>
-            </div>
-
-            <div class="encabezado-crecimiento-deficiente">
-                <h1>Pubertad Precoz</h1>
-            </div>
-            <div class="justificar-texto-90">
-                <p>El término pubertad precoz se refiere a la maduración sexual que comienza antes de los 9 años en niños o antes de los 8 años en niñas.</p>
-                <p>Los signos y síntomas de la pubertad precoz son los siguientes:</p>
             </div>
             <div class="contenedor-generalidades">
                 <div class="justificar-texto-90-listas">
@@ -89,6 +80,9 @@
             <div class="encabezado-crecimiento-deficiente">
                 <h4>Si tu hijo presenta signos de pubertad precoz es importante acudir lo más pronto posible con los especialistas de SEQUOIA para atender de manera inmediata este padecimiento. ¡Ayuda a tu hijo a alcanzar una mayor estatura! </h4>
             </div>
+            <div class="tamaño-img">
+                <img src="../img/banners/Banner-Edad-osea-.webp" alt="contacto crecimiento">
+            </div>   
 
         </div>
 

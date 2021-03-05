@@ -28,16 +28,8 @@
             <div class="caja-imagen-hojas">
                 <img src="/img/banners/Banner-doctores.webp" alt="">
                 <div class="texto-imagen-izquierda">
-                    <h2>¿Una mayor altura aporta ventajas a una <br> persona en su vida?, Si es así, <br>¿cuáles son exactamente esas ventajas? <br> ¿Qué tan grandes son esas ventajas? <br> ¿En qué aspectos de la vida? <br> ¿Por qué la altura aporta ventajas
-                        a una <br> persona?</h2>
+                    <h2>La baja estatura es una estatura que es inferior a la de casi todos los demás niños de la misma edad y sexo, es un motivo frecuente de consulta.</h2>
                 </div>
-            </div>
-
-            <div class="encabezado-crecimiento-deficiente">
-                <h1>Baja Estatura en niños </h1>
-            </div>
-            <div class="justificar-texto-90">
-                <p>La baja estatura es una estatura que es inferior a la de casi todos los demás niños de la misma edad y sexo, es un motivo frecuente de consulta.</p>
             </div>
             <div class="contenedor-generalidades">
                 <div class="justificar-texto-90-listas">
@@ -156,6 +148,9 @@
                         <li>Exámenes de sangre para buscar problemas en el hígado, riñones, tiroides, sistema inmunitario y otros problemas médicos</li>
                     </ul>
                 </div>
+            </div>
+            <div class="tamaño-img">
+                <img src="../img/banners/BANNER-Como-medir-a-tu-hijo-de-manera-correcta.webp" alt="contacto crecimiento">
             </div>
         </div>
 
