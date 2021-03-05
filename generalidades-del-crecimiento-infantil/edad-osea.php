@@ -25,6 +25,14 @@
 
         <div class="contendor-crecimiento">
 
+            <div class="caja-imagen-hojas">
+                <img src="/img/banners/Banner-doctoras.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>¿Una mayor altura aporta ventajas a una <br> persona en su vida?, Si es así, <br>¿cuáles son exactamente esas ventajas? <br> ¿Qué tan grandes son esas ventajas? <br> ¿En qué aspectos de la vida? <br> ¿Por qué la altura aporta ventajas
+                        a una <br> persona?</h2>
+                </div>
+            </div>
+
             <div class="encabezado-crecimiento-deficiente">
                 <h1>Edad Ósea</h1>
             </div>
