@@ -24,28 +24,29 @@
         <?php include_once '../includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
-
-            <div class="encabezado-crecimiento-deficiente">
-                <h1>Baja Estatura en niños </h1>
-            </div>
-            <div class="justificar-texto-90">
-                <p>La baja estatura es una estatura que es inferior a la de casi todos los demás niños de la misma edad y sexo, es un motivo frecuente de consulta.</p>
-            </div>
-            <div class="contenedor-generalidades">
-                <div class="justificar-texto-90-listas">
-                    <ul>
-                        <li>Su hijo puede ser pequeño para su edad, pero está creciendo bien y probablemente llegará a la pubertad después que sus amigos, a esto se le conoce como “retraso constitucional del crecimiento".</li>
-                        <li>Si uno o ambos padres son bajos, es muy probable que su hijo también lo sea. Su hijo deberá ser tan alto como uno de sus padres.</li>
-                    </ul>
+            <div class="cuadros-crecimiento">
+                <div class="titulos-grid-baja-estatura">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1><span class="font-bold">BAJA ESTATURA<br>EN NIÑOS</span></h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
                 </div>
             </div>
-            <div class="justificar-texto-90">
-                <p>A veces, la baja estatura puede ser un síntoma de un problema de salud como:</p>
+            <div class="justificar-texto-85 centrar-texto">
+                <p>Su hijo puede ser pequeño para su edad, pero está creciendo bien y probablemente llegará a la pubertad después que sus<br>amigos, a esto se le conoce como<br><span class="font-bold">“retraso constitucional<br> del crecimiento".</span></p>
             </div>
-            <div class="justificar-texto-90">
-                <p>Trastornos de los huesos o el esqueleto, como:</p>
+            <div class="justificar-texto-85 centrar-texto pb-2">
+                <p><span class="font-bold">Si uno o ambos padres son bajos, es muy probable que su hijo también lo sea.</span> Su hijo deberá ser tan alto como uno de sus padres</p>
             </div>
-            <div class="contenedor-generalidades">
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">TRANSTORNOS DE LOS HUESOS<br> Ó EL ESQUELETO, COMO:</span></h2>
+                </div>
+            </div>
+            <div class="contenedor-75porciento pb-25">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Raquitismo</li>
@@ -53,10 +54,12 @@
                     </ul>
                 </div>
             </div>
-            <div class="justificar-texto-90">
-                <p>Enfermedades prolongadas (crónicas), como:</p>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">ENFERMEDADES PROLONGADAS<br>(CRÓNICAS), COMO:</span></h2>
+                </div>
             </div>
-            <div class="contenedor-generalidades">
+            <div class="contenedor-75porciento pb-25">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Asma</li>
@@ -73,10 +76,12 @@
                     </ul>
                 </div>
             </div>
-            <div class="justificar-texto-90">
-                <p>Afecciones genéticas, como:</p>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">AFECCIONES GENÉTICAS, COMO:</span></h2>
+                </div>
             </div>
-            <div class="contenedor-generalidades">
+            <div class="contenedor-75porciento pb-25">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Síndrome de Down</li>
@@ -87,34 +92,33 @@
                     </ul>
                 </div>
             </div>
-            <div class="justificar-texto-90">
-                <p>Otras razones incluyen:</p>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">OTRAS RAZONES INCLUYEN:</span></h2>
+                </div>
             </div>
-            <div class="contenedor-generalidades">
+            <div class="contenedor-75porciento pb-25">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Deficiencia en la hormona del crecimiento</li>
                         <li>Infecciones en el bebé en desarrollo antes del nacimiento</li>
                         <li>Desnutrición</li>
-                        <li>Crecimiento pobre del bebé mientras está en el vientre (restricción del crecimiento intrauterino) o un bebé pequeño para la edad gestacional</li>
+                        <li>Crecimiento pobre del bebé mientras está en el vientre <span class="font-bold">(restricción del crecimiento intrauterino) o un bebé pequeño para la edad gestacional</span></li>
                     </ul>
                 </div>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>¿Cuáles son los síntomas de la estatura baja en los niños?</h2>
-                <h4>El síntoma principal de la estatura baja en los niños es ser:</h4>
-            </div>
-            <div class="contenedor-generalidades">
-                <div class="justificar-texto-90-listas">
-                    <ul>
-                        <li>Muy bajos en comparación con otros niños de la misma edad y sexo</li>
-                    </ul>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">¿CUÁLES SON LOS SÍNTOMAS DE LA <br>ESTATURA BAJA EN LOS NIÑOS?</span></h2>
                 </div>
             </div>
-            <div class="justificar-texto-90">
-                <p>Los niños con estatura baja por lo general:</p>
+            <div class="justificar-texto-85 centrar-texto">
+                <p><span class="font-bold">El síntoma principal de la estatura baja en los niños es ser:</span> Muy bajos en comparación con otros niños de la misma edad y sexo</p>
             </div>
-            <div class="contenedor-generalidades">
+            <div class="justificar-texto-85 centrar-texto">
+                <p><span class="font-bold">Los niños con estatura baja por lo general:</p>       
+            </div>
+            <div class="contenedor-75porciento pb-25">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Crecen lentamente</li>
@@ -123,32 +127,41 @@
                     </ul>
                 </div>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>¿Cómo se determina la baja estatura?</h2>
-                <h4>Los especialistas:</h4>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">¿CÓMO SE DETERMINA<br>LA BAJA ESTATURA?</span></h2>
             </div>
-            <div class="contenedor-generalidades">
-                <div class="justificar-texto-90-listas">
-                    <ul>
-                        <li>Miden la estatura y el peso de su hijo y los representan en un gráfico de crecimiento</li>
-                        <li>Obtienen radiografías de los huesos de la mano de su hijo para medir la edad ósea</li>
-                    </ul>
-                </div>
+        </div>
+        <div class="justificar-texto-85 pt-15">
+            <p><span class="font-bold">Los especialistas:</span></p>
+        </div>
+        <div class="contenedor-75porciento pb-25">
+            <div class="justificar-texto-90-listas">
+                <ul>
+                    <li>Miden la estatura y el peso de su hijo y los representan en un gráfico de crecimiento</li>
+                    <li>Obtienen radiografías de los huesos de la mano de su hijo para medir la edad ósea</li>
+                </ul>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h4>Para averiguar la causa de la baja estatura de su hijo, los médicos pueden solicitar:</h4>
+        </div>
+        <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+            <div class="titulos-principal">
+                <h2><span class="font-bold">PARA AVERIGUAR LA CAUSA DE LA<br>BAJA ESTATURA DE SU HIJO,<br>LOS MÉDICOS PUEDEN SOLICITAR:</span></h2>
             </div>
-            <div class="contenedor-generalidades">
-                <div class="justificar-texto-90-listas">
-                    <ul>
-                        <li>Tomografía computarizada (TC) o resonancia magnética nuclear (RMN) de la cabeza</li>
-                        <li>Estimulación de la hormona del crecimiento</li>
-                        <li>Pruebas de función tiroidea</li>
-                        <li>Nivel del factor de crecimiento de tipo insulínico 1 (IGF-1)</li>
-                        <li>Exámenes de sangre para buscar problemas en el hígado, riñones, tiroides, sistema inmunitario y otros problemas médicos</li>
-                    </ul>
-                </div>
+        </div>
+        <div class="contenedor-75porciento">
+            <div class="justificar-texto-90-listas">
+                <ul>
+                    <li>Tomografía computarizada (TC) o resonancia magnética nuclear (RMN) de la cabeza</li>
+                    <li>Estimulación de la hormona del crecimiento</li>
+                    <li>Pruebas de función tiroidea</li>
+                    <li>Nivel del factor de crecimiento de tipo insulínico 1 (IGF-1)</li>
+                    <li>Exámenes de sangre para buscar problemas en el hígado, riñones, tiroides, sistema inmunitario y otros problemas médicos</li>
+                </ul>
             </div>
+        </div>
+        <div class="tamaño-img mostrar-media">
+            <img src="img/generalidades-del-crecimiento-infantil/BANNER-¿Como-medir-a-tu-hijo-de-manera-correcta--.webp" alt="medir edad hijo">
+        </div>
         </div>
 
         <?php include_once '../includes/templates/footer.php';?>

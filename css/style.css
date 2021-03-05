@@ -572,7 +572,7 @@
     /*UTILIDADES*/
     
     .centrar-texto {
-        text-align: center;
+        text-align: center !important;
     }
     
     .centrar-objeto {
@@ -616,6 +616,16 @@
     
     .img-90 {
         max-width: 90%;
+        margin: 0 auto;
+    }
+    
+    .contenedor-90porciento {
+        max-width: 90%;
+        margin: 0 auto;
+    }
+    
+    .contenedor-75porciento {
+        max-width: 75%;
         margin: 0 auto;
     }
     /*END_UTILIDADES*/
@@ -999,6 +1009,11 @@
         display: grid;
         grid-template-columns: 26% 48% 26%;
     }
+    
+    .titulos-grid-baja-estatura {
+        display: grid;
+        grid-template-columns: 30% 45% 30%;
+    }
     /*++++++++++++++++++++++++++++++FINAL DE ENCABEZADOS DE PAGINAS (GREEDS)++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     /*VIDEO*/
     
@@ -1351,6 +1366,32 @@
         line-height: 1.15;
     }
     
+    .justificar-texto-85 {
+        max-width: 85%;
+        font-size: 14px;
+        color: #777777;
+        text-align: justify;
+        margin: 0 auto;
+        line-height: 1.15;
+    }
+    
+    .justificar-texto-85 h3 {
+        max-width: 85%;
+        font-size: 18px;
+        color: #000000;
+        text-align: justify;
+        margin: 0 auto;
+    }
+    
+    .justificar-texto-85 h3 {
+        max-width: 100%;
+        font-size: 18px;
+        font-weight: bold;
+        color: #000000 !important;
+        text-align: justify;
+        margin: 0 auto;
+    }
+    
     .justificar-texto-90 {
         max-width: 90%;
         font-size: 16px;
@@ -1364,15 +1405,6 @@
         max-width: 90%;
         font-size: 18px;
         color: #000000;
-        text-align: justify;
-        margin: 0 auto;
-    }
-    
-    .justificar-texto-90 h3 {
-        max-width: 100%;
-        font-size: 18px;
-        font-weight: bold;
-        color: #000000 !important;
         text-align: justify;
         margin: 0 auto;
     }
@@ -1605,16 +1637,36 @@
     }
     
     .justificar-texto-90-listas li {
-        font-size: 16px;
+        font-size: 14px;
         color: #777777;
         text-align: justify;
         margin: 0 auto;
         line-height: 1.15;
     }
     
+    .justificar-texto-90-listas ul {
+        list-style: none;
+        padding: 0px;
+    }
+    
+    .justificar-texto-90-listas li::before {
+        content: "\2022";
+        color: rgb(192, 212, 31);
+        display: inline-block;
+        padding-right: 35px;
+        font-size: 90px;
+        line-height: 25px;
+        vertical-align: -19px;
+        width: 15px;
+    }
+    
     .justificar-texto-90-listas p {
         margin-bottom: 10px;
         margin-top: 10px;
+    }
+    
+    .pr-1 {
+        margin-right: 35px;
     }
     /*Crecimiento infantil- generlidades*/
     /*Deporte y estatura - importancia de ser mas alto*/
@@ -1941,6 +1993,10 @@
     
     .margin-negativo {
         margin-bottom: -25px;
+    }
+    
+    .margin-negativo-top-15 {
+        margin-top: -15px;
     }
     
     .margin-negativo-top-18 {
