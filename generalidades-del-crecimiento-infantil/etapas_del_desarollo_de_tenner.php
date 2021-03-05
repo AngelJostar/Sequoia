@@ -25,11 +25,11 @@
 
         <div class="contendor-crecimiento">
 
-            <div class="encabezado-crecimiento-deficiente">
-                <h1>Etapas del desarrollo de Tanner</h1>
-            </div>
-            <div class="justificar-texto-90">
-                <p>El crecimiento y desarrollo físico es un proceso continuo y complejo, determinado por factores genéticos y modulado por factores ambientales, de tal modo que la máxima expresión de la potencialidad genética dependerá básicamente del estado de salud y nutrición del individuo. Una vez iniciado el desarrollo puberal, el proceso avanza en forma progresiva, completándose en un lapso promedio de 3 a 4 años. En las niñas la pubertad normalmente se completa a los 16 años y en los varones a los 18 años aproximadamente.</p>
+            <div class="caja-imagen-hojas">
+                <img src="/img/banners/Banner-doctor-doctora.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>El crecimiento y desarrollo físico es un proceso continuo y complejo, determinado por factores genéticos y modulado por factores ambientales, de tal modo que la máxima expresión de la potencialidad genética dependerá básicamente del estado de salud y nutrición del individuo. Una vez iniciado el desarrollo puberal, el proceso avanza en forma progresiva, completándose en un lapso promedio de 3 a 4 años. En las niñas la pubertad normalmente se completa a los 16 años y en los varones a los 18 años aproximadamente.</h2>
+                </div>
             </div>
             <div class="justificar-texto-90">
                 <p>Para evaluar la progresión de los patrones normales de pubertad, los autores Tanner y Marshall describieron los “estadios de Tanner”, que es una clasificación que evalúa el grado de desarrollo puberal para ambos sexos, clasificándose en 5 estadios o grados lo que nos permite tener un lenguaje universal común siendo ampliamente aceptada en la práctica clínica. Es así como en las niñas se considera el desarrollo mamario y del vello pubiano, en los niños se describe el desarrollo de los genitales externos, principalmente el grado de volumen testicular, así como también se valora el vello pubiano.</p>
@@ -46,8 +46,9 @@
             <div>
             <p>Tabla II</p>
             </div>
-
-           
+            <div class="tamaño-img">
+                <img src="../img/banners/Banner-Estiron-Puberal.webp" alt="contacto crecimiento">
+            </div>           
         </div>
 
         <?php include_once '../includes/templates/footer.php';?>

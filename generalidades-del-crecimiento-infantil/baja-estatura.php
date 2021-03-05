@@ -24,6 +24,7 @@
         <?php include_once '../includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
+<<<<<<< HEAD
             <div class="cuadros-crecimiento">
                 <div class="titulos-grid-baja-estatura">
                     <div class="flexbox padre">
@@ -33,6 +34,21 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
+=======
+
+            <div class="caja-imagen-hojas">
+                <img src="/img/banners/Banner-doctores.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>La baja estatura es una estatura que es inferior a la de casi todos los demás niños de la misma edad y sexo, es un motivo frecuente de consulta.</h2>
+                </div>
+            </div>
+            <div class="contenedor-generalidades">
+                <div class="justificar-texto-90-listas">
+                    <ul>
+                        <li>Su hijo puede ser pequeño para su edad, pero está creciendo bien y probablemente llegará a la pubertad después que sus amigos, a esto se le conoce como “retraso constitucional del crecimiento".</li>
+                        <li>Si uno o ambos padres son bajos, es muy probable que su hijo también lo sea. Su hijo deberá ser tan alto como uno de sus padres.</li>
+                    </ul>
+>>>>>>> 171d071a999c52b7da274980922900d62b42a921
                 </div>
             </div>
             <div class="justificar-texto-85 centrar-texto">
@@ -157,6 +173,9 @@
                     <li>Nivel del factor de crecimiento de tipo insulínico 1 (IGF-1)</li>
                     <li>Exámenes de sangre para buscar problemas en el hígado, riñones, tiroides, sistema inmunitario y otros problemas médicos</li>
                 </ul>
+            </div>
+            <div class="tamaño-img">
+                <img src="../img/banners/BANNER-Como-medir-a-tu-hijo-de-manera-correcta.webp" alt="contacto crecimiento">
             </div>
         </div>
         <div class="tamaño-img mostrar-media">

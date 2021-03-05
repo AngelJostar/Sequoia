@@ -37,7 +37,7 @@
                 </div>
             </div>
             <div class="caja-imagen-hojas">
-                <img src="/img/banners/banner-niños.webp" alt="banner-doctor">
+                <img src="/img/banners/banner-ninos.webp" alt="banner-doctor">
                 <div class="texto-imagen-derecha">
                     <h2><span class="font-remarcadas">Es muy importante que<br>sepas si la tasa de<br>crecimiento del niño<br>es la que debería ser,<br>a cualquier edad.</span></h2>
                 </div>

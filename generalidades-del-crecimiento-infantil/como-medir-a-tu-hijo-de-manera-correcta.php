@@ -25,11 +25,11 @@
 
         <div class="contendor-crecimiento">
 
-            <div class="encabezado-crecimiento-deficiente">
-                <h1>¿Cómo medir a tu hijo de manera correcta?</h1>
-            </div>
-            <div class="justificar-texto-90">
-                <p>Al medir la altura y el peso se puede saber si un niño está creciendo bien y detectar a tiempo un estancamiento del crecimiento. Para realizar una medición precisa se debe tomar en cuenta las siguientes observaciones:</p>
+            <div class="caja-imagen-hojas">
+                <img src="/img/banners/Banner-doctora-joven.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>Al medir la altura y el peso se puede saber si un niño está creciendo bien y detectar a tiempo un estancamiento del crecimiento. Para realizar una medición precisa se debe tomar en cuenta las siguientes observaciones:</h2>
+                </div>
             </div>
             <div class="contenedor-generalidades">
                 <div class="justificar-texto-90-listas">
@@ -81,6 +81,9 @@
             </div>
             <div>
                 <img src="../img/generalidades-del-crecimiento-infantil/como-medir-2.webp" alt="generalidades-del-crecimiento">
+            </div>
+            <div class="tamaño-img">
+                <img src="../img/banners/Banner-Baja-estatura.webp" alt="contacto crecimiento">
             </div>
 
         </div>
