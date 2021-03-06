@@ -24,7 +24,17 @@
         <?php include_once '../includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
-
+            <div class="cuadros-crecimiento">
+                <div class="titulos-grid-baja-estatura">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1><span class="font-bold">BAJA ESTATURA <br>EN NIÑOS</span></h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
+            </div>
             <div class="caja-imagen-hojas">
                 <img src="/img/banners/Banner-doctores.webp" alt="">
                 <div class="texto-imagen-izquierda">

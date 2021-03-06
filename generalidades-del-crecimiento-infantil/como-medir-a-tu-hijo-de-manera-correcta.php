@@ -24,14 +24,27 @@
         <?php include_once '../includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
-
+            <div class="cuadros-crecimiento">
+                <div class="titulos-grid-crecimiento-infantil">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1><span class="font-bold">¿CÓMO MEDIR A TU HIJO<br>DE MANERA CORRECTA?</span></h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
+            </div>
             <div class="caja-imagen-hojas">
                 <img src="/img/banners/Banner-doctora-joven.webp" alt="">
                 <div class="texto-imagen-izquierda">
                     <h2>Al medir la altura y el peso se puede saber si un niño está creciendo bien y detectar a tiempo un estancamiento del crecimiento. Para realizar una medición precisa se debe tomar en cuenta las siguientes observaciones:</h2>
                 </div>
             </div>
-            <div class="contenedor-generalidades">
+            <div class="justificar-texto-85">
+                <p>Para realizar una medición precisa se debe tomar en cuenta las siguientes observaciones:</p>
+            </div>
+            <div class="contenedor-85porciento">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Los zapatos se deben retirar al medir la altura. </li>
