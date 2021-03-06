@@ -1650,11 +1650,12 @@
         list-style-type: none;
         font-size: 14px;
         line-height: 1.15;
+        max-width: 90%;
     }
     
     .justificar-texto-90-listas ul {
         list-style: none;
-        margin-left: 10px;
+        padding-left: 20px;
     }
     
     .justificar-texto-90-listas li::before {

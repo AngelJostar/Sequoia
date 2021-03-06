@@ -52,7 +52,7 @@
                     <h2><span class="font-bold">TRANSTORNOS DE LOS HUESOS<br> Ó EL ESQUELETO, COMO:</span></h2>
                 </div>
             </div>
-            <div class="contenedor-75porciento pb-25">
+            <div class="contenedor-85porciento pb-25">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Raquitismo</li>
@@ -65,7 +65,7 @@
                     <h2><span class="font-bold">ENFERMEDADES PROLONGADAS<br>(CRÓNICAS), COMO:</span></h2>
                 </div>
             </div>
-            <div class="contenedor-75porciento pb-25">
+            <div class="contenedor-85porciento pb-25">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Asma</li>
@@ -87,7 +87,7 @@
                     <h2><span class="font-bold">AFECCIONES GENÉTICAS, COMO:</span></h2>
                 </div>
             </div>
-            <div class="contenedor-75porciento pb-25">
+            <div class="contenedor-85porciento pb-25">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Síndrome de Down</li>
@@ -103,7 +103,7 @@
                     <h2><span class="font-bold">OTRAS RAZONES INCLUYEN:</span></h2>
                 </div>
             </div>
-            <div class="contenedor-75porciento pb-25">
+            <div class="contenedor-85porciento pb-25">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Deficiencia en la hormona del crecimiento</li>
@@ -124,7 +124,7 @@
             <div class="justificar-texto-85 centrar-texto">
                 <p><span class="font-bold">Los niños con estatura baja por lo general:</p>       
             </div>
-            <div class="contenedor-75porciento pb-25">
+            <div class="contenedor-85porciento pb-25">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Crecen lentamente</li>
@@ -141,7 +141,7 @@
             <div class="justificar-texto-85 pt-15">
                 <p><span class="font-bold">Los especialistas:</span></p>
             </div>
-            <div class="contenedor-75porciento pb-25">
+            <div class="contenedor-85porciento pb-25">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Miden la estatura y el peso de su hijo y los representan en un gráfico de crecimiento</li>
@@ -154,7 +154,7 @@
                     <h2><span class="font-bold">PARA AVERIGUAR LA CAUSA DE LA<br>BAJA ESTATURA DE SU HIJO,<br>LOS MÉDICOS PUEDEN SOLICITAR:</span></h2>
                 </div>
             </div>
-            <div class="contenedor-75porciento">
+            <div class="contenedor-85porciento">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Tomografía computarizada (TC) o resonancia magnética nuclear (RMN) de la cabeza</li>
