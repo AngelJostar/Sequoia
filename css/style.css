@@ -624,6 +624,11 @@
         margin: 0 auto;
     }
     
+    .contenedor-85porciento {
+        max-width: 85%;
+        margin: 0 auto;
+    }
+    
     .contenedor-75porciento {
         max-width: 75%;
         margin: 0 auto;
@@ -1009,10 +1014,11 @@
         display: grid;
         grid-template-columns: 26% 48% 26%;
     }
+    /*La ocupo en baja estatura*/
     
     .titulos-grid-baja-estatura {
         display: grid;
-        grid-template-columns: 30% 45% 30%;
+        grid-template-columns: 27% 46% 27%;
     }
     /*++++++++++++++++++++++++++++++FINAL DE ENCABEZADOS DE PAGINAS (GREEDS)++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     /*VIDEO*/
