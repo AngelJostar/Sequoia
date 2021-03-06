@@ -28,11 +28,11 @@
             <div class="encabezado-crecimiento-deficiente">
                 <h1>Crecimiento en bebes <br> De 0 a 2 años de edad</h1>
             </div>
-            <div>
-                ViDEOS DE CRECIMIENTO EN BEBES
-            </div>
-            <div class="justificar-texto-90">
-                <p>¿Te preguntas si tu bebé crece bien? Cómo crece tu bebé es algo que, como mamá o como papá, es normal que te cuestiones. Toda madre y todo padre quieren, sobre todas las cosas, que su bebé esté sano y sea feliz, y uno de los indicativos más visuales y evidentes es el aumento de peso y talla del pequeño. </p>
+            <div class="caja-imagen-hojas">
+                <img src="/img/banners/Banner-crecimiento-bebe.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>¿Te preguntas si tu bebé crece bien? Cómo crece tu bebé es algo que, como mamá o como papá, es normal que te cuestiones. Toda madre y todo padre quieren, sobre todas las cosas, que su bebé esté sano y sea feliz, y uno de los indicativos más visuales y evidentes es el aumento de peso y talla del pequeño.</h2>
+                </div>
             </div>
             <div class="encabezado-crecimiento-deficiente">
                 <h2>Crecimiento en bebes de 0 a 1 año</h2>

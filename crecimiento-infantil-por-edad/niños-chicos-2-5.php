@@ -29,8 +29,11 @@
                 <h1>Crecimiento en niños chicos De 2 a 5 años de edad
                 </h1>
             </div>
-            <div>
-                ViDEOS DE CRECIMIENTO DE 2 A 3 AÑOS
+            <div class="caja-imagen-hojas">
+                <img src="/img/banners/Banner-doctor-crecimiento-2-5.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>A partir de los dos años, tu hijo crece a un ritmo más lento que en etapas anteriores.</h2>
+                </div>
             </div>
             <div class="encabezado-crecimiento-deficiente">
                 <h2>Crecimiento en niños de 2 a 3 años</h2>

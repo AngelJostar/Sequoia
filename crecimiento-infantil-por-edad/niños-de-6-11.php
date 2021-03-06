@@ -28,12 +28,11 @@
             <div class="encabezado-crecimiento-deficiente">
                 <h1>Crecimiento en niños <br> De 6 a 11 años de edad</h1>
             </div>
-            <div>
-                ViDEOS DE CRECIMIENTO DE 6 A 11 AÑOS
-            </div>
-            <div class="justificar-texto-90">
-               <p>El desarrollo físico en la etapa de los 6 a 11 años es considerable, la constitución corporal cambia, la masa muscular aumenta, los huesos se hacen más fuertes y el niño es capaz de realizar actividades físicas que requieran más fuerza y destreza.</p>
-               <p>Entre los 6 y 11 años los niños crecen entre 5 y 8 centímetros y casi duplican su peso. Estas medidas son orientativas, ya que dependen de la genética y la constitución del niño. El crecimiento es más lento que cuando eran más pequeños, pero es constante hasta que se produce el popular “estirón” a partir de los 9 años en las niñas y de los 11 en los niños. </p>
+            <div class="caja-imagen-hojas">
+                <img src="/img/banners/Banner-crecimiento-6-11.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>El desarrollo físico en la etapa de los 6 a 11 años es considerable, la constitución corporal cambia, la masa muscular aumenta, los huesos se hacen más fuertes</h2>
+                </div>
             </div>
             <div class="encabezado-crecimiento-deficiente">
                 <h2>Crecimiento en niños de 6 a 8 años</h2>

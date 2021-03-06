@@ -28,12 +28,11 @@
             <div class="encabezado-crecimiento-deficiente">
                 <h1>Crecimiento en adolecentes <br> De 12 a 16 años de edad</h1>
             </div>
-            <div>
-                VIDEO DE CRECIMIENTO DURANTE LA ADOLECENCIA
-            </div>
-            <div class="justificar-texto-90">
-                <p>Durante la adolescencia, las personas jóvenes atraviesan por muchos cambios a medida que pasan a la madurez física. Los cambios prepuberales precoces ocurren cuando aparecen las características sexuales secundarias.</p>
-                <p>Niñas:</p>
+            <div class="caja-imagen-hojas">
+                <img src="/img/banners/BANNER-¿Como-medir-a-tu-hijo-de-manera-correcta--.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>Durante la adolescencia, las personas jóvenes atraviesan por muchos cambios a medida que pasan a la madurez física. <br> Los cambios prepuberales precoces ocurren cuando aparecen las características sexuales secundarias.</h2>
+                </div>
             </div>
             <div class="contenedor-generalidades">
                 <div class="justificar-texto-90-listas">
