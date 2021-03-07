@@ -25,6 +25,18 @@
 
         <div class="contendor-crecimiento">
 
+           <div class="cuadros-crecimiento">
+                <div class="titulos-grid-crecimiento-infantil">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1><span class="font-bold">ESTIRÓN PUBERAL</span></h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
+            </div>
+
             <div class="caja-imagen-hojas">
                 <img src="/img/banners/Banner-doctores-puberal.webp" alt="">
                 <div class="texto-imagen-izquierda">
@@ -37,8 +49,10 @@
             <div class="justificar-texto-90">
                 <p>Durante el crecimiento que ocurre en la etapa puberal son muchos los factores que influyen en el desarrollo de los carácteres sexuales, como: hormonas, algunas particularidades étnicas, la herencia, así como los factores ambientales y, en ocasiones, la ocurrencia enfermedades concomitantes en los jóvenes, y de manera específica incide su alimentación;7 dado que en esta fase ocurren tres etapas: la primera de éstas se caracteriza por la «desaceleración del ritmo de crecimiento»; la segunda se manifiesta coloquialmente como el «estirón puberal»: por la sinergia entre la hormona de crecimiento y los esteroides sexuales, y la tercera y última etapa es nuevamente iniciada por la desaceleración progresiva y el cierre de los cartílagos óseos durante el crecimiento.</p>
             </div>
-            <div class="texto-izquierda">
-                <p>¿Cómo lo identifico?</p>
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">¿CÓMO LO IDENTIFICO?</span></h2>
+                </div>
             </div>
             <div class="justificar-texto-90">
                 <p>El estirón puberal es un cambio brusco de la velocidad de crecimiento, que muestra diferencias en uno y otro sexo, tanto en su cronología como en su intensidad. En las niñas es un acontecimiento precoz que se inicia casi al mismo tiempo que la aparición de los caracteres sexuales secundarios, mientras que en los varones comienza cuando ya está avanzada la pubertad.</p>
