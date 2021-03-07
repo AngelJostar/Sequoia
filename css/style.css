@@ -1652,8 +1652,9 @@
         margin-bottom: 20px;
         padding-left: 15px;
         position: relative;
+        color: #777777;
         list-style-type: none;
-        font-size: 14px;
+        font-size: 16px;
         line-height: 1.15;
         max-width: 90%;
     }
@@ -1708,15 +1709,52 @@
         padding-left: 25px;
         max-width: 95%;
     }
+    
+    .etapas-tenner-grid {
+        display: grid;
+        grid-template-columns: 30% 70%;
+    }
+    
+    .etapas-tenner-grid ul {
+        padding-left: 0px !important;
+    }
+    
+    .etapas-grado {
+        max-width: 100%;
+    }
+    
+    .etapas-grado-bg {
+        margin: 0 auto;
+        width: 75%;
+        height: 100%;
+        background: #f3f3f3
+    }
+    
+    .linea-etapas {
+        border-top: 3px solid rgb(192, 212, 31);
+        max-width: 100%;
+    }
+    
+    .etapas-grado-bg p {
+        font-size: 14px;
+        font-weight: 800;
+        color: #00205E;
+    }
+    
+    .etapas-grado-bg {
+        display: table;
+    }
+    
+    .etapas-grado-bg p {
+        text-align: center;
+    }
+    
+    .etapas-grado-hijo {
+        display: table-cell;
+        vertical-align: middle;
+    }
     /*Crecimiento infantil- generlidades*/
     /*Deporte y estatura - importancia de ser mas alto*/
-    
-    .justificar-texto-91 {
-        font-size: 16px;
-        color: #777777;
-        text-align: justify;
-        margin: 0 auto;
-    }
     /*trabajo - importancia de ser mas alto*/
     
     .justificar-texto-verde h2 {
