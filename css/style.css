@@ -1409,9 +1409,10 @@
     
     .justificar-texto-90 h3 {
         max-width: 90%;
-        font-size: 18px;
-        color: #000000;
+        font-size: 3vh;
+        color: #00205E;
         text-align: justify;
+        font-weight: bold;
         margin: 0 auto;
     }
     
@@ -1642,6 +1643,10 @@
         margin-top: 2.5rem;
     }
     
+    .mt-1 {
+        margin-top: 1.5rem;
+    }
+    
     .justificar-texto-90-listas li {
         margin-top: 20px;
         margin-bottom: 20px;
@@ -1675,8 +1680,33 @@
         margin-top: 10px;
     }
     
+    .listas-grid {
+        display: grid;
+        grid-template-columns: 30% 70%;
+    }
+    
     .pr-1 {
         margin-right: 35px;
+    }
+    
+    .justificar-texto-90-listas-grid {
+        line-height: 1.15;
+        font-size: 14px;
+    }
+    
+    .justificar-texto-90-listas-grid li::marker {
+        color: #00205E;
+        font-size: 2.2vh;
+        font-weight: 900;
+    }
+    
+    .justificar-texto-90-listas-grid li:not(:first-child) {
+        padding-top: 20px;
+    }
+    
+    .justificar-texto-90-listas-grid ol {
+        padding-left: 25px;
+        max-width: 95%;
     }
     /*Crecimiento infantil- generlidades*/
     /*Deporte y estatura - importancia de ser mas alto*/
