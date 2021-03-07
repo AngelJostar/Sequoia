@@ -24,10 +24,16 @@
         <?php include_once '../includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
-
-            <div class="encabezado-crecimiento-deficiente">
-                <h1>Crecimiento en niños chicos De 2 a 5 años de edad
-                </h1>
+            <div class="cuadros-crecimiento">
+                <div class="titulos-grid-crecimiento-infantil">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1 style=" font-size: calc(1.05em + 1vw);"><span class="font-bold">CRECIMIENTO EN NIÑOS CHICOS<br>DE 2 A 5 AÑOS DE EDAD</span></h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
             </div>
             <div class="caja-imagen-hojas">
                 <img src="/img/banners/Banner-doctor-crecimiento-2-5.webp" alt="">
@@ -35,10 +41,18 @@
                     <h2>A partir de los dos años, tu hijo crece a un ritmo más lento que en etapas anteriores.</h2>
                 </div>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Crecimiento en niños de 2 a 3 años</h2>
+            <div class="justificar-texto-90">
+                <p>AQUI VA UN VIDEO 1</p>
             </div>
             <div class="justificar-texto-90">
+                <p>AQUI VA UN VIDEO 2</p>
+            </div>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">CRECIMIENTO EN NIÑOS<br>DE 2 A 3 AÑOS</span></h2>
+                </div>
+            </div>
+            <div class="justificar-texto-85 centrar-texto pt-15 pb-30">
                 <p>A partir de los dos años, tu hijo crece a un ritmo más lento que en etapas anteriores. Aumenta alrededor de 5 centímetros entre los 2 y los 3 años de edad. Durante su tercer año de vida experimenta cambios físicos muy evidentes. Su cuerpo
                     se estiliza y gana en proporción, pasando a tener aspecto de niño pequeño. Recuerda que no todos los niños se desarrollan a la misma velocidad.</p>
                 <p>Entre los 2 y los 3 años, tu hijo sigue creciendo, aunque el crecimiento se produce de forma más lenta y gradual que en sus primeros años. En líneas generales, el niño aumenta unos 3 o 4 kilos de peso y crece alrededor de 5 centímetros.</p>
@@ -47,55 +61,61 @@
                 <p>La columna se endereza, por lo que el niño camina más erguido. El cuello se alarga (se diferencia mejor la cabeza del cuerpo) y el tronco pierde corpulencia. En general el niño adquiere un aspecto más proporcionado. La cara se afina (el
                     niño pierde los mofletes característicos de los bebés) y la dentadura, por lo general, se completa. Los dientes que le faltan suelen brotar durante esta etapa.</p>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Crecimiento en niños de 3 a 5 años</h2>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">CRECIMIENTO EN NIÑOS<br>DE 3 A 5 AÑOS</span></h2>
+                </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-85 centrar-texto pt-15">
                 <p>De 3 a 5 años los niños siguen aumentando su peso y su talla, pero a menor velocidad que hasta ahora. Poco a poco se van a ir adquiriendo las proporciones corporales de un adulto.</p>
                 <p>La forma de tu hijo cambia más que su altura en los años entre su tercer y quinto cumpleaños. Normalmente los niños de esta edad aumentan alrededor de 2 kilos y crecen 8 cm cada año.</p>
                 <p>El "cambio de imagen" del cuerpo de su niño en edad preescolar comienza en la parte superior y avanza hacia abajo. Los huesos del cráneo y la cara crecen de modo que la cara de tu hijo pierde algo de redondez y tu hijo desarrolla una frente,
                     nariz y mentón más notorios. Mientras tanto, las mandíbulas superior e inferior comienzan a ensancharse para dejar espacio para sus dientes permanentes. Los hombros de su hijo comienzan a estrecharse, su postura mejora y esa "barriga
                     de niño pequeño" se aplana.</p>
             </div>
-            <div>
-                BANNER A PREGUNTAS FRECUENTES CHICO
+            <div class="imagen-80 centrar-imagen pb-30">
+                <img src="/img/nueva/BANNER-3-HORIZONTAL.webp" alt="Brexia_especialistas">
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Percentiles de crecimiento en niños de 2 a 5 años</h2>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">PERCEPTIBLES DE CRECIMIENTO<br>EN NIÑOS DE 2 A 5 AÑOS</span></h2>
+                </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-85 centrar-texto pt-15">
                 <p>Para poder valorar el crecimiento de los niños se utilizan las llamadas graficas de percentiles. El percentil del niño es una medida que valora el crecimiento, según su altura y peso, comparándolo con otros niños de su edad.</p>
                 <p>Cuando un niño ocupa el percentil X significa que un X por ciento de niños miden igual o menos que él para un determinado parámetro de medida, sexo y edad, y que un 100 por ciento mide más. Por ejemplo, si un niño de 4 años está en el
                     percentil 25, significa que hay un 25 por ciento de niños del mismo sexo y edad que miden menos que él y un 75 por ciento que miden más. Esto quiere decir que está por debajo de la media (percentil 50), aunque su talla estadísticamente
                     es normal ya que se encuentra entre el percentil 3 y 97 (rangos que se consideran normales). Hay gráficas para cada parámetro como talla, peso, perímetro de la cabeza, grasa corporal, etc. </p>
                 <p>Basándonos en las indicaciones de la OMS, podemos calcular el crecimiento del niño mes a mes, basándonos en si es niño o niña.</p>
             </div>
-            <div>
-                BANNER A PERCENTILES DE CRECIMIENTO
+            <div class="imagen-80 centrar-imagen pb-30">
+                <img src="/img/nueva/Banner-Graficas-de-Crecimiento.webp" alt="Brexia_especialistas">
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Graficas estándar de crecimiento en niños y niñas de 2 a 5 años </h2>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">GRAFICAS ESTÁNDAR DE CRECIMIENTO<br>EN NIÑOS Y NIÑAS DE 2 A 5 AÑOS</span></h2>
+                </div>
             </div>
-            <div class="imagen-80 centrar-imagen ">
+            <div class="imagen-80 centrar-imagen pt-2">
                 <img src="/img/nueva/estatura-niñas-1.webp" alt="Brexia_especialistas">
             </div>
-            <div class="imagen-80 centrar-imagen ">
+            <div class="imagen-80 centrar-imagen pt-2">
                 <img src="/img/nueva/estatura-niños-2.webp" alt="Brexia_especialistas">
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Graficas estándar de peso en niños y niñas de 2 a 5 años </h2>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">GRAFICAS ESTÁNDAR DE PESO EN<br>NIÑOS Y NIÑAS DE 2 A 5 AÑOS</span></h2>
+                </div>
             </div>
-            <div class="imagen-80 centrar-imagen ">
+            <div class="imagen-80 centrar-imagen pt-2">
                 <img src="/img/nueva/peso-niñas-1.webp" alt="Brexia_especialistas">
             </div>
-            <div class="imagen-80 centrar-imagen ">
+            <div class="imagen-80 centrar-imagen pt-2">
                 <img src="/img/nueva/peso-niños-2.webp" alt="Brexia_especialistas">
             </div>
-            <div>
-                Banner grande a contacto
+            <div class="imagen-80 centrar-imagen pt-15">
+                <img src="/img/nueva/imagen-ninio.webp" alt="Brexia_especialistas">
             </div>
-
-
 
         </div>
 

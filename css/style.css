@@ -630,7 +630,7 @@
     }
     
     .contenedor-75porciento {
-        max-width: 75%;
+        max-width: 75% !important;
         margin: 0 auto;
     }
     /*END_UTILIDADES*/
@@ -851,6 +851,15 @@
     
     .titulos-azules {
         font-size: 12px;
+        color: #00235d;
+        font-weight: 600;
+        margin: 0 auto;
+        text-align: center;
+        max-width: 90%;
+    }
+    
+    .titulos-azules-1 {
+        font-size: 11px;
         color: #00235d;
         font-weight: 600;
         margin: 0 auto;
@@ -1378,7 +1387,7 @@
         color: #777777;
         text-align: justify;
         margin: 0 auto;
-        line-height: 1.15;
+        line-height: 1.5;
     }
     
     .justificar-texto-85 h3 {
@@ -1633,6 +1642,10 @@
     
     .pb-25 {
         padding-bottom: 2.5rem;
+    }
+    
+    .pb-30 {
+        padding-bottom: 3.5rem;
     }
     
     .pt-2 img {

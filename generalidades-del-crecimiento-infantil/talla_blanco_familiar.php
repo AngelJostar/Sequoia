@@ -24,32 +24,50 @@
         <?php include_once '../includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
-
-
-            <div class="caja-imagen-hojas">
+            <div class="cuadros-crecimiento">
+                <div class="titulos-grid-crecimiento-infantil">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1><span class="font-bold">TALLA BLANCO FAMILIAR</span></h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="caja-imagen-hojas pb-30">
                 <img src="/img/banners/Banner-doctor-media-edad.webp" alt="">
                 <div class="texto-imagen-izquierda">
                     <h2>La Talla Blanco familiar es el promedio de crecimiento que los padres heredan a sus hij@s</h2>
                 </div>
             </div>
-            <div class="justificar-texto-90">
-                <p>También los factores metabólicos como el déficit de hormona del crecimiento (GH), el hipotiroidismo o la diabetes mal controlada, pueden alterar el crecimiento esperable genéticamente. Entre los factores ambientales o exógenos, inciden
-                    en el crecimiento aspectos como son la nutrición, la actividad física y los aspectos psicológicos, como es la deprivación emocional.</p>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">CÁLCULO DE TALLA BLANCO FAMILIAR</span></h2>
+                </div>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Cálculo de Talla diana</h2>
-            </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-85 pt-15">
                 <p>Se suma la altura del padre y de la madre, se divide por dos y se le suma 6,5 si se trata de un niño y se le resta 6,5 si se trata de una niña. Hay que tener en cuenta (según los autores de tal cálculo) que el resultado final es solo valido
                     en un 85% de los casos y que el margen de error es de 5 a 10 cm.</p>
             </div>
-            <div class="imagen-80 centrar-imagen ">
-                <img src="/img/nueva/tabla-formula.webp" alt="Brexia_especialistas">
+            <div class="pt-15">
+                <img src="../img/generalidades-del-crecimiento-infantil/cuadro-azul-informacion.webp" alt="graficas-de-crecimiento">
             </div>
-            <div class="tamaño-img">
-                <img src="../img/banners/Banner-Pubertad-adelantada-o-atrasada.webp" alt="contacto crecimiento">
-            </div> 
-
+            <div class="pt-15">
+                <img src="../img/generalidades-del-crecimiento-infantil/cuadro-rosa-informacion.webp" alt="graficas-de-crecimiento">
+            </div>
+            <div class="pt-15 ">
+                <img src="../img/generalidades-del-crecimiento-infantil/cuadro-amarillo-informacion.webp" alt="graficas-de-crecimiento">
+            </div>
+            <div class="justificar-texto-85">
+                <p>El crecimiento es uno de los indicadores más sensibles del estado de salud de un niño/a, de ahí la supervisión continuada del crecimiento que se realiza especialmente en los primeros años de vida. Este proceso se ve influenciado por factores endróguenos y exógenos: entre los primeros se encuentra el componente genético, dada la correlación existente entre la talla de los padres y talla del individuo adulto; de tal manera, que a cualquier edad puede estimarse la talla que alcanzará un niño/a, a la cual denominamos Talla Diana en función de la talla de sus padres. </p>
+            </div>
+            <div class="justificar-texto-85">
+                <p>También los factores metabólicos como el déficit de hormona del crecimiento (GH), el hipotiroidismo o la diabetes mal controlada, pueden alterar el crecimiento esperable genéticamente. Entre los factores ambientales o exógenos, inciden en el crecimiento aspectos como son la nutrición, la actividad física y los aspectos psicológicos, como es la deprivación emocional.</p>
+            </div>
+            <div class="pt-15 pb-15">
+                <img src="../img/generalidades-del-crecimiento-infantil/Banner-Pubertad-adelantada-o-atrasada.webp" alt="graficas-de-crecimiento">
+            </div>
 
         </div>
 

@@ -24,9 +24,22 @@
         <?php include_once '../includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
-
-            <div class="encabezado-crecimiento-deficiente">
-                <h1>Crecimiento en niños <br> De 6 a 11 años de edad</h1>
+            <div class="cuadros-crecimiento">
+                <div class="titulos-grid-crecimiento-infantil">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1 style=" font-size: calc(1.4em + 1vw);"><span class="font-bold">CRECIMIENTO EN NIÑOS<br>DE 6 A 11 AÑOS DE EDAD</span></h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="justificar-texto-90">
+                <p>AQUI VA UN VIDEO 1</p>
+            </div>
+            <div class="justificar-texto-90">
+                <p>AQUI VA UN VIDEO 2</p>
             </div>
             <div class="caja-imagen-hojas">
                 <img src="/img/banners/Banner-crecimiento-6-11.webp" alt="">
@@ -34,63 +47,76 @@
                     <h2>El desarrollo físico en la etapa de los 6 a 11 años es considerable, la constitución corporal cambia, la masa muscular aumenta, los huesos se hacen más fuertes</h2>
                 </div>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Crecimiento en niños de 6 a 8 años</h2>
+            <div class="justificar-texto-85 centrar-texto contenedor-75porciento">
+                <p>El niño es capaz de realizar actividades físicas que requieren más fuerza y destreza.</p>
             </div>
-            <div class="justificar-texto-90">
-                <p>Entre los 6 y los 8 años, el desarrollo físico del niño sigue su crecimiento sin grandes cambios aparentes. La talla y el peso del niño aumentan a un ritmo estable. Desaparecen los dientes de leche y emergen los primeros molares permanentes. Suelen adelgazar; lo importantes es que coma bien, esté activo y practique deporte. Suelen ser muy activos y necesita saltar, correr, resbalarse, caerse, mancharse y romperse la ropa.</p>
+            <div class="justificar-texto-85 centrar-texto pb-25">
+                <p>Entre los 6 y 11 años los niños crecen entre 5 y 8 centímetros y casi duplican su peso. Estas medidas son orientativas, ya que dependen de la génetica y la constitución del niño. El crecimiento es más lento que cuando eran más pequeños,
+                    pero es constante hasta que se produce el popular "estirón" a partir de los 9 años en las niñas y de los 11 en los niños.
+                </p>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Crecimiento en niños de 9 a 11 años</h2>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">CRECIMIENTO EN NIÑOS<br>DE 6 A 8 AÑOS</span></h2>
+                </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-85 centrar-texto pt-15 pb-25">
+            <p>Entre los 6 y los 8 años, el desarrollo físico del niño sigue su crecimiento sin grandes cambios aparentes. La talla y el peso del niño aumentan a un ritmo estable. Desaparecen los dientes de leche y emergen los primeros molares permanentes. Suelen adelgazar; lo importantes es que coma bien, esté activo y practique deporte. Suelen ser muy activos y necesita saltar, correr, resbalarse, caerse, mancharse y romperse la ropa.</p>
+            </div>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">CRECIMIENTO EN NIÑOS<br>DE 9 A 11 AÑOS</span></h2>
+                </div>
+            </div>
+            <div class="justificar-texto-85 centrar-texto pt-15 ">
                 <p>A partir de los 9, 10 y 11 años empiezan a producirse cambios corporales en los niños debido al desarrollo de los caracteres sexuales secundarios. </p>
                 <p>Los caracteres sexuales secundarios de las niñas, por lo general, suelen aparecer antes que en los niños. En concreto, las niñas empiezan a desarrollar las glándulas mamarias con un abultamiento muy ligero, lo que se llama el botón mamario. Aparece el vello púbico, se empieza a acumular grasa en torno a glúteos y muslos. Las caderas se ensanchan. El cuerpo se prepara para la llegada de la menstruación, hecho que sucede entre los 9 y los 16 años.</p>
                 <p>Los caracteres sexuales secundarios en los niños implican una musculatura más desarrollada, ensanche de tórax y hombros, mayor cantidad de vello corporal, salida del vello facial, voz más grave y depósito de grasa en torno al abdomen.</p>
             </div>
-            <div>
-                BANNER A ESTIRON PUBERAL GRANDE
+            <div class="imagen-80 centrar-imagen pb-30">
+                <img src="/img/nueva/Banner-Estiron-Puberal.webp" alt="Brexia_especialistas">
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Percentiles de crecimiento en niños y niñas de 6 a 11 años </h2>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">PERCEPTIBLES DE CRECIMIENTO EN<br>NIÑOS Y NIÑAS DE 6 A 11 AÑOS</span></h2>
+                </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-85 centrar-texto pt-15">
                 <p>Para poder valorar el crecimiento de los niños se utilizan las llamadas graficas de percentiles. El percentil del niño es una medida que valora el crecimiento, según su altura y peso, comparándolo con otros niños de su edad.</p>
                 <p>Cuando un niño ocupa el percentil X significa que un X por ciento de niños miden igual o menos que él para un determinado parámetro de medida, sexo y edad, y que un 100 por ciento mide más. Por ejemplo, si un niño de 8 años está en el percentil 25, significa que hay un 25 por ciento de niños del mismo sexo y edad que miden menos que él y un 75 por ciento que miden más. Esto quiere decir que está por debajo de la media (percentil 50), aunque su talla estadísticamente es normal ya que se encuentra entre el percentil 3 y 97 (rangos que se consideran normales). Hay gráficas para cada parámetro como talla, peso, grasa corporal, etc. </p>
-                <p>Basándonos en las indicaciones de la OMS, podemos calcular el crecimiento del niño mes a mes, basándonos en si es niño o niña. Para aprender más sobre las gráficas de crecimiento visita nuestra sección de “Percentiles de crecimiento”.</p>
+                <p>Basándonos en las indicaciones de la OMS, podemos calcular el crecimiento del niño mes a mes, basándonos en si es niño o niña. Para aprender más sobre las gráficas de crecimiento visita nuestra sección de <span class="font-bold">“Percentiles de crecimiento”</span>.</p>
             </div>
-            <div>
-                BANNER A PERCENTILES DE CRECIMIENTO chico
+            <div class="imagen-80 centrar-imagen pb-30">
+                <img src="/img/nueva/Banner-Graficas-de-Crecimiento.webp" alt="Brexia_especialistas">
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Graficas estándar de crecimiento en niños y niñas de 6 a 11 años </h2>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">GRAFICAS ESTÁNDARES DE CRECIMIENTO<br>EN NIÑOS Y NIÑAS DE 6 A 11 AÑOS</span></h2>
+                </div>
             </div>
-            <div class="justificar-texto-90">
-                <p>A continuación te presentamos las gráficas de crecimiento y peso que debería de seguir tu hijo o hija de 6 a 11 años. </p>
-            </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Graficas estándar de crecimiento en niños y niñas de 6 a 11 años </h2>
-            </div>
-            <div class="imagen-80 centrar-imagen ">
+            <div class="imagen-80 centrar-imagen pt-15">
                 <img src="/img/nueva/estatura-6-11-niños.webp" alt="Brexia_especialistas">
             </div>
-            <div class="imagen-80 centrar-imagen ">
+            <div class="imagen-80 centrar-imagen pt-15 pb-30">
                 <img src="/img/nueva/estatura-6-11-niñas.webp" alt="Brexia_especialistas">
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Graficas estándar de Índice de Masa Corporal (IMC) en niños y niñas de 6 a 11 años </h2>
+            <div class="cuadros-crecimiento-2 efecto3-2  margin-negativo-top-18">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">GRAFICAS ESTÁNDARES DE ÍNDICE DE<br>MASA CORPORAL(IMC) EN NIÑOS Y <br>NIÑAS DE 6 A 11 AÑOS</span></h2>
+                </div>
             </div>
-            <div class="imagen-80 centrar-imagen ">
+            <div class="justificar-texto-85 centrar-texto pt-15">
+                <p>A continuación te presentamos las gráficas de crecimiento y peso que debería de seguir tu hijo o hija de 6 a 11 años. </p>
+            </div>
+            <div class="imagen-80 centrar-imagen">
                 <img src="/img/nueva/imc-niños-6-11.webp" alt="Brexia_especialistas">
             </div>
-            <div class="imagen-80 centrar-imagen ">
+            <div class="imagen-80 centrar-imagen pt-15">
                 <img src="/img/nueva/imc-niñas-6-11.webp" alt="Brexia_especialistas">
             </div>
-            <div>
-                Banner grande a contacto
+            <div class="imagen-80 centrar-imagen pt-15">
+                <img src="/img/nueva/BANNER-2-NIÑA-VERTICAL.webp" alt="Brexia_especialistas">
             </div>
-
-
 
         </div>
 
