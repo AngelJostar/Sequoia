@@ -28,8 +28,11 @@
             <div class="encabezado-crecimiento-deficiente">
                 <h1>Retraso constitucional del crecimiento y la pubertad (subtitulo Variantes del crecimiento)</h1>
             </div>
-            <div class="justificar-texto-90">
-                <p>El retraso constitucional del crecimiento y de la pubertad (RCCP) es una condición caracterizada por baja estatura y maduración esquelética retrasada, en niños sanos. La pubertad constituye un estadio del desarrollo caracterizado por cambios anatómicos, fisiológicos y psicológicos, representando una fase preparatoria para la reproducción; el RCCP es una variación del inicio y tiempo del desarrollo puberal, sin una anormalidad endocrina definida. Se considera al RCCP una variante del desarrollo normal, acompañada de antecedentes familiares de esa condición.1,2 Es motivo frecuente de referencia al endocrinólogo pediátrico y cuya prevalencia es del 5% aproximadamente a los 14 años de edad.</p>
+            <div class="caja-imagen-hojas">
+                <img src="/img/banners/Banner-retraso-constitucional-del-crecimiento.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>El retraso constitucional del crecimiento y de la pubertad (RCCP) es una condición caracterizada por baja estatura y maduración esquelética retrasada, en niños sanos.</h2>
+                </div>
             </div>
             <div class="encabezado-crecimiento-deficiente">
                 <h2>Etiología</h2>

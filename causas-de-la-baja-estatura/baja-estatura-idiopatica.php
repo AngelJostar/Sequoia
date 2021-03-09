@@ -28,8 +28,12 @@
             <div class="encabezado-crecimiento-deficiente">
                 <h1>Baja Estatura Idiopática (subtitulo Variantes del crecimiento)</h1>
             </div>
-            <div class="justificar-texto-90">
-                <p>La Talla Baja Idiopática agrupa un conjunto de entidades clínicas con proporciones armónicas entre los segmentos corporales, en las que existe una alteración del crecimiento de etiología desconocida. Se denomina idiopático cuando se desconoce la causa de esa talla baja que sucede en el 70% - 80% de los casos.  Se considera talla baja idiopática cuando la talla de un niño o niña es inferior a -2 desviaciones estándar para su grupo de edad, sexo, estadio de desarrollo puberal y además cumple los siguientes criterios: </p>
+
+            <div class="caja-imagen-hojas">
+                <img src="/img/banners/Banner-estatura-ideopatica.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>La Talla Baja Idiopática agrupa un conjunto de entidades clínicas con proporciones armónicas entre los segmentos corporales, en las que existe una alteración del crecimieto de etiología desconocida.</h2>
+                </div>
             </div>
             <div class="contenedor-generalidades">
                 <div class="justificar-texto-90-listas">

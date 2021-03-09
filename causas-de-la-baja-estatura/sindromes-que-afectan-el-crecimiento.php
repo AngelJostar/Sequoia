@@ -28,8 +28,11 @@
             <div class="encabezado-crecimiento-deficiente">
                 <h1>Síndromes que efectan el crecimiento</h1>
             </div>
-            <div class="justificar-texto-90">
-                <p>La velocidad de crecimiento de los niños varía, si no se supervisa de cerca el crecimiento de un niño, es posible que no se detecten trastornos que lo afecten como:</p>
+            <div class="caja-imagen-hojas">
+                <img src="/img/banners/BANNER-¿Como-medir-a-tu-hijo-de-manera-correcta--.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>La velocidad de crecimiento de los niños varía, si no se supervisa de cerca el crecimiento de un niño, es posible que no se detecten trastornos que lo afecten como:</h2>
+                </div>
             </div>
             <div class="encabezado-crecimiento-deficiente">
                 <h2>Síndromes dismórficos</h2>

@@ -24,10 +24,19 @@
         <?php include_once '../includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
+            
 
             <div class="encabezado-crecimiento-deficiente">
                 <h1>Baja estatura familiar (subtitulo Variantes del crecimiento)</h1>
             </div>
+
+            <div class="caja-imagen-hojas">
+                <img src="/img/banners/Banner-baja-estatura-familiar.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>Los trastornos del crecimiento puden tener muchas causas, entre ellas la Estatura baja familiar</h2>
+                </div>
+            </div>
+
             <div>
                 ViDEOS DE CRECIMIENTO EN BEBES
             </div>

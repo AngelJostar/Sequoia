@@ -28,6 +28,13 @@
             <div class="encabezado-crecimiento-deficiente">
                 <h1>Pequeño para la edad gestacional  (PEG) subtitulo variantes del crecimiento</h1>
             </div>
+            <div class="caja-imagen-hojas">
+                <img src="/img/banners/Banner-pequeno-para-la-edad-gestacional.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>Los reciéntes nacidos cuyo peso es por debajo al percentil 10 para la edad gestacional se clasifican como pequeños para la edad gestacional.</h2>
+                </div>
+            </div>
+
             <div class="justificar-texto-90">
                 <p>Los recién nacidos cuyo peso es por debajo al percentil 10 para la edad gestacional se clasifican como pequeños para la edad gestacional. La edad gestacional se define de manera imprecisa como el número de semanas entre el primer día del último período menstrual normal de la madre y el día del parto. Más exactamente, la edad gestacional es la diferencia entre 14 días antes de la fecha de concepción y la fecha del parto.</p>
                 <p>La edad gestacional no es la edad embriológica real del feto, pero es el valor estándar universal entre los obstetras y los neonatólogos para evaluar la maduración fetal.  Las causas que dan lugar a recién nacidos PEG, pueden agruparse en causas fetales, maternas, placentarias y ambientales. </p>

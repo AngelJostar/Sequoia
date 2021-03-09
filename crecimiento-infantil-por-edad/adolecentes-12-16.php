@@ -43,7 +43,7 @@
                 </div>
             </div>
             <div class="listas-grid">
-                <div>
+                <div class="tamaño-img-lateral">
                     <img src="../img/banners/lateral-nina.webp" alt="contacto crecimiento">
                 </div>
                 <div class="mt-1">
@@ -67,7 +67,7 @@
             </div>
 
             <div class="listas-grid">
-                <div>
+                <div class="tamaño-img-lateral">
                     <img src="../img/banners/lateral-nino.webp" alt="contacto crecimiento">
                 </div>
                 <div class="mt-1">
