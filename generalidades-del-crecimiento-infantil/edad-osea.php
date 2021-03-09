@@ -24,18 +24,35 @@
         <?php include_once '../includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
-
+            <div class="cuadros-crecimiento">
+                <div class="titulos-grid-baja-estatura">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1><span class="font-bold">EDAD ÓSEA</span></h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
+            </div>
             <div class="caja-imagen-hojas">
                 <img src="/img/banners/Banner-doctoras.webp" alt="">
                 <div class="texto-imagen-izquierda">
                     <h2>La edad ósea muestra la maduración del esqueleto en un momento dado. No necesariamente tiene que coincidir con la edad real o cronológica del niño. Una diferencia de más de un año entre una y otra puede indicar que hay un problema de crecimiento.</h2>
                 </div>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>¿Para qué es útil la edad ósea?</h2>
+            <div class="justificar-texto-85 centrar-texto pb-2">
+                <p>Una diferencia de más de un año entre una y otra puede indicar que hay un problema de crecimiento.</p>
             </div>
-            <div class="contenedor-generalidades">
-                <p>La edad ósea nos permite predecir:</p>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">¿PARA QUÉ ES ÚTIL LA EDAD ÓSEA?</span></h2>
+                </div>
+            </div>
+            <div class="justificar-texto-85 pt-15">
+                <p>La edad ósea nos permite predecir:</p>       
+            </div>
+            <div class="contenedor-85porciento ">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Por cuánto tiempo crecerá un niño</li>
@@ -44,10 +61,10 @@
                     </ul>
                 </div>
             </div>
-            <div class="justificar-texto-90">
-                <p>También permite controlar la evolución y guiar el tratamiento de los niños con afecciones que afectan el crecimiento tales como:</p>
+            <div class="justificar-texto-85">
+                <p>También permite controlar la evolución y guiar el tratamiento de los niños con afecciones que afectan el crecimiento tales como:</p>       
             </div>
-            <div class="contenedor-generalidades">
+            <div class="contenedor-85porciento">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Enfermedades que afectan los niveles de hormonas involucradas en el crecimiento, tales como deficiencia de la hormona de crecimiento, hipotiroidismo, pubertad precoz y trastornos de la glándula adrenal</li>
@@ -56,15 +73,17 @@
                     </ul>
                 </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-85 centrar-texto pb-2">
                 <p>La edad ósea retrasada de un niño quiere decir que va a llegar a la talla adulta más tarde que la mayoría, mientras que un niño con edad ósea adelantada alcanzará la talla definitiva antes que los demás.</p>
                 <p>Hay algunas enfermedades que pueden adelantar la edad ósea son: la obesidad, enfermedades crónicas mal controladas que causan desnutrición (insuficiencia renal, enfermedad celiaca o enfermedad pulmonar crónica), hipotiroidismo etc. </p>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>¿Cómo se mide? </h2>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">¿CÓMO SE MIDE?</span></h2>
+                </div>
             </div>
-            <div class="justificar-texto-90">
-                <p>La forma más habitual es con una radiografía de la mano. Se hace de la mano por la gran cantidad de huesos que hay en ella, cada uno con su cartílago de crecimiento. Para cada año de edad hay un modelo de imagen radiológica, con el que se compara la radiografía del niño que se quiere estudiar. A través de la comparación de imágenes se sabe cuál es la edad ósea. </p>
+            <div class="justificar-texto-85 centrar-texto pt-15">
+            <p>La forma más habitual es con una radiografía de la mano. Se hace de la mano por la gran cantidad de huesos que hay en ella, cada uno con su cartílago de crecimiento. Para cada año de edad hay un modelo de imagen radiológica, con el que se compara la radiografía del niño que se quiere estudiar. A través de la comparación de imágenes se sabe cuál es la edad ósea. </p>
             </div>
             <div class="tamaño-img">
                 <img src="../img/banners/Banner-Graficas-de-Crecimiento.webp" alt="contacto crecimiento">
