@@ -28,6 +28,12 @@
             <div class="encabezado-crecimiento-deficiente">
                 <h1>Nutrición y Crecimiento</h1>
             </div>
+            <div class="caja-imagen-hojas">
+                <img src="/img/banners/Banner-Nutricion-y-de-crecimiento.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>La nutrición en cada una de las diferentes etapas de la edad pediátrica tiene como objetivo conseguir un crecimiento y desarrollo adecuados.</h2>
+                </div>
+            </div>
             <div class="justificar-texto-90">
                 <p>La nutrición en cada una de las diferentes etapas de la edad pediátrica tiene como objetivo conseguir un crecimiento y desarrollo adecuados. Los niños que padecen hambre o que reciben una alimentación de mala calidad tienen más probabilidades
                     de: crecer más lentamente o menos de lo debido.</p>
