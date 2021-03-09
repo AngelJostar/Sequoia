@@ -25,11 +25,17 @@
 
         <div class="contendor-crecimiento">
             
-
-            <div class="encabezado-crecimiento-deficiente">
-                <h1>Baja estatura familiar (subtitulo Variantes del crecimiento)</h1>
+            <div class="cuadros-crecimiento">
+                <div class="titulos-grid-crecimiento-infantil">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1><span class="font-bold">BAJA ESTATURA FAMILIAR</span></h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
             </div>
-
             <div class="caja-imagen-hojas">
                 <img src="/img/banners/Banner-baja-estatura-familiar.webp" alt="">
                 <div class="texto-imagen-izquierda">
