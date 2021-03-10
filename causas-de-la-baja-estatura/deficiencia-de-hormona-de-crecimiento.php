@@ -28,6 +28,12 @@
             <div class="encabezado-crecimiento-deficiente">
                 <h1>Deficiencia de Hormona de Crecimiento</h1>
             </div>
+            <div class="caja-imagen-hojas">
+                <img src="/img/banners/Banner-deficiencia-de-hormona.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>¿QUÉ ES LA DEFICIENCIA DE LA HORMONA DE CRECIMIENTO? La deficiencia de la hormona de crecimiento (GHD, por sus siglas en inglés) es una afección poco común en la que el cuerpo no produce suficiente hormona del crecimiento (GH, por sus siglas en inglés).</h2>
+                </div>
+            </div>
             <div class="encabezado-crecimiento-deficiente">
                 <h2>¿Qué es la deficiencia de la hormona de crecimiento?</h2>
             </div>

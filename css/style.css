@@ -575,8 +575,13 @@
         text-align: center !important;
     }
     
+<<<<<<< HEAD
     .alinear-texto-izquierda {
         text-align: left !important;
+=======
+    .justificar-derecha-texto {
+        text-align: left;
+>>>>>>> 1d71e89c765ed29126c0ba01d074577c760de55d
     }
     
     .centrar-objeto {
@@ -1459,6 +1464,24 @@
         font-weight: 600;
         padding-top: 1rem;
         padding-bottom: 1rem;
+    }
+    
+    .cuadro-gris h3 {
+        max-width: unset;
+        padding: 20px;
+        background-color: #efeded;
+        color: #00205E;
+        font-weight: bold;
+        font-size: calc(1.2em + 1vw);
+    }
+    
+    .cuadro-gris-grande h3 {
+        max-width: unset;
+        padding: 20px;
+        background-color: #efeded;
+        color: #00205E;
+        font-weight: bold;
+        font-size: calc(0.55em + 1vw);
     }
     
     .aprende-mas p {

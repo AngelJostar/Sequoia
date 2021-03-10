@@ -25,8 +25,16 @@
 
         <div class="contendor-crecimiento">
 
-            <div class="encabezado-crecimiento-deficiente">
-                <h1>Pequeño para la edad gestacional  (PEG) subtitulo variantes del crecimiento</h1>
+            <div class="cuadros-crecimiento">
+                <div class="titulos-grid-baja-estatura">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1><span class="font-bold">PEQUEÑO PARA LA EDAD <br> GESTACIONAL (PEG)</span></h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
             </div>
             <div class="caja-imagen-hojas">
                 <img src="/img/banners/Banner-pequeno-para-la-edad-gestacional.webp" alt="">
@@ -34,14 +42,14 @@
                     <h2>Los reciéntes nacidos cuyo peso es por debajo al percentil 10 para la edad gestacional se clasifican como pequeños para la edad gestacional.</h2>
                 </div>
             </div>
-
-            <div class="justificar-texto-90">
-                <p>Los recién nacidos cuyo peso es por debajo al percentil 10 para la edad gestacional se clasifican como pequeños para la edad gestacional. La edad gestacional se define de manera imprecisa como el número de semanas entre el primer día del último período menstrual normal de la madre y el día del parto. Más exactamente, la edad gestacional es la diferencia entre 14 días antes de la fecha de concepción y la fecha del parto.</p>
+            <div class="justificar-texto-90 centrar-texto">
                 <p>La edad gestacional no es la edad embriológica real del feto, pero es el valor estándar universal entre los obstetras y los neonatólogos para evaluar la maduración fetal.  Las causas que dan lugar a recién nacidos PEG, pueden agruparse en causas fetales, maternas, placentarias y ambientales. </p>
-                <p>Causas Fetales</p>
             </div>
-            <div class="contenedor-generalidades">
+            <div class="contenedor-90porciento">
                 <div class="justificar-texto-90-listas">
+                    <div class="cuadro-gris">
+                        <h3>CAUSAS FETALES</h3>
+                    </div>
                     <ul>
                         <li>Anomalías cromosómicas (monosomías, trisomías, delecciones, cromosoma en anillo) </li>
                         <li>Defectos genéticos (acondroplasia, S. de Bloom, Glucoquinasa, etc) </li>
@@ -50,11 +58,11 @@
                     </ul>
                 </div>
             </div>
-            <div class="justificar-texto-90">
-                <p>Causas Maternas</p>
-            </div>
-            <div class="contenedor-generalidades">
+            <div class="contenedor-90porciento">
                 <div class="justificar-texto-90-listas">
+                    <div class="cuadro-gris">
+                        <h3>CAUSAS MATERNALES</h3>
+                    </div>
                     <ul>
                         <li>Edad 35 años </li>
                         <li>Talla y peso bajos </li>
@@ -70,11 +78,11 @@
                     </ul>
                 </div>
             </div>
-            <div class="justificar-texto-90">
-                <p>Causas placentarias </p>
-            </div>
-            <div class="contenedor-generalidades">
+            <div class="contenedor-90porciento">
                 <div class="justificar-texto-90-listas">
+                    <div class="cuadro-gris">
+                        <h3>CAUSAS PLACENTARIAS</h3>
+                    </div>
                     <ul>
                         <li>Defectos de implantación </li>
                         <li>Anomalías vasculares (arteria umbilical única, hemangioma) </li>
@@ -84,11 +92,11 @@
                     </ul>
                 </div>
             </div>
-            <div class="justificar-texto-90">
-                <p>Causas ambientales </p>
-            </div>
-            <div class="contenedor-generalidades">
+            <div class="contenedor-90porciento">
                 <div class="justificar-texto-90-listas">
+                    <div class="cuadro-gris">
+                        <h3>CAUSAS AMBIENTALES</h3>
+                    </div>
                     <ul>
                         <li>Altitud (hipoxia) </li>
                         <li>Desnutrición o desequilibrio de nutrientes </li>
@@ -99,13 +107,15 @@
                     </ul>
                 </div>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Etiología</h2>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 mt-2 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">ETIOLOGÍA</span></h2>
+                </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-90 justificar-derecha-texto" >
                 <p>Las causas pueden ser divididas en aquellas en las que el retraso del crecimiento es:</p>
             </div>
-            <div class="contenedor-generalidades">
+            <div class="contenedor-90porciento">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Simétrico: altura, peso y perímetro cefálico están aproximadamente afectados por igual.</li>
@@ -113,11 +123,13 @@
                     </ul>
                 </div>
             </div>
-            <div class="justificar-texto-90">
-                <p>El retraso de crecimiento simétrico</p>
+            <div class="justificar-texto-90 justificar-derecha-texto">
+                <div class="cuadro-gris-grande">
+                    <h3>EL RETRASO DE CRECIMIENTO SIMÉTRICO</h3>
+                </div>
                 <p>Resulta de un problema fetal que comienza temprano en la gestación, a menudo durante el 1er trimestre. Cuando la causa comienza relativamente temprano en la gestación, todo el cuerpo se ve afectado, lo que resulta en un menor número de células de todo tipo. Las causas frecuentes incluyen</p>
             </div>
-            <div class="contenedor-generalidades">
+            <div class="contenedor-90porciento ">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Trastornos genéticos</li>
@@ -125,12 +137,14 @@
                     </ul>
                 </div>
             </div>
-            <div class="justificar-texto-90">
-                <p>El retraso de crecimiento asimétrico</p>
+            <div class="justificar-texto-90 justificar-derecha-texto">
+                <div class="cuadro-gris-grande">
+                    <h3>EL RETRASO DE CRECIMIENTO ASIMÉTRICO</h3>
+                </div>
                 <p>Suele ser el resultado de problemas en la placenta o maternos que normalmente se manifiestan en el segundo trimestre tardío o el tercer trimestre. </p>
                 <p>Cuando la causa comienza relativamente tarde en la gestación, los órganos y los tejidos no están igualmente afectados, lo que resulta en el retraso de crecimiento asimétrico. Las causas frecuentes incluyen:</p>
             </div>
-            <div class="contenedor-generalidades">
+            <div class="contenedor-90porciento">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>La insuficiencia placentaria resultante de enfermedad materna que involucra los vasos sanguíneos pequeños (p. ej., la preeclampsia, la hipertensión, enfermedad renal, síndrome de anticuerpos antifosfolípidos, la diabetes de larga data)</li>
@@ -142,17 +156,22 @@
                     </ul>
                 </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-90 justificar-derecha-texto">
                 <p>Un lactante también puede tener retraso del crecimiento asimétrico y ser pequeño para la edad gestacional (PEG) si la madre es consumidora de opiáceos, cocaína, alcohol o tabaco durante el embarazo.</p>
             </div>
-            <div>
-                Banner chico a retraso constitucional del crecimiento
+            <div class="tamaño-img">
+                <img src="../img/Causas-de-la-baja-estatura/Banner-Retraso-constitucional-del-crecimiento-y-la-pubertad-.webp" alt="contacto crecimiento">
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Repercusión en la estatura </h2>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 mt-2 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">REPERCUSIÓN EN LA ESTATURA</span></h2>
+                </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-90 centrar-texto">
                 <p>Una gran proporción de estos niños tienen patrones de crecimiento posparto alterados, la talla esperada es variable, a más inmadurez será más retrasado, lento e incluso incompleto, con una talla final significativamente afectada. Es importante que el niño se encuentre en seguimiento médico constantemente para que el especialista pueda valorarlo y darle un tratamiento para que pueda alcanzar una mayor estatura. </p>
+            </div>
+            <div class="tamaño-img">
+                <img src="../img/Causas-de-la-baja-estatura/BANNER-2-DOC-VERTICAL.webp" alt="contacto crecimiento">
             </div>
         </div>
 
