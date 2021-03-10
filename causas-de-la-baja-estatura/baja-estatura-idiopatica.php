@@ -24,18 +24,31 @@
         <?php include_once '../includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
-
-            <div class="encabezado-crecimiento-deficiente">
-                <h1>Baja Estatura Idiopática (subtitulo Variantes del crecimiento)</h1>
+            <div class="cuadros-crecimiento">
+                <div class="titulos-grid-baja-estatura">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1><span class="font-bold">BAJA ESTATURA <br> IDIOPÁTICA</span></h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
             </div>
-
             <div class="caja-imagen-hojas">
                 <img src="/img/banners/Banner-estatura-ideopatica.webp" alt="">
                 <div class="texto-imagen-izquierda">
-                    <h2>La Talla Baja Idiopática agrupa un conjunto de entidades clínicas con proporciones armónicas entre los segmentos corporales, en las que existe una alteración del crecimieto de etiología desconocida.</h2>
+                    <h2>La baja estatura es una estatura que es inferior a la de casi todos los demás niños de la misma edad y sexo, es un motivo frecuente de consulta.</h2>
                 </div>
             </div>
-            <div class="contenedor-generalidades">
+            <div class="tamaño-img">
+                <img src="../img/causas-de-la-baja-estatura/baja-estatura-idiopatica.webp" alt="contacto crecimiento">
+            </div>
+            <div class="justificar-texto-85">
+                <p>Se denomina idiopático cuando se desconoce la causa de esa talla baja que sucede en el 70% - 80% de los casos.  Se considera talla baja idiopática cuando la talla de un niño o niña es inferior a -2 desviaciones estándar para su grupo de edad, sexo, estadio de desarrollo puberal y además cumple los siguientes criterios: </p>
+                <p> Se denomina idiopático cuando se desconoce la causa de esa talla baja que sucede en el 70% - 80% de los casos.  Se considera talla baja idiopática cuando la talla de un niño o niña es inferior a -2 desviaciones estándar para su grupo de edad, sexo, estadio de desarrollo puberal y además cumple los siguientes criterios: </p>
+            </div>
+            <div class="contenedor-85porciento ">
                 <div class="justificar-texto-90-listas">
                     <ul>
                        <li>Peso y talla normal al nacimiento para la edad gestacional.</li>
@@ -47,11 +60,11 @@
                     </ul>
                 </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-85">
                 <p>Cuando uno o varios miembros de la familia (padres, tíos, abuelos, hermanos, primos) presentan también talla baja hablamos de Talla Baja Idiopática con componente familiar y cuando esto no ocurre, de Talla Baja Idiopática sin componente familiar. Ambas situaciones pueden asociar o no cierto grado de retraso madurativo o del desarrollo. Los cuadros clínicos en los que, existiendo un componente familiar de retraso del desarrollo y del crecimiento durante la prepubertad y/o pubertad, pero en los que los familiares que lo presentaron alcanzaron una talla adulta normal, constituirían en sentido estricto el cuadro clínico conocido como retraso constitucional del crecimiento y del desarrollo. </p>
                 <p>En esta tipología se incluye lo que se le conoce como Baja Talla familiar, porque cumple con los criterios referidos anteriormente y además:</p>
             </div>
-            <div class="contenedor-generalidades">
+            <div class="contenedor-85porciento ">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Existen antecedentes familiares de talla baja. </li>
@@ -63,17 +76,19 @@
                     </ul>
                 </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-85">
                 <p>Existe otra modalidad de baja talla idiopática denominado retraso constitucional del crecimiento, que consiste en un enlentecimiento del ritmo de maduración que se transmite de forma autosómica dominante. La valoración del crecimiento de otros miembros de la familia, puede arrojar luz sobre los factores genéticos familiares; pero aún así, hay que esperar la evolución del crecimiento de ese niño, especialmente en la etapa puberal.   </p>
                 <p>Los niños con retraso constitucional, suelen tener una talla y peso normal al nacimiento, evoluciona de forma fisiológica hasta los 6-12 meses de edad, momento en el cual se produce una desaceleración que se traduce en que a los 2-3 años, el niño se encuentra por debajo del percentil 3.  </p>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Diagnóstico de Talla Baja Idiopática </h2>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 mt-2 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">DIAGNÓSTICO DE TALLA <br> BAJA IDIOPÁTICA</span></h2>
+                </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-85">
                 <p>La elaboración de una historia clínica detallada, un examen físico minucioso y la realización de estudios bioquímicos y hormonales que descarten cualquier patología conocida son esenciales para su diagnóstico. Los criterios diagnósticos de la Talla baja idiopática que presentan a continuación:  </p>
             </div>
-            <div class="contenedor-generalidades">
+            <div class="contenedor-85porciento ">
                 <div class="justificar-texto-90-listas">
                     <ol>
                         <li>Talla inferior a −2 DE de la correspondiente a sujetos de la misma edad, sexo y grado de desarrollo puberal junto a expectativas de que la talla adulta sea también baja (inferior a −2 DE). </li>
@@ -93,17 +108,25 @@
                     </ol>
                 </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-85">
                 <p>El diagnóstico de la Talla baja idiopática exige una evaluación clínica, bioquímica, hormonal y molecular minuciosa con el objetivo de descartar cualquier etiología conocida del trastorno del crecimiento.</p>
                 <p>No parece adecuado incluir dentro de la Talla baja idiopática aquellos casos de retraso constitucional del crecimiento en los que la talla adulta de los familiares que presentaron retraso constitucional del crecimiento es normal, ya que las expectativas de talla adulta y la actitud terapéutica en estos pacientes son netamente diferentes a las que hoy se preconizan para la Talla baja idiopática. De cualquier forma, se recomienda un seguimiento minucioso de todos estos pacientes.</p>
                 <p>Sí estarían incluidos dentro de la Talla baja idiopática aquellos casos de retraso madurativo familiar en los que los familiares que lo presentaron alcanzaron una talla adulta también baja. El objetivo principal del tratamiento de la Talla baja idiopática es alcanzar un crecimiento adecuado durante la infancia y una talla normal en la edad adulta, sin perder de vista la calidad de vida del paciente.</p>
                 <p>Los datos de los que disponemos actualmente parecen indicar que la utilización de GH en el tratamiento de la Talla baja idiopática sería segura y eficaz, aunque existe una amplia variabilidad en la respuesta individual. Este tratamiento deberá evaluarse semestralmente y únicamente estaría indicado en los pacientes en los que existiese una buena respuesta auxológica.</p>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Entorno</h2>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 mt-2">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">ENTORNO</span></h2>
+                </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-85">
                 <p>El niño con talla baja tiene menor competencia social y tiene más problemas que sus pares con talla normal. La inteligencia de los niños con Talla baja idiopática es normal y sus problemas sociales se incrementan durante la adolescencia, por ser un período especialmente vulnerable. La evaluación y el apoyo psicológico en los niños afectados son fundamentales en estrecha colaboración con el equipo médico, tanto para evitar falsas expectativas como para ayudarle a la mejor adaptación psicosocial a su medio. </p>
+            </div>
+            <div class="tamaño-img">
+                <img src="../img/Causas-de-la-baja-estatura/baja-estatura-familiar.webp" alt="contacto crecimiento">
+            </div>
+            <div class="tamaño-img">
+                <img src="../img/Causas-de-la-baja-estatura/BANNER-2-DOC-VERTICAL.webp" alt="contacto crecimiento">
             </div>
  
         </div>

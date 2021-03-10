@@ -575,6 +575,10 @@
         text-align: center !important;
     }
     
+    .justificar-derecha-texto {
+        text-align: left;
+    }
+    
     .centrar-objeto {
         margin: 0 auto;
     }
@@ -1451,6 +1455,24 @@
         font-weight: 600;
         padding-top: 1rem;
         padding-bottom: 1rem;
+    }
+    
+    .cuadro-gris h3 {
+        max-width: unset;
+        padding: 20px;
+        background-color: #efeded;
+        color: #00205E;
+        font-weight: bold;
+        font-size: calc(1.2em + 1vw);
+    }
+    
+    .cuadro-gris-grande h3 {
+        max-width: unset;
+        padding: 20px;
+        background-color: #efeded;
+        color: #00205E;
+        font-weight: bold;
+        font-size: calc(0.55em + 1vw);
     }
     
     .aprende-mas p {
