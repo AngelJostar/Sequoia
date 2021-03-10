@@ -42,103 +42,72 @@
                     <h2>Los trastornos del crecimiento puden tener muchas causas, entre ellas la Estatura baja familiar</h2>
                 </div>
             </div>
-
-            <div>
-                ViDEOS DE CRECIMIENTO EN BEBES
+            <div class="tamaño-img pt-15">
+                <img src="/img/causas-baja/PORTADA-YOUTUBE-DOCTORES-SEQUOIA-DORANTES-4.webp" alt="contacto crecimiento">
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-85 centrar-texto pt-15">
                 <p>Los trastornos del crecimiento pueden tener muchas causas, entre ellas la Estatura baja familiar. Esto significa que un niño es parte del patrón de altura baja heredado de su familia. Para valorar el crecimiento son importantes los antecedentes
                     familiares de talla baja y la ausencia de síntomas y signos de patologías crónicas asociadas. </p>
                 <p>Generalmente se advierte la disminución de la velocidad de crecimiento durante los 2 o 3 primeros años de vida, reflejando el cambio desde el canal de crecimiento intrauterino hasta el canal de crecimiento infantil, que corresponde a sus
                     antecedentes genéticos. Mantienen su crecimiento en talla en un percentil bajo durante la infancia. El inicio y progresión de la pubertad son adecuados y la talla final alcanzada será baja, pero acorde al potencial genético en talla
                     de los padres. </p>
             </div>
-            <div>
-                BANNER A BAJA ESTATURA IDIOPATICA CHICO
+            <div class="tamaño-img pt-15 pb-30">
+                <img src="/img/causas-baja/Banner-Talla-baja-Idiopatica.webp" alt="contacto crecimiento">
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Talla baja familiar + Retardo constitucional del crecimiento </h2>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">TALLA BAJA FAMILIAR + RETARDO <br>CONSTITUCIONAL DEL CRECIMIENTO</span></h2>
+                </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-85 centrar-texto pt-15 pb-30">
                 <p>La talla de los padres es baja y con antecedentes de haber iniciado la pubertad tardíamente. El patrón de crecimiento muestra un descenso del canal de crecimiento, la talla final adulta generalmente es baja pero acorde al potencial genético
                     de los padres. </p>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Talla baja familiar + Adelanto constitucional del crecimiento </h2>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">TALLA BAJA FAMILIAR + ADELANTO <br>CONSTITUCIONAL DEL CRECIMIENTO</span></h2>
+                </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-85 centrar-texto pt-15 pb-30">
                 <p>La edad ósea se adelanta y se produce el cierre de cartílagos antes de lo previsto, por lo tanto, la talla adulta puede resultar comprometida. </p>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Evaluación clínica </h2>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">EVALUACIÓN CLÍNICA</span></h2>
+                </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-85 centrar-texto pt-15">
                 <p>La atención del paciente comienza con la elaboración de una historia clínica completa y detallada, enfocada a las posibles causas de talla baja y aspectos relacionados.</p>
                 <p>El interrogatorio debe incluir la historia familiar, donde se reporten las tallas de los padres y edad de la menarquia o estirón puberal de padres y hermanos. </p>
             </div>
-            <div class="contenedor-generalidades">
-                <div class="justificar-texto-90-listas">
-                    <ul>
-                        <li>Antecedentes perinatales:
-                            <p>Datos de embarazo y parto, edad gestacional, peso y talla al nacer, asfixia perinatal, hipoglicemia, ictericia prolongada durante el periodo neonatal. </p>
-                        </li>
-                        <li>Otros datos:
-                            <p>Desarrollo psicomotor, dentición, medicaciones que reciba o haya recibido el paciente, antecedentes patológicos, horarios de sueño etc. </p>
-                        </li>
-                    </ul>
-                </div>
+            <div class="titulos-azules-1 pt-1p alinear-texto-izquierda">
+                <h2><span class="font-bold ">ANTECEDENTES PERINATALES:</span></h2>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-85">
+            <p>Datos de embarazo y parto, edad gestacional, peso y talla al nacer, asfixia perinatal, hipoglicemia, ictericia prolongada durante el periodo neonatal. </p>
+            </div>
+            <div class="titulos-azules-1 pt-1p alinear-texto-izquierda">
+                <h2><span class="font-bold ">OTROS DATOS:</span></h2>
+            </div>
+            <div class="justificar-texto-85">
+            <p>Desarrollo psicomotor, dentición, medicaciones que reciba o haya recibido el paciente, antecedentes patológicos, horarios de sueño etc. </p>
+            </div>
+            <div class="justificar-texto-85">
                 <p>Las principales diferencias entre la talla baja familiar y el retraso constitucional del crecimiento son: </p>
             </div>
-            <table summary="Los grupos de música punk más famosos del Reino Unido">
-                <thead>
-                    <tr>
-                        <th scope="col">Datos clínicos</th>
-                        <th scope="col">Talla baja <br> familiar</th>
-                        <th scope="col">Retraso del <br> crecimiento</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <th scope="row">Historia familiar</th>
-                        <td>talla baja</td>
-                        <td>Maduración lenta <br> Postnatal</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Comienzo del déficit <br> de crecimiento</th>
-                        <td>Postnatal</td>
-                        <td>Postnatal</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Ritmo de maduración</th>
-                        <td>Normal</td>
-                        <td>Lento</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Edad ósea</th>
-                        <td>Normal</td>
-                        <td>Retrasada</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Maduración sexual</th>
-                        <td>Normal</td>
-                        <td>Retrasada</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Talla final</th>
-                        <td>Baja</td>
-                        <td>Normal</td>
-                    </tr>
-                </tbody>
+            <div class="tamaño-img pt-1p">
+                <img src="/img/causas-baja/tabla-azul.webp" alt="contacto crecimiento">
+            </div>
 
-            </table>
-
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-85 pt-15">
                 <p>Si la estatura baja familiar está relacionada con la deficiencia de la hormona del crecimiento, el niño necesitará ser tratado antes de llegar a la pubertad para alcanzar su potencial máximo de estatura.</p>
             </div>
-            <div>
-                BANNER DEFICIENCIA DE HORMONA DE CRECIMIENTO GRANDE
+            <div class="tamaño-img pt-15">
+                <img src="/img/causas-baja/Banner-Deficiencia-de-Hormano-del-Crecimiento.webp" alt="contacto crecimiento">
+            </div>
+            <div class="tamaño-img pt-15 pt-15">
+                <img src="/img/causas-baja/BANNER-2-DOC-VERTICAL.webp" alt="contacto crecimiento">
             </div>
 
         </div>
