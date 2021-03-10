@@ -29,7 +29,7 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1><span class="font-bold">PADECIMIENTOS Y ENFERMEDADES <br> CRÓNIACS QUE AFECTAN </BR></span></h1>
+                    <h1><span class="font-bold">PADECIMIENTOS Y ENFERMEDADES <br> CRÓNICAS QUE AFECTAN </BR></span></h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>

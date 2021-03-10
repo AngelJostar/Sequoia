@@ -84,23 +84,23 @@
             <div class="titulos-azules-1 pt-1p alinear-texto-izquierda">
                 <h2><span class="font-bold ">ANTECEDENTES PERINATALES:</span></h2>
             </div>
-            <div class="justificar-texto-85">
+            <div class="justificar-texto-85 alinear-texto-izquierda">
             <p>Datos de embarazo y parto, edad gestacional, peso y talla al nacer, asfixia perinatal, hipoglicemia, ictericia prolongada durante el periodo neonatal. </p>
             </div>
             <div class="titulos-azules-1 pt-1p alinear-texto-izquierda">
                 <h2><span class="font-bold ">OTROS DATOS:</span></h2>
             </div>
-            <div class="justificar-texto-85">
+            <div class="justificar-texto-85 alinear-texto-izquierda">
             <p>Desarrollo psicomotor, dentición, medicaciones que reciba o haya recibido el paciente, antecedentes patológicos, horarios de sueño etc. </p>
             </div>
-            <div class="justificar-texto-85">
+            <div class="justificar-texto-85 alinear-texto-izquierda">
                 <p>Las principales diferencias entre la talla baja familiar y el retraso constitucional del crecimiento son: </p>
             </div>
             <div class="tamaño-img pt-1p">
                 <img src="/img/causas-baja/tabla-azul.webp" alt="contacto crecimiento">
             </div>
 
-            <div class="justificar-texto-85 pt-15">
+            <div class="justificar-texto-85 pt-15 alinear-texto-izquierda">
                 <p>Si la estatura baja familiar está relacionada con la deficiencia de la hormona del crecimiento, el niño necesitará ser tratado antes de llegar a la pubertad para alcanzar su potencial máximo de estatura.</p>
             </div>
             <div class="tamaño-img pt-15">
