@@ -53,34 +53,34 @@
                     <p>La desinformación puede retrasar las intervenciones cuando realmente es necesario hacer algo. A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu niño o niña:</p>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
-                    <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e boton-esp">Factores que afectan el crecimiento</button></a>
+                    <a href="/generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e boton-esp">Factores que afectan el crecimiento</button></a>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2">
-                    <a href="/Generalidades-del-crecimiento-infantil/como-medir-a-tu-hijo-de-manera-correcta"><button class="boton-e boton-esp">¿Cómo debes medir a tu hijo?</button></a>
+                    <a href="/generalidades-del-crecimiento-infantil/como-medir-a-tu-hijo-de-manera-correcta"><button class="boton-e boton-esp">¿Cómo debes medir a tu hijo?</button></a>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2">
-                    <a href="/Generalidades-del-crecimiento-infantil/baja-estatura"><button class="boton-e boton-esp">Baja estatura</button></a>
+                    <a href="/generalidades-del-crecimiento-infantil/baja-estatura"><button class="boton-e boton-esp">Baja estatura</button></a>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2">
-                    <a href="/Generalidades-del-crecimiento-infantil/graficas-de-crecimiento"><button class="boton-e boton-esp">Graficas de Crecimiento</button></a>
+                    <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento"><button class="boton-e boton-esp">Graficas de Crecimiento</button></a>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2">
-                    <a href="/Generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><button class="boton-e boton-esp">La nutrición y el crecimiento</button></a>
+                    <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><button class="boton-e boton-esp">La nutrición y el crecimiento</button></a>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2">
-                    <a href="/Generalidades-del-crecimiento-infantil/edad-osea"><button class="boton-e boton-esp">Radiografía de Edad Ósea*</button></a>
+                    <a href="/generalidades-del-crecimiento-infantil/edad-osea"><button class="boton-e boton-esp">Radiografía de Edad Ósea*</button></a>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2">
-                    <a href="/Generalidades-del-crecimiento-infantil/pubertad-precoz"><button class="boton-e boton-esp">Pubertad precoz o atrasada</button></a>
+                    <a href="/generalidades-del-crecimiento-infantil/pubertad-precoz"><button class="boton-e boton-esp">Pubertad precoz o atrasada</button></a>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2">
-                    <a href="/Generalidades-del-crecimiento-infantil/talla_blanco_familiar"><button class="boton-e boton-esp">Talla genética o blanco familiar</button></a>
+                    <a href="/generalidades-del-crecimiento-infantil/talla_blanco_familiar"><button class="boton-e boton-esp">Talla genética o blanco familiar</button></a>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2">
-                    <a href="/Generalidades-del-crecimiento-infantil/etapas_del_desarollo_de_tenner.php"><button class="boton-e boton-esp">Cambios físicos en niños y niñas</button></a>
+                    <a href="/generalidades-del-crecimiento-infantil/etapas_del_desarollo_de_tenner.php"><button class="boton-e boton-esp">Cambios físicos en niños y niñas</button></a>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2">
-                    <a href="/Generalidades-del-crecimiento-infantil/estiron_puberal"><button class="boton-e boton-esp">Estirón Puberal</button></a>
+                    <a href="/generalidades-del-crecimiento-infantil/estiron_puberal"><button class="boton-e boton-esp">Estirón Puberal</button></a>
                 </div>
                 <div class="ocultar-media">
                     <img src="img/banners/medir-edad-hijo-hija-crecimiento-infantil-2.webp" alt="medir edad hijo">
