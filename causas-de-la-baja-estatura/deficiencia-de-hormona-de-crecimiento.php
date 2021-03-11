@@ -24,9 +24,16 @@
         <?php include_once '../includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
-
-            <div class="encabezado-crecimiento-deficiente">
-                <h1>Deficiencia de Hormona de Crecimiento</h1>
+            <div class="cuadros-crecimiento">
+                <div class="titulos-grid-baja-estatura">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1><span class="font-bold">DEFICIENCIA DE HORMONA <br> DE CRECIMIENTO</span></h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
             </div>
             <div class="caja-imagen-hojas">
                 <img src="/img/banners/Banner-deficiencia-de-hormona.webp" alt="">
@@ -34,24 +41,22 @@
                     <h2>¿QUÉ ES LA DEFICIENCIA DE LA HORMONA DE CRECIMIENTO? La deficiencia de la hormona de crecimiento (GHD, por sus siglas en inglés) es una afección poco común en la que el cuerpo no produce suficiente hormona del crecimiento (GH, por sus siglas en inglés).</h2>
                 </div>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>¿Qué es la deficiencia de la hormona de crecimiento?</h2>
+            <div class="tamaño-img pt-15 pt-15">
+                <img src="/img/causas-de-la-baja-estatura/Deficiencia-de-hormona-del-crecimiento-PORTADA-YOUTUBE-MONICA.webp" alt="contacto crecimiento">
             </div>
-            <div class="justificar-texto-90">
-                <p>La deficiencia de la hormona de crecimiento (GHD, por sus siglas en inglés) es una afección poco común en la que el cuerpo no produce suficiente hormona del crecimiento (GH, por sus siglas en inglés). La glándula pituitaria, un órgano pequeño que se encuentra en la base del cráneo, produce la GH.</p>
-                <p>La hipófisis se encuentra en la base del cerebro. Esta glándula controla el equilibrio de las hormonas del cuerpo. También produce la hormona del crecimiento, la cual hace que un niño crezca.
-La deficiencia de la hormona del crecimiento puede estar presente al nacer. Puede ser el resultado de una afección. Una lesión cerebral grave también puede causar deficiencia de esta hormona.
-</p>
+            <div class="justificar-texto-90 justificar-derecha-texto pb-15">
+                <p>La glándula pituitaria, un órgano pequeño que se encuentra en la base del cráneo, produce la GH.</p>
+                <p>La hipófisis se encuentra en la base del cerebro. Esta glándula controla el equilibrio de las hormonas del cuerpo. También produce la hormona del crecimiento, la cual hace que un niño crezca. <br>
+                La deficiencia de la hormona del crecimiento puede estar presente al nacer. Puede ser el resultado de una afección. Una lesión cerebral grave también puede causar deficiencia de esta hormona.
+                </p>
                 <p>En los niños, la GH es esencial para su crecimiento normal, fortaleza muscular y ósea, y distribución de grasa en el cuerpo. También ayuda a controlar el nivel de glucosa (azúcar) y lípidos (grasa) del cuerpo. Sin suficiente GH, es probable que el niño crezca lentamente y sea de menor estatura que otros niños de la misma edad y el mismo sexo.</p>
-                <h3>Síntomas</h3>
-                <p>El crecimiento lento se puede notar por primera vez en la lactancia y continuar a través de la infancia. Es posible que el crecimiento lento no se vea hasta que un niño tenga 2 o 3 años de edad.
-El niño será mucho más bajo que la mayoría de los niños de la misma edad y sexo. 
-</p>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Señales de deficiencia de la hormona de crecimiento</h2>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">SEÑALES DE DEFICIENCIA DE LA HORMONA DE CRECIMIENTO</span></h2>
+                </div>
             </div>
-            <div class="contenedor-generalidades">
+            <div class="contenedor-90porciento pb-15">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Poco aumento de estatura en bebés, niños o adolescentes</li>
@@ -63,9 +68,13 @@ El niño será mucho más bajo que la mayoría de los niños de la misma edad y 
                     </ul>
                 </div>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>¿Cómo se diagnostica la deficiencia de la hormona de crecimiento?</h2>
-                <p>Algunas pruebas para ayudar a determinar la causa del crecimiento lento son:</p>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18  ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">¿CÓMO SE DIAGNOSTICA LA DEFICIENCIA DE LA HORMONA DE CRECIMIENTO?</span></h2>
+                </div>
+            </div>
+            <div class="justificar-texto-90 justificar-derecha-texto">
+                <p>ALgunas pruebas para ayudar a determinar la causa del crecimiento lento son:</p>
             </div>
             <div class="contenedor-generalidades">
                 <div class="justificar-texto-90-listas">
@@ -78,16 +87,16 @@ El niño será mucho más bajo que la mayoría de los niños de la misma edad y 
                     </ul>
                 </div>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>¿Cuál es el tratamiento para la deficiencia de la hormona de crecimiento en los niños?</h2>
+            <div class="titulos-azules-1 alinear-texto-izquierda">
+                <h2><span class="font-bold ">¿CUÁL ES EL TRATAMIENTO PARA LA DEFICIENCIA DE LA HORMONA DE CRECIMIENTO EN LOS NIÑOS?</span></h2>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-90 justificar-derecha-texto">
                <p>Los niños con deficiencia de la hormona de crecimiento reciben como tratamiento inyecciones diarias de una versión sintética (fabricada) de la hormona humana del crecimiento, un medicamento de venta con receta. </p>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>¿Cuál es el pronóstico de la deficiencia de la hormona de crecimiento?</h2>
+            <div class="titulos-azules-1  alinear-texto-izquierda">
+                <h2><span class="font-bold ">CUÁL ES EL PRONÓSTICO DE LA DEFICIENCIA DE LA HORMONA DE CRECIMIENTO?</span></h2>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-90 justificar-derecha-texto">
                <p>La hormona de crecimiento en la mayoría de los casos provoca un aumento de la estatura en las personas con deficiencia de esta hormona, esto siempre que los cartílagos de crecimiento no se hayan cerrado. Es importante mantener un seguimiento médico con los especialistas para que ellos puedan determinar las causas y tratamiento a seguir ante una estatura baja. </p>
             </div>
  

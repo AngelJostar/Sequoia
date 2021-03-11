@@ -159,7 +159,7 @@
             <div class="justificar-texto-90 justificar-derecha-texto">
                 <p>Un lactante también puede tener retraso del crecimiento asimétrico y ser pequeño para la edad gestacional (PEG) si la madre es consumidora de opiáceos, cocaína, alcohol o tabaco durante el embarazo.</p>
             </div>
-            <div class="tamaño-img">
+            <div class="tamaño-img pb-30">
                 <img src="../img/Causas-de-la-baja-estatura/Banner-Retraso-constitucional-del-crecimiento-y-la-pubertad-.webp" alt="contacto crecimiento">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 mt-2 ">
