@@ -60,7 +60,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="justificar-texto-85">
+            <div class="justificar-texto-85 ">
                 <p>Cuando uno o varios miembros de la familia (padres, tíos, abuelos, hermanos, primos) presentan también talla baja hablamos de Talla Baja Idiopática con componente familiar y cuando esto no ocurre, de Talla Baja Idiopática sin componente familiar. Ambas situaciones pueden asociar o no cierto grado de retraso madurativo o del desarrollo. Los cuadros clínicos en los que, existiendo un componente familiar de retraso del desarrollo y del crecimiento durante la prepubertad y/o pubertad, pero en los que los familiares que lo presentaron alcanzaron una talla adulta normal, constituirían en sentido estricto el cuadro clínico conocido como retraso constitucional del crecimiento y del desarrollo. </p>
                 <p>En esta tipología se incluye lo que se le conoce como Baja Talla familiar, porque cumple con los criterios referidos anteriormente y además:</p>
             </div>
@@ -76,7 +76,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="justificar-texto-85">
+            <div class="justificar-texto-85 pb-15">
                 <p>Existe otra modalidad de baja talla idiopática denominado retraso constitucional del crecimiento, que consiste en un enlentecimiento del ritmo de maduración que se transmite de forma autosómica dominante. La valoración del crecimiento de otros miembros de la familia, puede arrojar luz sobre los factores genéticos familiares; pero aún así, hay que esperar la evolución del crecimiento de ese niño, especialmente en la etapa puberal.   </p>
                 <p>Los niños con retraso constitucional, suelen tener una talla y peso normal al nacimiento, evoluciona de forma fisiológica hasta los 6-12 meses de edad, momento en el cual se produce una desaceleración que se traduce en que a los 2-3 años, el niño se encuentra por debajo del percentil 3.  </p>
             </div>
@@ -108,7 +108,7 @@
                     </ol>
                 </div>
             </div>
-            <div class="justificar-texto-85">
+            <div class="justificar-texto-85 pb-15">
                 <p>El diagnóstico de la Talla baja idiopática exige una evaluación clínica, bioquímica, hormonal y molecular minuciosa con el objetivo de descartar cualquier etiología conocida del trastorno del crecimiento.</p>
                 <p>No parece adecuado incluir dentro de la Talla baja idiopática aquellos casos de retraso constitucional del crecimiento en los que la talla adulta de los familiares que presentaron retraso constitucional del crecimiento es normal, ya que las expectativas de talla adulta y la actitud terapéutica en estos pacientes son netamente diferentes a las que hoy se preconizan para la Talla baja idiopática. De cualquier forma, se recomienda un seguimiento minucioso de todos estos pacientes.</p>
                 <p>Sí estarían incluidos dentro de la Talla baja idiopática aquellos casos de retraso madurativo familiar en los que los familiares que lo presentaron alcanzaron una talla adulta también baja. El objetivo principal del tratamiento de la Talla baja idiopática es alcanzar un crecimiento adecuado durante la infancia y una talla normal en la edad adulta, sin perder de vista la calidad de vida del paciente.</p>
