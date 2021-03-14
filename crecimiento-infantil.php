@@ -112,7 +112,7 @@
 
             <div class="cuadros-crecimiento-crecimiento">
                 <div class="titulos-principal">
-                    <h2>CAUSAS DE LA <br> <span class="letra-cursiva">Baja Estatura</span></h2>
+                    <h2>IMPORTANCIA DE SER <br> <span class="letra-cursiva">MAS ALTO</span></h2>
                 </div>
                 <div>
                     <img src="img/banners/ninio-en-la-nauraleza.webp" alt="">
