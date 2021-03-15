@@ -1687,6 +1687,10 @@
         margin-top: 1.5rem;
     }
     
+    .mb-1 {
+        margin-bottom: 1.5rem;
+    }
+    
     .justificar-texto-90-listas li {
         margin-top: 20px;
         margin-bottom: 20px;
@@ -2198,14 +2202,150 @@
     
     .tablas-grid-3 {
         display: grid;
-        grid-template-columns: repeat(5, 1fr);
+        grid-template-columns: 32% 1.2% 32% 1.2% 32%;
+        background: #ffffff;
+        -webkit-box-shadow: inset 0px 14px 31px -17px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: inset 0px 14px 31px -17px rgba(0, 0, 0, 0.75);
+        box-shadow: inset 0px 14px 31px -17px rgba(0, 0, 0, 0.75);
+    }
+    
+    .tablas-grid-2 {
+        display: grid;
+        grid-template-columns: 49% 1.2% 49%;
+        background: #ffffff;
+        -webkit-box-shadow: inset 0px 14px 31px -17px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: inset 0px 14px 31px -17px rgba(0, 0, 0, 0.75);
+        box-shadow: inset 0px 14px 31px -17px rgba(0, 0, 0, 0.75);
+    }
+    
+    .tablas-grid-1 {
+        display: grid;
+        grid-template-columns: 100%;
+        background: #ffffff;
+        -webkit-box-shadow: inset 0px 14px 31px -17px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: inset 0px 14px 31px -17px rgba(0, 0, 0, 0.75);
+        box-shadow: inset 0px 14px 31px -17px rgba(0, 0, 0, 0.75);
+    }
+    
+    .tablas-grid-4 {
+        display: grid;
+        grid-template-columns: 24% 1.2% 24% 1.2% 24% 1.2% 24%;
+        background: #ffffff;
+        -webkit-box-shadow: inset 0px 14px 31px -17px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: inset 0px 14px 31px -17px rgba(0, 0, 0, 0.75);
+        box-shadow: inset 0px 14px 31px -17px rgba(0, 0, 0, 0.75);
+    }
+    
+    .tablas-grid-2-unique {
+        display: grid;
+        grid-template-columns: 70% 1.2% 29%;
+        background: #ffffff;
+        -webkit-box-shadow: inset 0px 14px 31px -17px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: inset 0px 14px 31px -17px rgba(0, 0, 0, 0.75);
+        box-shadow: inset 0px 14px 31px -17px rgba(0, 0, 0, 0.75);
+    }
+    
+    .tablas-grid-3-unique {
+        display: grid;
+        grid-template-columns: 26% 47% 26%;
+        font-weight: 700;
+        text-align: center;
+        color: #00205E;
+        font-size: calc(0.6em + 1vw);
+    }
+    
+    .tablas-grid-3-unique p {
+        margin-top: 10px;
+        margin-bottom: 2px;
+    }
+    
+    .tablas-grid-3-animal {
+        display: grid;
+        grid-template-columns: 49% 1.2% 24% 1.2% 23%;
+        font-weight: 700;
+        text-align: center;
+        color: #00205E;
+        font-size: calc(0.6em + 1vw);
+    }
+    
+    .tablas-grid-4-unique {
+        display: grid;
+        grid-template-columns: 24% 1.2% 24% 1.2% 24% 1.2% 24%;
+    }
+    
+    .tablas-grid-4-title {
+        display: grid;
+        grid-template-columns: 25% 25% 25% 25%;
+        font-weight: 700;
+        text-align: center;
+        color: #00205E;
+        font-size: calc(0.6em + 1vw);
+    }
+    
+    .tablas-grid-3-title {
+        display: grid;
+        grid-template-columns: 50% 25% 25%;
+        font-weight: 700;
+        text-align: center;
+        color: #00205E;
+        font-size: calc(0.6em + 1vw);
+    }
+    
+    .tablas-grid-4-title p {
+        margin-top: 10px;
+        margin-bottom: 2px;
+    }
+    
+    .tablas-sombra {
+        background: #ffffff;
+        -webkit-box-shadow: inset 0px 14px 31px -17px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: inset 0px 14px 31px -17px rgba(0, 0, 0, 0.75);
+        box-shadow: inset 0px 14px 31px -17px rgba(0, 0, 0, 0.75);
     }
     
     .linea-vertical-tablas {
-        border-top: 30px solid rgb(192, 212, 31);
+        margin: 0 auto;
+        width: 100%;
         height: 100%;
-        max-width: 2px;
+        background: rgb(192, 212, 31);
+    }
+    
+    .linea-horizontal-tablas {
+        border-top: 4px solid rgb(192, 212, 31);
+        max-width: 100%;
         border-radius: 30px;
+    }
+    
+    .tablas-letras p {
+        font-size: calc(0.5em + 1vw);
+        font-weight: 600;
+        text-align: center;
+        color: #00205E;
+    }
+    
+    .tablas-letras-titulo {
+        font-size: calc(0.9em + 1vw);
+        font-weight: 700;
+        text-align: center;
+        color: #00205E;
+    }
+    
+    .cuadro-tabla {
+        background-color: #00205E;
+        width: 100%;
+        margin: 0 auto;
+        height: 30px;
+    }
+    
+    .tabla-letra-cursivo p {
+        max-width: 90%;
+        font-size: calc(0.9em + 1vw);
+        font-style: italic;
+        font-weight: 600;
+        text-align: left;
+        color: #00205E;
+        line-height: 1.15;
+        margin: 0 auto;
     }
     /*MEDIA QUERY PARA DESKTOP*/
     

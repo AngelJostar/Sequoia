@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Baja Estatura</title>
+<title>Leguminosas</title>
 <link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
 
@@ -46,29 +46,57 @@
                 </div>
                 <div>
                     <div>
-                        <p>1/2 TAZA</p>
+                        <div class="linea-horizontal-tablas mt-1"></div>
+                        <p class="tablas-letras-titulo">1/2 TAZA</p>
+                        <div class="linea-horizontal-tablas mb-1"></div>
                     </div>
                     <div class="tablas-grid-3">
-                        <div>
+                        <div class="tablas-letras">
                             <p>Alverjón</p>
                             <p>Alubia 35g</p>
                             <p>Haba seca</p>
                         </div>
                         <div class="linea-vertical-tablas"></div>
-                        <div>
+                        <div class="tablas-letras">
                             <p>Garbanzo</p>
                             <p>Lenteja</p>
                             <p>Soya en semilla</p>
                         </div>
-                        <div>
+                        <div class="linea-vertical-tablas"></div>
+                        <div class="tablas-letras">
                             <p>Soya Germinada</p>
                             <p>Tofu</p>
                             <p>Frijol</p>
                         </div>
                     </div>
                 </div>
+                <div>
+                    <div>
+                        <div class="linea-horizontal-tablas mt-1"></div>
+                        <p class="tablas-letras-titulo">OTRAS MEDIDAS</p>
+                        <div class="linea-horizontal-tablas mb-1"></div>
+                    </div>
+                    <div class="tablas-grid-2-unique">
+                        <div class="tablas-letras">
+                            <p>Harina de soya</p>
+                            <p>Soya en semilla</p>
+                            <p>Soya texturizada hidratada</p>
+                            <p>Soya texturizada seca</p>
+                        </div>
+                        <div class="linea-vertical-tablas"></div>
+                        <div class="tablas-letras">
+                            <p>1/4 tza</p>
+                            <p>1/4 tza</p>
+                            <p>1 1/2 tza</p>
+                            <p>3 cdas</p>
+                        </div>
+                    </div>
+                    <div class="cuadro-tabla"></div>
+                </div>
             </div>
-     
+            <div class="tamaño-img pt-15 pt-15">
+                <img src="/img/causas-baja/BANNER-2-DOC-VERTICAL.webp" alt="contacto crecimiento">
+            </div>
 
 
         </div>
