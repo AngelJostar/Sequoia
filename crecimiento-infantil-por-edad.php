@@ -37,7 +37,7 @@
             </div>
             <div class="textos-principal">
                 <p>Para identificar si existe un problema con el crecimiento de su hijo, es importante comprender cómo el crecimiento de niños y niñas puede variar según su edad.</p>
-                </div>
+            </div>
             <div class="contenedor-video">
                 <div class="reproductor" data-id="BXOOo5c3LGM"></div>
             </div>
