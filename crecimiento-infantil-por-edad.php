@@ -35,11 +35,6 @@
                     </div>
                 </div>
             </div>
-
-            <div class="cuadros-crecimiento">
-                <h1>Crecimiento infantil por edades en niños y niñas</h1>
-                
-            </div>
             <div class="textos-principal">
                 <p>Para identificar si existe un problema con el crecimiento de su hijo, es importante comprender cómo el crecimiento de niños y niñas puede variar según su edad.</p>
                 </div>
