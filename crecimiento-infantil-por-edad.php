@@ -82,7 +82,7 @@
                 <h2>Crecimiento en niños pequeños<br>(de 2 a 5 años de edad)</h2>
                 <p>Su pequeño bebé se ha convertido de repente en un niño pequeño, ¡y parece de la nada! Obtenga más información sobre el crecimiento de los niños pequeños.</p>
                 <div class="aprende-mas">
-                    <a href="crecimiento-infantil-por-edad/niños-chicos-2-5">
+                    <a href="crecimiento-infantil-por-edad/ninos-chicos-2-5">
                         <p>APRENDE MÁS</p>
                     </a>
                 </div>
@@ -91,7 +91,7 @@
                 <h2>Crecimiento en niños<br>(6-11 años)</h2>
                 <p>Si su hijo comenzó la escuela y usted nota señales de que tal vez su hijo no está creciendo como debería. Como por ejemplo, que este dentro de los 3 mas bajitos de su salón de clases.</p>
                 <div class="aprende-mas">
-                    <a href="crecimiento-infantil-por-edad/niños-de-6-11">
+                    <a href="crecimiento-infantil-por-edad/ninos-de-6-11">
                         <p>APRENDE MÁS</p>
                     </a>
                 </div>

@@ -103,7 +103,7 @@
                     <a href="Causas-de-la-baja-estatura/nutricion-malnutricion-y-crecimiento"><button class="boton-e boton-esp">Malnutrición y malabsorción </button></a>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2">
-                    <a href="Causas-de-la-baja-estatura/pequeño-para-la-edad-gestacional"><button class="boton-e boton-esp">Niños pequeños al nacer</button></a>
+                    <a href="Causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional"><button class="boton-e boton-esp">Niños pequeños al nacer</button></a>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2">
                     <a href="Causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento"><button class="boton-e boton-esp">Deficiencia de hormona de

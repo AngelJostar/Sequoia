@@ -60,7 +60,7 @@
                     <p>Le presentamos toda la información necesaria para entender a fondo el crecimiento de tu hijo o hija.</p>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2">
-                    <a href="generalidades-del-crecimiento-infantil"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
+                    <a href="generalidades-del-crecimiento-infantil.php"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
 
@@ -75,7 +75,7 @@
                     <p>El crecimiento de niños y niñas puede variar según su. Las tasas de crecimiento dependen de la edad de los niños y niñas.</p>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2">
-                    <a href="crecimiento-infantil-por-edad"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
+                    <a href="crecimiento-infantil-por-edad.php"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
 
@@ -90,7 +90,7 @@
                     <p>Los diferentes transtornos del crecimiento pueden afectar la salud de un niño de muchas formas diferentes y pueden ser causados por una variedad de factores</p>
                 </div>
                 <div class="centrar-texto texto-boton-esp pb-2 ">
-                    <a href="causas-de-la-baja-estatura"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
+                    <a href="causas-de-la-baja-estatura.php"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
 
@@ -112,11 +112,11 @@
 
             <div class="cuadros-crecimiento-crecimiento">
                 <div class="titulos-principal">
-                    <h2>CAUSAS DE LA <br> <span class="letra-cursiva">Baja Estatura</span></h2>
+                    <h2>IMPORTANCIA DE SER <br> <span class="letra-cursiva">MAS ALTO</span></h2>
                 </div>
                 <div>
                     <img src="img/banners/ninio-en-la-nauraleza.webp" alt="">
-                </div>  
+                </div>
                 <div class="texto-crecimiento">
                     <p>Además de tener más confianza y habilidades sociales debidas a su complexión física, las personas altas también pueden presumir de mayor..</p>
                 </div>

@@ -41,7 +41,7 @@
                     <h2>La nutrición en cada una de las diferentes etapas de la edad pediátrica tiene como objetivo conseguir un crecimiento y desarrollo adecuados.</h2>
                 </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-90 pb-15 justificar-derecha-texto">
                 <p>La nutrición en cada una de las diferentes etapas de la edad pediátrica tiene como objetivo conseguir un crecimiento y desarrollo adecuados. Los niños que padecen hambre o que reciben una alimentación de mala calidad tienen más probabilidades
                     de: crecer más lentamente o menos de lo debido.</p>
                 <p>Desde la infancia y la adolescencia, los hábitos alimenticios y el ejercicio marcan la diferencia entre una vida sana y el riesgo de sufrir enfermedades en años posteriores. Durante el desarrollo se cruzan por etapas en las que cada una
@@ -52,7 +52,7 @@
                     <h2><span class="font-bold">NUTRICIÓN EN LA EDAD PEDIÁTRICA</span></h2>
                 </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-90 pb-15 justificar-derecha-texto">
                 <p>El período que va desde el nacimiento hasta los dos años de edad es una ventana crítica para promover el crecimiento, la salud y el desarrollo del comportamiento óptimo. En esta edad es en donde aparecen trastornos del crecimiento, ciertas
                     deficiencias de micronutrientes y enfermedades comunes de la niñez.</p>
                 <p>El déficit nutricional que se produce durante estos años formativos tiene consecuencias inmediatas y a largo plazo. Las consecuencias inmediatas incluyen el retraso en el desarrollo motriz y mental. Las consecuencias a largo plazo se asocian
@@ -65,7 +65,7 @@
                     <h2><span class="font-bold">NUTRICIÓN EN LA ADOLESCENCIA</span></h2>
                 </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-90 pb-15 justificar-derecha-texto">
                 <p>Las necesidades nutricionales de los jóvenes se ven influidas por la aceleración del crecimiento que se da en la pubertad. El pico de crecimiento se da generalmente entre los 11 y los 15 años en el caso de las chicas y entre los 13 y los
                     16 en el de los chicos. Los nutrientes que necesitan los adolescentes dependen en gran medida de cada persona y la ingesta de alimentos puede variar enormemente de un día a otro, de forma que pueden consumir insuficientemente o en
                     exceso un día, y compensarlo al día siguiente. En esta época de la vida, existe el riesgo de que se sufran deficiencias de algunos nutrientes, como el hierro y el calcio.</p>
@@ -78,7 +78,7 @@
                     <h2><span class="font-bold">MALNUTRICIÓN</span></h2>
                 </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-90 justificar-derecha-texto">
                 <p>El aporte de nutrientes se ha considerado de forma clásica como un factor permisivo de forma clásica, es decir, permitiría que el potencial genético del individuo pudiera plasmarse en un crecimiento lineal adecuado. El déficit agudo o
                     crónico de nutrientes es capaz de generar una respuesta adaptativa del organismo que ocasiona un menor crecimiento lineal. </p>
                 <p>La malnutrición ocurre cuando las necesidades caporales de proteínas, nutrientes energéticos y/o micronutrientes no son satisfechas por la ingesta. Incluye un espectro muy amplio, cuya manifestación clínica depende de la importancia y
@@ -95,7 +95,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-90 pb-15 justificar-derecha-texto">
                 <p>La malnutrición es la causa más frecuente de retraso del crecimiento en la población mundial. </p>
                 <p>La insuficiencia de peso respecto de la talla se denomina emaciación. Suele indicar una pérdida de peso reciente y grave, debida a que la persona no ha comido lo suficiente y/o a que tiene una enfermedad infecciosa, como la diarrea, que
                     le ha provocado la pérdida de peso. Un niño pequeño que presente una emaciación moderada o grave tiene un riesgo más alto de morir, pero es posible proporcionarle tratamiento.</p>
