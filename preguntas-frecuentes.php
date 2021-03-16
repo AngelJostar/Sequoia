@@ -24,7 +24,7 @@
     <section id="site-canvas">
 
         <?php include_once 'includes/templates/header.php';?>
-
+        <div class="contenedor-principal" id="contenedor-principal">
         <div class="cuadros-crecimiento">
             <div class="titulos-principal titulos-grid">
                 <div class="flexbox padre">
@@ -244,6 +244,7 @@
         </div>
         <div>
             <img src="img/banners/contacto-crecimiento-infantil-estatura-medir-hija-2.webp" alt="">
+        </div>
         </div>
 
         <?php include_once 'includes/templates/footer.php';?>

@@ -22,7 +22,7 @@
     <section id="site-canvas">
 
         <?php include_once 'includes/templates/header.php';?>
-
+        <section class="contenedor-principal" id="contenedor-principal">
         <div class="contendor-crecimiento">
             <div class="cuadros-crecimiento">
                 <h1>Crecimiento infantil por edades en niños y niñas</h1>
@@ -105,6 +105,7 @@
             <div class="tamaño-img mostrar-media">
                 <img src="img/banners/CRECIMIENTO-Sequoia-Inicio-2021.webp" alt="altura-crecimiento-estatura">
             </div>
+        </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>
 

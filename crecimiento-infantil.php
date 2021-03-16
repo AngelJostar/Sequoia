@@ -22,7 +22,7 @@
     <section id="site-canvas">
 
         <?php include_once 'includes/templates/header.php';?>
-
+        <section class="contenedor-principal" id="contenedor-principal">
         <div class="contendor-crecimiento">
             <div class="cuadros-crecimiento">
                 <div class="titulos-grid-crecimiento-infantil">
@@ -131,7 +131,7 @@
                 <img src="img/banners/BANNER-6-HORIZONTAL.webp" alt="contacto crecimiento">
             </div>
         </div>
-
+        </div>
         <?php include_once 'includes/templates/footer.php';?>
 
     </section>
