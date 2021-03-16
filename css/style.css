@@ -146,6 +146,7 @@
 }
 */
 <<<<<<< HEAD
+<<<<<<< HEAD
             
             .menu-literal {
                 color: #c787a2;
@@ -2436,6 +2437,8 @@
                 }
             }
 =======
+=======
+>>>>>>> 800e38e362894c19f1584a966402afebc0e889e2
     
     .menu-literal {
         color: #c787a2;
@@ -3930,6 +3933,11 @@
         height: 70px;
         width: 320px;
         border-radius: 30px;
+<<<<<<< HEAD
+=======
+        border-color: rgb(192, 212, 31);
+        border-width: 2.5px;
+>>>>>>> 800e38e362894c19f1584a966402afebc0e889e2
     }
     
     .boton-crecimiento {
@@ -4872,5 +4880,9 @@
         .mostrar {
             display: none;
         }
+<<<<<<< HEAD
     }
 >>>>>>> 6636a47be9e16d5c3a6c809c8e63831481d4fd88
+=======
+    }
+>>>>>>> 800e38e362894c19f1584a966402afebc0e889e2

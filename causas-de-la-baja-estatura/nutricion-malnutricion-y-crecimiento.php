@@ -109,7 +109,33 @@
                     <h2><span class="font-bold">TABLAS DE EQUIVALENCIAS <br> DE ALIMENTOS</span></h2>
                 </div>
             </div>
-
+            <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
+                <a href="/tablas/verduras.php"><button class="boton-e boton-esp">VERDURAS</button></a>
+            </div>
+            <div class="centrar-texto texto-boton-esp pb-2">
+                <a href="/tablas/productos-de-origen-animal.php"><button class="boton-e boton-esp">PRODUCTOS DE ORIGEN ANIMAL</button></a>
+            </div>
+            <div class="centrar-texto texto-boton-esp pb-2">
+                <a href="/tablas/leche.php"><button class="boton-e boton-esp">LECHE</button></a>
+            </div>
+            <div class="centrar-texto texto-boton-esp pb-2">
+                <a href="/tablas/leguminosas.php"><button class="boton-e boton-esp">LEGUMINOSAS</button></a>
+            </div>
+            <div class="centrar-texto texto-boton-esp pb-2">
+                <a href="/tablas/grasas.php"><button class="boton-e boton-esp">GRASAS</button></a>
+            </div>
+            <div class="centrar-texto texto-boton-esp pb-2">
+                <a href="/tablas/azucares.php"><button class="boton-e boton-esp">ÁZUCARES</button></a>
+            </div>
+            <div class="centrar-texto texto-boton-esp pb-2">
+                <a href="/tablas/cereales-con-grasa.php"><button class="boton-e boton-esp">CEREALES CON GRASA</button></a>
+            </div>
+            <div class="centrar-texto texto-boton-esp pb-2">
+                <a href="/tablas/cereales-y-tuberculos.php"><button class="boton-e boton-esp">CEREALES TUBÉRCULOS</button></a>
+            </div>
+            <div class="centrar-texto texto-boton-esp pb-2">
+                <a href="/tablas/frutas.php"><button class="boton-e boton-esp">FRUTOS</button></a>
+            </div>
         </div>
 
         <?php include_once '../includes/templates/footer.php';?>
