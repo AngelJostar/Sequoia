@@ -24,16 +24,29 @@
         <?php include_once '../includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
-    
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Deporte y estatura</h2>
+            
+            <div class="cuadros-crecimiento">
+                <div class="titulos-grid-baja-estatura">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1><span class="font-bold">DEPORTE<br> Y ESTATURA</span></h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
             </div>
-            <p>video</p>
+            <div class="caja-imagen-hojas efecto3-2">
+                <img src="/img/importancia-de-ser-mas-alto/banner-deporte-estatura.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>En general, los atletas son más altos, tienen ventajas sobre los atletas más bajos en muchos deportes.</h2>
+                </div>
+            </div>
+            <div class="tamaño-img pt-2">
+                <img src="../img/importancia-de-ser-mas-alto/PORTADA-YOUTUBE-FRANCISCOEjercicio-como-factor-para-el-crecimiento-.webp" alt="contacto crecimiento">
+            </div>
             <div class="contenedor-generalidades">
                     <div class="justificar-texto-90-listas">
-                    <div class="justificar-texto-91">
-                        <p>En general, los atletas más altos tienen ventajas sobre los atletas más bajos en muchos deportes.</p>       
-                    </div>
                         <ul>
                             <li>Los futbolistas más altos tienen mayor alcance, lo que los hace mejores defensas y porteros. Más velocidad, lo que los hace mejores mediocampistas y más potencia los que los hace mejores delanteros.</li>
                             <li>Un boxeador más alto con un alcance más largo puede hacer contacto con sus golpes mientras mantiene su cabeza fuera del alcance de su oponente.</li>
@@ -45,34 +58,12 @@
                         </ul>
                     </div>
             </div>
-            <div class="imagen-80 centrar-imagen ">
-                <img src="/img/nueva/deporte.webp" alt="Brexia_especialistas">
+            <div class="tamaño-img pb-25">
+                <img src="../img/importancia-de-ser-mas-alto/Banner-Deporte-y-Crecimeinto-Infantil.webp" alt="contacto crecimiento">
             </div>
-            <div class="contenedor-generalidades">
-                <div class="encabezado-crecimiento-deficiente">
-                    <h2>Las ventajas de una altura superior en los deportes incluyen:</h2>
-                </div>
-                    <div class="justificar-texto-90-listas">
-                        <ul type="square">
-                            <li>Mayor fuerza absoluta</li>
-                            <li>Mayor capacidad de trabajo (fuerza multiplicada por distancia)</li>
-                            <li>Mayor trabajo por unidad de tiempo (potencia)</li>
-                            <li>Mayor peso</li>
-                            <li>Mayor alcance (muy importante en deportes como Baloncesto y Boxeo)</li>
-                            <li>Manos más grandes (atrapando)</li>
-                            <li>Mayor visibilidad</li>
-                            <li>Tasa metabólica en reposo más baja</li>
-                            <li>Frecuencia cardíaca más baja</li>
-                            <li>Es menos probable que se deshidrate</li>
-                            <li>Las extremidades más largas y el torso más corto producen un área de bloqueo más grande (importante para los porteros)</li>
-
-                        </ul>
-                    </div>
+            <div class="tamaño-img">
+                <img src="../img/banners/BANNER-2-DOC-VERTICAL.webp" alt="contacto crecimiento">
             </div>
-            <p>******** Banner chico a trabajo
-******** Banner grande a contecto
-</p>
-
         </div>
 
         <?php include_once '../includes/templates/footer.php';?>

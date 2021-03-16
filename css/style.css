@@ -1456,18 +1456,19 @@
             
             .curvi-cuadros-crecimiento h2 {
                 color: rgba(255, 255, 255, 0.89);
-                font-size: 16px;
+                font-size: 18px;
                 max-width: 80%;
                 text-align: center;
                 margin: 0 auto;
                 font-weight: 600;
-                padding-top: 1rem;
-                padding-bottom: 1rem;
+                padding-top: 3rem;
+                padding-bottom: 2rem;
+                line-height: 1.15;
             }
             
             .cuadro-gris h3 {
                 max-width: unset;
-                padding: 20px;
+                padding: 24px;
                 background-color: #efeded;
                 color: #00205E;
                 font-weight: bold;

@@ -24,49 +24,70 @@
         <?php include_once '../includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
-    
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>Relación entre autoestima y estatura</h2>
+            <div class="cuadros-crecimiento">
+                <div class="titulos-grid-crecimiento-infantil">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1 style=" font-size: calc(1.13em + 1vw);"> <span class="font-bold">RELACIÓN ENTRE AUTOESTIMA <br>Y ESTATURA</span></h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
             </div>
-            <div class="justificar-texto-90">
-                <p>La estatura baja en los niños y adolescentes puede ser factor de una disminución de la autoestima y cambios de actitud debido a factores como el acoso escolar y otros problemas de la vida diaria. Los niños y niñas más bajitos suelen ser acosados en la escuela y pueden mostrar cambios en su actitud o tener problemas de autoestima. Pueden ser sobreprotegidos, tanto por familiares, como por maestros, volviéndolos dependientes, con dificultades para enfrentar por sí mismos los problemas que le presenta la vida diaria.</p>
+            <div class="caja-imagen-hojas efecto3-2">
+                <img src="/img/importancia-de-ser-mas-alto/banner-autoestima-1.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>La estatura baja en los niños y adolescentes puede ser factor de una disminución de la autoestima y cambios de actitud debido a factores como el acoso escolar y otros problemas de la vida diaria. </h2>
+                </div>
             </div>
-            <p>video</p>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-90 centrar-texto pt-15">
+                <p>Los niños y niñas más bajitos suelen ser acosados en la escuela y pueden mostrar cambios en su actitud o tener problemas de autoestima. Pueden ser sobreprotegidos, tanto por familiares, como por maestros, volviéndolos dependientes, con dificultades para enfrentar por sí mismos los problemas que le presenta la vida diaria.</p>
+            </div>
+            <div class="tamaño-img">
+                <img src="../img/importancia-de-ser-mas-alto/PORTADA-YOUTUBE-FRANCISCOEjercicio-como-factor-para-el-crecimiento-.webp" alt="contacto crecimiento">
+            </div>
+            <div class="justificar-texto-90 centrar-texto">
                 <p>De acuerdo con un estudio publicado en la revista Psychiatry Research, las personas que son de baja estatura suelen padecer baja autoestima. De acuerdo a la investigación de la Universidad de Oxford, las personas que son de baja estatura tienen un complejo de inferioridad y se sienten amenazados por los demás. En la adolescencia donde los cambios corporales están desconcertando al joven que al compararse con sus compañeros se siente atrasado en su crecimiento ser más bajos que sus compañeros los podría hacer vulnerables al acoso escolar, afectando su rendimiento académico y su desarrollo psicosocial.</p>
             </div>
-            <div class="imagen-80 centrar-imagen ">
+            <div class="imagen-80 centrar-imagen pb-30">
                 <img src="/img/nueva/autoestima1.webp" alt="Brexia_especialistas">
             </div>
-            <div class="justificar-texto-verde">
-                <h2>A continuación se presentan puntos clave para determinar una sana autoestima en el adolescente:</h2>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">A CONTINUACIÓN SE PRESENTAN<br> PUNTOS CLAVE PARA DETERMINAR <br>UNA SANA AUTOESTIMA EN EL<br>ADOLESCENTE:</span></h2>
+                </div>
             </div>
-            <div class="contenedor-generalidades">
+            <div class="contenedor-generalidades pb-2">
                     <div class="justificar-texto-90-listas">
-                        <ol>
+                        <ul>
                             <li>Capacidad para recuperarse de los errores (tanto propios como ajenos)</li>
                             <li>Incursión en nuevas actividades, creatividad y curiosidad hacia lo desconocido</li>
                             <li>Conductas proactivas y actitud cooperativa</li>
                             <li>Responsabilidad de acuerdo a su edad</li>
-                        </ol>
+                        </ul>
                     </div>
             </div>
-            <div class="justificar-texto-verde">
-                <h2>Mientras que una baja autoestima se caracteriza por:</h2>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">MIENTRAS QUE UNA BAJA AUTOESTIMA<br>SE CARACTERIZA POR:</span></h2>
+                </div>
             </div>
-            <div class="contenedor-generalidades">
+            <div class="contenedor-generalidades pb-2">
                     <div class="justificar-texto-90-listas">
-                        <ol>
+                        <ul>
                             <li>No se recupera fácilmente de los errores. Se frustra constantemente</li>
                             <li>Rechazo de actividades (intelectuales, deportivas o sociales)</li>
                             <li>Miente constantemente</li>
                             <li>Es tímido y/o agresivo, poco cooperador</li>
                             <li>Evade aún las más simples responsabilidades</li>
-                        </ol>
+                        </ul>
                     </div>
             </div>
-            <div class="justificar-texto-verde">
-                <h2>Complejo napoleónico</h2>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">COMPLEJO NAPOLEONICO</span></h2>
+                </div>
             </div>
             <div class="justificar-texto-90">
                 <p>El complejo de Napoleón es un término que se utiliza para describir el complejo de inferioridad que sufren algunas personas con baja estatura. Las personas que padecen este complejo deben lidiar con ciertos sentimientos de insuficiencia personal asociados a su falta de estatura.</p>
@@ -74,14 +95,15 @@
             <div class="justificar-texto-90">
                 <p>Por tanto, las personas con el complejo de Napoleón suelen compensar su baja estatura con comportamientos negativos en sus vidas, por lo que pueden ser más agresivas y celosas. Este complejo también es conocido como complejo napoleónico o complejo del hombre bajito.</p>
             </div>      
-            <div class="imagen-80 centrar-imagen ">
+            <div class="imagen-80 centrar-imagen pb-25">
                 <img src="/img/nueva/autoestima2.webp" alt="Brexia_especialistas">
             </div>      
-            <p>*****Banner chico hacia pareja
-***** Banner grande contacto
-
-
-</p>
+            <div class="tamaño-img pb-25">
+                <img src="../img/importancia-de-ser-mas-alto/Banner-Autoestima-y-Crecimiento-.webp" alt="contacto crecimiento">
+            </div>
+            <div class="tamaño-img">
+                <img src="../img/banners/BANNER-2-DOC-VERTICAL.webp" alt="contacto crecimiento">
+            </div>
 
         </div>
 

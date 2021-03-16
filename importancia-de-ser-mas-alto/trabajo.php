@@ -24,12 +24,22 @@
         <?php include_once '../includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
-    
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>La gente más alta tiene mejores trabajos</h2>
+            <div class="cuadros-crecimiento">
+                <div class="titulos-grid-crecimiento-infantil">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1 style=" font-size: calc(1.3em + 1vw);"> <span class="font-bold">LA GENTE MÁS ALTA TIENE <br>MEJORES TRABAJOS</span></h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
             </div>
-            <div class="justificar-texto-90">
-                <p>Estudios recientes encuentran que las personas más altas ganan más dinero.</p>       
+            <div class="caja-imagen-hojas efecto3-2">
+                <img src="/img/importancia-de-ser-mas-alto/banner-trabajo-1.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>Estudios recientes encuentran que las personas más altas ganan más dinero.</h2>
+                </div>
             </div>
             <div class="justificar-texto-90">
                 <p>Los directores ejecutivos (CEOs) de las empresas mexicanas son en promedio 8 centímetros más altos que un mexicano promedio.</p>
@@ -46,11 +56,13 @@
             <div class="justificar-texto-90">
                 <p>Según este cálculo, alguien que mide 1.80 cm de altura gana $100,000 peos más al año que alguien que mide 1.70 cm.</p>
             </div>
-            <div class="imagen-80 centrar-imagen ">
+            <div class="imagen-80 centrar-imagen pb-25">
                 <img src="/img/nueva/trabajo2.webp" alt="Brexia_especialistas">
             </div>
-            <div class="justificar-texto-verde">
-                <h2>"Las personas más altas son percibidas como más inteligentes y poderosas"</h2>
+            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">"LAS PERSONAS MÁS ALTAS <br>SON PERCIBIDAS COMO MÁS<br>INTELIGENTES Y PODEROSAS"</span></h2>
+                </div>
             </div>
             <div class="justificar-texto-90">
                 <p>Un estudio realizado la Universidad de Pensilvania, EEUU, descubrió que lo que importa cuando se trata de llevar el pan a casa en la edad adulta es la altura que tenía una persona cuando era adolescente. Los resultados de este estudio demostraron que: "Dos adultos de la misma edad y altura que tenían diferentes alturas a los 16 años son tratados de manera diferente en el mercado laboral, es decir que, la persona que era más alta en la adolescencia gana más".</p>
@@ -61,12 +73,13 @@
             <div class="justificar-texto-90">
                 <p>La autoestima débil y las habilidades sociales subdesarrolladas pueden afectar negativamente la imagen que uno retrata a los compañeros de trabajo y gerentes como adulto. Una persona que carece de confianza generalmente se considera menos autoritaria y puede tener más dificultades para convencer a los empleadores de su potencial de liderazgo.</p>
             </div>
+            <div class="tamaño-img pb-25">
+                <img src="../img/importancia-de-ser-mas-alto/Banner-Trabajo.webp" alt="contacto crecimiento">
+            </div>
+            <div class="tamaño-img">
+                <img src="../img/banners/BANNER-2-DOC-VERTICAL.webp" alt="contacto crecimiento">
+            </div>
             
-            <p>***** BANNER CHICO a AUTOESTIMA
-***** BANNER GRANDE a CONTACTO
-
-</p>
-
         </div>
 
         <?php include_once '../includes/templates/footer.php';?>

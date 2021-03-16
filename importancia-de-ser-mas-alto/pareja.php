@@ -24,15 +24,22 @@
         <?php include_once '../includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
-
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>La estatura y las relaciones de pareja</h2>
+            <div class="cuadros-crecimiento">
+                <div class="titulos-grid-crecimiento-infantil">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1 style=" font-size: calc(1.2em + 1vw);"> <span class="font-bold">LA ESTATURA Y <br>LAS RELACIONES DE PAREJA</span></h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h2>¿Importa la estatura al elegir pareja?</h2>
-            </div>
-            <div class="justificar-texto-90">
-                <p>La estatura es más importante al elegir pareja que aspectos como sonrisa, ojos, tono de voz y estilo de vestir, revela estudio.</p>
+            <div class="caja-imagen-hojas efecto3-2">
+                <img src="/img/importancia-de-ser-mas-alto/banner-pareja-doctor.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>¿IMPORTA LA ESTATURA AL ELEGIR PAREJA?,<br> La estatura es más importante al elegir pareja que aspectos como sonrisa, ojos, tono de voz y estilo de vestir, revela el estudio.</h2>
+                </div>
             </div>
             <div class="justificar-texto-90">
                 <p>La estatura es un factor importante al momento de elegir pareja. De hecho, la característica que destaca como “primer filtro” es la personalidad, seguida de cerca por estatura y complexión física, ambos, criterios que son más valorados
@@ -54,7 +61,12 @@
             <div class="justificar-texto-90">
                 <p>Ser alto ayuda en la vida romántica de tu hijo o hija. Por lo tanto, los adolescentes más altos de ambos sexos suelen tener más citas que sus compañeros más bajos, y los hombres y mujeres más altos tienen más probabilidades de encontrar una pareja a largo plazo. </p>
             </div>
-            
+            <div class="tamaño-img pb-25">
+                <img src="../img/importancia-de-ser-mas-alto/pareja-abajo.webp" alt="contacto crecimiento">
+            </div>
+            <div class="tamaño-img">
+                <img src="../img/banners/BANNER-2-DOC-VERTICAL.webp" alt="contacto crecimiento">
+            </div>   
 
         </div>
 
