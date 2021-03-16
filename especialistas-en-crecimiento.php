@@ -23,8 +23,7 @@
     <section id="site-canvas">
 
         <?php include_once 'includes/templates/header.php';?>
-        <section class="contenedor-principal" id="contenedor-principal">
-        <div class="contendor-crecimiento">
+        <div class="contenedor-principal" id="contenedor-principal">
             <div class="cuadros-crecimiento">
                 <div class="titulos-grid-crecimiento-infantil">
                     <div class="flexbox padre">
@@ -132,7 +131,6 @@
             </div>
 
 
-        </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>
 

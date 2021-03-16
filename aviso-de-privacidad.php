@@ -22,8 +22,8 @@
     <section id="site-canvas">
 
         <?php include_once 'includes/templates/header.php';?>
-
-        <div class="contendor-crecimiento">
+        
+        <div class="contenedor-principal" id="contenedor-principal">
             
                 <div class="cuadros-crecimiento">
                     <h1>Aviso de privacidad</h1>

@@ -22,8 +22,7 @@
     <section id="site-canvas">
 
         <?php include_once 'includes/templates/header.php';?>
-        <section class="contenedor-principal" id="contenedor-principal">
-        <div class="contendor-crecimiento">
+        <div class="contenedor-principal" id="contenedor-principal">
             <div class="cuadros-crecimiento">
                 <div class="titulos-grid-gci">
                     <div class="flexbox padre">
@@ -149,7 +148,6 @@
             <div class="tamaño-img mostrar-media">
                 <img src="img/banners/BANNER-5-HORIZONTAL.webp" alt="especialistas crecimiento">
             </div>
-        </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>
 

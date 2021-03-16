@@ -23,7 +23,7 @@
 
         <?php include_once 'includes/templates/header.php';?>
 
-        
+        <section class="contenedor-principal" id="contenedor-principal">
         <section class="contenedor-contacto">
             <div class="cuadros-crecimiento">
                 <div class="titulos-grid-contacto">
@@ -137,7 +137,7 @@
                 <img src="img/banners/estatura-crecer-crecimiento-infantil-2.webp" alt="estatura crecer crecimiento">
             </div>
         </section>
-
+        </div>
 
 
 
