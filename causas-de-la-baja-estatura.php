@@ -25,8 +25,18 @@
         
         <section class="contenedor-principal" id="contenedor-principal">
             <div class="cuadros-crecimiento">
-                <h1>Causas de la baja estatura</h1>
-                <p>Un crecimiento más lento de lo normal puede ser señal de un problema de salud importante. Así mismo algunos de los niños que tienen baja estatura que no está relacionada con alguna afección médica también pueden querer alcanzar una mayor
+                <div class="titulos-grid-crecimiento-infantil">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1 style=" font-size: calc(1.1em + 1vw);"> <span class="font-bold">CAUSAS DE LA BAJA ESTATURA</span></h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="textos-principal">
+            <p>Un crecimiento más lento de lo normal puede ser señal de un problema de salud importante. Así mismo algunos de los niños que tienen baja estatura que no está relacionada con alguna afección médica también pueden querer alcanzar una mayor
                     estatura para sobresalir física y socialmente.</p>
             </div>
             <div class="contenedor-video">
@@ -34,7 +44,7 @@
             </div>
             <div class="contenedor-generalidades">
                 <div class="contenedor-generalidades">
-                    <div class="generalidades-negritas">
+                    <div class="generalidades-negritas pt-15">
                         <p>Entre las causas de una baja estatura que NO SE ASOCIAN a enfermedades reconocidas, se incluyen:
                         </p>
                     </div>
@@ -66,11 +76,17 @@
                 <div class="tamaño-img">
                     <img src="img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="">
                 </div>
-                <p>X Banner Chico Importancia de ser mas alto</p>
-                <div class="encabezado-crecimiento-deficiente">
-                    <h2>Obtenga más información sobre las causas específicas del crecimiento deficiente</h2>
+                <div class="cuadros-crecimiento">
+                    <div class="titulos-principal-esp margin-top-20 pt-15 pb-15">
+                        <div class="barra-titulo"></div>
+                        <h2>Obtenga más información sobre las causas específicas del crecimiento deficiente</h2>
+                        <div class="barra-titulo"></div>
+                    </div>
                 </div>
-                <div class="justificar-texto-90">
+                <div class="encabezado-crecimiento-deficiente">
+                    <h2></h2>
+                </div>
+                <div class="justificar-texto-90 pb-15">
                     <p>Los diferentes trastornos del crecimiento pueden afectar la salud de un niño de muchas formas diferentes y pueden ser causados por una variedad de factores. Explora los enlaces a continuación para aprender a fondo todo acerca de las
                         causas mas comunes de una baja estatura en tu niño o niña. </p>
                 </div>
@@ -104,7 +120,7 @@
                 <div class="tamaño-img">
                     <img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="especialistas-crecimiento-estatura-doctor">
                 </div>
-                <div class="justificar-texto-90">
+                <div class="justificar-texto-90  centrar-texto pt-15 pb-15">
                     <p>Te invitamos a que agendes una cita para que uno de nuestros médicos endocrinólogos pediatras especialistas en crecimiento pueda hacer un diagnóstico personalizado de tu hijo y diseñar el tratamiento adecuado en caso de requerirlo.
                     </p>
                 </div>

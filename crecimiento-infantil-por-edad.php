@@ -25,17 +25,30 @@
         <section class="contenedor-principal" id="contenedor-principal">
         <div class="contendor-crecimiento">
             <div class="cuadros-crecimiento">
-                <h1>Crecimiento infantil por edades en niños y niñas</h1>
-                <p>Para identificar si existe un problema con el crecimiento de su hijo, es importante comprender cómo el crecimiento de niños y niñas puede variar según su edad.</p>
+                <div class="titulos-grid-crecimiento-infantil">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1 style=" font-size: calc(1.2em + 1vw);"> <span class="font-bold">CRECIMIENTO INFANTIL POR<br>EDADES EN NIÑOS Y NIÑAS</span></h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
             </div>
+
+            <div class="cuadros-crecimiento">
+                <h1>Crecimiento infantil por edades en niños y niñas</h1>
+                
+            </div>
+            <div class="textos-principal">
+                <p>Para identificar si existe un problema con el crecimiento de su hijo, es importante comprender cómo el crecimiento de niños y niñas puede variar según su edad.</p>
+                </div>
             <div class="contenedor-video">
                 <div class="reproductor" data-id="BXOOo5c3LGM"></div>
             </div>
-            <div class="encabezado-crecimiento-deficiente">
-                <h1>“Las tasas de crecimiento dependen de la edad de los niños”</h1>
-            </div>
-            <div>
-                video
+
+            <div class="box efecto3">
+                <h3>“Las tasas de crecimiento dependen<br>de la edad de los niños”</h3>
             </div>
             <div class="justificar-texto-90">
                 <p>Existe una guía conocida como la "regla de los cinco" que describe la tasa de crecimiento típica de un niño. Esta sugiere:</p>
@@ -57,7 +70,7 @@
                 <img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-1.webp" alt="contacto-crecimiento-infantil">
             </div>
             <div class="curvi-cuadros-crecimiento ">
-                <h2>Crecimiento en bebes (0-2 años de edad)</h2>
+                <h2>Crecimiento en bebes<br>(0-2 años de edad)</h2>
                 <p>Desde el nacimiento hasta el segundo año, es importante realizar un seguimiento del crecimiento de su bebé para identificar potencialmente cualquier problema temprano. Obtenga más información sobre el crecimiento de los bebés.</p>
                 <div class="aprende-mas">
                     <a href="crecimiento-infantil-por-edad/bebes-0-2">
@@ -66,7 +79,7 @@
                 </div>
             </div>
             <div class="curvi-cuadros-crecimiento ">
-                <h2>Crecimiento en niños pequeños (de 2 a 5 años de edad)</h2>
+                <h2>Crecimiento en niños pequeños<br>(de 2 a 5 años de edad)</h2>
                 <p>Su pequeño bebé se ha convertido de repente en un niño pequeño, ¡y parece de la nada! Obtenga más información sobre el crecimiento de los niños pequeños.</p>
                 <div class="aprende-mas">
                     <a href="crecimiento-infantil-por-edad/ninos-chicos-2-5">
@@ -75,7 +88,7 @@
                 </div>
             </div>
             <div class="curvi-cuadros-crecimiento ">
-                <h2>Crecimiento en niños (6-11 años)</h2>
+                <h2>Crecimiento en niños<br>(6-11 años)</h2>
                 <p>Si su hijo comenzó la escuela y usted nota señales de que tal vez su hijo no está creciendo como debería. Como por ejemplo, que este dentro de los 3 mas bajitos de su salón de clases.</p>
                 <div class="aprende-mas">
                     <a href="crecimiento-infantil-por-edad/ninos-de-6-11">
@@ -84,7 +97,7 @@
                 </div>
             </div>
             <div class="curvi-cuadros-crecimiento ">
-                <h2>Crecimiento en adolescentes (12-16 años)</h2>
+                <h2>Crecimiento en adolescentes<br>(12-16 años)</h2>
                 <p>La pubertad es un momento de crecimiento rápido. A esta edad es importante actuar rápido ya que una vez que tu hijo termine de crecer ya no es posible hacer nada para corregir su estatura.</p>
                 <div class="aprende-mas">
                     <a href="crecimiento-infantil-por-edad/adolecentes-12-16">
@@ -92,7 +105,7 @@
                     </a>
                 </div>
             </div>
-            <div class="tamaño-img">
+            <div class="tamaño-img pt-2">
                 <img src="img/banners/crecer-estatura-niño-crecimiento-infantil-1.webp" alt="crecer-estatura-niño">
             </div>
             <div class="justificar-texto-90">
