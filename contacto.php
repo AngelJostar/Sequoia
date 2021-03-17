@@ -72,7 +72,7 @@
                     </div>
                 </div>
             </div>
-            <div class="img-90">
+            <div class="contenedor-90porciento">
                 <img src="img/Mapas/MAPA-CDMX-1015x542.jpg" alt="Mapa-CDMX">
             </div>
             <div class="contacto-box">
@@ -91,7 +91,7 @@
                     </div>
                 </div>
             </div>
-            <div class="img-90">
+            <div class="contenedor-90porciento">
                 <img src="img/Mapas/MAPA-CDMX-1015x542.jpg" alt="Mapa-CDMX">
             </div>
             <div class="contacto-box">
@@ -110,7 +110,7 @@
                     </div>
                 </div>
             </div>
-            <div class="img-90">
+            <div class="contenedor-90porciento">
                 <img src="img/Mapas/MAPA-CDMX-1015x542.jpg" alt="Mapa-CDMX">
             </div>
             <div class="formulario">

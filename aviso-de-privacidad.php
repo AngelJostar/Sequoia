@@ -22,20 +22,34 @@
     <section id="site-canvas">
 
         <?php include_once 'includes/templates/header.php';?>
+<<<<<<< HEAD
         
         <div class="contenedor-principal" id="contenedor-principal">
             
                 <div class="cuadros-crecimiento">
                     <h1>Aviso de privacidad</h1>
                     <p style="text-align: center;">SEQUOIA</p>
-                </div>
-                
-           <div class="contenedor-aviso"> 
+=======
 
-                <p>De conformidad con lo establecido en el Artículo 17, fracción II de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares es la  Responsable del tratamiento de sus datos personales que se recaben en nuestras instalaciones  (llamados en adelante Los Datos Personales), los cuales  se  recaban con las siguientes finalidades: Crear el expediente correspondiente así como realizar actualizaciones y seguimiento al mismo, para la agenda y confirmación de citas, para actividades administrativas de facturación y cobranza, para comunicar o enviar  información concerniente al cliente,  de eventos y  programas. Como finalidad secundaria está el realizar estadísticas, para actividades de mercadeo, publicidad o prospección comercial y promoción de servicios y productos. Por lo tanto, y para alcanzar las finalidades antes expuestas, se tratarán los siguientes datos personales:   nombre y apellidos, expediente clínico,  fecha de nacimiento,  teléfono,  teléfono celular, teléfono de oficina, nombre de la empresa, cargo, correo electrónico, domicilio (trabajo o casa) y  datos de facturación. El Responsable ha designado a un encargado de datos personales, (el “Oficial de Privacidad”),  Usted o su representante legal debidamente acreditado, podrán limitar el uso o divulgación de Los datos personales, así mismo a partir del 6 de enero de 2012 podrá ejercer, cuando procedan, los derechos de acceso, rectificación, cancelación u oposición que le concede la ley; pudiendo también de ser procedente, revocar su consentimiento en relación con el tratamiento de sus datos personales, mediante la solicitud por escrito en el domicilio arriba señalado, dirigida al “Oficial de Privacidad” acompañada de la siguiente información y documentación en original (para cotejo) y copia: nombre  del paciente y del padre madre o tutor, domicilio completo (para recibir notificaciones), una descripción clara y precisa de los datos personales respecto de los cuales busca ejercer alguno de los derechos ARCO, además de presentar los documentos oficiales que acrediten su identidad. Modificaciones al Aviso de Privacidad.- El Responsable se reserva el derecho de efectuar, en cualquier momento, modificaciones o actualizaciones al presente Aviso de Privacidad, en el entendido de que toda modificación al mismo se le hará saber a Usted por medio de la publicación de un aviso en la página de Internet del Responsable, por lo que le recomendamos verificarla con frecuencia.</p>
-                
+        <div class="contendor-crecimiento">
+            <div class="cuadros-crecimiento">
+                <div class="titulos-grid-crecimiento-infantil">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1 style="font-size: calc(1.5em + 1vw);"> <span class="font-bold">AVISO DE PRIVACIDAD</h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+>>>>>>> 970292afc37517547a52554f31ca6f0d0a47da63
+                </div>
             </div>
-            
+           <div class="justificar-texto-85 centrar-texto pt-15"> 
+                <p>De conformidad con lo establecido en el Artículo 17, fracción II de la Ley Federal de Protección de Datos Personales en Posesión de los Particulares es la  Responsable del tratamiento de sus datos personales que se recaben en nuestras instalaciones  (llamados en adelante Los Datos Personales), los cuales  se  recaban con las siguientes finalidades: Crear el expediente correspondiente así como realizar actualizaciones y seguimiento al mismo, para la agenda y confirmación de citas, para actividades administrativas de facturación y cobranza, para comunicar o enviar  información concerniente al cliente,  de eventos y  programas. Como finalidad secundaria está el realizar estadísticas, para actividades de mercadeo, publicidad o prospección comercial y promoción de servicios y productos. Por lo tanto, y para alcanzar las finalidades antes expuestas, se tratarán los siguientes datos personales:   nombre y apellidos, expediente clínico,  fecha de nacimiento,  teléfono,  teléfono celular, teléfono de oficina, nombre de la empresa, cargo, correo electrónico, domicilio (trabajo o casa) y  datos de facturación. El Responsable ha designado a un encargado de datos personales, (el “Oficial de Privacidad”),  Usted o su representante legal debidamente acreditado, podrán limitar el uso o divulgación de Los datos personales, así mismo a partir del 6 de enero de 2012 podrá ejercer, cuando procedan, los derechos de acceso, rectificación, cancelación u oposición que le concede la ley; pudiendo también de ser procedente, revocar su consentimiento en relación con el tratamiento de sus datos personales, mediante la solicitud por escrito en el domicilio arriba señalado, dirigida al “Oficial de Privacidad” acompañada de la siguiente información y documentación en original (para cotejo) y copia: nombre  del paciente y del padre madre o tutor, domicilio completo (para recibir notificaciones), una descripción clara y precisa de los datos personales respecto de los cuales busca ejercer alguno de los derechos ARCO, además de presentar los documentos oficiales que acrediten su identidad. Modificaciones al Aviso de Privacidad.- El Responsable se reserva el derecho de efectuar, en cualquier momento, modificaciones o actualizaciones al presente Aviso de Privacidad, en el entendido de que toda modificación al mismo se le hará saber a Usted por medio de la publicación de un aviso en la página de Internet del Responsable, por lo que le recomendamos verificarla con frecuencia.</p>                
+            </div>
+            <div class="tamaño-img">
+                <img src="../img/banners/BANNER-2-DOC-VERTICAL.webp" alt="contacto crecimiento">
+            </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>
 

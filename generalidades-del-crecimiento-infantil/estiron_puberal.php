@@ -26,7 +26,7 @@
         <div class="contenedor-principal" id="contenedor-principal">
 
            <div class="cuadros-crecimiento">
-                <div class="titulos-grid-crecimiento-infantil">
+                <div class="titulos-grid-baja-estatura">
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>

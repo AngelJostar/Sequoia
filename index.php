@@ -44,7 +44,7 @@
             </div>
             
             <div class="textos-principal pt-15">
-                <p><span class="font-negritas">Centro SEQUOIA</span> es un <span class="font-negritas">Centro Pediátrico Exclusivo para el Crecimiento infantil</span> formado por Médicos Pediatras Endocrinólogos, certificados por el Consejo Mexicano de Endocrinología
+                <p><span class="font-bold">Centro SEQUOIA</span> es un <span class="font-bold">Centro Pediátrico Exclusivo para el Crecimiento infantil</span> formado por Médicos Pediatras Endocrinólogos, certificados por el Consejo Mexicano de Endocrinología
                     A.C. Ellos diagnosticarán las causas por las que tu hijo no crece adecuadamente y lo ayudaran a alcanzar una mayor estatura.</p>
             </div>
 
@@ -54,8 +54,8 @@
                 </div>
 
                 <div class="textos-principal-2columas">
-                    <p>En Centro Sequoia <span class="font-negritas">única y exclusivamente</span> atendemos los padecimientos que afectan la estatura de los niños. <br> <span class="font-negritas">Nuestros médicos especialistas</span> tienen la experiencia
-                        de mas de 30,000 casos atendidos en este campo, lo que nos lleva a ser el centro <span class="font-negritas">MÁS ESPECIALIZADO EN CRECIMIENTO INFANTIL DE MÉXICO.</span></p>
+                    <p>En Centro Sequoia <span class="font-bold">única y exclusivamente</span> atendemos los padecimientos que afectan la estatura de los niños. <br> <span class="font-bold">Nuestros médicos especialistas</span> tienen la experiencia
+                        de mas de 30,000 casos atendidos en este campo, lo que nos lleva a ser el centro <span class="font-bold">MÁS ESPECIALIZADO EN CRECIMIENTO INFANTIL DE MÉXICO.</span></p>
                 </div>
             </div>
             <div class="pb-25 tamaño-img">

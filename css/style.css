@@ -41,21 +41,6 @@ img {
     max-width: 100%;
 }
 
-.contenedor {
-    width: 100%;
-    max-width: 140rem;
-    /** = 1200px; **/
-    margin: 0 auto;
-}
-
-.texto-brexia {
-    font-size: 17px;
-    font-weight: 400;
-}
-
-
-/*Sistema para el tama;o de palabras, en los headers*/
-
 
 /*Top Header*/
 
@@ -150,31 +135,21 @@ img {
 
 
 /*
-.mid-header {
-margin: 0rem auto 0rem;
-padding-top: 3.2rem;
-display: flex;
-justify-content: space-between;
-}
-
-.deepmid-header {
-flex-basis: calc(43% - 1rem);
-}
-*/
-
 .menu-literal {
     color: #00205E;
     font-size: 12px !important;
     margin-top: 0px;
 }
+*/
 
+
+/*
 .mid-font {
     color: #a3a3a3 !important;
     padding-top: 3.5rem;
     letter-spacing: -0.01rem;
     word-spacing: 0.1rem;
 }
-
 .mid-font a {
     text-decoration: none;
     color: #a3a3a3 !important;
@@ -191,6 +166,7 @@ flex-basis: calc(43% - 1rem);
 .mid-font a:focus {
     color: #a3a3a3 !important;
 }
+*/
 
 .mid-image {
     text-align: center;
@@ -506,13 +482,6 @@ flex-basis: calc(43% - 1rem);
     color: white;
 }
 
-.color-brexia {
-    color: #c787a2;
-    font-size: 4em !important;
-    -webkit-transition: 300ms ease all;
-    transition: 300ms ease all;
-}
-
 .justificar {
     float: right;
     padding-top: 4.5rem;
@@ -617,19 +586,6 @@ a {
     color: #BFDB49 !important;
 }
 
-.font-negritas {
-    font-weight: bold;
-    color: #909090;
-}
-
-.font-blanquitas {
-    font-weight: 600;
-}
-
-.font-remarcadas {
-    font-weight: bolder;
-}
-
 .letra-cursiva {
     font-family: 'Pacifico', cursive;
     font-weight: 200;
@@ -640,20 +596,11 @@ a {
     margin-top: 2rem;
 }
 
-.margin-bottom-20 {
-    margin-bottom: 4rem;
-}
-
 .font-bold {
     font-weight: bold;
 }
 
 .img-90 {
-    max-width: 90%;
-    margin: 0 auto;
-}
-
-.contenedor-90porciento {
     max-width: 90%;
     margin: 0 auto;
 }
@@ -929,7 +876,7 @@ textarea {
 .textos-principal p {
     margin: 0 auto;
     max-width: 90%;
-    font-size: calc(13px + .6vw);
+    font-size: calc(13px + .4vw);
     font-weight: 500;
     color: rgb(135, 135, 135);
     text-align: center;
@@ -1579,7 +1526,7 @@ div.youtube-play:hover {
 .cuadros-crecimiento-crecimiento {
     background-color: #00205E;
     -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.383);
-    -moz-box-shadow: 2px 2px 5px rgb a(0, 0, 0, 0.383);
+    -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.383);
     margin-top: 30px;
 }
 
@@ -1692,14 +1639,6 @@ h1 {
 .contenedor-generalidades {
     max-width: 100%;
     margin: 0 auto;
-}
-
-.contenedor-generalidades p {
-    max-width: 90%;
-    font-size: 16px;
-    margin: 0 auto;
-    padding: 0.5rem;
-    line-height: 1.15;
 }
 
 .boton-e {
@@ -2126,7 +2065,7 @@ td {
     display: block;
     margin: auto;
     width: 90%;
-    max-width: 900px;
+    max-width: 700px;
     padding-top: 2rem;
 }
 
@@ -2558,6 +2497,7 @@ td {
         line-height: 1.7;
         margin-top: 2rem;
         margin-bottom: 2rem;
+        max-width: 90%;
     }
     .textos-principal-2columas p {
         margin: 0 auto;
