@@ -35,10 +35,16 @@
                     </div>
                 </div>
             </div>
-            <div class="caja-imagen-hojas pb-2">
-                <img src="/img/banners/banner-doctora.webp" alt="">
-                <div class="texto-imagen-izquierda-esp">
-                    <h2>Es muy importante que sepas que existen<br>médicos, pediatras con subespecialidad<br>en endocrinología pediátrica, ¿que además<br>después se enfocan en tratar únicamente <br> la estatura de los niños y niñas.</h2>
+            <div class="tamaño-img ph-9 ocultar-media">
+                <img src="img/banners/Banner-Especialistas-en-crecimeinto-Infantil-.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>Es muy importante que sepas que existen médicos, pediatras con subespecialidad en endocrinología pediátrica, que además después se enfocan en tratar únicamente la estatura de los niños y niñas</h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-9 mostrar-media">
+                <img src="img/banners/Banner-Especialistas-en-crecimeinto-Infantil-desktop.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                <h2>Es muy importante que sepas que existen médicos, pediatras con subespecialidad en endocrinología pediátrica, que además después se enfocan en tratar únicamente la estatura de los niños y niñas</h2>
                 </div>
             </div>
             <div class="contenedor-video-2">

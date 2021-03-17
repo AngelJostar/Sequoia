@@ -1237,6 +1237,14 @@ div.youtube-play:hover {
     padding-top: 30px;
 }
 
+.ph-5 {
+    padding-top: 5vh;
+}
+
+.ph-7 {
+    padding-top: 7vh;
+}
+
 .ph-8 {
     padding-top: 8vh;
 }
@@ -1356,8 +1364,8 @@ div.youtube-play:hover {
     width: 100%;
     position: absolute;
     background-color: #00205E;
-    -webkit-box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.383);
-    -moz-box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.383);
+    -webkit-box-shadow: 3px 3px 18px rgb(0 0 0 / 55%);
+    -moz-box-shadow: 3px 3px 18px rgb(0 0 0 / 55%);
 }
 
 .cuadros-crecimiento-2 {
@@ -1365,8 +1373,8 @@ div.youtube-play:hover {
 }
 
 .efecto3-2 {
-    -webkit-box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.383);
-    -moz-box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.383);
+    -webkit-box-shadow: 3px 3px 18px rgb(0 0 0 / 55%);
+    -moz-box-shadow: 3px 3px 18px rgb(0 0 0 / 55%);
 }
 
 .cuadros-crecimiento-2 p {

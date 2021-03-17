@@ -35,6 +35,18 @@
                     </div>
                 </div>
             </div>
+            <div class="tamaño-img ph-9 ocultar-media">
+                <img src="img/generalidades-del-crecimiento-infantil/Banner-generalidades.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>El crecimiento es el proceso biológico más característico de la infancia. Se inicia en el momento de la fecundación del óvulo y se extiende hasta que finaliza la maduración de los huesos y se completa el desarrollo sexual, lo que ocurre habitualmente, hacia el final de la segunda década de la vida.</h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-9 mostrar-media">
+                <img src="img/generalidades-del-crecimiento-infantil/Banner-generalidades-desktop.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>El crecimiento es el proceso biológico más característico de la infancia. Se inicia en el momento de la fecundación del óvulo y se extiende hasta que finaliza la maduración de los huesos y se completa el desarrollo sexual, lo que ocurre habitualmente, hacia el final de la segunda década de la vida.</h2>
+                </div>
+            </div>
             
             <div class="textos-principal">
                 <p>El crecimiento es el proceso biológico más característico de la infancia. Se inicia en el momento de la fecundación del óvulo y se extiende hasta que finaliza la maduración de los huesos y se completa el desarrollo sexual, lo que ocurre

@@ -35,10 +35,16 @@
                     </div>
                 </div>
             </div>
-            <div class="caja-imagen-hojas">
-                <img src="/img/banners/banner-ninos.webp" alt="banner-doctor">
-                <div class="texto-imagen-derecha">
-                    <h2><span class="font-remarcadas">Es muy importante que<br>sepas si la tasa de<br>crecimiento del niño<br>es la que debería ser,<br>a cualquier edad.</span></h2>
+            <div class="tamaño-img ph-7 ocultar-media">
+                <img src="img/banners/Banner-crecimiento-deficiente.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>Es muy importante que sepas si la tasa de crecimiento del niño es la que debería ser, a cualquier edad.</h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-7 mostrar-media">
+                <img src="img/banners/Banner-crecimiento-deficiente-desktop.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>Es muy importante que sepas si la tasa de crecimiento del niño es la que debería ser, a cualquier edad.</h2>
                 </div>
             </div>
             <div class="textos-principal justificar-texto ">

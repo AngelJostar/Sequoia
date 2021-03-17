@@ -35,10 +35,16 @@
                     </div>
                 </div>
             </div>
-            <div class="caja-imagen-hojas efecto3-2">
-                <img src="/img/importancia-de-ser-mas-alto/banner-trabajo-1.webp" alt="">
+            <div class="tamaño-img ph-7 ocultar-media">
+                <img src="../img/banners/banner-trabajo-1.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
-                    <h2>Estudios recientes encuentran que las personas más altas ganan más dinero.</h2>
+                    <h2>Es muy importante que sepas si la tasa de crecimiento del niño es la que debería ser, a cualquier edad.</h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-7 mostrar-media">
+                <img src="../img/banners/banner-trabajo-1-desktop.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>Es muy importante que sepas si la tasa de crecimiento del niño es la que debería ser, a cualquier edad.</h2>
                 </div>
             </div>
             <div class="justificar-texto-90">
@@ -47,7 +53,7 @@
             <div class="justificar-texto-90">
                 <p>Durante décadas, los antropólogos han estudiado lo que se conoce como "prima de altura": la diferencia positiva de los ingresos que, en promedio, reciben las personas más altas.</p>       
             </div>
-            <div class="imagen-80 centrar-imagen ">
+            <div class="imagen-80 tamaño-img centrar-imagen ">
                 <img src="/img/nueva/trabajo1.webp" alt="Brexia_especialistas">
             </div>
             <div class="justificar-texto-90">
@@ -56,7 +62,7 @@
             <div class="justificar-texto-90">
                 <p>Según este cálculo, alguien que mide 1.80 cm de altura gana $100,000 peos más al año que alguien que mide 1.70 cm.</p>
             </div>
-            <div class="imagen-80 centrar-imagen pb-25">
+            <div class="imagen-80  tamaño-img  centrar-imagen pb-25">
                 <img src="/img/nueva/trabajo2.webp" alt="Brexia_especialistas">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">

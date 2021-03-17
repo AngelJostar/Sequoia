@@ -34,12 +34,16 @@
                     </div>
                 </div>
             </div>
-            <div class="caja-imagen-hojas">
-                <img src="/img/banners/banner-doctor-doctora.webp" alt="banner-doctor">
-                <div class="texto-imagen-derecha">
-                    <h2>En <span class="font-bold">Centro Sequoia</span><br>queremos que tomes<br><span class="font-bold">decisiones informadas</span>, por eso<br>te presentamos a continuación<br>toda la información que<br>necesitas para entender
-                        el
-                        <br>crecimiento de tu hijo o hija.</h2>
+            <div class="tamaño-img ph-7 ocultar-media">
+                <img src="img/banners/Banner-crecimiento-infantil.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                <h2>En Centro Sequoia queremos que tomes decisiones informadas, por eso te presentamos a continuación toda la información que necesitas para entender el crecimiento de tu hijo o hija.</h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-7 mostrar-media">
+                <img src="img/banners/Banner-crecimiento-infantil-desktop.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>En Centro Sequoia queremos que tomes decisiones informadas, por eso te presentamos a continuación toda la información que necesitas para entender el crecimiento de tu hijo o hija.</h2>
                 </div>
             </div>
             <div class="contenedor-video">

@@ -36,12 +36,13 @@
                     </div>
                 </div>
             </div>
-            <div class="sombras-img efecto3-2 tamaño-img ocultar">
+            <div class="tamaño-img ph-5 ocultar-media">
                 <img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada">
             </div>
-            <div class="sombras-img efecto3-2 tamaño-img mostrar">
-                <img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada">
+            <div class="tamaño-img ph-5 mostrar-media">
+                <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" alt="Portada">
             </div>
+
             <div class="textos-azules">
             <p>En <span class="font-bold">Centro Sequoia</span> somos endocrinólogos pediatras
                     especialistas en crecimiento infantil.
