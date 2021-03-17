@@ -58,7 +58,7 @@
                     <h2><span class="font-bold">A CONTINUACIÓN SE PRESENTAN<br> PUNTOS CLAVE PARA DETERMINAR <br>UNA SANA AUTOESTIMA EN EL<br>ADOLESCENTE:</span></h2>
                 </div>
             </div>
-            <div class="contenedor-generalidades pb-2">
+            <div class="contenedor-principal pb-2">
                     <div class="justificar-texto-90-listas">
                         <ul>
                             <li>Capacidad para recuperarse de los errores (tanto propios como ajenos)</li>
@@ -73,7 +73,7 @@
                     <h2><span class="font-bold">MIENTRAS QUE UNA BAJA AUTOESTIMA<br>SE CARACTERIZA POR:</span></h2>
                 </div>
             </div>
-            <div class="contenedor-generalidades pb-2">
+            <div class="contenedor-principal pb-2">
                     <div class="justificar-texto-90-listas">
                         <ul>
                             <li>No se recupera fácilmente de los errores. Se frustra constantemente</li>

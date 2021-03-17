@@ -606,7 +606,7 @@ a {
 }
 
 .contenedor-85porciento {
-    max-width: 85%;
+    max-width: 85% !important;
     margin: 0 auto;
 }
 
@@ -662,6 +662,8 @@ a {
     line-height: 12px;
 }
 
+
+/*
 .primer-p {
     font-weight: 300;
     font-size: 28px;
@@ -679,6 +681,7 @@ a {
     color: #00235d;
     justify-content: center;
 }
+*/
 
 .contacto-box {
     max-width: 90%;
@@ -778,28 +781,11 @@ textarea {
 }
 
 
-/*END_FORMULARIO*/
-
-.formulario {
-    margin-bottom: 25px;
-}
-
-.formulario p {
-    font-size: 10px;
-}
-
-
 /*DESKTOP*/
 
 @media (min-width: 720px) {
     .tercer-p p {
         font-size: 1.5vw;
-    }
-    .primer-p {
-        font-size: 38px;
-    }
-    .segundo-p {
-        font-size: 26px;
     }
 }
 
@@ -816,12 +802,6 @@ textarea {
     line-height: 0;
 }
 
-.titulos-principal h1 {
-    text-align: center;
-    font-weight: 700;
-    color: #00235d;
-}
-
 .titulos-principal h2 {
     max-width: 95%;
     text-align: center;
@@ -833,34 +813,13 @@ textarea {
     line-height: 1.5;
 }
 
-.titulos-principal-esp h2 {
-    max-width: 83%;
-    text-align: center;
-    font-weight: 300;
-    color: #ffffff;
-    padding: 5px 0 5px 0;
-    margin: 0 auto;
-    font-size: calc(14px + .8vw);
-    line-height: 1.2;
-}
-
 .titulos-azules {
-    font-size: 12px;
+    font-size: calc(10px + .5vw);
     color: #00235d;
     font-weight: 600;
     margin: 0 auto;
     text-align: center;
     max-width: 90%;
-    line-height: 1.15;
-}
-
-.titulos-azules-1 {
-    font-size: 11px;
-    color: #00235d;
-    font-weight: 600;
-    margin: 0 auto;
-    text-align: center;
-    max-width: 85%;
     line-height: 1.15;
 }
 
@@ -1345,13 +1304,6 @@ div.youtube-play:hover {
 
 /*CRECIMIENTO_INFANTIL*/
 
-.contendor-crecimiento {
-    padding-top: 2rem;
-    max-width: 100%;
-    margin: 0 auto;
-    line-height: 0;
-}
-
 .cuadros-crecimiento {
     width: 100%;
     position: absolute;
@@ -1369,6 +1321,8 @@ div.youtube-play:hover {
     -moz-box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.383);
 }
 
+
+/*
 .cuadros-crecimiento-2 p {
     color: rgba(255, 255, 255, 0.89);
     max-width: 90%;
@@ -1377,6 +1331,7 @@ div.youtube-play:hover {
     padding-bottom: 1rem;
     line-height: 23px;
 }
+*/
 
 .cuadros-crecimiento-2 h1 {
     color: rgba(255, 255, 255, 0.89);
@@ -1390,6 +1345,8 @@ div.youtube-play:hover {
     line-height: 1.15;
 }
 
+
+/*
 .cuadros-crecimiento p {
     color: rgba(255, 255, 255, 0.89);
     max-width: 90%;
@@ -1398,6 +1355,7 @@ div.youtube-play:hover {
     padding-bottom: 1rem;
     line-height: 23px;
 }
+*/
 
 .cuadros-crecimiento h1 {
     color: rgba(255, 255, 255, 0.89);
@@ -1510,19 +1468,6 @@ div.youtube-play:hover {
     color: #98a819;
 }
 
-.texto-crecimiento {
-    margin: 0 auto;
-    max-width: 95%;
-    font-size: 17px;
-    font-weight: 500;
-    color: rgb(135, 135, 135);
-    text-align: center;
-    word-spacing: 1px;
-    line-height: 20px;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-}
-
 .cuadros-crecimiento-crecimiento {
     background-color: #00205E;
     -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.383);
@@ -1533,11 +1478,14 @@ div.youtube-play:hover {
 .cuadros-crecimiento-crecimiento p {
     color: rgba(255, 255, 255, 0.89);
     font-size: 15px;
-    max-width: 90%;
+    max-width: 85%;
     margin: 0 auto;
     font-weight: 300;
-    padding-bottom: 1rem;
+    padding-top: 1.5rem;
+    padding-bottom: 2.5rem;
     line-height: 23px;
+    text-align: center;
+    word-spacing: 1px;
 }
 
 .cuadros-crecimiento-crecimiento h1 {
@@ -1557,37 +1505,8 @@ div.youtube-play:hover {
 
 /*CRECIMIENTO_INFANTIL-DEFICIENTE*/
 
-.contenedor-infantil-deficiente {
-    max-width: 100%;
-    margin: 0 auto;
-}
 
-.encabezado-crecimiento-deficiente h2,
-h1 {
-    font-weight: 600;
-    font-size: 18px;
-    color: rgb(192, 212, 31);
-    text-align: center;
-    line-height: 1.15;
-}
-
-.encabezado-crecimiento-deficiente p {
-    max-width: 90%;
-    font-size: 16px;
-    color: #777777;
-    text-align: justify;
-    margin: 0 auto;
-}
-
-.encabezado-crecimiento-deficiente h4 {
-    max-width: 90%;
-    font-weight: 600;
-    font-size: 18px;
-    color: #777777;
-    text-align: justify;
-    margin: 0 auto;
-}
-
+/*
 .grid-iconos {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -1607,39 +1526,13 @@ h1 {
     color: rgb(231, 150, 0);
     font-size: 14px;
     font-weight: 300;
-}
-
-.padding-2 {
-    padding-bottom: 3rem;
-}
-
-.padding-1 {
-    padding-bottom: 1.5rem;
-}
+}*/
 
 
 /*END_CRECIMIENTO_INFANTIL-DEFICIENTE*/
 
 
-/*Especialistas-en-crecimiento*/
-
-.especialistas-en-crecimiento-negritas {
-    font-weight: 600;
-    font-size: 17px;
-    text-align: center;
-    color: #777777;
-}
-
-
-/*Fin de especialista-en-crecimiento*/
-
-
 /*Crecimiento infantil- generalidades- INICIO*/
-
-.contenedor-generalidades {
-    max-width: 100%;
-    margin: 0 auto;
-}
 
 .boton-e {
     display: inline-block;
@@ -1709,6 +1602,10 @@ h1 {
 
 .mt-2 {
     margin-top: 2.5rem;
+}
+
+.mt-205 {
+    margin-top: 20.5rem;
 }
 
 .mt-1 {
@@ -1832,24 +1729,6 @@ h1 {
 }
 
 
-/*Crecimiento infantil- generlidades*/
-
-
-/*Deporte y estatura - importancia de ser mas alto*/
-
-
-/*trabajo - importancia de ser mas alto*/
-
-.justificar-texto-verde h2 {
-    max-width: 80%;
-    font-weight: 600;
-    font-size: 18px;
-    color: rgb(192, 212, 31);
-    text-align: center;
-    margin: 0 auto;
-}
-
-
 /*Tablas*/
 
 
@@ -1929,28 +1808,6 @@ td {
 /*end_gracias*/
 
 
-/*AVISO DE PRIVACIDAD*/
-
-.contenedor-aviso {
-    background-color: #f5f5f5 !important;
-}
-
-.contenedor-aviso p {
-    padding-top: 2rem;
-    margin: 0 auto;
-    max-width: 90%;
-    text-align: justify;
-    line-height: 26px;
-    letter-spacing: 0;
-    font-size: 13px;
-    font-weight: 400;
-    color: #777;
-}
-
-
-/*END_AVISO DE PRIVACIDAD*/
-
-
 /*Importancia de ser mas alto*/
 
 .caja-imagen-footer {
@@ -2016,6 +1873,8 @@ td {
     line-height: 7px;
 }
 
+
+/*
 .texto-encabezado h1 {
     font-weight: 700;
     position: absolute;
@@ -2027,6 +1886,7 @@ td {
     font-weight: bolder;
     color: #00205E !important;
 }
+*/
 
 .titulos-principal-2 h2 {
     text-align: center;
@@ -2037,7 +1897,8 @@ td {
     font-size: 17px !important;
 }
 
-.texto-importancia p {
+
+/*.texto-importancia p {
     margin: 0 auto;
     max-width: 95%;
     font-size: 12px;
@@ -2047,7 +1908,7 @@ td {
     line-height: 20px;
     margin-top: 0;
     padding-bottom: 34px;
-}
+}*/
 
 .texto-importancia-2 p {
     margin: 0 auto;
@@ -2073,7 +1934,7 @@ td {
     width: 370px;
     height: 100px;
     background: rgb(214, 214, 214);
-    margin: 35px auto 30px;
+    margin: calc(19em + 1vw) auto 3vh;
 }
 
 .box h3 {
@@ -2181,7 +2042,7 @@ td {
     font-weight: 700;
     color: #FFF;
     padding: 25px 0 20px 0;
-    font-size: calc(1.1em + 1vw);
+    font-size: calc(1.4em + 1vw);
     line-height: 1.15;
 }
 
@@ -2489,7 +2350,6 @@ td {
     /*++++++++++++++++++++++++++++++FINAL DE ENCABEZADOS DE PAGINAS (GREEDS)++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     .textos-principal p {
         margin: 0 auto;
-        max-width: 55%;
         font-weight: 500;
         color: rgb(135, 135, 135);
         text-align: center;
@@ -2575,9 +2435,6 @@ td {
         grid-template-columns: 40% 20% 40%;
     }
     /*++++++++++++++++++++++++++++++FINAL DE ENCABEZADOS DE PAGINAS (GREEDS)++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-    .texto-importancia-2 p {
-        max-width: 70%;
-    }
     .textos-principal p {
         margin: 0 auto;
         max-width: 55%;

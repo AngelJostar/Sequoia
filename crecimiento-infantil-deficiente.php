@@ -38,7 +38,7 @@
             <div class="caja-imagen-hojas">
                 <img src="/img/banners/banner-ninos.webp" alt="banner-doctor">
                 <div class="texto-imagen-derecha">
-                    <h2><span class="font-remarcadas">Es muy importante que<br>sepas si la tasa de<br>crecimiento del niño<br>es la que debería ser,<br>a cualquier edad.</span></h2>
+                    <h2><span class="font-bold">Es muy importante que<br>sepas si la tasa de<br>crecimiento del niño<br>es la que debería ser,<br>a cualquier edad.</span></h2>
                 </div>
             </div>
             <div class="textos-principal justificar-texto ">
@@ -59,7 +59,7 @@
                 </div>
                 <div class="cuadros-crecimiento margin-top-20">
                     <div class="titulos-principal">
-                        <h2><span class="font-remarcadas">¿CÓMO RECONOCER UN CRECIMIENTO DEFICIENTE<br>EN TU HIJO?</span></h2>
+                        <h2><span class="font-bold">¿CÓMO RECONOCER UN CRECIMIENTO DEFICIENTE<br>EN TU HIJO?</span></h2>
                     </div>
                 </div>
                 <div class="textos-principal">
@@ -73,7 +73,7 @@
                 </div>
                 <div class="cuadros-crecimiento margin-top-20">
                     <div class="titulos-principal">
-                        <h2><span class="font-remarcadas">¿QUÉ SIGNIFICA UN CRECIMIENTO <br> DEFICIENTE EN MI HIJO?<br></h2>
+                        <h2><span class="font-bold">¿QUÉ SIGNIFICA UN CRECIMIENTO <br> DEFICIENTE EN MI HIJO?<br></h2>
                     </div>
                 </div>
                 <div class="textos-principal">

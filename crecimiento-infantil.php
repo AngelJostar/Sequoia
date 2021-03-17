@@ -55,9 +55,7 @@
                 <div>
                     <img src="img/banners/ninio-astronauta.webp" alt="">
                 </div>
-                <div class="texto-crecimiento">
                     <p>Le presentamos toda la información necesaria para entender a fondo el crecimiento de tu hijo o hija.</p>
-                </div>
                 <div class="centrar-texto texto-boton-esp pb-2">
                     <a href="generalidades-del-crecimiento-infantil.php"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
@@ -70,9 +68,7 @@
                 <div>
                     <img src="img/banners/ninios-acostados.webp" alt="">
                 </div>
-                <div class="texto-crecimiento">
                     <p>El crecimiento de niños y niñas puede variar según su. Las tasas de crecimiento dependen de la edad de los niños y niñas.</p>
-                </div>
                 <div class="centrar-texto texto-boton-esp pb-2">
                     <a href="crecimiento-infantil-por-edad.php"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
@@ -85,9 +81,7 @@
                 <div>
                     <img src="img/banners/oximetro.webp" alt="">
                 </div>
-                <div class="texto-crecimiento">
                     <p>Los diferentes transtornos del crecimiento pueden afectar la salud de un niño de muchas formas diferentes y pueden ser causados por una variedad de factores</p>
-                </div>
                 <div class="centrar-texto texto-boton-esp pb-2 ">
                     <a href="causas-de-la-baja-estatura.php"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
@@ -101,9 +95,7 @@
                 <div>
                     <img src="img/banners/ninia-con-vestido.webp" alt="">
                 </div>
-                <div class="texto-crecimiento">
                     <p>Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado</p>
-                </div>
                 <div class="centrar-texto texto-boton-esp pb-2">
                     <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
@@ -116,9 +108,7 @@
                 <div>
                     <img src="img/banners/ninio-en-la-nauraleza.webp" alt="">
                 </div>
-                <div class="texto-crecimiento">
-                    <p>Además de tener más confianza y habilidades sociales debidas a su complexión física, las personas altas también pueden presumir de mayor..</p>
-                </div>
+                    <p>Además de tener más confianza y habilidades sociales debidas a su complexión física, las personas altas también pueden presumir de mayor.</p>
                 <div class="centrar-texto texto-boton-esp pb-2">
                     <a href="causas-de-la-baja-estatura"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>

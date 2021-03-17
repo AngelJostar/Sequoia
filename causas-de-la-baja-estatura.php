@@ -42,9 +42,9 @@
             <div class="contenedor-video">
                 <div class="reproductor" data-id="BXOOo5c3LGM"></div>
             </div>
-            <div class="contenedor-generalidades">
-                <div class="contenedor-generalidades">
-                    <div class="generalidades-negritas pt-15">
+            <div class="contenedor-principal">
+                <div class="contenedor-principal">
+                    <div class="justificar-texto-90 pt-15">
                         <p>Entre las causas de una baja estatura que NO SE ASOCIAN a enfermedades reconocidas, se incluyen:
                         </p>
                     </div>
@@ -56,8 +56,8 @@
                         </ul>
                     </div>
                 </div>
-                <div class="contenedor-generalidades">
-                    <div class="generalidades-negritas">
+                <div class="contenedor-principal">
+                    <div class="justificar-texto-90">
                         <p>Entre las afecciones médicas que SI SE ASOCIAN con el crecimiento, se incluyen:
 
                         </p>
@@ -73,18 +73,15 @@
                         </ul>
                     </div>
                 </div>
-                <div class="tamaño-img">
+                <div class="tamaño-img pb-15">
                     <img src="img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="">
                 </div>
                 <div class="cuadros-crecimiento">
-                    <div class="titulos-principal-esp margin-top-20 pt-15 pb-15">
+                    <div class="titulos-principal-esp margin-top-20 pb-15">
                         <div class="barra-titulo"></div>
                         <h2>Obtenga más información sobre las causas específicas del crecimiento deficiente</h2>
                         <div class="barra-titulo"></div>
                     </div>
-                </div>
-                <div class="encabezado-crecimiento-deficiente">
-                    <h2></h2>
                 </div>
                 <div class="justificar-texto-90 pb-15">
                     <p>Los diferentes trastornos del crecimiento pueden afectar la salud de un niño de muchas formas diferentes y pueden ser causados por una variedad de factores. Explora los enlaces a continuación para aprender a fondo todo acerca de las

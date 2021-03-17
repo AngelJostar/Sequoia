@@ -110,9 +110,11 @@
                     </p>
                 </div>
                 <div class="cuadros-crecimiento">
-                    <div class="titulos-principal-esp margin-top-20 pt-15 pb-15">
+                    <div class=" titulos-principal  margin-top-20 mb-1">
                         <div class="barra-titulo"></div>
-                        <h2>Los endocrinólogos pediatras especializados en crecimiento infantil de Centro Sequoia son la mejor opción para los niños y niñas que busquen conseguir una mayor estatura. </h2>
+                        <div>
+                        <h2 class="contenedor-85porciento">Los endocrinólogos pediatras especializados en crecimiento infantil de Centro Sequoia son la mejor opción para los niños y niñas que busquen conseguir una mayor estatura.</h2>
+                        </div>
                         <div class="barra-titulo"></div>
                     </div>
                 </div>

@@ -34,7 +34,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-9 ocultar-media">
+            <div class="tamaño-img ph-8 ocultar-media">
                 <img src="img/importancia-de-ser-mas-alto/Banner-Importancuia-de-ser-mas-Alto-.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>¿Una mayor altura aporta ventajas a una <br> persona en su vida?, Si es así, <br>¿cuáles son exactamente esas ventajas? <br> ¿Qué tan grandes son esas ventajas? <br> ¿En qué aspectos de la vida? <br> ¿Por qué la altura aporta ventajas
@@ -55,8 +55,8 @@
                 <div class="titulos-principal-2 ">
                     <h2>La importancia de ser MÁS ALTO </h2>
                 </div>
-                <div class="texto-importancia">
-                    <p>Las investigaciones científicas sugieren que los hombres <br> y mujeres altos tienen una ventaja significativa <br>sobre otros más chaparros.</p>
+                <div class="texto-importancia-2 pb-15 pt-15">
+                    <p>Las investigaciones científicas sugieren que los hombres y mujeres altos tienen una ventaja significativa sobre otros más chaparros.</p>
                 </div>
             </div>
             <div class="box efecto3">
@@ -129,8 +129,8 @@
                     <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
                 </div>
             </div>
-            <div class="textos-principal-2 margin-negativo">
-                <p>Por supuesto que hay excepciones, gente baja que tiene un<br>éxito tremendo. Pero, para muchos la altura es otra ventaja<br>extra para sobresalir en la vida.</p>
+            <div class="textos-principal margin-negativo">
+                <p>Por supuesto que hay excepciones, gente baja que tiene un éxito tremendo. Pero, para muchos la altura es otra ventaja extra para sobresalir en la vida.</p>
             </div>
             <div class="cuadros-crecimiento-crecimiento pt-15">
                 <div class="titulos-principal-33 ">
