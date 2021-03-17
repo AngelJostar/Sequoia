@@ -22,14 +22,6 @@
     <section id="site-canvas">
 
         <?php include_once 'includes/templates/header.php';?>
-<<<<<<< HEAD
-        
-        <div class="contenedor-principal" id="contenedor-principal">
-            
-                <div class="cuadros-crecimiento">
-                    <h1>Aviso de privacidad</h1>
-                    <p style="text-align: center;">SEQUOIA</p>
-=======
 
         <div class="contendor-crecimiento">
             <div class="cuadros-crecimiento">
@@ -41,7 +33,6 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
->>>>>>> 970292afc37517547a52554f31ca6f0d0a47da63
                 </div>
             </div>
            <div class="justificar-texto-85 centrar-texto pt-15"> 
