@@ -47,7 +47,7 @@
             </div>
             <div class="contenedor-infantil-deficiente">
                 <div class="textos-principal">
-                    <p>Si su hijo o hija tiene <span class="font-negritas">problemas de crecimiento, pubertad </span> u otros <span class="font-negritas">trastornos relacionados con las hormonas </span> y las glándulas que las producen, un endocrinólogo
+                    <p>Si su hijo o hija tiene <span class="font-bold">problemas de crecimiento, pubertad </span> u otros <span class="font-bold">trastornos relacionados con las hormonas </span> y las glándulas que las producen, un endocrinólogo
                         es el especialista adecuado.
                     </p>
                 </div>
@@ -58,7 +58,7 @@
                 </div>
                 <div class="ocultar-media">
                     <div class="textos-principal ocultar-media">
-                    <p><span class="font-negritas">Las hormonas son sustancias químicas</span> que afectan el funcionamiento muchas partes del cuerpo. Por ejemplo, las hormonas deciden cómo crece y madura un niño. <span class="font-negritas">La endocrinología pediátrica es la ciencia que estudia estas glándulas y los
+                    <p><span class="font-bold">Las hormonas son sustancias químicas</span> que afectan el funcionamiento muchas partes del cuerpo. Por ejemplo, las hormonas deciden cómo crece y madura un niño. <span class="font-bold">La endocrinología pediátrica es la ciencia que estudia estas glándulas y los
                         efectos de las hormonas en los niños. </span>
                     </p>
                     </div>
@@ -73,7 +73,7 @@
                     </div>
 
                     <div class="textos-principal-2columas">
-                    <p><span class="font-negritas">Las hormonas son sustancias químicas</span> que afectan el funcionamiento muchas partes del cuerpo. Por ejemplo, las hormonas deciden cómo crece y madura un niño. <span class="font-negritas">La endocrinología pediátrica es la ciencia que estudia estas glándulas y los
+                    <p><span class="font-bold">Las hormonas son sustancias químicas</span> que afectan el funcionamiento muchas partes del cuerpo. Por ejemplo, las hormonas deciden cómo crece y madura un niño. <span class="font-bold">La endocrinología pediátrica es la ciencia que estudia estas glándulas y los
                         efectos de las hormonas en los niños. </span>
                     </p>
                     </div>
@@ -86,7 +86,7 @@
                     </div>
                 </div>
                 <div class="textos-principal">
-                    <p><span class="font-negritas"> La baja estatura </span>con un crecimiento anormalmente lento es la preocupación más común a la que hay que estar pendientes . <span class="font-negritas"> Un niño más bajo que sus compañeros es el claro ejemplo de que hay que visitar al especialista en crecimiento. </span>
+                    <p><span class="font-bold"> La baja estatura </span>con un crecimiento anormalmente lento es la preocupación más común a la que hay que estar pendientes . <span class="font-bold"> Un niño más bajo que sus compañeros es el claro ejemplo de que hay que visitar al especialista en crecimiento. </span>
                     </p>
                 </div>
                 <div class="cuadros-crecimiento">

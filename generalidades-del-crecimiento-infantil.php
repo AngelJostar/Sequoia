@@ -36,6 +36,7 @@
                     </div>
                 </div>
             </div>
+            
             <div class="textos-principal">
                 <p>El crecimiento es el proceso biológico más característico de la infancia. Se inicia en el momento de la fecundación del óvulo y se extiende hasta que finaliza la maduración de los huesos y se completa el desarrollo sexual, lo que ocurre
                     habitualmente, hacia el final de la segunda década de la vida</p>
@@ -46,7 +47,7 @@
             <div class="contenedor-generalidades">
                 <div class="cuadros-crecimiento margin-top-20 ">
                     <div class="titulos-principal">
-                    <h2>TEMAS IMPORTANTES RELACIONADOS CON EL CRECIMIENTO DE TU HIJ@</h2>
+                    <h2><span class="font-bold">TEMAS IMPORTANTES</span> RELACIONADOS CON EL CRECIMIENTO DE TU HIJ@</h2>
                     </div>
                 </div>
                 <div class="textos-principal">
@@ -121,7 +122,7 @@
                         <h2>FACTORES EXÓGENOS <br> (EXTERNOS):</h2>
                         </div>
                     </div>
-                    <div class="textos-principal">
+                    <div class="textos-principal pb-15">
                         <ul type="point">
                         <li> La alimentación correcta del niño aporta el material energético necesario para su crecimiento. La desnutrición o enfermedades que no permitan la absorción adecuada de los nutrientes pueden dar como resultado una talla baja.
                             </li>
