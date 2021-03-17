@@ -65,7 +65,7 @@
                     <div class="justificar-texto-90">
                         <h3>Acostado</h3>
                     </div>
-                    <div class="contenedor-generalidades">
+                    <div class="contenedor-principal">
                         <div class="justificar-texto-90-listas-grid">
                             <ol>
                                 <li>Coloque la tabla de altura plana en el suelo o en una mesa o banco.</li>
@@ -93,7 +93,7 @@
                     <div class="justificar-texto-90">
                         <h3>De pie</h3>
                     </div>
-                    <div class="contenedor-generalidades">
+                    <div class="contenedor-principal">
                         <div class="justificar-texto-90-listas">
                             <ol>
                                 <li>Retire los zapatos del niño.</li>

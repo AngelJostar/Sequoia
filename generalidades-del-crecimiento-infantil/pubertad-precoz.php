@@ -86,19 +86,19 @@
                     <h2><span class="font-bold">TIPOS DE PUBERTAD PRECOZ</span></h2>
                 </div>
             </div>
-            <div class="titulos-azules-1 pt-20">
+            <div class="titulos-azules pt-15">
                 <h2><span class="font-bold">PUBERTAD PRECOZ CENTRAL</span></h2>
             </div>
             <div class="justificar-texto-85 centrar-texto">
                 <p>Se da la liberación temprana de determinadas hormonas sexuales (gonadotropinas) por parte de la hipófisis. Estas hormonas hacen que los ovarios o los testículos (las glándulas sexuales) maduren y aumenten de tamaño. Después de completar su maduración, las glándulas sexuales comienzan a su vez a secretar otras hormonas sexuales, como los estrógenos o la testosterona, lo que desencadena la pubertad. Los cambios físicos suelen ser los de la pubertad normal para un niño del mismo sexo, pero comienzan a una edad más temprana.</p>
             </div>
-            <div class="titulos-azules-1 pt-15">
+            <div class="titulos-azules pt-15">
                 <h2><span class="font-bold">PUBERTAD PRECOZ PERIFÉRICA</span></h2>
             </div>
             <div class="justificar-texto-85 centrar-texto">
                 <p>En esta ocurre la liberación de estrógenos o de testosterona (y de las hormonas similares a la testosterona denominadas andrógenos) no es estimulada por las gonadotropinas de la hipófisis. Al contrario, los elevados niveles de andrógenos o de testosterona aparecen como consecuencia de un tumor u otra anomalía en la glándula suprarrenal o en un testículo o un ovario inmaduros. Los tumores y las anomalías que producen estrógenos ocasionan el crecimiento del tejido mamario en los niños y en las niñas, mientras que los que producen andrógenos ocasionan el crecimiento del vello púbico y axilar, el olor corporal de los adultos, y el acné en los niños y en las niñas y, en los niños, el aumento del tamaño del pene, pero no de los testículos.</p>
             </div>
-            <div class="titulos-azules-1 pt-15">
+            <div class="titulos-azules pt-15">
                 <h2><span class="font-bold">PUBERTAD INCOMPLETA</span></h2>
             </div>
             <div class="justificar-texto-85 centrar-texto">

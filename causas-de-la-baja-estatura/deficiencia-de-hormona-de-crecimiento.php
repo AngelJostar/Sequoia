@@ -76,7 +76,7 @@
             <div class="justificar-texto-90 justificar-derecha-texto">
                 <p>ALgunas pruebas para ayudar a determinar la causa del crecimiento lento son:</p>
             </div>
-            <div class="contenedor-generalidades">
+            <div class="contenedor-principal">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Una radiografía de la mano para determinar el crecimiento de los huesos (edad ósea) y evaluar el potencial de crecimiento</li>

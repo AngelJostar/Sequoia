@@ -65,7 +65,7 @@
                 </div>
                 <div class="cuadros-crecimiento margin-top-20">
                     <div class="titulos-principal">
-                        <h2><span class="font-remarcadas">¿CÓMO RECONOCER UN CRECIMIENTO DEFICIENTE<br>EN TU HIJO?</span></h2>
+                        <h2><span class="font-bold">¿CÓMO RECONOCER UN CRECIMIENTO DEFICIENTE<br>EN TU HIJO?</span></h2>
                     </div>
                 </div>
                 <div class="textos-principal">
@@ -79,7 +79,7 @@
                 </div>
                 <div class="cuadros-crecimiento margin-top-20">
                     <div class="titulos-principal">
-                        <h2><span class="font-remarcadas">¿QUÉ SIGNIFICA UN CRECIMIENTO <br> DEFICIENTE EN MI HIJO?<br></h2>
+                        <h2><span class="font-bold">¿QUÉ SIGNIFICA UN CRECIMIENTO <br> DEFICIENTE EN MI HIJO?<br></h2>
                     </div>
                 </div>
                 <div class="textos-principal">

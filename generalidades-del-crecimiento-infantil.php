@@ -55,7 +55,7 @@
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="yIhxulvi3r0"></div>
             </div>
-            <div class="contenedor-generalidades">
+            <div class="contenedor-principal">
                 <div class="cuadros-crecimiento margin-top-20 ">
                     <div class="titulos-principal">
                     <h2><span class="font-bold">TEMAS IMPORTANTES</span> RELACIONADOS CON EL CRECIMIENTO DE TU HIJ@</h2>
@@ -113,7 +113,7 @@
                 <div class="textos-principal">
                     <p>Para la adecuada valoración de la talla de un niño es importante considerar los distintos factores que intervienen e interactúan en el correcto desarrollo infantil:                    </p>
                 </div>
-                <div class="contenedor-generalidades">
+                <div class="contenedor-principal">
                     <div class="cuadros-crecimiento margin-top-20 ">
                         <div class="titulos-principal">
                         <h2>FACTORES ENDÓGENOS <br> (PROPIOS DEL NIÑO)</h2>

@@ -47,7 +47,7 @@
             <div class="justificar-texto-90">
                 <p>Existe una guía conocida como la "regla de los cinco" que describe la tasa de crecimiento típica de un niño. Esta sugiere:</p>
             </div>
-            <div class="contenedor-generalidades">
+            <div class="contenedor-principal">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Desde el nacimiento hasta el 1 año, los bebés crecen unos 25 cm.</li>
