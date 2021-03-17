@@ -29,7 +29,7 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1 style="font-size: calc(.8em + 1.5vw);">APRENDE A RECONOCER EL<br> <span class="font-blanquitas">CRECIMIENTO DEFICIENTE</span> DE TU HIJO</h1>
+                    <h1 style="font-size: calc(.8em + 1.5vw);">APRENDE A RECONOCER EL<br> <span class="font-bold">CRECIMIENTO DEFICIENTE</span> DE TU HIJO</h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>

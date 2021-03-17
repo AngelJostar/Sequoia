@@ -22,8 +22,7 @@
     <section id="site-canvas">
 
         <?php include_once '../includes/templates/header.php';?>
-
-        <div class="contendor-crecimiento">
+        <div class="contenedor-principal" id="contenedor-principal">
             <div class="cuadros-crecimiento">
                 <div class="titulos-grid-baja-estatura">
                     <div class="flexbox padre">

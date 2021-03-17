@@ -163,7 +163,7 @@ flex-basis: calc(43% - 1rem);
 */
 
 .menu-literal {
-    color: #c787a2;
+    color: #00205E;
     font-size: 12px !important;
     margin-top: 0px;
 }
@@ -904,6 +904,7 @@ textarea {
     margin: 0 auto;
     text-align: center;
     max-width: 90%;
+    line-height: 1.15;
 }
 
 .titulos-azules-1 {
@@ -1289,6 +1290,22 @@ div.youtube-play:hover {
     padding-top: 30px;
 }
 
+.ph-8 {
+    padding-top: 8vh;
+}
+
+.ph-9 {
+    padding-top: 9vh;
+}
+
+.ph-13 {
+    padding-top: 13vh;
+}
+
+.ph-18 {
+    padding-top: 18vh;
+}
+
 
 /*END_FOOTER*/
 
@@ -1389,9 +1406,11 @@ div.youtube-play:hover {
 }
 
 .cuadros-crecimiento {
+    width: 100%;
+    position: absolute;
     background-color: #00205E;
-    -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.383);
-    -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.383);
+    -webkit-box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.383);
+    -moz-box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.383);
 }
 
 .cuadros-crecimiento-2 {
@@ -1399,27 +1418,8 @@ div.youtube-play:hover {
 }
 
 .efecto3-2 {
-    position: relative;
-}
-
-.efecto3-2:after {
-    /* no aplica contenidos */
-    content: "";
-    position: absolute;
-    /* posiciona la sombra por detras de la caja */
-    z-index: -1;
-    /* aplica una sombra centrada con un gris oscuro y 20px de difuminado */
-    -webkit-box-shadow: 0 0 20px #777;
-    -moz-box-shadow: 0 0 20px #777;
-    box-shadow: 0 5px 7px 2px rgb(167, 167, 167);
-    /* centra verticalmente y separa la sombra de los bordes izquierdo y derecho */
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    /* redondea las esquinas de la sombra */
-    -moz-border-radius: 100px / 10px;
-    border-radius: 100px / 10px;
+    -webkit-box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.383);
+    -moz-box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.383);
 }
 
 .cuadros-crecimiento-2 p {
@@ -1753,7 +1753,7 @@ h1 {
 }
 
 .pb-2 {
-    padding-bottom: 1.7rem;
+    padding-bottom: 1.9rem;
 }
 
 .pb-25 {
@@ -2013,12 +2013,6 @@ td {
 
 
 /*Importancia de ser mas alto*/
-
-.caja-imagen-hojas {
-    position: relative;
-    width: 375px;
-    margin: 0 auto;
-}
 
 .caja-imagen-footer {
     position: relative;

@@ -28,7 +28,7 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1> <span class="font-blanquitas">TODO LO QUE DEBES SABER</span><br>SOBRE CRECIMIENTO INFANTIL</h1>
+                    <h1> <span class="font-bold">TODO LO QUE DEBES SABER</span><br>SOBRE CRECIMIENTO INFANTIL</h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
@@ -37,7 +37,7 @@
             <div class="caja-imagen-hojas">
                 <img src="/img/banners/banner-doctor-doctora.webp" alt="banner-doctor">
                 <div class="texto-imagen-derecha">
-                    <h2>En <span class="font-remarcadas">Centro Sequoia</span><br>queremos que tomes<br><span class="font-remarcadas">decisiones informadas</span>, por eso<br>te presentamos a continuación<br>toda la información que<br>necesitas para entender
+                    <h2>En <span class="font-bold">Centro Sequoia</span><br>queremos que tomes<br><span class="font-bold">decisiones informadas</span>, por eso<br>te presentamos a continuación<br>toda la información que<br>necesitas para entender
                         el
                         <br>crecimiento de tu hijo o hija.</h2>
                 </div>

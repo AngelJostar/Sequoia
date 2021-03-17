@@ -30,21 +30,21 @@
                 <div class="flexbox padre">
                     <div class="barra-titulo"></div>
                 </div>
-                <h1 style="font-size: 17px !important;"> <span class="font-blanquitas">PREGUNTAS FRECUENTES</span><br>DEL CRECIMIENTO DE TU HIJ@</h1>
+                <h1 style="font-size: 17px !important;"> <span class="font-bold">PREGUNTAS FRECUENTES</span><br>DEL CRECIMIENTO DE TU HIJ@</h1>
                 <div class="flexbox padre">
                     <div class="barra-titulo"></div>
                 </div>
             </div>
         </div>
-        <div class="tamaño-img">
-            <img src="img/banners/banner-doctor.webp" alt="altura crecimiento estatura">
+        <div class="tamaño-img ph-8">
+            <img src="img/banners/PREGUNTAS-FRECUENTES-BANNER.webp" alt="altura crecimiento estatura">
         </div>
         <div class="titulos-azules">
-            <h3>¿Mi hij@ esta creciendo bien?</h3>
-            <h3>¿Qué puedo hacer para que mi hijo cresca?</h3>
-            <h3>¿A qué edad dejan de crecer los adolecentes?</h3>
-            <h3>¿Porqué algunos niños crecen más rápido que otros?</h3>
-            <h3>Niños y niñas crecen diferente?</h3>
+            <h3>¿Mi hij@ esta creciendo bien? <br>
+            ¿Qué puedo hacer para que mi hijo cresca?  <br>
+            ¿A qué edad dejan de crecer los adolecentes? <br>
+            ¿Porqué algunos niños crecen más rápido que otros? <br>
+            ¿Niños y niñas crecen diferente?</h3>
         </div>
         <div class="contenedor-video-2 pb-2">
             <div class="reproductor-rectangular" data-id="ycdUsYYrFBI"></div>
@@ -57,7 +57,7 @@
                 <h2 style="font-size: 30px !important;" class="letra-cursiva">Preguntas frecuentes</h2>
             </div>
         </div>
-        <div class="body-container">
+        <div class="body-container ph-18">
             <div class="container">
                 <div class="accordion">
                     <div class="accordion-item">
@@ -242,7 +242,7 @@
             </div>
 
         </div>
-        <div>
+        <div class="tamaño-img">
             <img src="img/banners/contacto-crecimiento-infantil-estatura-medir-hija-2.webp" alt="">
         </div>
         </div>

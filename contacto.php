@@ -30,7 +30,7 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1 style=" font-size: calc(2em + 1vw); "> <span class="font-blanquitas">CONTACTO</h1>
+                    <h1 style=" font-size: calc(2em + 1vw); "> <span class="font-bold">CONTACTO</h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
@@ -63,10 +63,10 @@
                 <div>
                     <div class="tercer-p">
                         <h2 class="font-ciudades">CDMX <br> <span>55 56 87-61 18</span> </h2>
-                        <p><span class="font-blanquitas">DIRECCIÓN:</span> San Francisco #516 Colonia Del Valle, </p>
+                        <p><span class="font-bold">DIRECCIÓN:</span> San Francisco #516 Colonia Del Valle, </p>
                         <p>Del. Benito Juárez. C.P. 03100, Méx, DF.</p>
-                        <p><span class="font-blanquitas">Email:</span> contacto@centrosequoia.com.mx </p>
-                        <p><span class="font-blanquitas">HORARIO DE ATENCIÓN:</span></p> 
+                        <p><span class="font-bold">Email:</span> contacto@centrosequoia.com.mx </p>
+                        <p><span class="font-bold">HORARIO DE ATENCIÓN:</span></p> 
                         <p>De Lunes a Viernes de 10:00 a 20:00 hrs.</p>
                         <p>Sábados de 10:00 a 14:00 hrs.</p>
                     </div>
@@ -82,10 +82,10 @@
                 <div>
                     <div class="tercer-p">
                         <h2 class="font-ciudades">GDL<br> <span>33 36 15-28 35 </span> </h2>
-                        <p><span class="font-blanquitas">DIRECCIÓN:</span> José María Vigil #2750, Colonia Providencia,</p>
+                        <p><span class="font-bold">DIRECCIÓN:</span> José María Vigil #2750, Colonia Providencia,</p>
                         <p>C.P.44639, Guadalajara, Jalisco</p>
-                        <p><span class="font-blanquitas">Email:</span> guadalajara@centrosequoia.com.mx </p>
-                        <p><span class="font-blanquitas">HORARIO DE ATENCIÓN:</span></p> 
+                        <p><span class="font-bold">Email:</span> guadalajara@centrosequoia.com.mx </p>
+                        <p><span class="font-bold">HORARIO DE ATENCIÓN:</span></p> 
                         <p>De Lunes a Viernes de 10:00 a 14:00 y 16:00 a 20:00hrs. </p>
                         <p>Sábados de 10:00 a 14:00 hrs.</p>
                     </div>
@@ -101,10 +101,10 @@
                 <div>
                     <div class="tercer-p">
                         <h2 class="font-ciudades">MTY<br> <span>81 11 59 22 65</span> </h2>
-                        <p><span class="font-blanquitas">DIRECCIÓN:</span>Rio Amazonas Ote. #316 Col. Del Valle</p>
+                        <p><span class="font-bold">DIRECCIÓN:</span>Rio Amazonas Ote. #316 Col. Del Valle</p>
                         <p>San Pedro Garza Garcia N.L C.P.66220</p>
-                        <p><span class="font-blanquitas">Email:</span>monterrey@centrosequoia.com.mx</p>
-                        <p><span class="font-blanquitas">HORARIO DE ATENCIÓN:</span></p> 
+                        <p><span class="font-bold">Email:</span>monterrey@centrosequoia.com.mx</p>
+                        <p><span class="font-bold">HORARIO DE ATENCIÓN:</span></p> 
                         <p>De Lunes a Viernes de 10:00 a 14:00 y 16:00 a 20:00hrs.</p>
                         <p>Sábados de 10:00 a 14:00 hrs.</p>
                     </div>

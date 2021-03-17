@@ -36,10 +36,10 @@
                     </div>
                 </div>
             </div>
-            <div class="sombras-img efecto3-2 tamaño-img ocultar">
+            <div class="sombras-img ph-8 pb-2 tamaño-img ocultar">
                 <img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada">
             </div>
-            <div class="sombras-img efecto3-2 tamaño-img mostrar">
+            <div class="sombras-img ph-8  tamaño-img mostrar">
                 <img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada">
             </div>
             
@@ -71,10 +71,10 @@
                     </h2>
                 </div>
             </div>
-            <div class="pb-2 ocultar-media pt-15 ">
+            <div class="pb-2 ocultar-media ph-13">
                 <img src="img/banners/Banner-mujer-y-nino.webp" alt="Banners-estatura-crecer">
             </div>
-            <div class="pb-2 mostrar-media tamaño-img pt-15">
+            <div class="pb-2 mostrar-media tamaño-img ph-13">
                 <img src="img/banners/BANNER-7-HORIZONTAL.webp" alt="Banners-estatura-crecer">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">

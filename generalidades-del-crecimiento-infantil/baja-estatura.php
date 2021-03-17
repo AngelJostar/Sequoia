@@ -23,7 +23,7 @@
 
         <?php include_once '../includes/templates/header.php';?>
 
-        <div class="contendor-crecimiento">
+        <div class="contenedor-principal" id="contenedor-principal">
             <div class="cuadros-crecimiento">
                 <div class="titulos-grid-baja-estatura">
                     <div class="flexbox padre">
@@ -139,8 +139,11 @@
                 </div>
             </div>
             <div class="justificar-texto-85 pt-15">
-                <p><span class="font-bold">Los especialistas:</span></p>
+                <p><span class="font-bold"> Los especialistas:</span></p>
+                <p>Sus dientes definitivos salen más tarde de los normal tienen proporcienes normales (sus brazos y piernas concuerdan con sus estatura).</p>
             </div>
+            <div class="justificar-texto-85 centrar-texto">
+                <p><span class="font-bold"></div>
             <div class="contenedor-85porciento pb-25">
                 <div class="justificar-texto-90-listas">
                     <ul>

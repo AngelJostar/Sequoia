@@ -52,7 +52,7 @@
                 </div>
                 <div class="cuadros-crecimiento">
                     <div class="titulos-principal">
-                        <h2><span class="font-blanquitas">El Pediatra Endocrinólogo</span><br>es el especialista encargado de <br> los <span class="font-blanquitas">problemas del crecimieto</span> </h2>
+                        <h2><span class="font-bold">El Pediatra Endocrinólogo</span><br>es el especialista encargado de <br> los <span class="font-bold">problemas del crecimieto</span> </h2>
                     </div>
                 </div>
                 <div class="ocultar-media">
@@ -81,7 +81,7 @@
 
                 <div class="cuadros-crecimiento">
                     <div class="titulos-principal margin-top-20">
-                        <h2><span class="font-blanquitas">¿Cuándo acudir con un especialista en crecimiento infantil?</span></h2>
+                        <h2><span class="font-bold">¿Cuándo acudir con un especialista en crecimiento infantil?</span></h2>
                     </div>
                 </div>
                 <div class="textos-principal">
@@ -90,7 +90,7 @@
                 </div>
                 <div class="cuadros-crecimiento">
                     <div class="titulos-principal margin-top-20">
-                        <h2><span class="font-blanquitas"> Agenda</span> una cita con nuestros especialistas cuando tu hijo o hija:</h2>
+                        <h2><span class="font-bold"> Agenda</span> una cita con nuestros especialistas cuando tu hijo o hija:</h2>
                     </div>
                 </div>
                 <div class="tamaño-img pt-20">
@@ -101,7 +101,7 @@
                 </div>
                 <div class="cuadros-crecimiento">
                     <div class="titulos-principal margin-top-20">
-                        <h2>¿POR QUÉ ACUDIR A <span class="font-blanquitas">CENTRO SEQUOIA?</span></h2>
+                        <h2>¿POR QUÉ ACUDIR A <span class="font-bold">CENTRO SEQUOIA?</span></h2>
                     </div>
                 </div>
                 <div class="textos-principal">

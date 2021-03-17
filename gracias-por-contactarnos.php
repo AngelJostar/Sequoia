@@ -24,15 +24,12 @@
 
         <?php include_once 'includes/templates/header.php';?>
 
-        <section class="contenedor-principal" id="contenedor-principal">
-            <div class="contenedor-gracias">
-                <h1>¡GRACIAS POR TU MENSAJE, EN BREVE TE RESPONDEMOS!</h1>
-                <div class="centrar-texto texto-boton">
-                    <a href="#"><button class="boton boton-gracias ">Más información del <br> crecimiento infantil AQUI</button></a>
-                </div>
-
+        <div class="ocultar-media mt-2">
+                <img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento">
             </div>
-        </div>
+            <div class="tamaño-img mostrar-media mt-2">
+                <img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento">
+            </div>
 
 
 

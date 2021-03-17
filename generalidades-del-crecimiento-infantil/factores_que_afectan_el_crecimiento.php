@@ -23,7 +23,7 @@
 
         <?php include_once '../includes/templates/header.php';?>
 
-        <div class="contendor-crecimiento">
+        <div class="contenedor-principal" id="contenedor-principal">
             <div class="encabezado-crecimiento-deficiente">
                 <h1>Factores que influyen en el crecimiento</h1>
             </div>
