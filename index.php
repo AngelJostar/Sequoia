@@ -65,9 +65,15 @@
                 <div class="reproductor-rectangular" data-id="_bpb-KOnmwE"></div>
             </div>
             <div class="linea-c"></div>
-            <div class="cuadros-crecimiento">
+            <div class="cuadros-crecimiento ocultar">
                 <div class="titulos-principal">
                     <h2><span class="font-bold">APRENDE DEL <br> CRECIMIENTO DE TU HIJO</span>
+                    </h2>
+                </div>
+            </div>
+            <div class="cuadros-crecimiento mostrar">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">APRENDE DEL CRECIMIENTO DE TU HIJO</span>
                     </h2>
                 </div>
             </div>
@@ -79,7 +85,7 @@
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
-                    <h2>¿SABES SI TU HIJO O HIJA ESTA <br> <span class="font-bold">CRECIENDO ADECUADAMENTE </span></h2>
+                    <h2>¿SABES SI TU HIJO O HIJA ESTA <br> <span class="font-bold">CRECIENDO ADECUADAMENTE? </span></h2>
                 </div>
             </div>
 
@@ -122,22 +128,18 @@
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-2">
                 <div class="titulos-principal">
-                    <h2>Somos el grupo médico más <br> especializado en <br><span style="font-size: 30px !important;" class="letra-cursiva">Crecimiento Infantil</span><br> de México </span>
+                    <h2 style="font-size: calc(.8em + 1.5vw);">Somos el grupo médico más <br> especializado en <br><span style="font-size: 1.6em !important;" class="letra-cursiva">Crecimiento Infantil</span><br> de México </span>
                     </h2>
                 </div>
             </div>
-            <div class="cuadros-crecimiento">
-                <div class="titulos-principal">
-                </div>
-            </div>
-            <div class="textos-principal">
+            <div class="textos-principal ocultar">
                 <p><span class="font-bold">Centro Sequoia</span> es el <span class="font-bold">CENTRO MÁS ESPECIALIZADO</span> de México en baja estatura. Nuestro equipo médico de alta especialidad junto con el personal altamente calificado para el servicio,
                     buscamos brindarte una grata experiencia y los mejores resultados para tu hijo.</p>
             </div>
             <div class="ocultar-media">
                 <img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento">
             </div>
-            <div class="tamaño-img mostrar-media">
+            <div class="tamaño-img mostrar-media pt-2">
                 <img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento">
             </div>
 
