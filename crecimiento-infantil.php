@@ -34,13 +34,13 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-7 ocultar-media">
+            <div class="tamaño-img ph-5 ocultar-media">
                 <img src="img/banners/Banner-crecimiento-infantil.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                 <h2>En Centro Sequoia queremos que tomes decisiones informadas, por eso te presentamos a continuación toda la información que necesitas para entender el crecimiento de tu hijo o hija.</h2>
                 </div>
             </div>
-            <div class="tamaño-img ph-7 mostrar-media">
+            <div class="tamaño-img ph-6 mostrar-media">
                 <img src="img/banners/Banner-crecimiento-infantil-desktop.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>En Centro Sequoia queremos que tomes decisiones informadas, por eso te presentamos a continuación toda la información que necesitas para entender el crecimiento de tu hijo o hija.</h2>

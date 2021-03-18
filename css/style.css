@@ -1196,28 +1196,40 @@ div.youtube-play:hover {
     padding-top: 30px;
 }
 
+.ph-4 {
+    padding-top: calc(4em + 1vw);
+}
+
 .ph-5 {
-    padding-top: 5vh;
+    padding-top: calc(5em + 1vw);
+}
+
+.ph-6 {
+    padding-top: calc(6em + 1vw);
 }
 
 .ph-7 {
-    padding-top: 7vh;
+    padding-top: calc(7em + 1vw);
 }
 
 .ph-8 {
-    padding-top: 8vh;
+    padding-top: calc(8em + 1vw);
 }
 
 .ph-9 {
-    padding-top: 9vh;
+    padding-top: calc(9em + 1vw);
+}
+
+.ph-11 {
+    padding-top: calc(11em + 1vw);
 }
 
 .ph-13 {
-    padding-top: 13vh;
+    padding-top: calc(13em + 1vw);
 }
 
 .ph-18 {
-    padding-top: 18vh;
+    padding-top: calc(18em + 1vw);
 }
 
 

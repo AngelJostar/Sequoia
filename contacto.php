@@ -36,10 +36,10 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-5 ocultar-media">
+            <div class="tamaño-img ph-4 ocultar-media">
                 <img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada">
             </div>
-            <div class="tamaño-img ph-5 mostrar-media">
+            <div class="tamaño-img ph-4 mostrar-media">
                 <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" alt="Portada">
             </div>
 
