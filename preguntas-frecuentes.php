@@ -36,7 +36,7 @@
                 </div>
             </div>
         </div>
-        <div class="tamaño-img ph-8">
+        <div class="tamaño-img ph-5">
             <img src="img/banners/PREGUNTAS-FRECUENTES-BANNER.webp" alt="altura crecimiento estatura">
         </div>
         <div class="titulos-azules">
@@ -57,7 +57,7 @@
                 <h2 style="font-size: 30px !important;" class="letra-cursiva">Preguntas frecuentes</h2>
             </div>
         </div>
-        <div class="body-container ph-18">
+        <div class="body-container ph-11">
             <div class="container">
                 <div class="accordion">
                     <div class="accordion-item">

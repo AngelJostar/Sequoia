@@ -36,10 +36,10 @@
                     </div>
                 </div>
             </div>
-            <div class="sombras-img tamaño-img ocultar ph-9 efecto3-2">
+            <div class="sombras-img tamaño-img ocultar ph-7 efecto3-2">
                 <img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada">
             </div>
-            <div class="sombras-img tamaño-img mostrar ph-9">
+            <div class="sombras-img tamaño-img mostrar ph-7">
                 <img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada">
             </div>
 

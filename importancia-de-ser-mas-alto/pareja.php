@@ -35,10 +35,16 @@
                     </div>
                 </div>
             </div>
-            <div class="caja-imagen-hojas efecto3-2">
-                <img src="/img/importancia-de-ser-mas-alto/banner-pareja-doctor.webp" alt="">
+            <div class="tamaño-img ph-5 ocultar-media">
+                <img src="../img/importancia-de-ser-mas-alto/Banner-deporte-y-estatura.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
-                    <h2>¿IMPORTA LA ESTATURA AL ELEGIR PAREJA?,<br> La estatura es más importante al elegir pareja que aspectos como sonrisa, ojos, tono de voz y estilo de vestir, revela el estudio.</h2>
+                    <h2>¿IMPORTA LA ESTATURA AL ELEGIR PAREJA?, La estatura es más importante al elegir pareja que aspectos como sonrisa, ojos, tono de voz y estilo de vestir, revela el estudio.</h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-6 mostrar-media">
+                <img src="../img/importancia-de-ser-mas-alto/Banner-deporte-y-estatura-desktop.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>¿IMPORTA LA ESTATURA AL ELEGIR PAREJA?, La estatura es más importante al elegir pareja que aspectos como sonrisa, ojos, tono de voz y estilo de vestir, revela el estudio.</h2>
                 </div>
             </div>
             <div class="justificar-texto-90">

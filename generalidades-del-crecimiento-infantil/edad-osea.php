@@ -35,8 +35,14 @@
                     </div>
                 </div>
             </div>
-            <div class="caja-imagen-hojas">
-                <img src="/img/banners/Banner-doctoras.webp" alt="">
+            <div class="tamaño-img ph-3 ocultar-media">
+                <img src="../img/generalidades-del-crecimiento-infantil/Banner-edad-osea.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>La edad ósea muestra la maduración del esqueleto en un momento dado. No necesariamente tiene que coincidir con la edad real o cronológica del niño. Una diferencia de más de un año entre una y otra puede indicar que hay un problema de crecimiento.</h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-3 mostrar-media">
+                <img src="../img/generalidades-del-crecimiento-infantil/Banner-edad-osea-desktop.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>La edad ósea muestra la maduración del esqueleto en un momento dado. No necesariamente tiene que coincidir con la edad real o cronológica del niño. Una diferencia de más de un año entre una y otra puede indicar que hay un problema de crecimiento.</h2>
                 </div>

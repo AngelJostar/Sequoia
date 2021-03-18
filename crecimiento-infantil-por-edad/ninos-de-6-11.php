@@ -35,17 +35,23 @@
                     </div>
                 </div>
             </div>
+            <div class="tamaño-img ph-5 ocultar-media">
+                <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-6-11.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>El desarrollo físico en la etapa de los 6 a 11 años es considerable, la constitución corporal cambia, la masa muscular aumenta, los huesos se hacen más fuertes</h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-6 mostrar-media">
+                <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-6-11-desktop.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>El desarrollo físico en la etapa de los 6 a 11 años es considerable, la constitución corporal cambia, la masa muscular aumenta, los huesos se hacen más fuertes</h2>
+                </div>
+            </div>
             <div class="justificar-texto-90">
                 <p>AQUI VA UN VIDEO 1</p>
             </div>
             <div class="justificar-texto-90">
                 <p>AQUI VA UN VIDEO 2</p>
-            </div>
-            <div class="caja-imagen-hojas">
-                <img src="/img/banners/Banner-crecimiento-6-11.webp" alt="">
-                <div class="texto-imagen-izquierda">
-                    <h2>El desarrollo físico en la etapa de los 6 a 11 años es considerable, la constitución corporal cambia, la masa muscular aumenta, los huesos se hacen más fuertes</h2>
-                </div>
             </div>
             <div class="justificar-texto-85 centrar-texto contenedor-75porciento">
                 <p>El niño es capaz de realizar actividades físicas que requieren más fuerza y destreza.</p>

@@ -35,8 +35,14 @@
                     </div>
                 </div>
             </div>
-            <div class="caja-imagen-hojas">
-                <img src="/img/banners/Banner-doctores.webp" alt="">
+            <div class="tamaño-img ph-5 ocultar-media">
+                <img src="../img/generalidades-del-crecimiento-infantil/Banner-baja-estatura.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>La baja estatura es una estatura que es inferior a la de casi todos los demás niños de la misma edad y sexo, es un motivo frecuente de consulta.</h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-5 mostrar-media">
+                <img src="../img/generalidades-del-crecimiento-infantil/Banner-baja-estatura-desktop.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>La baja estatura es una estatura que es inferior a la de casi todos los demás niños de la misma edad y sexo, es un motivo frecuente de consulta.</h2>
                 </div>
