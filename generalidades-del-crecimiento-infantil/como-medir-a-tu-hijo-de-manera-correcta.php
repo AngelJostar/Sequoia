@@ -35,8 +35,14 @@
                     </div>
                 </div>
             </div>
-            <div class="caja-imagen-hojas">
-                <img src="/img/banners/Banner-doctora-joven.webp" alt="">
+            <div class="tamaño-img ph-5 ocultar-media">
+                <img src="../img/generalidades-del-crecimiento-infantil/Banner-como-medir-a-tu-hijo.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>Al medir la altura y el peso se puede saber si un niño está creciendo bien y detectar a tiempo un estancamiento del crecimiento. Para realizar una medición precisa se debe tomar en cuenta las siguientes observaciones:</h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-5 mostrar-media">
+                <img src="../img/generalidades-del-crecimiento-infantil/Banner-como-medir-a-tu-hijo-desktop.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>Al medir la altura y el peso se puede saber si un niño está creciendo bien y detectar a tiempo un estancamiento del crecimiento. Para realizar una medición precisa se debe tomar en cuenta las siguientes observaciones:</h2>
                 </div>

@@ -36,9 +36,14 @@
                     </div>
                 </div>
             </div>
-
-            <div class="caja-imagen-hojas">
-                <img src="/img/banners/Banner-doctores-puberal.webp" alt="">
+            <div class="tamaño-img ph-3 ocultar-media">
+                <img src="../img/generalidades-del-crecimiento-infantil/Banner-estiron-puberal.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>Con el término «pubertad» se hace refiere a los cambios somáticos y emocionales que configuran la maduración sexual. La compleja modificación biológica durante la maduración depende de la coordinación e integración de los componentes endócrinos del sistema reproductivo, donde se encuentran involucrados el hipotálamo, la hipófisis y las gónadas; en cada uno de estos niveles anatómicos se secretan factores hormonales responsables, tanto del crecimiento somático como de los fenómenos madurativos que coexisten en el inicio de la pubertad.</h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-3 mostrar-media">
+                <img src="../img/generalidades-del-crecimiento-infantil/Banner-estiron-puberal-desktop.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>Con el término «pubertad» se hace refiere a los cambios somáticos y emocionales que configuran la maduración sexual. La compleja modificación biológica durante la maduración depende de la coordinación e integración de los componentes endócrinos del sistema reproductivo, donde se encuentran involucrados el hipotálamo, la hipófisis y las gónadas; en cada uno de estos niveles anatómicos se secretan factores hormonales responsables, tanto del crecimiento somático como de los fenómenos madurativos que coexisten en el inicio de la pubertad.</h2>
                 </div>

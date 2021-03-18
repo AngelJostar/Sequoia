@@ -35,8 +35,14 @@
                     </div>
                 </div>
             </div>
-            <div class="caja-imagen-hojas">
-                <img src="/img/banners/Banner-doctor-crecimiento-2-5.webp" alt="">
+            <div class="tamaño-img ph-4 ocultar-media">
+                <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-2-5.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>A partir de los dos años, tu hijo crece a un ritmo más lento que en etapas anteriores.</h2> 
+                </div>
+            </div>
+            <div class="tamaño-img ph-8 mostrar-media">
+                <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-2-5-desktop.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>A partir de los dos años, tu hijo crece a un ritmo más lento que en etapas anteriores.</h2>
                 </div>

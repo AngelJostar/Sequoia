@@ -35,8 +35,14 @@
                     </div>
                 </div>
             </div>
-            <div class="caja-imagen-hojas pb-30">
-                <img src="/img/banners/Banner-doctor-media-edad.webp" alt="">
+            <div class="tamaño-img ph-3 ocultar-media">
+                <img src="../img/generalidades-del-crecimiento-infantil/Banner-talla-blanco-familiar.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>La Talla Blanco familiar es el promedio de crecimiento que los padres heredan a sus hij@s</h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-3 mostrar-media">
+                <img src="../img/generalidades-del-crecimiento-infantil/Banner-talla-blanco-familiar-desktop.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>La Talla Blanco familiar es el promedio de crecimiento que los padres heredan a sus hij@s</h2>
                 </div>

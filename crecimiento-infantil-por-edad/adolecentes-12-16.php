@@ -36,8 +36,14 @@
                     </div>
                 </div>
             </div>
-            <div class="caja-imagen-hojas">
-                <img src="/img/banners/BANNER-¿Como-medir-a-tu-hijo-de-manera-correcta--.webp" alt="">
+            <div class="tamaño-img ph-7 ocultar-media">
+                <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-adolecentes-12-16.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>Durante la adolescencia, las personas jóvenes atraviesan por muchos cambios a medida que pasan a la madurez física. <br> Los cambios prepuberales precoces ocurren cuando aparecen las características sexuales secundarias.</h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-7 mostrar-media">
+                <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-adolecentes-12-16-desktop.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>Durante la adolescencia, las personas jóvenes atraviesan por muchos cambios a medida que pasan a la madurez física. <br> Los cambios prepuberales precoces ocurren cuando aparecen las características sexuales secundarias.</h2>
                 </div>

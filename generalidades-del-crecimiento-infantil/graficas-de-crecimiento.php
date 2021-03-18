@@ -34,8 +34,14 @@
                     </div>
                 </div>
             </div>
-            <div class="caja-imagen-hojas">
-                <img src="/img/banners/Banner-doctor-doctora-graficas.webp" alt="">
+            <div class="tamaño-img ph-3 ocultar-media">
+                <img src="../img/generalidades-del-crecimiento-infantil/Banner-graficas-de-crecimiento.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>Las gráficas o curvas de crecimiento se elaboran con las mediciones de amplios grupos de niños de distintas edades. Estos datos se someten a métodos estadísticos y se diseñan unas curvas de crecimiento. Tenemos gráficas para diferentes mediciones para niños y niñas.</h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-3 mostrar-media">
+                <img src="../img/generalidades-del-crecimiento-infantil/Banner-graficas-de-crecimiento-desktop.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>Las gráficas o curvas de crecimiento se elaboran con las mediciones de amplios grupos de niños de distintas edades. Estos datos se someten a métodos estadísticos y se diseñan unas curvas de crecimiento. Tenemos gráficas para diferentes mediciones para niños y niñas.</h2>
                 </div>

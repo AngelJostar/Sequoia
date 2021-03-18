@@ -35,8 +35,14 @@
                     </div>
                 </div>
             </div>
-            <div class="caja-imagen-hojas">
-                <img src="/img/banners/Banner-doctor-doctora-pubertad.webp" alt="">
+            <div class="tamaño-img ph-3 ocultar-media">
+                <img src="../img/generalidades-del-crecimiento-infantil/Banner-pubertad-precoz.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>El término pubertad precoz se refiere a la maduración sexual que comienza antes de los 9 años en niños o antes de los 8 años en niñas.</h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-3 mostrar-media">
+                <img src="../img/generalidades-del-crecimiento-infantil/Banner-pubertad-precoz-desktop.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>El término pubertad precoz se refiere a la maduración sexual que comienza antes de los 9 años en niños o antes de los 8 años en niñas.</h2>
                 </div>
