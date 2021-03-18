@@ -30,11 +30,6 @@
             <div class="tamaño-img mostrar-media mt-2">
                 <img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento">
             </div>
-
-
-
-
-
         <?php include_once 'includes/templates/footer.php';?>
 
     </section>

@@ -95,10 +95,10 @@
                     <a href="/generalidades-del-crecimiento-infantil/estiron_puberal"><button class="boton-e boton-esp">Estirón Puberal</button></a>
                 </div>
                 <div class="ocultar-media">
-                    <img src="img/banners/medir-edad-hijo-hija-crecimiento-infantil-2.webp" alt="medir edad hijo">
+                    <a href="crecimiento-infantil-por-edad"><img src="img/banners/medir-edad-hijo-hija-crecimiento-infantil-2.webp" alt="medir edad hijo"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <img src="img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="medir edad hijo">
+                    <a href="crecimiento-infantil-por-edad"><img src="img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="medir edad hijo"></a>
                 </div>
                 <div class="cuadros-crecimiento margin-top-20 ">
                     <div class="titulos-principal">

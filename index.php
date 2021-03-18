@@ -23,7 +23,7 @@
     <section id="site-canvas">
 
         <?php include_once 'includes/templates/header.php';?>
-        
+
         <section class="contenedor-principal" id="contenedor-principal">
             <div class="cuadros-crecimiento">
                 <div class="titulos-grid-index">
@@ -37,12 +37,12 @@
                 </div>
             </div>
             <div class="sombras-img ph-4 pb-2 tamaño-img ocultar">
-                <img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada">
+                <a href="es"><img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada"></a>
             </div>
             <div class="sombras-img ph-4  tamaño-img mostrar">
-                <img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada">
+                <a href=""><img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada"></a>
             </div>
-            
+
             <div class="textos-principal pt-15">
                 <p><span class="font-bold">Centro SEQUOIA</span> es un <span class="font-bold">Centro Pediátrico Exclusivo para el Crecimiento infantil</span> formado por Médicos Pediatras Endocrinólogos, certificados por el Consejo Mexicano de Endocrinología
                     A.C. Ellos diagnosticarán las causas por las que tu hijo no crece adecuadamente y lo ayudaran a alcanzar una mayor estatura.</p>
@@ -54,12 +54,15 @@
                 </div>
 
                 <div class="textos-principal-2columas">
-                    <p>En Centro Sequoia <span class="font-bold">única y exclusivamente</span> atendemos los padecimientos que afectan la estatura de los niños. <br> <span class="font-bold">Nuestros médicos especialistas</span> tienen la experiencia
-                        de mas de 30,000 casos atendidos en este campo, lo que nos lleva a ser el centro <span class="font-bold">MÁS ESPECIALIZADO EN CRECIMIENTO INFANTIL DE MÉXICO.</span></p>
+                    <p>En Centro Sequoia <span class="font-bold">única y exclusivamente</span> atendemos los padecimientos que afectan la estatura de los niños. <br> <span class="font-bold">Nuestros médicos especialistas</span> tienen la experiencia de mas
+                        de 30,000 casos atendidos en este campo, lo que nos lleva a ser el centro <span class="font-bold">MÁS ESPECIALIZADO EN CRECIMIENTO INFANTIL DE MÉXICO.</span></p>
                 </div>
             </div>
-            <div class="pb-25 tamaño-img">
-                <img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="banners-especialistas">
+            <div class="pb-25 tamaño-img ocultar-media">
+                <a href="especialistas-en-crecimiento"><img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="banners-especialistas"></a>
+            </div>
+            <div class="pb-25 tamaño-img mostrar-media">
+                <a href="especialistas-en-crecimiento"><img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="banners-especialistas"></a>
             </div>
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="_bpb-KOnmwE"></div>
@@ -72,10 +75,10 @@
                 </div>
             </div>
             <div class="pb-2 ocultar-media ph-13">
-                <img src="img/banners/Banner-mujer-y-nino.webp" alt="Banners-estatura-crecer">
+                <a href="crecimiento-infantil"><img src="img/banners/Banner-mujer-y-nino.webp" alt="Banners-estatura-crecer"></a>
             </div>
             <div class="pb-2 mostrar-media tamaño-img ph-13">
-                <img src="img/banners/BANNER-7-HORIZONTAL.webp" alt="Banners-estatura-crecer">
+                <a href="crecimiento-infantil"><img src="img/banners/BANNER-7-HORIZONTAL.webp" alt="Banners-estatura-crecer"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
@@ -85,8 +88,8 @@
 
             <div class="ocultar-media">
                 <div class="textos-principal ocultar-media">
-                    <p><span class="font-bold">Seguramente te has preguntado,</span> ¿Si el crecimiento de tu niño es normal? <span class="font-bold">¿Por qué un hermano menor casi lo alcanza o es más alto?</span> ¿Tu hijo está creciendo más lento de lo habitual?
-                        o <span class="font-bold">¿Por qué está en los primeros lugares de las formaciones
+                    <p><span class="font-bold">Seguramente te has preguntado,</span> ¿Si el crecimiento de tu niño es normal? <span class="font-bold">¿Por qué un hermano menor casi lo alcanza o es más alto?</span> ¿Tu hijo está creciendo más lento de lo
+                        habitual? o <span class="font-bold">¿Por qué está en los primeros lugares de las formaciones
                         escolares?</span>, mientras que sus compañeros cada vez tienen mayor altura. </p>
                 </div>
                 <div class="contenedor-video">
@@ -100,8 +103,8 @@
                 </div>
 
                 <div class="textos-principal-2columas">
-                    <p><span class="font-bold">Seguramente te has preguntado,</span> ¿Si el crecimiento de tu niño es normal? <span class="font-bold">¿Por qué un hermano menor casi lo alcanza o es más alto?</span> ¿Tu hijo está creciendo más lento de lo habitual?
-                    o <span class="font-bold">¿Por qué está en los primeros lugares de las formaciones
+                    <p><span class="font-bold">Seguramente te has preguntado,</span> ¿Si el crecimiento de tu niño es normal? <span class="font-bold">¿Por qué un hermano menor casi lo alcanza o es más alto?</span> ¿Tu hijo está creciendo más lento de lo
+                        habitual? o <span class="font-bold">¿Por qué está en los primeros lugares de las formaciones
                     escolares?</span>, mientras que sus compañeros cada vez tienen mayor altura. </p>
                 </div>
             </div>
@@ -117,8 +120,11 @@
                     <span class="font-bold">Tráelo a una valoración a Centro Sequoia para que un especialista en crecimiento lo evalúe y pueda mejorar y superar sus proyecciones estimadas de altura.</span>
                 </p>
             </div>
-            <div class="tamaño-img">
-                <img src="img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil">
+            <div class="tamaño-img ocultar-media">
+                <a href="importancia-de-ser-mas-alto"><img src="img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil"></a>
+            </div>
+            <div class="tamaño-img mostrar-media">
+                <a href="importancia-de-ser-mas-alto"><img src="img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-2">
                 <div class="titulos-principal">
@@ -135,10 +141,10 @@
                     buscamos brindarte una grata experiencia y los mejores resultados para tu hijo.</p>
             </div>
             <div class="ocultar-media">
-                <img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento">
+                <a href="contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento">
+                <a href="contacto"><img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
 
         </section>
