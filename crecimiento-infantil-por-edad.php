@@ -60,8 +60,11 @@
                 <p>Se estima que alrededor del 80% del crecimiento de un niño ocurrirá antes de la pubertad y durante la pubertad hay un período rápido de crecimiento, llamado estirón puberal, que es cuando finalmente se debe alcanzar la estatura adulta.
                     Para las niñas, la pubertad generalmente comienza alrededor de los 11 años, y para los niños, la pubertad comienza alrededor de los 13 años.</p>
             </div>
-            <div class="tamaño-img">
-                <img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-1.webp" alt="contacto-crecimiento-infantil">
+            <div class="ocultar-media">
+                <a href="contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+            </div>
+            <div class="tamaño-img mostrar-media">
+                <a href="contacto"><img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="curvi-cuadros-crecimiento ">
                 <h2>Crecimiento en bebes<br>(0-2 años de edad)</h2>
@@ -99,18 +102,21 @@
                     </a>
                 </div>
             </div>
-            <div class="tamaño-img pt-2">
-                <img src="img/banners/crecer-estatura-niño-crecimiento-infantil-1.webp" alt="crecer-estatura-niño">
+            <div class="pb-25 tamaño-img ocultar-media">
+                <a href="preguntas-frecuentes   "><img src="img/banners/crecer-estatura-niño-crecimiento-infantil-2.webp" alt="banners-especialistas"></a>
+            </div>
+            <div class="pb-25 tamaño-img mostrar-media">
+                <a href="preguntas-frecuentes"><img src="img/banners/crecer-estatura-niño-crecimiento-infantil-1.webp" alt="banners-especialistas"></a>
             </div>
             <div class="justificar-texto-90">
                 <p>Te invitamos a que agendes una cita para que uno de nuestros médicos endocrinólogo pediatra especialista en crecimiento pueda hacer un diagnóstico personalizado de tu hijo y diseñar el tratamiento adecuado en caso de requerirlo y no sufra
                     de estatura baja.</p>
             </div>
             <div class="ocultar-media">
-                <img src="img/banners/altura-crecimiento-estatura-hijo-hija-2.webp" alt="altura-crecimiento-estatura">
+                <a href="crecimiento-infantil-deficiente"><img src="img/banners/altura-crecimiento-estatura-hijo-hija-2.webp" alt="altura-crecimiento-estatura"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <img src="img/banners/CRECIMIENTO-Sequoia-Inicio-2021.webp" alt="altura-crecimiento-estatura">
+                <a href="crecimiento-infantil-deficiente"><img src="img/banners/CRECIMIENTO-Sequoia-Inicio-2021.webp" alt="altura-crecimiento-estatura"></a>
             </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>

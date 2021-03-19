@@ -74,8 +74,11 @@
                 <div class="tamaño-img">
                     <img src="img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="">
                 </div>
-                <div class="tamaño-img">
-                    <img src="img/banners/contacto-crecimiento-infantil-estatura-medir-hija-1.webp" alt="">
+                <div class="ocultar-media">
+                    <a href="contacto"><img src="img/banners/BANNER-2-NIÑA-VERTICAL.webp" alt="altura-crecimiento-estatura"></a>
+                </div>
+                <div class="tamaño-img mostrar-media">
+                    <a href="contacto"><img src="img/banners/BANNER-2-NIÑA-HORIZONTAL.webp" alt="altura-crecimiento-estatura"></a>
                 </div>
                 <div class="cuadros-crecimiento margin-top-20">
                     <div class="titulos-principal">
@@ -89,10 +92,10 @@
                     <img src="img/banners/ICONOS WEB Sequoia 2021-17.webp" alt="">
                 </div>
                 <div class="tamaño-img ocultar-media">
-                    <img src="img/banners/banner-nino-llorando.webp" alt="causas crecimiento hijo">
+                    <a href="causas-de-la-baja-estatura"><img src="img/banners/banner-nino-llorando.webp" alt="causas crecimiento hijo"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <img src="img/banners/BANNER-5-HORIZONTAL.webp" alt="causas crecimiento hijo">
+                    <a href="causas-de-la-baja-estatura"><img src="img/banners/BANNER-5-HORIZONTAL.webp" alt="causas crecimiento hijo"></a>
                 </div>
 
             </div>
