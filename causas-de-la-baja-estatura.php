@@ -73,8 +73,11 @@
                         </ul>
                     </div>
                 </div>
-                <div class="tamaño-img pb-15">
-                    <img src="img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="">
+                <div class="tamaño-img ocultar-media">
+                    <a href="importancia-de-ser-mas-alto"><img src="img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil"></a>
+                </div>
+                <div class="tamaño-img mostrar-media">
+                    <a href="importancia-de-ser-mas-alto"><img src="img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil"></a>
                 </div>
                 <div class="cuadros-crecimiento">
                     <div class="titulos-principal-esp margin-top-20 pb-15">
@@ -114,18 +117,21 @@
                     <a href="Causas-de-la-baja-estatura/sindromes-que-afectan-el-crecimiento"><button class="boton-e boton-esp">Síndromes que afectan el
                     crecimiento</button></a>
                 </div>
-                <div class="tamaño-img">
-                    <img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="especialistas-crecimiento-estatura-doctor">
+                <div class="pb-25 tamaño-img ocultar-media">
+                    <a href="especialistas-en-crecimiento"><img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="banners-especialistas"></a>
+                </div>
+                <div class="pb-25 tamaño-img mostrar-media">
+                    <a href="especialistas-en-crecimiento"><img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="banners-especialistas"></a>
                 </div>
                 <div class="justificar-texto-90  centrar-texto pt-15 pb-15">
                     <p>Te invitamos a que agendes una cita para que uno de nuestros médicos endocrinólogos pediatras especialistas en crecimiento pueda hacer un diagnóstico personalizado de tu hijo y diseñar el tratamiento adecuado en caso de requerirlo.
                     </p>
                 </div>
                 <div class="ocultar-media">
-                    <img src="img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto-crecimiento-infantil">
+                    <a href="contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto-crecimiento-infantil"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <img src="img/banners/BANNER-DR-MONICA-HORIZONTAL.webp" alt="contacto-crecimiento-infantil">
+                    <a href="contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto-crecimiento-infantil"></a>
                 </div>
 
             </div>

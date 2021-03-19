@@ -134,10 +134,13 @@
                 <input type="submit" value="ENVIAR" id="boton">
                 </form>
             </div>
-            <div>
-                <img src="img/banners/estatura-crecer-crecimiento-infantil-2.webp" alt="estatura crecer crecimiento">
-            </div>
         </section>
+        <div class="ocultar-media">
+                <a href="crecimiento-infantil"><img src="img/banners/Banner-mujer-y-nino.webp" alt="contacto crecimiento"></a>
+            </div>
+            <div class="tamaño-img mostrar-media">
+                <a href="crecimiento-infantil"><img src="img/banners/estatura-crecer-crecimiento-infantil-1.webp" alt="contacto crecimiento"></a>
+            </div>
         </div>
 
 
