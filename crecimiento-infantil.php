@@ -117,11 +117,11 @@
                     <a href="causas-de-la-baja-estatura"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
-            <div class="pt-2 ocultar-media">
-                <img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="especialistas crecimiento">
+            <div class="pb-25 tamaño-img ocultar-media">
+                <a href="especialistas-en-crecimiento"><img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="banners-especialistas"></a>
             </div>
-            <div class="tamaño-img mostrar-media">
-                <img src="img/banners/BANNER-6-HORIZONTAL.webp" alt="contacto crecimiento">
+            <div class="pb-25 tamaño-img mostrar-media">
+                <a href="especialistas-en-crecimiento"><img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="banners-especialistas"></a>
             </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>

@@ -91,8 +91,8 @@
                     <img src="img/importancia-de-ser-mas-alto/portrait-of-confident-businessman.webp" alt="">
                 </div>
                 <div class="texto-importancia-2">
-                    <P>En nuestra sociedad se considera que los hombres y mujeres más altos son más dominantes e inteligentes. Se estigma que si una persona ganara cinco centímetros adicionales de altura, podría ganar porcentajes adicionales de
-                        ingreso económico por año.</P>
+                    <P>En nuestra sociedad se considera que los hombres y mujeres más altos son más dominantes e inteligentes. Se estigma que si una persona ganara cinco centímetros adicionales de altura, podría ganar porcentajes adicionales de ingreso económico
+                        por año.</P>
                 </div>
                 <div class="centrar-texto texto-boton-esp-2 pb-2 margin-top-20">
                     <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
@@ -122,8 +122,8 @@
                     <img src="img/importancia-de-ser-mas-alto/banner-with-surprised-children-peeking-edge.webp" alt="">
                 </div>
                 <div class="texto-importancia-2">
-                    <p>Las personas altas son más estéticas. Esto los hace lucir mejor con la ropa que usan, lo que les da una ventaja en apariencia. Socialmente las personas altas tienen más probabilidades de adaptarse y obtener una aprobación social,
-                        lo que les ayuda a ser más felices en su vida diaria.</p>
+                    <p>Las personas altas son más estéticas. Esto los hace lucir mejor con la ropa que usan, lo que les da una ventaja en apariencia. Socialmente las personas altas tienen más probabilidades de adaptarse y obtener una aprobación social, lo
+                        que les ayuda a ser más felices en su vida diaria.</p>
                 </div>
                 <div class="centrar-texto texto-boton-esp-2 pb-2 margin-top-20">
                     <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
@@ -150,10 +150,10 @@
                 </div>
             </div>
             <div class="tamaño-img ocultar-media">
-                <img src="img/importancia-de-ser-mas-alto/BANNER-5-VERTICAL.webp" alt="especialistas crecimiento">
+                <a href="causas-de-la-baja-estatura"><img src="img/importancia-de-ser-mas-alto/BANNER-5-VERTICAL.webp" alt="especialistas crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <img src="img/banners/BANNER-5-HORIZONTAL.webp" alt="especialistas crecimiento">
+                <a href="causas-de-la-baja-estatura"><img src="img/banners/BANNER-5-HORIZONTAL.webp" alt="especialistas crecimiento"></a>
             </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>

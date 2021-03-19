@@ -102,8 +102,11 @@
                 <div class="tamaño-img pt-20">
                     <img src="img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="contacto crecimiento infantil">
                 </div>
-                <div class="tamaño-img">
-                    <img src="img/banners/BANNER-DR-MONICA-HORIZONTAL.webp" alt="contacto crecimiento infantil">
+                <div class="ocultar-media">
+                <a href="contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                </div>
+                <div class="tamaño-img mostrar-media">
+                    <a href="contacto"><img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
                 </div>
                 <div class="cuadros-crecimiento">
                     <div class="titulos-principal margin-top-20">
