@@ -1,6 +1,6 @@
 <?php 
 
-    $destino = "contacto@brexia.mx";   
+    $destino = "angelrojas@ciencias.unam.mx";   
     $nombre = $_POST["nombre"];
     $correo = $_POST["correo"];
     $telefono = $_POST["telefono"];
