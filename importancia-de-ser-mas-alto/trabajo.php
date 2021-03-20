@@ -51,13 +51,15 @@
                 <p>Los directores ejecutivos (CEOs) de las empresas mexicanas son en promedio 8 centímetros más altos que un mexicano promedio.</p>
             </div>
             <div class="justificar-texto-90">
-                <p>Durante décadas, los antropólogos han estudiado lo que se conoce como "prima de altura": la diferencia positiva de los ingresos que, en promedio, reciben las personas más altas.</p>       
+                <p>Durante décadas, los antropólogos han estudiado lo que se conoce como "prima de altura": la diferencia positiva de los ingresos que, en promedio, reciben las personas más altas.</p>
             </div>
             <div class="imagen-80 tamaño-img centrar-imagen ">
                 <img src="/img/nueva/trabajo1.webp" alt="Brexia_especialistas">
             </div>
             <div class="justificar-texto-90">
-                <p>Un último estudio, en México, encontró que medir 1.80 m de altura genera $25,000 pesos más de ingresos anuales en comparación con los hombres y mujeres 5 centímetros más bajos. Otros estudios en Estados Unidos e Inglaterra estiman esta ganancia de $25,000 pesos extra es por cada 2 centímetros de altura en comparación con otros. Y otro estudio realizado por la Universidad de Florida, encontró que cada centímetro de estatura equivale a un aumento de salario de aproximadamente $19,000 pesos por año.</p>
+                <p>Un último estudio, en México, encontró que medir 1.80 m de altura genera $25,000 pesos más de ingresos anuales en comparación con los hombres y mujeres 5 centímetros más bajos. Otros estudios en Estados Unidos e Inglaterra estiman esta
+                    ganancia de $25,000 pesos extra es por cada 2 centímetros de altura en comparación con otros. Y otro estudio realizado por la Universidad de Florida, encontró que cada centímetro de estatura equivale a un aumento de salario de aproximadamente
+                    $19,000 pesos por año.</p>
             </div>
             <div class="justificar-texto-90">
                 <p>Según este cálculo, alguien que mide 1.80 cm de altura gana $100,000 peos más al año que alguien que mide 1.70 cm.</p>
@@ -71,21 +73,24 @@
                 </div>
             </div>
             <div class="justificar-texto-90">
-                <p>Un estudio realizado la Universidad de Pensilvania, EEUU, descubrió que lo que importa cuando se trata de llevar el pan a casa en la edad adulta es la altura que tenía una persona cuando era adolescente. Los resultados de este estudio demostraron que: "Dos adultos de la misma edad y altura que tenían diferentes alturas a los 16 años son tratados de manera diferente en el mercado laboral, es decir que, la persona que era más alta en la adolescencia gana más".</p>
+                <p>Un estudio realizado la Universidad de Pensilvania, EEUU, descubrió que lo que importa cuando se trata de llevar el pan a casa en la edad adulta es la altura que tenía una persona cuando era adolescente. Los resultados de este estudio
+                    demostraron que: "Dos adultos de la misma edad y altura que tenían diferentes alturas a los 16 años son tratados de manera diferente en el mercado laboral, es decir que, la persona que era más alta en la adolescencia gana más".</p>
             </div>
             <div class="justificar-texto-90">
                 <p>Aquellos que eran relativamente bajos cuando eran jóvenes tenían menos probabilidades de participar en actividades sociales asociadas con la acumulación de habilidades y atributos productivos, y reportan una menor autoestima.</p>
             </div>
             <div class="justificar-texto-90">
-                <p>La autoestima débil y las habilidades sociales subdesarrolladas pueden afectar negativamente la imagen que uno retrata a los compañeros de trabajo y gerentes como adulto. Una persona que carece de confianza generalmente se considera menos autoritaria y puede tener más dificultades para convencer a los empleadores de su potencial de liderazgo.</p>
+                <p>La autoestima débil y las habilidades sociales subdesarrolladas pueden afectar negativamente la imagen que uno retrata a los compañeros de trabajo y gerentes como adulto. Una persona que carece de confianza generalmente se considera menos
+                    autoritaria y puede tener más dificultades para convencer a los empleadores de su potencial de liderazgo.</p>
             </div>
-            <div class="tamaño-img pb-25">
-                <img src="../img/importancia-de-ser-mas-alto/Banner-Trabajo.webp" alt="contacto crecimiento">
+            <div class="ocultar-media">
+                <a href="contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
-            <div class="tamaño-img">
-                <img src="../img/banners/BANNER-2-DOC-VERTICAL.webp" alt="contacto crecimiento">
+            <div class="tamaño-img mostrar-media">
+                <a href="contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
-            
+
+
         </div>
 
         <?php include_once '../includes/templates/footer.php';?>

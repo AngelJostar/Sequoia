@@ -67,12 +67,12 @@
             <div class="justificar-texto-90">
                 <p>Ser alto ayuda en la vida romántica de tu hijo o hija. Por lo tanto, los adolescentes más altos de ambos sexos suelen tener más citas que sus compañeros más bajos, y los hombres y mujeres más altos tienen más probabilidades de encontrar una pareja a largo plazo. </p>
             </div>
-            <div class="tamaño-img pb-25">
-                <img src="../img/importancia-de-ser-mas-alto/pareja-abajo.webp" alt="contacto crecimiento">
+            <div class="ocultar-media">
+                <a href="contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
-            <div class="tamaño-img">
-                <img src="../img/banners/BANNER-2-DOC-VERTICAL.webp" alt="contacto crecimiento">
-            </div>   
+            <div class="tamaño-img mostrar-media">
+                <a href="contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+            </div>
 
         </div>
 

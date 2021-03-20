@@ -104,11 +104,11 @@
             <div class="imagen-80 centrar-imagen pb-25">
                 <img src="/img/nueva/autoestima2.webp" alt="Brexia_especialistas">
             </div>      
-            <div class="tamaño-img pb-25">
-                <img src="../img/importancia-de-ser-mas-alto/Banner-Autoestima-y-Crecimiento-.webp" alt="contacto crecimiento">
+            <div class="ocultar-media">
+                <a href="contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
-            <div class="tamaño-img">
-                <img src="../img/banners/BANNER-2-DOC-VERTICAL.webp" alt="contacto crecimiento">
+            <div class="tamaño-img mostrar-media">
+                <a href="contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
 
         </div>
