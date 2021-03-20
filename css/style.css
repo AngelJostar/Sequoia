@@ -615,6 +615,16 @@ a {
     margin: 0 auto;
 }
 
+.contenedor-45porciento {
+    max-width: 45% !important;
+    margin: 0 auto;
+}
+
+.contenedor-50porciento {
+    max-width: 50% !important;
+    margin: 0 auto;
+}
+
 
 /*END_UTILIDADES*/
 
@@ -1196,6 +1206,10 @@ div.youtube-play:hover {
     padding-top: 30px;
 }
 
+.ph-1 {
+    padding-top: calc(1em + 1vw);
+}
+
 .ph-3 {
     padding-top: calc(3em + 1vw);
 }
@@ -1222,6 +1236,10 @@ div.youtube-play:hover {
 
 .ph-9 {
     padding-top: calc(9em + 1vw);
+}
+
+.ph-10 {
+    padding-top: calc(10em + 1vw);
 }
 
 .ph-11 {
@@ -1338,6 +1356,11 @@ div.youtube-play:hover {
 
 .cuadros-crecimiento-2 {
     background-color: #00205E;
+}
+
+.fondo-gris {
+    background-color: #e7e7e7;
+    /*background-color: rgb(204, 204, 204);*/
 }
 
 .efecto3-2 {
@@ -1617,7 +1640,7 @@ div.youtube-play:hover {
 
 .texto-boton-esp button {
     font-weight: 400;
-    font-size: 18px;
+    font-size: calc(1.3em + .6vw);
     color: #ffffff;
 }
 
@@ -1639,6 +1662,10 @@ div.youtube-play:hover {
     padding-bottom: 3.5rem;
 }
 
+.pb-50 {
+    padding-bottom: 10rem;
+}
+
 .pt-2 img {
     padding-top: 2.5rem;
 }
@@ -1657,6 +1684,10 @@ div.youtube-play:hover {
 
 .mb-1 {
     margin-bottom: 1.5rem;
+}
+
+.mb-5 {
+    margin-bottom: 10rem;
 }
 
 .justificar-texto-90-listas li {
@@ -1956,7 +1987,7 @@ td {
 .texto-importancia-2 p {
     margin: 0 auto;
     max-width: 90%;
-    font-size: calc(1.1em + 1vw);
+    font-size: calc(1.3em + .5vw);
     font-weight: 300;
     color: #FFF;
     text-align: center;
@@ -1974,19 +2005,24 @@ td {
 }
 
 .box {
-    width: 370px;
-    height: 100px;
+    max-width: 100%;
+    height: calc(8em + 6.5vw);
     background: rgb(214, 214, 214);
-    margin: calc(19em + 1vw) auto 3vh;
+    margin: 21em auto 0;
+}
+
+.mb-22em {
+    margin: 23em auto 0 !important;
 }
 
 .box h3 {
     font-family: 'Pacifico', cursive;
-    font-size: 18px;
-    font-weight: 500;
+    color: #00235d;
+    font-size: calc(1.6em + .8vw);
+    font-weight: 600;
     text-align: center;
     position: relative;
-    top: 29px;
+    top: calc(1.3em + .5vw);
     line-height: 1.15;
 }
 
@@ -2056,7 +2092,7 @@ td {
 
 .texto-boton-esp-2 button {
     font-weight: 400;
-    font-size: 18px;
+    font-size: calc(1.2em + .8vw);
     color: #00235d;
 }
 
@@ -2067,7 +2103,11 @@ td {
 }
 
 .margin-negativo {
-    margin-bottom: -25px;
+    margin-bottom: -10px;
+}
+
+.margin-negativo-top-10 {
+    margin-top: -10px;
 }
 
 .margin-negativo-top-15 {
@@ -2085,7 +2125,7 @@ td {
     font-weight: 700;
     color: #FFF;
     padding: 25px 0 20px 0;
-    font-size: calc(1.4em + 1vw);
+    font-size: calc(1.4em + .8vw);
     line-height: 1.15;
 }
 
@@ -2108,6 +2148,8 @@ td {
     margin: 0 auto;
 }
 
+
+/*
 .textos-principal-importancia p {
     margin: 0 auto;
     max-width: 90%;
@@ -2119,7 +2161,7 @@ td {
     line-height: 20px;
     margin-top: 2rem;
     margin-bottom: 2rem;
-}
+}*/
 
 .textos-principal-2 p {
     margin: 0 auto;
@@ -2433,6 +2475,19 @@ td {
         margin: 0 auto;
         line-height: 1.2;
     }
+    .boton-esp {
+        background: #00235d;
+        text-decoration: none;
+        height: 90px;
+        width: 580px;
+        border-radius: 30px;
+        border-color: rgb(192, 212, 31);
+        border-width: 2.5px;
+    }
+    .texto-boton-esp button {
+        text-transform: uppercase;
+        font-weight: 600;
+    }
 }
 
 @media (max-width: 580px) {
@@ -2475,12 +2530,12 @@ td {
     /*La uso en generalidades del crecimiento infantil y en importancia de ser más alto*/
     .titulos-grid-gci {
         display: grid;
-        grid-template-columns: 40% 20% 40%;
+        grid-template-columns: 33% 34% 33%;
     }
     /*++++++++++++++++++++++++++++++FINAL DE ENCABEZADOS DE PAGINAS (GREEDS)++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
     .textos-principal p {
         margin: 0 auto;
-        max-width: 55%;
+        max-width: 45%;
         font-weight: 500;
         color: rgb(135, 135, 135);
         text-align: center;
