@@ -136,6 +136,12 @@
             <div class="centrar-texto texto-boton-esp pb-2">
                 <a href="/tablas/frutas.php"><button class="boton-e boton-esp">FRUTOS</button></a>
             </div>
+            <div class="ocultar-media">
+                <a href="contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+            </div>
+            <div class="tamaño-img mostrar-media">
+                <a href="contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+            </div>
         </div>
 
         <?php include_once '../includes/templates/footer.php';?>

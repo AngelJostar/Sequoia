@@ -113,7 +113,7 @@
             <div class="justificar-texto-85 centrar-texto font-bold">
                 <p>Si tu hijo presenta signos de pubertad precoz es importante acudir lo más pronto posible con los especialistas de SEQUOIA para atender de manera inmediata este padecimiento.<br>¡Ayuda a tu hijo a alcanzar una mayor estatura!</p>
             </div>
-            <div class="pt-15 pb-30">
+            <div class="tamaño-img pt-15 pb-30">
                 <img src="../img/generalidades-del-crecimiento-infantil/Banner-Talla-Familiar-Genertica.webp" alt="graficas-de-crecimiento">
             </div> 
 

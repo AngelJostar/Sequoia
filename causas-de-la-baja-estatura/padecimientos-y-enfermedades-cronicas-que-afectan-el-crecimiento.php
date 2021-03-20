@@ -108,8 +108,11 @@
             <div class="tamaño-img">
                 <img src="../img/Causas-de-la-baja-estatura/Banner-Mal-nutricion-y-Mal-Absorcion.webp" alt="contacto crecimiento">
             </div>
-            <div class="tamaño-img">
-                <img src="../img/Causas-de-la-baja-estatura/BANNER-2-DOC-VERTICAL.webp" alt="contacto crecimiento">
+            <div class="ocultar-media">
+                <a href="contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+            </div>
+            <div class="tamaño-img mostrar-media">
+                <a href="contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
  
         </div>

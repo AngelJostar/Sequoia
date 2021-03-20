@@ -87,19 +87,24 @@
                     </ul>
                 </div>
             </div>
-            <div class="titulos-azules-1 alinear-texto-izquierda">
+            <div class="justificar-texto-90">
                 <h2><span class="font-bold ">¿CUÁL ES EL TRATAMIENTO PARA LA DEFICIENCIA DE LA HORMONA DE CRECIMIENTO EN LOS NIÑOS?</span></h2>
             </div>
             <div class="justificar-texto-90 justificar-derecha-texto">
                <p>Los niños con deficiencia de la hormona de crecimiento reciben como tratamiento inyecciones diarias de una versión sintética (fabricada) de la hormona humana del crecimiento, un medicamento de venta con receta. </p>
             </div>
-            <div class="titulos-azules-1  alinear-texto-izquierda">
+            <div class="justificar-texto-90">
                 <h2><span class="font-bold ">CUÁL ES EL PRONÓSTICO DE LA DEFICIENCIA DE LA HORMONA DE CRECIMIENTO?</span></h2>
             </div>
             <div class="justificar-texto-90 justificar-derecha-texto">
                <p>La hormona de crecimiento en la mayoría de los casos provoca un aumento de la estatura en las personas con deficiencia de esta hormona, esto siempre que los cartílagos de crecimiento no se hayan cerrado. Es importante mantener un seguimiento médico con los especialistas para que ellos puedan determinar las causas y tratamiento a seguir ante una estatura baja. </p>
             </div>
- 
+            <div class="ocultar-media">
+                <a href="contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+            </div>
+            <div class="tamaño-img mostrar-media">
+                <a href="contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+            </div>
         </div>
 
         <?php include_once '../includes/templates/footer.php';?>

@@ -103,7 +103,7 @@
                 </div>
             </div>
             <div class="pb-25 tamaño-img ocultar-media">
-                <a href="preguntas-frecuentes   "><img src="img/banners/crecer-estatura-niño-crecimiento-infantil-2.webp" alt="banners-especialistas"></a>
+                <a href="preguntas-frecuentes"><img src="img/banners/crecer-estatura-niño-crecimiento-infantil-2.webp" alt="banners-especialistas"></a>
             </div>
             <div class="pb-25 tamaño-img mostrar-media">
                 <a href="preguntas-frecuentes"><img src="img/banners/crecer-estatura-niño-crecimiento-infantil-1.webp" alt="banners-especialistas"></a>

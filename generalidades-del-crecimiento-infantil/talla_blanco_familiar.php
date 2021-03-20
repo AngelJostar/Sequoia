@@ -56,13 +56,13 @@
                 <p>Se suma la altura del padre y de la madre, se divide por dos y se le suma 6,5 si se trata de un niño y se le resta 6,5 si se trata de una niña. Hay que tener en cuenta (según los autores de tal cálculo) que el resultado final es solo valido
                     en un 85% de los casos y que el margen de error es de 5 a 10 cm.</p>
             </div>
-            <div class="pt-15">
+            <div class="tamaño-img pt-15">
                 <img src="../img/generalidades-del-crecimiento-infantil/cuadro-azul-informacion.webp" alt="graficas-de-crecimiento">
             </div>
-            <div class="pt-15">
+            <div class="tamaño-img pt-15">
                 <img src="../img/generalidades-del-crecimiento-infantil/cuadro-rosa-informacion.webp" alt="graficas-de-crecimiento">
             </div>
-            <div class="pt-15 ">
+            <div class="tamaño-img pt-15 ">
                 <img src="../img/generalidades-del-crecimiento-infantil/cuadro-amarillo-informacion.webp" alt="graficas-de-crecimiento">
             </div>
             <div class="justificar-texto-85">
@@ -71,7 +71,7 @@
             <div class="justificar-texto-85">
                 <p>También los factores metabólicos como el déficit de hormona del crecimiento (GH), el hipotiroidismo o la diabetes mal controlada, pueden alterar el crecimiento esperable genéticamente. Entre los factores ambientales o exógenos, inciden en el crecimiento aspectos como son la nutrición, la actividad física y los aspectos psicológicos, como es la deprivación emocional.</p>
             </div>
-            <div class="pt-15 pb-15">
+            <div class="tamaño-img pt-15 pb-15">
                 <img src="../img/generalidades-del-crecimiento-infantil/Banner-Pubertad-adelantada-o-atrasada.webp" alt="graficas-de-crecimiento">
             </div>
 

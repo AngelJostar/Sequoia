@@ -33,7 +33,7 @@ body {
 img {
     width: 100%;
     display: block;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .tamaño-img {
@@ -1414,7 +1414,7 @@ div.youtube-play:hover {
 
 .justificar-texto-85 {
     max-width: 85%;
-    font-size: 14px;
+    font-size: calc(13px + .4vw);
     color: #777777;
     text-align: justify;
     margin: 0 auto;
@@ -1440,9 +1440,9 @@ div.youtube-play:hover {
 
 .justificar-texto-90 {
     max-width: 90%;
-    font-size: 16px;
+    font-size: calc(13px + .4vw);
     color: #777777;
-    text-align: justify;
+    text-align: center;
     margin: 0 auto;
     line-height: 1.15;
 }
@@ -1659,21 +1659,24 @@ div.youtube-play:hover {
     margin-bottom: 1.5rem;
 }
 
+.justificar-texto-90-listas {
+    max-width: 90%;
+    margin: 0 auto;
+}
+
 .justificar-texto-90-listas li {
-    margin-top: 20px;
-    margin-bottom: 20px;
     padding-left: 15px;
+    margin-top: calc(1em + 1vw);
     position: relative;
     color: #777777;
     list-style-type: none;
-    font-size: 16px;
+    font-size: calc(13px + .4vw);
     line-height: 1.15;
-    max-width: 90%;
 }
 
 .justificar-texto-90-listas ul {
     list-style: none;
-    padding-left: 25px;
+    padding-left: 10px;
 }
 
 .justificar-texto-90-listas li::before {
@@ -1742,7 +1745,7 @@ div.youtube-play:hover {
 
 .etapas-grado-bg {
     margin: 0 auto;
-    width: 75%;
+    width: 85%;
     height: 100%;
     background: #f3f3f3
 }
@@ -2432,6 +2435,15 @@ td {
         padding: 5px 0 5px 0;
         margin: 0 auto;
         line-height: 1.2;
+    }
+    .justificar-texto-90 {
+        max-width: 60%;
+    }
+    .justificar-texto-90-listas {
+        max-width: 60%;
+    }
+    .justificar-texto-85 {
+        max-width: 60%;
     }
 }
 

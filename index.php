@@ -40,7 +40,7 @@
                 <a href="es"><img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada"></a>
             </div>
             <div class="sombras-img ph-4  tamaño-img mostrar">
-                <a href=""><img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada"></a>
+                <a href=""><img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" alt="Portada"></a>
             </div>
 
             <div class="textos-principal pt-15">
