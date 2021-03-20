@@ -79,7 +79,7 @@
                 <p>Los caracteres sexuales secundarios de las niñas, por lo general, suelen aparecer antes que en los niños. En concreto, las niñas empiezan a desarrollar las glándulas mamarias con un abultamiento muy ligero, lo que se llama el botón mamario. Aparece el vello púbico, se empieza a acumular grasa en torno a glúteos y muslos. Las caderas se ensanchan. El cuerpo se prepara para la llegada de la menstruación, hecho que sucede entre los 9 y los 16 años.</p>
                 <p>Los caracteres sexuales secundarios en los niños implican una musculatura más desarrollada, ensanche de tórax y hombros, mayor cantidad de vello corporal, salida del vello facial, voz más grave y depósito de grasa en torno al abdomen.</p>
             </div>
-            <div class="imagen-80 centrar-imagen pb-30">
+            <div class="tamaño-img centrar-imagen pb-30">
                 <img src="/img/nueva/Banner-Estiron-Puberal.webp" alt="Brexia_especialistas">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
@@ -92,7 +92,7 @@
                 <p>Cuando un niño ocupa el percentil X significa que un X por ciento de niños miden igual o menos que él para un determinado parámetro de medida, sexo y edad, y que un 100 por ciento mide más. Por ejemplo, si un niño de 8 años está en el percentil 25, significa que hay un 25 por ciento de niños del mismo sexo y edad que miden menos que él y un 75 por ciento que miden más. Esto quiere decir que está por debajo de la media (percentil 50), aunque su talla estadísticamente es normal ya que se encuentra entre el percentil 3 y 97 (rangos que se consideran normales). Hay gráficas para cada parámetro como talla, peso, grasa corporal, etc. </p>
                 <p>Basándonos en las indicaciones de la OMS, podemos calcular el crecimiento del niño mes a mes, basándonos en si es niño o niña. Para aprender más sobre las gráficas de crecimiento visita nuestra sección de <span class="font-bold">“Percentiles de crecimiento”</span>.</p>
             </div>
-            <div class="imagen-80 centrar-imagen pb-30">
+            <div class="tamaño-img centrar-imagen pb-30">
                 <img src="/img/nueva/Banner-Graficas-de-Crecimiento.webp" alt="Brexia_especialistas">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
@@ -100,10 +100,10 @@
                     <h2><span class="font-bold">GRAFICAS ESTÁNDARES DE CRECIMIENTO<br>EN NIÑOS Y NIÑAS DE 6 A 11 AÑOS</span></h2>
                 </div>
             </div>
-            <div class="imagen-80 centrar-imagen pt-15">
+            <div class="tamaño-img centrar-imagen pt-15">
                 <img src="/img/nueva/estatura-6-11-niños.webp" alt="Brexia_especialistas">
             </div>
-            <div class="imagen-80 centrar-imagen pt-15 pb-30">
+            <div class="tamaño-img centrar-imagen pt-15 pb-30">
                 <img src="/img/nueva/estatura-6-11-niñas.webp" alt="Brexia_especialistas">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2  margin-negativo-top-18">
@@ -114,24 +114,20 @@
             <div class="justificar-texto-85 centrar-texto pt-15">
                 <p>A continuación te presentamos las gráficas de crecimiento y peso que debería de seguir tu hijo o hija de 6 a 11 años. </p>
             </div>
-            <div class="imagen-80 centrar-imagen">
+            <div class="tamaño-img centrar-imagen">
                 <img src="/img/nueva/imc-niños-6-11.webp" alt="Brexia_especialistas">
             </div>
-            <div class="imagen-80 centrar-imagen pt-15">
+            <div class="tamaño-img centrar-imagen pt-15">
                 <img src="/img/nueva/imc-niñas-6-11.webp" alt="Brexia_especialistas">
             </div>
-            <div class="imagen-80 centrar-imagen pt-15">
-                <img src="/img/nueva/BANNER-2-NIÑA-VERTICAL.webp" alt="Brexia_especialistas">
-            </div>
+            <div class="ocultar-media">
+                    <a href="contacto"><img src="../img/banners/BANNER-2-NIÑA-VERTICAL.webp" alt="altura-crecimiento-estatura"></a>
+                </div>
+                <div class="tamaño-img mostrar-media">
+                    <a href="contacto"><img src="../img/banners/BANNER-2-NIÑA-HORIZONTAL.webp" alt="altura-crecimiento-estatura"></a>
+                </div>
 
         </div>
-
-
-
-
-
-
-
         <?php include_once '../includes/templates/footer.php';?>
 
     </section>

@@ -49,13 +49,13 @@
                     <h2><span class="font-bold">SÍNDROMES DISMÓRFICOS</span></h2>
                 </div>
             </div>
-            <div class="titulos-azules-1 pt-15 alinear-texto-izquierda">
+            <div class=" pt-15 justificar-texto-90">
                 <h2><span class="font-bold ">SÍNDROME DE TURNER:</span></h2>
             </div>
             <div class="justificar-texto-85 pt-1p">
                 <p>El síndrome de Turner sucede cuando se tienen demasiados, muy pocos cromosomas o desintegrados que dan lugar a problemas de salud. Es un trastorno genético común que se produce solamente en las niñas. Esto causa un crecimiento deficiente y retardado o la ausencia de pubertad. El síndrome de Turner se presenta en 1 de cada 2500 niñas. Es consecuencia de la falta de un cromosoma X.</p>
             </div>
-            <div class="titulos-azules-1 pt-15 alinear-texto-izquierda">
+            <div class=" pt-15 justificar-texto-90">
                 <h2><span class="font-bold ">SÍNDROME DE NOONAN:</span></h2>
             </div>    
             <div class="justificar-texto-85 pt-1p">
@@ -63,21 +63,21 @@
                 <P>El síndrome de Noonan es provocado por una mutación genética y se adquiere cuando un niño hereda una copia de un gen afectado de uno de los padres (herencia dominante). También se puede producir como una mutación espontánea, que significa que no hay ningún antecedente familiar involucrado.</P>
                 <P>El tratamiento del síndrome de Noonan se centra en controlar los síntomas y las complicaciones del trastorno. La hormona del crecimiento se puede utilizar para tratar la baja estatura en algunas personas que padecen el síndrome de Noonan.</P>
             </div>  
-            <div class="titulos-azules-1 pt-15 alinear-texto-izquierda">
+            <div class=" pt-15 justificar-texto-90">
                 <h2><span class="font-bold ">SÍNDROME DE PRADER WILLI:</span></h2>
             </div>          
             <div class="justificar-texto-85 pt-1p">
                 <P>Es una enfermedad de origen genético descrita en 1956 por Prader, Labarth y Willi en pacientes que presentaban obesidad, baja talla y criptorquidia con hipotonía severa en periodo neonatal.</P>
                 <P>En la infancia aparecen otras manifestaciones clínicas como retraso de crecimiento, manos y pies pequeños, escoliosis, problemas visuales (estrabismo, miopía.), hipopigmentación cutánea, somnolencia diurna, caries, saliva espesa. En la adolescencia pueden aparecer complicaciones en relación a la obesidad, como diabetes tipo 2, HTA, se acentúan la baja talla, los trastornos del sueño y la conducta obsesiva y alteraciones respiratorias que condicionan la calidad y esperanza de vida de estos pacientes.</P>
             </div>
-            <div class="titulos-azules-1 pt-15 alinear-texto-izquierda">
+            <div class=" pt-15 justificar-texto-90">
                 <h2><span class="font-bold ">SÍNDROME DE SILVER RUSSELL:</span></h2>
             </div>
             <div class="justificar-texto-85 pt-1p">
                 <P>Es un síndrome definido por retraso de crecimiento intrauterino (CIR) y postnatal, asimetría corporal y facies característica.</P>
                 <P>Fue descrito de forma casi simultánea por dos autores, Silver35 en 1953 al presentar dos niños con CIR y asimetría corporal y Russell36 en 1954 con la publicación más completa de 5 casos con CIR, baja talla y alteraciones craneofaciales.</P>
             </div>
-            <div class="titulos-azules-1 pt-15 alinear-texto-izquierda">
+            <div class=" pt-15 justificar-texto-90">
                 <h2><span class="font-bold ">SÍNDROME DE RETT:</span></h2>
             </div>
             <div class="justificar-texto-85 pt-1p">
@@ -92,54 +92,57 @@
                     <h2><span class="font-bold">OTROS SÍNDROMES GENÉRICOS</span></h2>
                 </div>
             </div>
-            <div class="titulos-azules-1 pt-15 alinear-texto-izquierda">
+            <div class=" pt-15 justificar-texto-90">
                 <h2><span class="font-bold ">SÍNDROME DE AARSKOG:</span></h2>
             </div>
             <div class="justificar-texto-85 pt-1p">
                 <P>Conocido como displasia faciogenital, fue descrito por primera vez en 1970 por Aarskog. Se caracteriza por tener una cara típica, escroto bífido y baja talla.</P>
                 <P>La baja talla, presente hasta en un 90% de los niños con este síndrome, es generalmente desproporcionada, a favor del segmento superior, siendo ésta una de las principales características del síndrome. El peso y la talla al nacer están por debajo de la media. En un tercio de los niños el crecimiento se altera en el primer año de vida debido a problemas en la alimentación o infecciones repetidas del aparato respiratorio. En el resto de los niños el crecimiento se afecta entre el 1º y 3º año de vida. Casi todos los niños se sitúan por debajo del percentil 3 a los 3 años de edad. El crecimiento es lento a lo largo de la infancia, y la pubertad generalmente se retrasa y falla el estirón puberal de crecimiento. La talla final en los varones se sitúa entre 150-160 cm y en las mujeres entre 140-150 cm.</P>
             </div>
-            <div class="titulos-azules-1 pt-15 alinear-texto-izquierda">
+            <div class=" pt-15 justificar-texto-90">
                 <h2><span class="font-bold ">SÍNDROME DE CORNELIA DE LANGE:</span></h2>
             </div>
             <div class="justificar-texto-85 pt-1p">
                 <P>El fallo de crecimiento es una de las principales características de este síndrome, en 180 pacientes encuentran que en el 89% de pacientes el peso y la talla al nacer fueron <P50. La talla cae por debajo del P 5 para los 6 meses de edad, y permanece así hasta la pubertad, que se produce a una edad normal, pero sin estirón de crecimiento. La talla adulta media en los varones es de 155 cm y en las mujeres de 131.</P>
                 <P>La deficiencia de HGH se ha implicado en algunos estudios como causa de la baja talla. Los datos de pacientes tratados con HGH en la base KIGS permiten concluir que no hay una adecuada respuesta al tratamiento con HGH a corto plazo.</P>
             </div>
-            <div class="titulos-azules-1 pt-15 alinear-texto-izquierda">
+            <div class=" pt-15 justificar-texto-90">
                 <h2><span class="font-bold ">SÍNDROME DE FLOATING-HARBOR</span></h2>
             </div>
             <div class="justificar-texto-85 pt-1p">
                 <P>En este síndrome el crecimiento ya está comprometido al nacer. En los 2 primeros años de vida se produce una disminución de la velocidad de crecimiento, y a partir de entonces van creciendo paralelos al percentil más bajo. Durante la infancia la talla está entre -4 y -5 SDS, y lo mismo ocurre en la edad adulta. En los casos en los que se detecta un déficit de HGH, el incremento en la velocidad de crecimiento durante el tratamiento es espectacular.</P>
             </div>
-            <div class="titulos-azules-1 pt-15 alinear-texto-izquierda">
+            <div class=" pt-15 justificar-texto-90">
                 <h2><span class="font-bold ">SÍNDROME DE WILLIAMS-BEUREN:</span></h2>
             </div>
             <div class="justificar-texto-85 pt-1p">
                 <P>El síndrome de Williams-Beuren es un cuadro dismórfico con alteraciones neurológicas y cardiopatía cuya incidencia es de 1/10.000.</P>
                 <P>El retraso de crecimiento intrauterino es un hallazgo frecuente. El peso y la talla al nacer suelen ser algo más bajos del promedio normal; su crecimiento durante la infancia también lleva cierto retraso por problemas para alimentarse. La pubertad, sin embargo, puede presentarse a veces de forma algo precoz y sin estirón puberal de crecimiento. El déficit de hormona de crecimiento no es causa probable de la baja talla de estos niños.</P>
             </div>
-            <div class="titulos-azules-1 pt-15 alinear-texto-izquierda">
+            <div class=" pt-15 justificar-texto-90">
                 <h2><span class="font-bold ">SÍNDROME DE RUBINSTEIN-TAYBI:</span></h2>
             </div>
             <div class="justificar-texto-85 pt-1p">
                 <P>El síndrome de Rubinstein-Taybi, con una prevalencia estimada del 1/100.000-1/125.00083, se caracteriza por presentar retraso mental, pulgares y primeros dedos de los pies anchos (en porra o maza) y facies característica. El crecimiento, el peso y la talla al nacer son normales. El retraso del crecimiento es evidente en la infancia. El estirón puberal está suprimido y la edad ósea retrasada. Es frecuente talla baja final y sobrepeso. </P>
             </div>
-            <div class="titulos-azules-1 pt-15 alinear-texto-izquierda">
+            <div class=" pt-15 justificar-texto-90">
                 <h2><span class="font-bold ">SÍNDROME DE CARTÍLAGO-PELO:</span></h2>
             </div>
             <div class="justificar-texto-85 pt-1p">
                 <P>También conocida como condrodisplasia metafisaria tipo McKusick. Es una enfermedad heredada en forma autosómica recesiva, que presenta múltiples manifestaciones fenotípicas, tales como pelo hipoplásico, baja talla con cortedad de miembros, alteraciones osteocondrales, defectos variables en la inmunidad celular y predisposición a una variedad de neoplasias (linfomas, neoplasias en la piel y leucemia).</P>
                 <P>El fallo del crecimiento es evidente ya al nacer, y la cortedad de miembros puede notarse en el periodo neonatal. El fallo de crecimiento es progresivo, y la talla final muy baja.</P>
             </div>
-            <div class="titulos-azules-1 pt-15 alinear-texto-izquierda">
+            <div class=" pt-15 justificar-texto-90">
                 <h2><span class="font-bold ">SÍNDROME DE KLIPPEL-FEIL:</span></h2>
             </div>
             <div class="justificar-texto-85 pt-1p">
                 <P>Fue descrito por primera vez en 1912 por Maurice Klippel y André Feil. Su incidencia es de 1/40.000. Es una enfermedad congénita que consiste en la fusión de dos o más vértebras cervicales y está definida por la triada característica, implantación baja del cabello, cuello corto y limitación de la movilidad del mismo. El crecimiento en estos niños es escaso y referente al tratamiento con hormona de crecimiento.</P>
             </div>
-            <div class="tamaño-img pt-15">
-                <img src="/img/causas-baja/BANNER-2-DOC-VERTICAL.webp" alt="contacto crecimiento">
+            <div class="ocultar-media">
+                <a href="contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+            </div>
+            <div class="tamaño-img mostrar-media">
+                <a href="contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
 

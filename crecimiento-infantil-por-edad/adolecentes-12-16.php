@@ -93,7 +93,7 @@
                     </div>
                 </div>
             </div>
-            <div>
+            <div class="tamaño-img">
                 <img src="../img/banners/Banner-Baja-estatura.webp" alt="generalidades-del-crecimiento">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
@@ -106,6 +106,7 @@
                 <p>Cuando un niño ocupa el percentil X significa que un X por ciento de niños miden igual o menos que él para un determinado parámetro de medida, sexo y edad, y que un 100 por ciento mide más. Por ejemplo, si un niño de 13 años está en el percentil 25, significa que hay un 25 por ciento de niños del mismo sexo y edad que miden menos que él y un 75 por ciento que miden más. Esto quiere decir que está por debajo de la media (percentil 50), aunque su talla estadísticamente es normal ya que se encuentra entre el percentil 3 y 97 (rangos que se consideran normales). Hay gráficas para cada parámetro como talla, peso, grasa corporal, etc. </p>
                 <p>Basándonos en las indicaciones de la OMS, podemos calcular el crecimiento del niño mes a mes, basándonos en si es niño o niña. Para aprender más sobre las gráficas de crecimiento visita nuestra sección de “Percentiles de crecimiento”.</p>
             </div>
+            <div class="tamaño-img">
             <img src="../img/banners/Banner-Graficas-de-Crecimiento.webp" alt="generalidades-del-crecimiento">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
@@ -116,25 +117,28 @@
             <div class="justificar-texto-90">
                 <p>A continuación te presentamos las gráficas de crecimiento y peso que debería de seguir tu hijo o hija de 12 a 16 años. </p>
             </div>            
+            <div class="tamaño-img"> 
+                <img src="../img/banners/estatura-nina-5-19.webp" alt="generalidades-del-crecimiento">
             </div>
-                <img src="../img/banners/ESTATURA NIÑOS 5-19 AÑOS.webp" alt="generalidades-del-crecimiento">
-            </div>
-            </div>
-                <img src="../img/banners/ESTATURA NIÑAS 5-19 AÑOS.webp" alt="generalidades-del-crecimiento">
+            <div class="tamaño-img">
+                <img src="../img/banners/estatura-nino-5-19.webp" alt="generalidades-del-crecimiento">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
                     <h2><span class="font-bold">GRAFICAS ESTÁNDAR DE ÍNDICE DE <br> MASA CORPORAL (IMC) EN NIÑOS <br> Y NIÑAS DE 12 A 16 AÑOS</span></h2>
-                </div>
+                </div>  
             </div>
-            <div class="imagen-80 centrar-imagen ">
+            <div class="tamaño-img centrar-imagen ">
                 <img src="/img/nueva/imc1.webp" alt="Brexia_especialistas">
             </div>
-            <div class="imagen-80 centrar-imagen ">
+            <div class="tamaño-img centrar-imagen ">
                 <img src="/img/nueva/imc2.webp" alt="Brexia_especialistas">
             </div>
-            <div class="imagen-80 centrar-imagen ">
-                <img src="/img/banners/BANNER-2-DOC-VERTICAL.webp" alt="Brexia_especialistas">
+            <div class="ocultar-media">
+                <a href="contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+            </div>
+            <div class="tamaño-img mostrar-media">
+                <a href="contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
 
 

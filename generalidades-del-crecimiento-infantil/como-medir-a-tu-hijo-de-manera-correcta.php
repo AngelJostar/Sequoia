@@ -72,7 +72,7 @@
                         <h3>Acostado</h3>
                     </div>
                     <div class="contenedor-principal">
-                        <div class="justificar-texto-90-listas-grid">
+                        <div class="justificar-texto-90-listas">
                             <ol>
                                 <li>Coloque la tabla de altura plana en el suelo o en una mesa o banco.</li>
                                 <li>Quítele los zapatos al niño y colóquelo suavemente sobre su espalda a lo largo del centro de la tabla.</li>
@@ -87,7 +87,7 @@
                     </div>
                 </div>
             </div>
-            <div>
+            <div class="tamaño-img">
                 <img src="../img/generalidades-del-crecimiento-infantil/nino-acostado.webp" alt="generalidades-del-crecimiento">
             </div>
 

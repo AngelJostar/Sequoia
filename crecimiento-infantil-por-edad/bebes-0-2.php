@@ -75,7 +75,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="imagen-80 centrar-imagen pb-30">
+            <div class="tamaño-img centrar-imagen pb-30">
                 <img src="/img/nueva/Banner-Pequeño-Edad-Gestacional.webp" alt="Brexia_especialistas">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
@@ -114,7 +114,7 @@
                 <p>Se debe tener en cuenta el caso de los niños prematuros, cuyo seguimiento y percentiles deben seguir criterios diferentes, que el pediatra te habrá explicado, o te explicará, en su momento.</p>
                 <p>Basándonos en las indicaciones de la OMS, podemos calcular el crecimiento del bebé y el niño mes a mes, basándonos en si es niño o niña, en su edad.</p>
             </div>
-            <div class="imagen-80 centrar-imagen pb-30">
+            <div class="tamaño-img centrar-imagen pb-30">
                 <img src="/img/nueva/imagen-bebe.webp" alt="Brexia_especialistas">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
@@ -125,7 +125,7 @@
             <div class="justificar-texto-85 centrar-texto pt-15">
                 <p>A continuación te presentamos las gráficas de crecimiento y peso que debería de seguir tu hijo o hija de cero a dos años. Para aprender más sobre las gráficas de crecimiento visita nuestra sección de “Percentiles de crecimiento”</p>
             </div>
-            <div class="imagen-80 centrar-imagen pb-30">
+            <div class="tamaño-img centrar-imagen pb-30">
                 <img src="/img/nueva/Banner-Graficas-de-Crecimiento.webp" alt="Brexia_especialistas">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
@@ -133,10 +133,10 @@
                     <h2><span class="font-bold">PERCEPTIBLES DE LONGITUD DE <br>NIÑAS Y NIÑOS POR EDAD Y SEXO<br>DE 0 A 2 AÑOS</span></h2>
                 </div>
             </div>
-            <div class="imagen-80 centrar-imagen pt-2">
+            <div class="tamaño-img centrar-imagen pt-2">
                 <img src="/img/nueva/longitud1.webp" alt="Brexia_especialistas">
             </div>
-            <div class="imagen-80 centrar-imagen pt-2 pb-30">
+            <div class="tamaño-img centrar-imagen pt-2 pb-30">
                 <img src="/img/nueva/longitud2.webp" alt="Brexia_especialistas">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
@@ -144,13 +144,13 @@
                     <h2><span class="font-bold">PERCEPTIBLES DE PESO DE <br>NIÑAS Y NIÑOS POR EDAD Y SEXO<br>DE 0 A 2 AÑOS</span></h2>
                 </div>
             </div>
-            <div class="imagen-80 centrar-imagen pt-2">
+            <div class="tamaño-img centrar-imagen pt-2">
                 <img src="/img/nueva/peso1.webp" alt="Brexia_especialistas">
             </div>
-            <div class="imagen-80 centrar-imagen pt-2">
+            <div class="tamaño-img centrar-imagen pt-2">
                 <img src="/img/nueva/peso2.webp" alt="Brexia_especialistas">
             </div>
-            <div class="imagen-80 centrar-imagen pt-2">
+            <div class="tamaño-img centrar-imagen pt-2">
                 <img src="/img/nueva/BANNER-2-DOC-VERTICAL.webp" alt="Brexia_especialistas">
             </div>
 

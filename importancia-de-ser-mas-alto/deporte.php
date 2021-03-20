@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Importancia de ser mas alto - deporte</title>
+<title>Deporte</title>
 <link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
 
@@ -51,9 +51,8 @@
             <div class="tamaño-img pt-2">
                 <img src="../img/importancia-de-ser-mas-alto/PORTADA-YOUTUBE-FRANCISCOEjercicio-como-factor-para-el-crecimiento-.webp" alt="contacto crecimiento">
             </div>
-            <div class="contenedor-generalidades">
-                    <div class="justificar-texto-90-listas">
-                        <ul>
+            <div class="justificar-texto-90-listas">
+                    <ul>
                             <li>Los futbolistas más altos tienen mayor alcance, lo que los hace mejores defensas y porteros. Más velocidad, lo que los hace mejores mediocampistas y más potencia los que los hace mejores delanteros.</li>
                             <li>Un boxeador más alto con un alcance más largo puede hacer contacto con sus golpes mientras mantiene su cabeza fuera del alcance de su oponente.</li>
                             <li>Los nadadores más altos pueden cubrir más distancia y alcanzar a sus oponentes más bajos.</li>
@@ -61,14 +60,13 @@
                             <li>Los mariscales de campo más altos pueden ver sobre la línea de golpeo más fácilmente que los pasadores más bajos.</li>
                             <li>Los jugadores de voleibol más altos tienen una ventaja en la red porque pueden golpear la pelota a mayor altura y bloquear tiros de manera más efectiva.</li>
                             <li>La altura es ventajosa para un jugador de tenis, ya que permite a los jugadores crear más potencia al sacar, además de darles a los jugadores una mayor amplitud de brazos, lo que les permite realizar tiros en ángulos agudos con mayor facilidad y una mayor probabilidad de devolver un tiro alto.</li>
-                        </ul>
-                    </div>
+                    </ul>
             </div>
-            <div class="tamaño-img pb-25">
-                <img src="../img/importancia-de-ser-mas-alto/Banner-Deporte-y-Crecimeinto-Infantil.webp" alt="contacto crecimiento">
+            <div class="ocultar-media">
+                <a href="contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
-            <div class="tamaño-img">
-                <img src="../img/banners/BANNER-2-DOC-VERTICAL.webp" alt="contacto crecimiento">
+            <div class="tamaño-img mostrar-media">
+                <a href="contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
 

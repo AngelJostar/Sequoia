@@ -80,13 +80,13 @@
                 <p>La atención del paciente comienza con la elaboración de una historia clínica completa y detallada, enfocada a las posibles causas de talla baja y aspectos relacionados.</p>
                 <p>El interrogatorio debe incluir la historia familiar, donde se reporten las tallas de los padres y edad de la menarquia o estirón puberal de padres y hermanos. </p>
             </div>
-            <div class="titulos-azules-1 pt-1p alinear-texto-izquierda">
+            <div class="justificar-texto-90">
                 <h2><span class="font-bold ">ANTECEDENTES PERINATALES:</span></h2>
             </div>
             <div class="justificar-texto-85 alinear-texto-izquierda">
             <p>Datos de embarazo y parto, edad gestacional, peso y talla al nacer, asfixia perinatal, hipoglicemia, ictericia prolongada durante el periodo neonatal. </p>
             </div>
-            <div class="titulos-azules-1 pt-1p alinear-texto-izquierda">
+            <div class="justificar-texto-90">
                 <h2><span class="font-bold ">OTROS DATOS:</span></h2>
             </div>
             <div class="justificar-texto-85 alinear-texto-izquierda">
@@ -105,8 +105,11 @@
             <div class="tamaño-img pt-15">
                 <img src="/img/causas-baja/Banner-Deficiencia-de-Hormano-del-Crecimiento.webp" alt="contacto crecimiento">
             </div>
-            <div class="tamaño-img pt-15 pt-15">
-                <img src="/img/causas-baja/BANNER-2-DOC-VERTICAL.webp" alt="contacto crecimiento">
+            <div class="ocultar-media">
+                <a href="contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+            </div>
+            <div class="tamaño-img mostrar-media">
+                <a href="contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
 
         </div>
