@@ -8,8 +8,11 @@
     $centro = $_POST["centro"];
     $mensaje = $_POST["mensaje"]; 
     
+    if ($_POST['centro'] == 'CDMX') {
+        $contenido = "Nombre: " . $nombre . "\nCorreo: " . $correo . "\nTeléfono: " . $telefono . "\nAsunto: " . $centro . "\nMensaje: " . $mensaje;
+        mail($destino, "Contacto: ", $contenido);
+        header("Location:gracias.php");
+    }
 
-    $contenido = "Nombre: " . $nombre . "\nCorreo: " . $correo . "\nTeléfono: " . $telefono . "\nAsunto: " . $asunto ."\nCentro". $centro . "\nMensaje: " . $mensaje;
-    mail($destino, "Contacto: ", $contenido);
-    header("Location:gracias.php");
+
 ?>

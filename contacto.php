@@ -125,9 +125,9 @@
                 <input type="tel" name="telefono" placeholder="Teléfono" required>
                 <p>ELIGE UN CENTRO</p>
                 <select name="centro">
-                <option value="1">CDMX</option> 
-                <option value="2">GUADALAJARA</option> 
-                <option value="3">MONTERREY</option>
+                <option value="CDMX">CDMX</option> 
+                <option value="GUADALAJARA">GUADALAJARA</option> 
+                <option value="MONTERREY">MONTERREY</option>
                 </select>
                 <p>MENSAJE</p>
                 <textarea name="mensaje" placeholder="Escriba aqui su mensaje" required></textarea>
