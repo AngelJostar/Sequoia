@@ -58,15 +58,17 @@
                 </div>
             </div>
             <div class="contacto-box ph-10">
-                <div>
-                    <i class="direccion-icono fas fa-route"></i>
-                </div>
+
                 <div>
                     <div class="tercer-p">
-                        <h2 class="font-ciudades">CDMX <br> <span>55 56 87-61 18</span> </h2>
+                        <h2 class="font-ciudades">CDMX<br>
+                            <a href="tel:+555687-6118">
+                                <span>(55) 5687-6118</span>
+                            </a>
+                        </h2>
                         <p><span class="font-bold">DIRECCIÓN:</span> San Francisco #516 Colonia Del Valle, </p>
                         <p>Del. Benito Juárez. C.P. 03100, Méx, DF.</p>
-                        <p><span class="font-bold">Email:</span> contacto@centrosequoia.com.mx </p>
+                        <p><span class="font-bold">EMAIL:</span> contacto@centrosequoia.com.mx </p>
                         <p><span class="font-bold">HORARIO DE ATENCIÓN:</span></p> 
                         <p>De Lunes a Viernes de 10:00 a 20:00 hrs.</p>
                         <p>Sábados de 10:00 a 14:00 hrs.</p>
@@ -75,18 +77,29 @@
             </div>
 
             <div class="contenedor-90porciento">
-                <img src="img/Mapas/MAPA-CDMX-1015x542.jpg" alt="Mapa-CDMX">
+                <a href="https://www.google.com/maps/place/Centro+Sequoia+CDMX-+Crecimiento+Infantil/@19.3916871,-99.1709422,15z/data=!4m5!3m4!1s0x0:0x1a23f6e38b618cce!8m2!3d19.3916871!4d-99.1709422"><img src="img/Mapas/MAPA-CDMX-1015x542.webp" alt="Mapa-CDMX"></a>
             </div>
-            <div class="contacto-box">
-                <div>
-                    <i class="direccion-icono fas fa-route"></i>
+            <div class="contacto-grid">
+                <div class="centrar-texto texto-boton-contacto pb-2 margin-top-20">
+                    <a href="https://www.google.com/maps/place/Centro+Sequoia+CDMX-+Crecimiento+Infantil/@19.3916871,-99.1709422,15z/data=!4m5!3m4!1s0x0:0x1a23f6e38b618cce!8m2!3d19.3916871!4d-99.1709422"><button class="boton-e boton-contacto">ABRIR UBICACIÓN <br> Google Maps</button></a>
                 </div>
+                <div class="centrar-texto texto-boton-contacto pb-2 margin-top-20">
+                    <a href="https://www.waze.com/live-map/directions?to=ll.19.391663%2C-99.170945"><button class="boton-e boton-contacto">ABRIR UBICACIÓN <br> Waze</button></a>
+                </div>
+            </div>
+            <div class="linea-blanca"></div>
+            <div class="contacto-box">
+
                 <div>
                     <div class="tercer-p">
-                        <h2 class="font-ciudades">GDL<br> <span>33 36 15-28 35 </span> </h2>
+                        <h2 class="font-ciudades">GUADALAJARA<br>
+                            <a href="tel:+333615-2825">
+                                <span>(33) 36152825</span>
+                            </a>
+                        </h2>
                         <p><span class="font-bold">DIRECCIÓN:</span> José María Vigil #2750, Colonia Providencia,</p>
                         <p>C.P.44639, Guadalajara, Jalisco</p>
-                        <p><span class="font-bold">Email:</span> guadalajara@centrosequoia.com.mx </p>
+                        <p><span class="font-bold">EMAIL:</span> guadalajara@centrosequoia.com.mx </p>
                         <p><span class="font-bold">HORARIO DE ATENCIÓN:</span></p> 
                         <p>De Lunes a Viernes de 10:00 a 14:00 y 16:00 a 20:00hrs. </p>
                         <p>Sábados de 10:00 a 14:00 hrs.</p>
@@ -94,18 +107,29 @@
                 </div>
             </div>
             <div class="contenedor-90porciento">
-                <img src="img/Mapas/MAPA-CDMX-1015x542.jpg" alt="Mapa-CDMX">
+                <a href="https://www.google.com/maps/place/Centro+Sequoia+Guadalajara-Crecimiento+Infantil/@20.6912993,-103.3831778,15z/data=!4m5!3m4!1s0x0:0x296b00874ce3a155!8m2!3d20.6912993!4d-103.3831778"><img src="img/Mapas/MAPA-GUADALAJARA-1015x542.webp" alt="Mapa-CDMX"></a>
             </div>
-            <div class="contacto-box">
-                <div>
-                    <i class="direccion-icono fas fa-route"></i>
+            <div class="contacto-grid">
+                <div class="centrar-texto texto-boton-contacto pb-2 margin-top-20">
+                    <a href="https://www.google.com/maps/place/Centro+Sequoia+Guadalajara-Crecimiento+Infantil/@20.6912993,-103.3831778,15z/data=!4m5!3m4!1s0x0:0x296b00874ce3a155!8m2!3d20.6912993!4d-103.3831778?shorturl=1"><button class="boton-e boton-contacto">ABRIR UBICACIÓN <br> Google Maps</button></a>
                 </div>
+                <div class="centrar-texto texto-boton-contacto pb-2 margin-top-20">
+                    <a href="https://www.waze.com/live-map/directions?to=ll.20.691311%2C-103.383172"><button class="boton-e boton-contacto">ABRIR UBICACIÓN <br> Waze</button></a>
+                </div>
+            </div>
+            <div class="linea-blanca"></div>
+            <div class="contacto-box">
+
                 <div>
                     <div class="tercer-p">
-                        <h2 class="font-ciudades">MTY<br> <span>81 11 59 22 65</span> </h2>
+                        <h2 class="font-ciudades">MONTERREY<br>
+                            <a href="tel:+811159-2265">
+                                <span>(81) 11592265</span>
+                            </a>
+                        </h2>
                         <p><span class="font-bold">DIRECCIÓN:</span>Rio Amazonas Ote. #316 Col. Del Valle</p>
                         <p>San Pedro Garza Garcia N.L C.P.66220</p>
-                        <p><span class="font-bold">Email:</span>monterrey@centrosequoia.com.mx</p>
+                        <p><span class="font-bold">EMAIL:</span>monterrey@centrosequoia.com.mx</p>
                         <p><span class="font-bold">HORARIO DE ATENCIÓN:</span></p> 
                         <p>De Lunes a Viernes de 10:00 a 14:00 y 16:00 a 20:00hrs.</p>
                         <p>Sábados de 10:00 a 14:00 hrs.</p>
@@ -113,8 +137,17 @@
                 </div>
             </div>
             <div class="contenedor-90porciento">
-                <img src="img/Mapas/MAPA-CDMX-1015x542.jpg" alt="Mapa-CDMX">
+                <a href="https://www.google.com/maps/place/Centro+Sequoia+Monterrey+-+Crecimiento+Infantil/@25.658951,-100.3604245,15z/data=!4m5!3m4!1s0x0:0xeb31f6ebb43acd2d!8m2!3d25.658951!4d-100.3604245"><img src="img/Mapas/MAPA-MONTERREY-1015x542.webp" alt="Mapa-CDMX"></a>
             </div>
+            <div class="contacto-grid">
+                <div class="centrar-texto texto-boton-contacto pb-2 margin-top-20">
+                    <a href="https://www.google.com/maps/place/Centro+Sequoia+Monterrey+-+Crecimiento+Infantil/@25.658951,-100.3604245,15z/data=!4m5!3m4!1s0x0:0xeb31f6ebb43acd2d!8m2!3d25.658951!4d-100.3604245"><button class="boton-e boton-contacto">ABRIR UBICACIÓN <br> Google Maps</button></a>
+                </div>
+                <div class="centrar-texto texto-boton-contacto pb-2 margin-top-20">
+                    <a href="https://www.waze.com/live-map/directions?to=ll.25.658934%2C-100.360429"><button class="boton-e boton-contacto">ABRIR UBICACIÓN <br> Waze</button></a>
+                </div>
+            </div>
+            <div class="linea-blanca"></div>
             <div class="formulario">
                 <form action="enviar " method="post">
                 <div class="titulos-principal ">

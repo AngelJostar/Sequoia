@@ -37,7 +37,7 @@
             <div class="tamaño-img ph-5 ocultar-media">
                 <img src="img/banners/Banner-crecimiento-infantil.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
-                <h2>En Centro Sequoia queremos que tomes decisiones informadas, por eso te presentamos a continuación toda la información que necesitas para entender el crecimiento de tu hijo o hija.</h2>
+                    <h2>En Centro Sequoia queremos que tomes decisiones informadas, por eso te presentamos a continuación toda la información que necesitas para entender el crecimiento de tu hijo o hija.</h2>
                 </div>
             </div>
             <div class="tamaño-img ph-6 mostrar-media contenedor-50porciento">
@@ -47,7 +47,7 @@
                 </div>
             </div>
             <div class="contenedor-video ph-2">
-                <div class="reproductor-rectangular" data-id="N9i126SBdP8"></div>
+                <div class="reproductor-rectangular" data-id="ygP78ev4eQI"></div>
             </div>
             <div class="textos-principal ph-1 ocultar-media">
                 <p>A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu hij@</p>
@@ -62,7 +62,7 @@
                 <div>
                     <img src="img/banners/ninio-astronauta.webp" alt="">
                 </div>
-                    <p>Le presentamos toda la información necesaria para entender a fondo el crecimiento de tu hijo o hija.</p>
+                <p>Le presentamos toda la información necesaria para entender a fondo el crecimiento de tu hijo o hija.</p>
                 <div class="centrar-texto texto-boton-esp pb-2">
                     <a href="generalidades-del-crecimiento-infantil.php"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
@@ -75,7 +75,7 @@
                 <div>
                     <img src="img/banners/ninios-acostados.webp" alt="">
                 </div>
-                    <p>El crecimiento de niños y niñas puede variar según su. Las tasas de crecimiento dependen de la edad de los niños y niñas.</p>
+                <p>El crecimiento de niños y niñas puede variar según su edad. Las tasas de crecimiento dependen de la edad de los niños y niñas.</p>
                 <div class="centrar-texto texto-boton-esp pb-2">
                     <a href="crecimiento-infantil-por-edad.php"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
@@ -88,7 +88,7 @@
                 <div>
                     <img src="img/banners/oximetro.webp" alt="">
                 </div>
-                    <p>Los diferentes transtornos del crecimiento pueden afectar la salud de un niño de muchas formas diferentes y pueden ser causados por una variedad de factores</p>
+                <p>Los diferentes transtornos del crecimiento pueden afectar la salud de un niño de muchas formas diferentes y pueden ser causados por una variedad de factores.</p>
                 <div class="centrar-texto texto-boton-esp pb-2 ">
                     <a href="causas-de-la-baja-estatura.php"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
@@ -102,9 +102,9 @@
                 <div>
                     <img src="img/banners/ninia-con-vestido.webp" alt="">
                 </div>
-                    <p>Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado</p>
+                <p>Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado.</p>
                 <div class="centrar-texto texto-boton-esp pb-2">
-                    <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
+                    <a href="/crecimiento-infantil-deficiente"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
 
@@ -115,9 +115,9 @@
                 <div>
                     <img src="img/banners/ninio-en-la-nauraleza.webp" alt="">
                 </div>
-                    <p>Además de tener más confianza y habilidades sociales debidas a su complexión física, las personas altas también pueden presumir de mayor.</p>
+                <p>Además de tener más confianza y habilidades sociales debidas a su complexión física, las personas altas también pueden presumir de mayor sueldo, más likes en redes sociales y también de una productividad laboral más amplia.</p>
                 <div class="centrar-texto texto-boton-esp pb-2">
-                    <a href="causas-de-la-baja-estatura"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
+                    <a href="importancia-de-ser-mas-alto.php"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
             <div class="tamaño-img ocultar-media ph-2">

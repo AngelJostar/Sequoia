@@ -41,7 +41,7 @@
                     <h2>Es muy importante que sepas que existen médicos, pediatras con subespecialidad en endocrinología pediátrica, que además después se enfocan en tratar únicamente la estatura de los niños y niñas</h2>
                 </div>
             </div>
-            <div class="tamaño-img ph-13 mostrar-media">
+            <div class="tamaño-img ph-8 mostrar-media">
                 <img src="img/banners/Banner-Especialistas-en-crecimeinto-Infantil-desktop.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                 <h2>Es muy importante que sepas que existen médicos, pediatras con subespecialidad en endocrinología pediátrica, que además después se enfocan en tratar únicamente la estatura de los niños y niñas</h2>
@@ -139,7 +139,7 @@
                         <div class="barra-titulo"></div>
                     </div>
                 </div>
-                <div class="textos-principal ph-23">
+                <div class="textos-principal ph-1">
                     <p>Los problemas hormonales que afectan el crecimiento o el desarrollo sexual de un adolecente o un niño pueden tener efectos significativos en el bienestar físico y emocional del mismo. En Centro Sequoia somos sensibles a estos temas
                         y entendemos a su hijo. El personal de apoyo, incluidos enfermeras, psicólogos y nutriólogos estamos en sintonía con las necesidades de los niños y adolescentes que atendemos. Con el objetivo de lograr que todos nuestros pacientes
                         consigan una mayor estatura.

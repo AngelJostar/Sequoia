@@ -29,6 +29,13 @@
     width: 90%;
 }
 
+@media (min-width: 580px) {
+    .container {
+        margin: 0 auto;
+        width: 60%;
+    }
+}
+
 .accordion .accordion-item {
     margin-top: 1rem;
 }
@@ -114,6 +121,7 @@
     max-height: 40em;
     transition: all 200ms linear;
     will-change: opacity, max-height;
+    line-height: 1.15;
 }
 
 .accordion .accordion-content {
@@ -128,6 +136,7 @@
     font-size: 1.4rem;
     font-weight: 300;
     margin: 2em 0;
+    line-height: 1.15;
 }
 
 .accordion .accordion-content ul li {

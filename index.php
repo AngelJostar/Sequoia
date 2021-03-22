@@ -65,7 +65,7 @@
                 <a href="especialistas-en-crecimiento"><img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="banners-especialistas"></a>
             </div>
             <div class="contenedor-video-2">
-                <div class="reproductor-rectangular" data-id="_bpb-KOnmwE"></div>
+                <div class="reproductor-rectangular" data-id="ygP78ev4eQI"></div>
             </div>
             <div class="linea-c"></div>
             <div class="cuadros-crecimiento ocultar">
@@ -127,10 +127,10 @@
                 </p>
             </div>
             <div class="tamaño-img ocultar-media">
-                <a href="importancia-de-ser-mas-alto"><img src="img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil"></a>
+                <a href="importancia-de-ser-mas-alto.php"><img src="img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="importancia-de-ser-mas-alto"><img src="img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil"></a>
+                <a href="importancia-de-ser-mas-alto.php"><img src="img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-2">
                 <div class="titulos-principal">

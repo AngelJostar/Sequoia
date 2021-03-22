@@ -59,13 +59,14 @@
                 <p>Cualquiera que sea la edad de su hijo, es importante saber si está creciendo como debería. Si la tasa de crecimiento de su hijo no se encuentra dentro del rango esperado, podría ser un signo de una condición de crecimiento inadecuado.
                 </p>
             </div>
+            <div class="contenedor-video-2">
+                <div class="reproductor-rectangular" data-id="zs9O0oeo3V4"></div>
+            </div>
             <div class="contenedor-infantil-deficiente">
-                <div class="contenedor-video">
-                    <div class="reproductor-rectangular" data-id="zs9O0oeo3V4"></div>
-                </div>
+
                 <div class="cuadros-crecimiento margin-top-20">
                     <div class="titulos-principal">
-                        <h2><span class="font-bold">¿CÓMO RECONOCER UN CRECIMIENTO DEFICIENTE<br>EN TU HIJO?</span></h2>
+                        <h2><span class="font-bold">¿CÓMO RECONOCER UN CRECIMIENTO DEFICIENTE EN TU HIJO?</span></h2>
                     </div>
                 </div>
                 <div class="textos-principal ph-14">
@@ -74,11 +75,8 @@
                 <div class="tamaño-img">
                     <img src="img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="">
                 </div>
-                <div class="ocultar-media">
-                    <a href="contacto"><img src="img/banners/BANNER-2-NIÑA-VERTICAL.webp" alt="altura-crecimiento-estatura"></a>
-                </div>
-                <div class="tamaño-img mostrar-media">
-                    <a href="contacto"><img src="img/banners/BANNER-2-NIÑA-HORIZONTAL.webp" alt="altura-crecimiento-estatura"></a>
+                <div class="tamaño-img">
+                    <a href="contacto"><img src="img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt="altura-crecimiento-estatura"></a>
                 </div>
                 <div class="cuadros-crecimiento margin-top-20">
                     <div class="titulos-principal">
@@ -95,7 +93,7 @@
                     <a href="causas-de-la-baja-estatura"><img src="img/banners/banner-nino-llorando.webp" alt="causas crecimiento hijo"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="causas-de-la-baja-estatura"><img src="img/banners/BANNER-5-HORIZONTAL.webp" alt="causas crecimiento hijo"></a>
+                    <a href="causas-de-la-baja-estatura.php"><img src="img/banners/BANNER-5-HORIZONTAL.webp" alt="causas crecimiento hijo"></a>
                 </div>
 
             </div>

@@ -43,7 +43,7 @@
             <h3>¿Mi hij@ esta creciendo bien? <br>
             ¿Qué puedo hacer para que mi hijo cresca?  <br>
             ¿A qué edad dejan de crecer los adolecentes? <br>
-            ¿Porqué algunos niños crecen más rápido que otros? <br>
+            ¿Porqué unos niños crecen más rápido que otros? <br>
             ¿Niños y niñas crecen diferente?</h3>
         </div>
         <div class="contenedor-video-2 pb-2">
@@ -57,7 +57,7 @@
                 <h2 style="font-size: 30px !important;" class="letra-cursiva">Preguntas frecuentes</h2>
             </div>
         </div>
-        <div class="body-container ph-11">
+        <div class="body-container ph-2">
             <div class="container">
                 <div class="accordion">
                     <div class="accordion-item">
@@ -97,8 +97,8 @@
                                 tendrá mejores beneficios.</p>
                         </div>
                     </div>
-                    <div class="tamaño-img">
-                        <img src="img/banners/CRECIMIENTO-Sequoia-Inicio-2021.webp" alt="altura crecimiento estatura">
+                    <div class="tamaño-img ph-05">
+                        <a href="crecimiento-infantil-deficiente"><img src="img/banners/CRECIMIENTO-Sequoia-Inicio-2021.webp" alt="altura crecimiento estatura"></a>
                     </div>
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">6.-¿Hasta qué edad se puede recibir tratamiento?<span class="icon" aria-hidden="true"></span></span></button>
@@ -145,8 +145,8 @@
                             <p>Estadísticamente las personas que miden más tienen mayor probabilidad de tener éxito social y laboral dado que sencillamente se les percibe como más inteligentes y poderosos.</p>
                         </div>
                     </div>
-                    <div class="tamaño-img">
-                        <img src="img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="medir edad hijo hija">
+                    <div class="tamaño-img ph-05">
+                        <a href="crecimiento-infantil-por-edad"><img src="img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="medir edad hijo hija"></a>
                     </div>
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">11.-¿Cómo afecta la estatura en la autoestima de un niño?<span class="icon" aria-hidden="true"></span></span></button>
@@ -232,17 +232,17 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="ocultar-media">
-                        <img src="img/banners/BANNER-2-NIÑA-VERTICAL.webp" alt="">
+                    <div class="ocultar-media ph-05">
+                        <a href="contacto"><img src="img/banners/BANNER-2-NIÑA-VERTICAL.webp" alt=""></a>
                     </div>
-                    <div class="tamaño-img mostrar-media">
-                        <img src="img/banners/BANNER-2-NIÑA-HORIZONTAL.webp" alt="">
+                    <div class="tamaño-img mostrar-media ph-05">
+                        <a href="contacto"><img src="img/banners/BANNER-2-NIÑA-HORIZONTAL.webp" alt=""></a>
                     </div>
                 </div>
             </div>
 
         </div>
-        <div class="tamaño-img">
+        <div class="tamaño-img ph-05">
             <img src="img/banners/contacto-crecimiento-infantil-estatura-medir-hija-2.webp" alt="">
         </div>
         </div>
