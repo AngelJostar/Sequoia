@@ -34,10 +34,26 @@
                     </div>
                 </div>
             </div>
+<<<<<<< HEAD
             <div class="textos-principal ph-6 ocultar-media">
                 <p>Para identificar si existe un problema con el crecimiento de su hijo, es importante comprender cómo el crecimiento de niños y niñas puede variar según su edad.</p>
             </div>
             <div class="textos-principal ph-7 mostrar-media">
+=======
+            <div class="tamaño-img ph-5 ocultar-media">
+                <img src="img/banners/Banner-Crecimiento-Infantil-Por-Edades.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>Para identificar si existe un problema con el crcimiento de su hijo, es importante comprender cómo el crecimiento de niños y niñas pueden variar según su edad.</h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-6 mostrar-media">
+                <img src="img/banners/Banner-Crecimiento-Infantil-Por-Edades-desktop.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>Para identificar si existe un problema con el crcimiento de su hijo, es importante comprender cómo el crecimiento de niños y niñas pueden variar según su edad.</h2>
+                </div>
+            </div>
+            <div class="textos-principal">
+>>>>>>> 16949ed6f6ab071deb6d5af08908260214cd973a
                 <p>Para identificar si existe un problema con el crecimiento de su hijo, es importante comprender cómo el crecimiento de niños y niñas puede variar según su edad.</p>
             </div>
             <div class="contenedor-video">

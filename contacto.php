@@ -117,6 +117,7 @@
             </div>
             <div class="formulario">
                 <form action="enviar " method="post">
+<<<<<<< HEAD
                 <div class="titulos-principal ">
                     <h2>FORMULARIO DE CONTACTO<br><span class="letra-cursiva">Juntos ayudamos a tu hij@</span></h2>
                 </div>
@@ -145,6 +146,24 @@
                     <textarea name="mensaje" placeholder="Escriba aqui su mensaje" required></textarea>
                     <input type="submit" value="ENVIAR" id="boton">
                 </div>
+=======
+                <h2 class="contacto-h2">Envíanos tus dudas y comentarios</h2>
+                <p>NOMBRE *</p>
+                <input type="text" name="nombre" placeholder="Nombre" required>
+                <p>CORREO ELECTRONICO    *</p>
+                <input type="email" name="correo" placeholder="Correo" required>
+                <p>TELÉFONO</p>
+                <input type="tel" name="telefono" placeholder="Teléfono" required>
+                <p>ELIGE UN CENTRO</p>
+                <select name="centro">
+                <option value="CDMX">CDMX</option> 
+                <option value="GUADALAJARA">GUADALAJARA</option> 
+                <option value="MONTERREY">MONTERREY</option>
+                </select>
+                <p>MENSAJE</p>
+                <textarea name="mensaje" placeholder="Escriba aqui su mensaje" required></textarea>
+                <input type="submit" value="ENVIAR" id="boton">
+>>>>>>> 16949ed6f6ab071deb6d5af08908260214cd973a
                 </form>
             </div>
         </section>
