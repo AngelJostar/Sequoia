@@ -35,8 +35,14 @@
                     </div>
                 </div>
             </div>
-            <div class="caja-imagen-hojas">
-                <img src="/img/banners/Banner-Nutricion-y-de-crecimiento.webp" alt="">
+            <div class="tamaño-img ph-3 ocultar-media">
+                <img src="../img/generalidades-del-crecimiento-infantil/Banner-pubertad-precoz.webp" alt="altura crecimiento estatura">
+                <div class="texto-imagen-izquierda">
+                    <h2>La nutrición en cada una de las diferentes etapas de la edad pediátrica tiene como objetivo conseguir un crecimiento y desarrollo adecuados.</h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-3 mostrar-media">
+                <img src="../img/generalidades-del-crecimiento-infantil/Banner-pubertad-precoz-desktop.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>La nutrición en cada una de las diferentes etapas de la edad pediátrica tiene como objetivo conseguir un crecimiento y desarrollo adecuados.</h2>
                 </div>

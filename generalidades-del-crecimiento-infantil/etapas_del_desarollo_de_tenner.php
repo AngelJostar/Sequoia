@@ -73,7 +73,7 @@
                     <h2><span class="font-bold">TABLA I</span> <br> GRADOS DE TANNER DEL DESARROLLO <br> MAMARIO Y VELLO PUBIANO EN LAS NIÑAS</h2>
                 </div>
             </div>
-            <div>
+            <div class="justificar-texto-90 justificar-derecha-texto">
                 <div class="etapas-tenner-grid mt-1">
                     <div class="etapas-grado">
                         <div class="etapas-grado-bg">

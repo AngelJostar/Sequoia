@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Importancia de ser mas alto - deporte</title>
+<title>Autoestima</title>
 <link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
 
@@ -56,7 +56,7 @@
             <div class="justificar-texto-90 centrar-texto">
                 <p>De acuerdo con un estudio publicado en la revista Psychiatry Research, las personas que son de baja estatura suelen padecer baja autoestima. De acuerdo a la investigación de la Universidad de Oxford, las personas que son de baja estatura tienen un complejo de inferioridad y se sienten amenazados por los demás. En la adolescencia donde los cambios corporales están desconcertando al joven que al compararse con sus compañeros se siente atrasado en su crecimiento ser más bajos que sus compañeros los podría hacer vulnerables al acoso escolar, afectando su rendimiento académico y su desarrollo psicosocial.</p>
             </div>
-            <div class="imagen-80 centrar-imagen pb-30">
+            <div class="tamaño-img centrar-imagen pb-30">
                 <img src="/img/nueva/autoestima1.webp" alt="Brexia_especialistas">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
@@ -64,7 +64,6 @@
                     <h2><span class="font-bold">A CONTINUACIÓN SE PRESENTAN<br> PUNTOS CLAVE PARA DETERMINAR <br>UNA SANA AUTOESTIMA EN EL<br>ADOLESCENTE:</span></h2>
                 </div>
             </div>
-            <div class="contenedor-principal pb-2">
                     <div class="justificar-texto-90-listas">
                         <ul>
                             <li>Capacidad para recuperarse de los errores (tanto propios como ajenos)</li>
@@ -73,7 +72,6 @@
                             <li>Responsabilidad de acuerdo a su edad</li>
                         </ul>
                     </div>
-            </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
                     <h2><span class="font-bold">MIENTRAS QUE UNA BAJA AUTOESTIMA<br>SE CARACTERIZA POR:</span></h2>
@@ -101,7 +99,7 @@
             <div class="justificar-texto-90">
                 <p>Por tanto, las personas con el complejo de Napoleón suelen compensar su baja estatura con comportamientos negativos en sus vidas, por lo que pueden ser más agresivas y celosas. Este complejo también es conocido como complejo napoleónico o complejo del hombre bajito.</p>
             </div>      
-            <div class="imagen-80 centrar-imagen pb-25">
+            <div class="tamaño-img centrar-imagen pb-25">
                 <img src="/img/nueva/autoestima2.webp" alt="Brexia_especialistas">
             </div>      
             <div class="ocultar-media">

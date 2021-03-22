@@ -23,12 +23,23 @@
 
         <?php include_once 'includes/templates/header.php';?>
         <div class="contenedor-principal" id="contenedor-principal">
-            <div class="cuadros-crecimiento">
+            <div class="cuadros-crecimiento ocultar">
                 <div class="titulos-grid-gci">
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
                     <h1 style="font-size: calc(1.35em + 1vw);"> <span class="font-bold">IMPORTANCIA DE<br>SER MÁS ALTO</h1>
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="cuadros-crecimiento mostrar">
+                <div class="titulos-grid-gci">
+                    <div class="flexbox padre">
+                        <div class="barra-titulo"></div>
+                    </div>
+                    <h1 style="font-size: calc(1.35em + 1vw);"> <span class="font-bold">IMPORTANCIA DE SER MÁS ALTO</h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
@@ -51,26 +62,35 @@
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="N9i126SBdP8"></div>
             </div>
-            <div class="cuadros-crecimiento margin-top-20">
-                <div class="titulos-principal-2 ">
+            <div class="cuadros-crecimiento margin-top-20 pb-15">
+                <div class="titulos-principal-3 ocultar-media">
                     <h2>La importancia de ser MÁS ALTO </h2>
                 </div>
-                <div class="texto-importancia-2 pb-15 pt-15">
+                <div class="titulos-principal-3 pt-15 mostrar-media">
+                    <h2>La importancia de ser MÁS ALTO </h2>
+                </div>
+                <div class="texto-importancia-2 pb-15 ocultar-media">
                     <p>Las investigaciones científicas sugieren que los hombres y mujeres altos tienen una ventaja significativa sobre otros más chaparros.</p>
                 </div>
+                <div class="texto-importancia-2 mostrar-media contenedor-45porciento">
+                    <p>Las investigaciones científicas sugieren que los hombres <br>y mujeres altos tienen una ventaja significativa<br>sobre otros más chaparros.</p>
+                </div>
             </div>
-            <div class="box efecto3">
+            <div class="box efecto3 ocultar-media">
                 <h3>¡Ser alto es uno de los factores que hacen<br>que las personas tengan éxito y sean felices!</h3>
             </div>
-            <div class="textos-principal-importancia">
-                <p>Ser chaparrito afecta desde la vida empresarial<br>hasta las relaciones en pareja.</p>
+            <div class="box efecto3 mb-22em mostrar-media">
+                <h3>¡Ser alto es uno de los factores que hacen<br>que las personas tengan éxito <br>y sean felices!</h3>
             </div>
-            <div class="textos-principal-importancia margin-negativo">
-                <p>Las ventajas de ser más alto, que conduce a una<br>imagen más exitosa y efectiva son:</p>
+            <div class="textos-principal">
+                <p>Ser chaparrito afecta desde la vida empresarial hasta las relaciones en pareja.</p>
+            </div>
+            <div class="textos-principal">
+                <p>Las ventajas de ser más alto, que conduce a una imagen más exitosa y efectiva son:</p>
             </div>
             <div class="cuadros-crecimiento-crecimiento margin-negativo-2">
                 <div class="titulos-principal-3">
-                    <h2>SER MÁS ALTO MEJORA LA RELACIÓN ENTRE <br> HOMBRES Y MUJERES<span class="font-blanquitas-curveadas"> (CONSEGUIR PAREJA)</span></h2>
+                    <h2>SER MÁS ALTO MEJORA LA RELACIÓN ENTRE HOMBRES Y MUJERES<span class="font-blanquitas-curveadas"> (CONSEGUIR PAREJA)</span></h2>
                 </div>
                 <div class="img-95 padding-1">
                     <img src="img/importancia-de-ser-mas-alto/pexels-pixabay-258421.webp" alt="">
@@ -149,10 +169,10 @@
                     <h2><span class="letra-cursiva-2">¡Tu hija o hijo puede ser más alto!</span></h2>
                 </div>
             </div>
-            <div class="tamaño-img ocultar-media">
+            <div class="tamaño-img ocultar-media ph-1">
                 <a href="causas-de-la-baja-estatura"><img src="img/importancia-de-ser-mas-alto/BANNER-5-VERTICAL.webp" alt="especialistas crecimiento"></a>
             </div>
-            <div class="tamaño-img mostrar-media">
+            <div class="tamaño-img mostrar-media ph-1">
                 <a href="causas-de-la-baja-estatura"><img src="img/banners/BANNER-5-HORIZONTAL.webp" alt="especialistas crecimiento"></a>
             </div>
         </div>

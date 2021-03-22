@@ -88,8 +88,11 @@
                 <p>En general los cuidados rutinarios en los pacientes con RCCP consisten en la observación y controles periódicos; los andrógenos, la hormona de crecimiento y los inhibidores de la aromatasa pueden ser utilizados para acelerar el crecimiento y el desarrollo puberal en estos niños, potencialmente mejorando su talla final adulta; sin embargo, ninguno de estos medicamentos actúa sobre la causa del RCCP.</p>
                 <p>Ante cualquier cambio en el crecimiento de tu hijo no dudes en acudir con nuestros Médicos Pediatras Endocrinólogos. Ellos diagnosticarán las causas por las que tu hijo no crece adecuadamente para alcanzar una mayor estatura.</p>
             </div>
-            <div class="tamaño-img">
-                <img src="/img/causas-baja/BANNER-2-NIÑA-VERTICAL.webp" alt="contacto crecimiento">
+            <div class="ocultar-media">
+                <a href="contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+            </div>
+            <div class="tamaño-img mostrar-media">
+                <a href="contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
  
         </div>

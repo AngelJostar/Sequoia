@@ -52,10 +52,10 @@
             <div class="justificar-texto-85 centrar-texto pb-2">
                 <p>Hasta los dos años se miden el peso, la longitud (la medida de pies a cabeza con el niño acostado) y el perímetro cefálico (tamaño de la cabeza en redondo). A partir de los dos años y hasta el final de crecimiento se miden el peso y la talla (la medida de pies a cabeza estando de pie). También es útil conocer el índice de masa corporal (IMC), que se obtiene dividiendo el peso por la talla al cuadrado (peso/talla2).</p>
             </div>
-            <div>
+            <div class="tamaño-img">
                 <img src="../img/generalidades-del-crecimiento-infantil/graficas-de-crecimiento-1.webp" alt="graficas-de-crecimiento">
             </div>
-            <div class="pt-15 pb-30">
+            <div class=" tamaño-img pt-15 pb-30">
                 <img src="../img/generalidades-del-crecimiento-infantil/graficas-de-crecimiento-2.webp" alt="graficas-de-crecimiento">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
@@ -78,10 +78,10 @@
             <div class="justificar-texto-85">
                 <p>Además del percentil también es útil conocer la velocidad de aumento del peso y de la talla. Las gráficas de crecimiento tienen más utilidad para realizar un seguimiento a lo largo del tiempo. Ver la variación del crecimiento a distintas edades y conocer cómo es la curva particular de un niño concreto es más importante que un valor aislado. Si un niño crece siguiendo un cierto patrón y en un momento dado cambia ese patrón y empieza a crecer más despacio, podemos estar ante un problema de salud y descubrirlo observando su curva de crecimiento. Aunque en determinados periodos, como entre los 6 y 18 meses o en la adolescencia, algunos niños normales pueden cambiar de percentil.</p>
             </div>
-            <div class="pt-15">
+            <div class="tamaño-img pt-15">
                 <img src="../img/generalidades-del-crecimiento-infantil/NIÑOS-GRAFICA.webp" alt="graficas-de-crecimiento">
             </div>
-            <div class="pt-15 pb-30">
+            <div class="tamaño-img pt-15 pb-30">
                 <img src="../img/generalidades-del-crecimiento-infantil/Banner-Edad-ósea-.webp" alt="graficas-de-crecimiento">
             </div>  
         </div>

@@ -36,14 +36,14 @@
                     </div>
                 </div>
             </div>
-            <div class="sombras-img ph-4 pb-2 tamaño-img ocultar">
+            <div class="sombras-img ph-5 pb-2 tamaño-img ocultar">
                 <a href="es"><img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada"></a>
             </div>
             <div class="sombras-img ph-4  tamaño-img mostrar">
-                <a href=""><img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada"></a>
+                <a href=""><img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" alt="Portada"></a>
             </div>
 
-            <div class="textos-principal pt-15">
+            <div class="textos-principal margin-negativo-top-15 ">
                 <p><span class="font-bold">Centro SEQUOIA</span> es un <span class="font-bold">Centro Pediátrico Exclusivo para el Crecimiento infantil</span> formado por Médicos Pediatras Endocrinólogos, certificados por el Consejo Mexicano de Endocrinología
                     A.C. Ellos diagnosticarán las causas por las que tu hijo no crece adecuadamente y lo ayudaran a alcanzar una mayor estatura.</p>
             </div>
@@ -80,10 +80,10 @@
                     </h2>
                 </div>
             </div>
-            <div class="pb-2 ocultar-media ph-13">
+            <div class="pb-2 ocultar-media ph-10">
                 <a href="crecimiento-infantil"><img src="img/banners/Banner-mujer-y-nino.webp" alt="Banners-estatura-crecer"></a>
             </div>
-            <div class="pb-2 mostrar-media tamaño-img ph-13">
+            <div class="pb-2 mostrar-media tamaño-img ph-10">
                 <a href="crecimiento-infantil"><img src="img/banners/BANNER-7-HORIZONTAL.webp" alt="Banners-estatura-crecer"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
@@ -145,7 +145,7 @@
             <div class="ocultar-media">
                 <a href="contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
-            <div class="tamaño-img mostrar-media">
+            <div class="tamaño-img mostrar-media ph-1">
                 <a href="contacto"><img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
 

@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Importancia de ser mas alto - pareja</title>
+<title>Pareja</title>
 <link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
 
@@ -51,7 +51,7 @@
                 <p>La estatura es un factor importante al momento de elegir pareja. De hecho, la característica que destaca como “primer filtro” es la personalidad, seguida de cerca por estatura y complexión física, ambos, criterios que son más valorados
                     que la sonrisa, ojos, el tono de voz o estilo de vestir, revela un estudio en torno a las características que tanto mujeres como hombres toman en cuenta al buscar y elegir pareja. </p>
             </div>
-            <div class="imagen-80 centrar-imagen ">
+            <div class="tamaño-img centrar-imagen ">
                 <img src="/img/nueva/image001.webp" alt="Brexia_especialistas">
             </div>
             <div class="justificar-texto-90">
@@ -61,7 +61,7 @@
             <div class="justificar-texto-90">
                 <p>Según una investigación de Michael O. Emerson y George Yancey, sociólogos de la Universidad de Rice en Houston, en lo primero que se fijan las mujeres físicamente de los hombres a la hora de buscar pareja, es en la estatura. </p>
             </div>
-            <div class="imagen-80 centrar-imagen ">
+            <div class="tamaño-img centrar-imagen ">
                 <img src="/img/nueva/image003.webp" alt="Brexia_especialistas">
             </div>
             <div class="justificar-texto-90">
