@@ -68,7 +68,7 @@
                         <h2><span class="font-bold">¿CÓMO RECONOCER UN CRECIMIENTO DEFICIENTE<br>EN TU HIJO?</span></h2>
                     </div>
                 </div>
-                <div class="textos-principal">
+                <div class="textos-principal ph-14">
                     <p>Hay señales a las que debe prestar atención que podrían indicar que su hijo no está creciendo como debería: </p>
                 </div>
                 <div class="tamaño-img">
@@ -85,7 +85,7 @@
                         <h2><span class="font-bold">¿QUÉ SIGNIFICA UN CRECIMIENTO <br> DEFICIENTE EN MI HIJO?<br></h2>
                     </div>
                 </div>
-                <div class="textos-principal">
+                <div class="textos-principal ph-12">
                     <p>En algunos niños y niñas, el crecimiento deficiente puede no ser una causa de preocupación, pero, en otros, puede estar asociado con serios problemas de salud, el niño puede presentar afectaciones en: </p>
                 </div>
                 <div class="tamaño-img">

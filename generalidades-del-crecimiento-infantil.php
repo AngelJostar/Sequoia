@@ -68,11 +68,14 @@
                     </div>
                 </div>
                 <div class="cuadros-crecimiento margin-top-20 ">
-                    <div class="titulos-principal mostrar">
+                    <div class="titulos-principal mostrar contenedor-50porciento">
                     <h2><span class="font-bold">TEMAS IMPORTANTES</span> RELACIONADOS CON EL CRECIMIENTO DE TU HIJ@</h2>
                     </div>
                 </div>
-                <div class="textos-principal  ph-11">
+                <div class="textos-principal  ph-11 ocultar-media">
+                    <p>La desinformación puede retrasar las intervenciones cuando realmente es necesario hacer algo. A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu niño o niña:</p>
+                </div>
+                <div class="textos-principal  ph-13 mostrar-media">
                     <p>La desinformación puede retrasar las intervenciones cuando realmente es necesario hacer algo. A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu niño o niña:</p>
                 </div>
                 <div class="ocultar-media">
@@ -164,19 +167,19 @@
                         <h2>FACTORES ENDÓGENOS <br> (PROPIOS DEL NIÑO)</h2>
                         </div>
                     </div>
-                    <div class="textos-principal ph-10 ocultar">
+                    <div class="textos-principal ph-6 ocultar">
                         <ul type="point">
-                            <li> Factores genéticos del crecimiento: Existen genes en el cuerpo humano que participan en el crecimiento de un niño y que son heredados de ambos padres . Los genes del crecimiento de los papás determinan el 80 % de la talla final
+                            <li><span class="font-bold"> Factores genéticos del crecimiento:</span><br>Existen genes en el cuerpo humano que participan en el crecimiento de un niño y que son heredados de ambos padres . Los genes del crecimiento de los papás determinan el 80 % de la talla final
                                 adulta de su hijo.</li>
-                            <li>Factores hormonales del crecimiento: Durante la etapa fetal interactúan genes y hormonas producidas por el bebe y la placenta para cumplir la función del crecimiento y después del nacimiento la hormona de crecimiento y las
+                            <li><span class="font-bold"> Factores hormonales del crecimiento:</span><br> Durante la etapa fetal interactúan genes y hormonas producidas por el bebe y la placenta para cumplir la función del crecimiento y después del nacimiento la hormona de crecimiento y las
                                 hormonas tiroideas realizarán esta función. En la pubertad las hormonas sexuales (que son las que dan los cambios de la adolescencia) se suman a la función del crecimiento para culminar en la talla final adulta.</li>
                         </ul>
                     </div>
-                    <div class="textos-principal  ph-10 mostrar contenedor-50porciento ">
+                    <div class="textos-principal  ph-8 mostrar contenedor-50porciento ">
                         <ul type="point">
-                            <li> Factores genéticos del crecimiento: Existen genes en el cuerpo humano que participan en el crecimiento de un niño y que son heredados de ambos padres . Los genes del crecimiento de los papás determinan el 80 % de la talla final
+                            <li><span class="font-bold"> Factores genéticos del crecimiento:</span><br>Existen genes en el cuerpo humano que participan en el crecimiento de un niño y que son heredados de ambos padres . Los genes del crecimiento de los papás determinan el 80 % de la talla final
                                 adulta de su hijo.</li>
-                            <li>Factores hormonales del crecimiento: Durante la etapa fetal interactúan genes y hormonas producidas por el bebe y la placenta para cumplir la función del crecimiento y después del nacimiento la hormona de crecimiento y las
+                            <li><span class="font-bold"> Factores hormonales del crecimiento:</span><br> Durante la etapa fetal interactúan genes y hormonas producidas por el bebe y la placenta para cumplir la función del crecimiento y después del nacimiento la hormona de crecimiento y las
                                 hormonas tiroideas realizarán esta función. En la pubertad las hormonas sexuales (que son las que dan los cambios de la adolescencia) se suman a la función del crecimiento para culminar en la talla final adulta.</li>
                         </ul>
                     </div>
@@ -186,7 +189,7 @@
                         <h2>FACTORES EXÓGENOS <br> (EXTERNOS):</h2>
                         </div>
                     </div>
-                    <div class="textos-principal pb-15 ph-10">
+                    <div class="textos-principal ph-10 pb-2 ocultar">
                         <ul type="point">
                             <li> La alimentación correcta del niño aporta el material energético necesario para su crecimiento. La desnutrición o enfermedades que no permitan la absorción adecuada de los nutrientes pueden dar como resultado una talla baja.
                             </li>
@@ -197,6 +200,24 @@
                             <li>Actualmente el tema de crecimiento infantil es importante ya que la talla baja no solo afecta de manera psicológica (autoestima, bullying, etc), sino también en el desarrollo social e incluso en la vida laboral.
                             </li>
                         </ul>
+                    </div>
+                    <div class="textos-principal  ph-13 mostrar contenedor-50porciento pb-2">
+                        <ul type="point">
+                            <li> La alimentación correcta del niño aporta el material energético necesario para su crecimiento. La desnutrición o enfermedades que no permitan la absorción adecuada de los nutrientes pueden dar como resultado una talla baja.
+                            </li>
+                            <li>Hábitos: La práctica regular del ejercicio para niños es beneficioso para el crecimiento, no así el de competición o alto rendimiento. El sueño durante la noche y de manera temprana es otro factor que influye en la producción
+                                de la hormona de crecimiento natural.</li>
+                            <li>Psicológicos y afectivos. Alguna privación emocional, anorexia y depresión pueden provocar alteraciones en el crecimiento.</li>
+                            <li>De este modo, la talla máxima adulta se verá influenciada por la interacción de estos factores. La expresión de los genes dependerá del estado de salud, psicológico y nutricional del niño.</li>
+                            <li>Actualmente el tema de crecimiento infantil es importante ya que la talla baja no solo afecta de manera psicológica (autoestima, bullying, etc), sino también en el desarrollo social e incluso en la vida laboral.
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="ocultar-media">
+                        <a href="contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                    </div>
+                    <div class="tamaño-img mostrar-media">
+                        <a href="contacto"><img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
                     </div>
             </div>
 

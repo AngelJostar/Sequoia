@@ -40,16 +40,19 @@
                 <h2>En Centro Sequoia queremos que tomes decisiones informadas, por eso te presentamos a continuación toda la información que necesitas para entender el crecimiento de tu hijo o hija.</h2>
                 </div>
             </div>
-            <div class="tamaño-img ph-6 mostrar-media">
+            <div class="tamaño-img ph-6 mostrar-media contenedor-50porciento">
                 <img src="img/banners/Banner-crecimiento-infantil-desktop.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>En Centro Sequoia queremos que tomes decisiones informadas, por eso te presentamos a continuación toda la información que necesitas para entender el crecimiento de tu hijo o hija.</h2>
                 </div>
             </div>
-            <div class="contenedor-video">
+            <div class="contenedor-video ph-2">
                 <div class="reproductor-rectangular" data-id="N9i126SBdP8"></div>
             </div>
-            <div class="textos-principal">
+            <div class="textos-principal ph-1 ocultar-media">
+                <p>A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu hij@</p>
+            </div>
+            <div class="textos-principal mostrar-media contenedor-85porciento">
                 <p>A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu hij@</p>
             </div>
             <div class="cuadros-crecimiento-crecimiento">
@@ -107,7 +110,7 @@
 
             <div class="cuadros-crecimiento-crecimiento">
                 <div class="titulos-principal">
-                    <h2>IMPORTANCIA DE SER <br> <span class="letra-cursiva">MAS ALTO</span></h2>
+                    <h2>IMPORTANCIA DE SER <br> <span class="letra-cursiva">Más Alto</span></h2>
                 </div>
                 <div>
                     <img src="img/banners/ninio-en-la-nauraleza.webp" alt="">
@@ -117,10 +120,10 @@
                     <a href="causas-de-la-baja-estatura"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
-            <div class="pb-25 tamaño-img ocultar-media">
+            <div class="tamaño-img ocultar-media ph-2">
                 <a href="especialistas-en-crecimiento"><img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="banners-especialistas"></a>
             </div>
-            <div class="pb-25 tamaño-img mostrar-media">
+            <div class=" tamaño-img mostrar-media ph-2 contenedor-50porciento">
                 <a href="especialistas-en-crecimiento"><img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="banners-especialistas"></a>
             </div>
         </div>

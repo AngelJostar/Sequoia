@@ -560,7 +560,7 @@
         .letra-cursiva {
             font-family: 'Pacifico', cursive;
             font-weight: 200;
-            font-size: 30px;
+            font-size: calc(1.1em + .7vw);
         }
         
         .margin-top-20 {
@@ -586,6 +586,11 @@
             margin: 0 auto;
         }
         
+        .contenedor-40porciento {
+            max-width: 40% !important;
+            margin: 0 auto;
+        }
+        
         .contenedor-45porciento {
             max-width: 45% !important;
             margin: 0 auto;
@@ -607,7 +612,6 @@
         
         .fondo-contacto {
             background-color: #00205E!important;
-            color: white;
             height: 190px;
         }
         
@@ -637,6 +641,10 @@
             line-height: 26px;
             color: #ffffff;
             line-height: 12px;
+        }
+        
+        .t-izquierda p {
+            text-align: left !important;
         }
         /*
 .primer-p {
@@ -686,6 +694,7 @@
             text-align: center;
             color: #c0d41f;
             margin: 18px 0 0 0;
+            line-height: 1.2;
         }
         
         .font-ciudades span {
@@ -695,10 +704,6 @@
         
         .formulario {
             margin-bottom: 25px;
-        }
-        
-        .formulario p {
-            font-size: 10px;
         }
         
         form {
@@ -772,11 +777,11 @@
         .titulos-principal h2 {
             max-width: 95%;
             text-align: center;
-            font-weight: 400;
+            font-weight: 500;
             color: #ffffff;
             padding: 20px 0 20px 0;
             margin: 0 auto;
-            font-size: calc(14px + .8vw);
+            font-size: calc(16px + .8vw);
             line-height: 1.5;
         }
         
@@ -795,6 +800,7 @@
             color: #00235d;
             font-weight: 500;
             margin: 0 auto;
+            line-height: 1.2;
             text-align: center;
             max-width: 90%;
         }
@@ -841,12 +847,12 @@
         .textos-principal li {
             margin: 0 auto;
             max-width: 90%;
-            font-size: 14px;
+            font-size: calc(13px + .3vw);
             font-weight: 500;
             color: rgb(135, 135, 135);
             text-align: center;
             word-spacing: 1px;
-            line-height: 20px;
+            line-height: calc(20px + .6vw);
             margin-top: 2rem;
         }
         
@@ -1145,6 +1151,10 @@
             padding-top: calc(1em + 1vw);
         }
         
+        .ph-2 {
+            padding-top: calc(2em + 1vw);
+        }
+        
         .ph-3 {
             padding-top: calc(3em + 1vw);
         }
@@ -1155,6 +1165,10 @@
         
         .ph-5 {
             padding-top: calc(5em + 1vw);
+        }
+        
+        .ph-5punto5 {
+            padding-top: calc(5.5em + 1vw);
         }
         
         .ph-6 {
@@ -1181,12 +1195,40 @@
             padding-top: calc(11em + 1vw);
         }
         
+        .ph-12 {
+            padding-top: calc(12em + 1vw);
+        }
+        
         .ph-13 {
             padding-top: calc(13em + 1vw);
         }
         
+        .ph-14 {
+            padding-top: calc(14em + 1vw);
+        }
+        
+        .ph-15 {
+            padding-top: calc(15em + 1vw);
+        }
+        
+        .ph-16 {
+            padding-top: calc(16em + 1vw);
+        }
+        
+        .ph-17 {
+            padding-top: calc(17em + .1vw);
+        }
+        
         .ph-18 {
-            padding-top: calc(18em + 1vw);
+            padding-top: calc(18em + 1vw) !important;
+        }
+        
+        .ph-22 {
+            padding-top: calc(22em + 1vw);
+        }
+        
+        .ph-23 {
+            padding-top: calc(23em + 1vw);
         }
         /*END_FOOTER*/
         /*Redes Sociales*/
@@ -1466,15 +1508,15 @@
         
         .cuadros-crecimiento-crecimiento p {
             color: rgba(255, 255, 255, 0.89);
-            font-size: 15px;
+            font-size: calc(1.5em + .6vw);
             max-width: 85%;
             margin: 0 auto;
             font-weight: 300;
             padding-top: 1.5rem;
             padding-bottom: 2.5rem;
-            line-height: 23px;
+            line-height: calc(1.2em + .1vw);
             text-align: center;
-            word-spacing: 1px;
+            word-spacing: 2px;
         }
         
         .cuadros-crecimiento-crecimiento h1 {
@@ -2018,6 +2060,10 @@
             margin-top: -18px;
         }
         
+        .margin-negativo-top-35 {
+            margin-top: -35px;
+        }
+        
         .titulos-principal-3 h2 {
             max-width: 90%;
             margin: 0 auto;
@@ -2281,7 +2327,7 @@
                 font-size: 1.6vw;
             }
             .cuadros-crecimiento-crecimiento {
-                max-width: 75%;
+                max-width: 50%;
                 margin: 0 auto;
                 margin-top: 30px;
             }
@@ -2290,7 +2336,7 @@
                 max-width: 75%;
             }
             .contenedor-video {
-                max-width: 400px;
+                max-width: 50%;
             }
             .reproductor {
                 width: 400px;
@@ -2321,7 +2367,7 @@
             /*La uso en crecimiento infantil*/
             .titulos-grid-crecimiento-infantil {
                 display: grid;
-                grid-template-columns: 28% 44% 28%;
+                grid-template-columns: 30% 40% 30%;
             }
             /*La uso en generalidades del crecimiento infantil y en importancia de ser más alto*/
             .titulos-grid-gci {
@@ -2385,13 +2431,31 @@
                 font-weight: 600;
             }
             .justificar-texto-90 {
-                max-width: 60%;
+                max-width: 50%;
             }
             .justificar-texto-90-listas {
-                max-width: 60%;
+                max-width: 50%;
             }
             .justificar-texto-85 {
                 max-width: 60%;
+            }
+            .boton-crecimiento-2 {
+                background: rgb(192, 212, 31);
+                text-decoration: none;
+                height: 45px;
+                width: 330px;
+                border-radius: 20px;
+                color: white;
+                font-weight: 700 !important;
+            }
+            .boton-crecimiento {
+                background: rgb(192, 212, 31);
+                text-decoration: none;
+                height: 40px;
+                width: 300px;
+                border-radius: 20px;
+                color: white;
+                font-weight: 700 !important;
             }
         }
         
@@ -2404,13 +2468,13 @@
         @media (min-width: 1200px) {
             .tamaño-img {
                 margin: 0 auto;
-                max-width: 60.2%;
+                max-width: 50%;
             }
             .ocultar {
                 display: none;
             }
             .cuadros-crecimiento-crecimiento {
-                max-width: 60.2%;
+                max-width: 50%;
             }
             /*++++++++++++++++++++++++++++++ENCABEZADOS DE PAGINAS (GREEDS)++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
             /*La uso en index, contacto*/
@@ -2430,7 +2494,7 @@
             /*La uso en crecimiento infantil*/
             .titulos-grid-crecimiento-infantil {
                 display: grid;
-                grid-template-columns: 35% 30% 35%;
+                grid-template-columns: 32% 36% 32%;
             }
             /*La uso en generalidades del crecimiento infantil y en importancia de ser más alto*/
             .titulos-grid-gci {
@@ -2460,7 +2524,7 @@
                 margin-bottom: 2rem;
             }
             .grid-index-2 {
-                max-width: 55%;
+                max-width: 50%;
                 margin: 0 auto;
                 display: grid;
                 grid-template-columns: 50% 50%;

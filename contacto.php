@@ -52,12 +52,12 @@
             </div>
         </section>
         <section class="contenedor-info-contacto">
-                        <div class="cuadros-crecimiento">
+            <div class="cuadros-crecimiento">
                 <div class="titulos-principal">
                     <h2>Centros en CDMX, Guadalajara y Monterrey</h2>
                 </div>
             </div>
-            <div class="contacto-box">
+            <div class="contacto-box ph-10">
                 <div>
                     <i class="direccion-icono fas fa-route"></i>
                 </div>
@@ -73,6 +73,7 @@
                     </div>
                 </div>
             </div>
+
             <div class="contenedor-90porciento">
                 <img src="img/Mapas/MAPA-CDMX-1015x542.jpg" alt="Mapa-CDMX">
             </div>
@@ -116,22 +117,34 @@
             </div>
             <div class="formulario">
                 <form action="enviar " method="post">
-                <h2 class="contacto-h2">Envíanos tus dudas y comentarios</h2>
-                <p>NOMBRE *</p>
-                <input type="text" name="nombre" placeholder="Nombre" required>
-                <p>CORREO ELECTRONICO    *</p>
-                <input type="email" name="correo" placeholder="Correo" required>
-                <p>TELÉFONO</p>
-                <input type="tel" name="telefono" placeholder="Teléfono" required>
-                <p>ELIGE UN CENTRO</p>
-                <select name="centro">
-                <option value="1">CDMX</option> 
-                <option value="2">GUADALAJARA</option> 
-                <option value="3">MONTERREY</option>
-                </select>
-                <p>MENSAJE</p>
-                <textarea name="mensaje" placeholder="Escriba aqui su mensaje" required></textarea>
-                <input type="submit" value="ENVIAR" id="boton">
+                <div class="titulos-principal ">
+                    <h2>FORMULARIO DE CONTACTO<br><span class="letra-cursiva">Juntos ayudamos a tu hij@</span></h2>
+                </div>
+                <div class = "t-izquierda tercer-p">
+                    <p>NOMBRE *</p>
+                    <input type="text" name="nombre" placeholder="Nombre" required>
+                </div>
+                <div class = "t-izquierda tercer-p">
+                    <p>CORREO ELECTRONICO    *</p>
+                    <input type="email" name="correo" placeholder="Correo" required>
+                </div>
+                <div class = "t-izquierda tercer-p">
+                    <p>TELÉFONO</p>
+                    <input type="tel" name="telefono" placeholder="Teléfono" required>
+                </div>
+                <div class = "t-izquierda tercer-p">
+                    <p>ELIGE UN CENTRO</p>
+                    <select name="centro">
+                    <option value="1">CDMX</option> 
+                    <option value="2">GUADALAJARA</option> 
+                    <option value="3">MONTERREY</option>
+                    </select>
+                </div>
+                <div class = "t-izquierda tercer-p">
+                    <p>MENSAJE</p>
+                    <textarea name="mensaje" placeholder="Escriba aqui su mensaje" required></textarea>
+                    <input type="submit" value="ENVIAR" id="boton">
+                </div>
                 </form>
             </div>
         </section>
