@@ -35,7 +35,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-3 ocultar-media">
+            <div class="tamaño-img ph-5 ocultar-media">
                 <img src="../img/generalidades-del-crecimiento-infantil/Banner-pubertad-precoz.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>La nutrición en cada una de las diferentes etapas de la edad pediátrica tiene como objetivo conseguir un crecimiento y desarrollo adecuados.</h2>
@@ -142,6 +142,7 @@
             <div class="centrar-texto texto-boton-esp pb-2">
                 <a href="/tablas/frutas.php"><button class="boton-e boton-esp">FRUTOS</button></a>
             </div>
+            
         </div>
 
         <?php include_once '../includes/templates/footer.php';?>
