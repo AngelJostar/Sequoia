@@ -51,12 +51,13 @@
                     mayor estatura.</p>
             </div>
         </section>
-        <section class="contenedor-info-contacto">
-            <div class="cuadros-crecimiento">
+        <div class="cuadros-crecimiento">
                 <div class="titulos-principal">
                     <h2>Centros en CDMX, Guadalajara y Monterrey</h2>
                 </div>
             </div>
+        <section class="contenedor-info-contacto">
+
             <div class="contacto-box ph-10">
 
                 <div>
@@ -166,18 +167,21 @@
                     <input type="tel" name="telefono" placeholder="Teléfono" required>
                 </div>
                 <div class = "t-izquierda tercer-p">
-                    <p>ELIGE UN CENTRO</p>
-                    <select name="centro">
-                    <option value="1">CDMX</option> 
-                    <option value="2">GUADALAJARA</option> 
-                    <option value="3">MONTERREY</option>
+                    <p>ELIGE UN CENTRO *</p>
+                    <select name="centro" required>
+                    <option value="CDMX">CDMX</option> 
+                    <option value="GUADALAJARA">GUADALAJARA</option> 
+                    <option value="MOTERREY">MONTERREY</option>
                     </select>
                 </div>
                 <div class = "t-izquierda tercer-p">
                     <p>MENSAJE</p>
                     <textarea name="mensaje" placeholder="Escriba aqui su mensaje" required></textarea>
-                    <input type="submit" value="ENVIAR" id="boton">
                 </div>
+                <p class="justificar-texto-90 centrar-texto ph-1 input-color">Envianos tus dudas y conentarios</p>
+                    <div class="centrar-texto ph-1">
+                        <input type="submit" value="ENVIAR" id="boton">
+                    </div>
                 </form>
             </div>
         </section>

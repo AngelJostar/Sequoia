@@ -45,7 +45,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-5 ocultar-media">
+            <div class="tamaño-img ph-5-5 ocultar-media">
                 <img src="img/importancia-de-ser-mas-alto/Banner-Importancuia-de-ser-mas-Alto-.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>¿Una mayor altura aporta ventajas a una <br> persona en su vida?, Si es así, <br>¿cuáles son exactamente esas ventajas? <br> ¿Qué tan grandes son esas ventajas? <br> ¿En qué aspectos de la vida? <br> ¿Por qué la altura aporta ventajas
@@ -60,7 +60,7 @@
                 </div>
             </div>
             <div class="contenedor-video-2">
-                <div class="reproductor-rectangular" data-id="N9i126SBdP8"></div>
+                <div class="reproductor-rectangular" data-id="ygP78ev4eQI"></div>
             </div>
             <div class="cuadros-crecimiento margin-top-20 pb-25">
                 <div class="titulos-principal-3 ocultar-media">
@@ -100,7 +100,7 @@
                     </p>
                 </div>
                 <div class="centrar-texto texto-boton-esp-2 pb-2 margin-top-20">
-                    <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
+                    <a href="importancia-de-ser-mas-alto/pareja"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
                 </div>
             </div>
             <div class="cuadros-crecimiento-crecimiento margin-negativo-2">
@@ -115,22 +115,22 @@
                         por año.</P>
                 </div>
                 <div class="centrar-texto texto-boton-esp-2 pb-2 margin-top-20">
-                    <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
+                    <a href="importancia-de-ser-mas-alto/trabajo"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
                 </div>
             </div>
             <div class="cuadros-crecimiento-crecimiento margin-negativo-2">
                 <div class="titulos-principal-3">
-                    <h2>SER MÁS ALTO MEJORA EL RENDIMIENTO<br>EN LOS DEPORTES</h2>
+                    <h2>SER MÁS ALTO MEJORA EL RENDIMIENTO EN LOS DEPORTES</h2>
                 </div>
                 <div class="img-95 padding-1">
-                    <img src="img/importancia-de-ser-mas-alto/female-football-player-with-ball-close-up.webp" alt="">
+                    <a href="causas-de-la-baja-estatura.php"><img src="img/importancia-de-ser-mas-alto/female-football-player-with-ball-close-up.webp" alt=""></a>
                 </div>
                 <div class="texto-importancia-2">
                     <P>Es una gran ventaja tener piernas y brazos mas largos para casi todas las ramas deportivas. Esto es natural especialmente para deportes relacionados con la altura como el futbol, basquetbol, béisbol, tenis, taekwondo, etc.
                     </P>
                 </div>
                 <div class="centrar-texto texto-boton-esp-2 pb-2 margin-top-20">
-                    <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
+                    <a href="importancia-de-ser-mas-alto/deporte"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
                 </div>
             </div>
 
@@ -146,7 +146,7 @@
                         que les ayuda a ser más felices en su vida diaria.</p>
                 </div>
                 <div class="centrar-texto texto-boton-esp-2 pb-2 margin-top-20">
-                    <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
+                    <a href="importancia-de-ser-mas-alto/autoestima"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
                 </div>
             </div>
             <div class="textos-principal margin-negativo">
@@ -184,7 +184,9 @@
 </section>
 <!--####HEADER####-->
 
-<a href="#" class="scrollup"><i class="fas fa-angle-double-up fa-2x"></i></a>
+<a href="contacto" class="scrollup">
+    <p>CONTACTO</p>
+</a>
 <!--####FOOTER####-->
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>

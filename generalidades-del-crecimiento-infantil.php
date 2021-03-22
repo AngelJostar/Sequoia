@@ -46,7 +46,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-5 ocultar-media">
+            <div class="tamaño-img ph-5-5 ocultar-media">
                 <img src="img/generalidades-del-crecimiento-infantil/Banner-generalidades.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>El crecimiento es el proceso biológico más característico de la infancia. Se inicia en el momento de la fecundación del óvulo y se extiende hasta que finaliza la maduración de los huesos y se completa el desarrollo sexual, lo que ocurre habitualmente, hacia el final de la segunda década de la vida.</h2>
@@ -143,10 +143,10 @@
                     </div>
                 </div>
                 <div class="ocultar-media">
-                    <a href="crecimiento-infantil-por-edad"><img src="img/banners/medir-edad-hijo-hija-crecimiento-infantil-2.webp" alt="medir edad hijo"></a>
+                    <a href="crecimiento-infantil-por-edad.php"><img src="img/banners/medir-edad-hijo-hija-crecimiento-infantil-2.webp" alt="medir edad hijo"></a>
                 </div>
                 <div class="tamaño-img mostrar-media pt-20">
-                    <a href="crecimiento-infantil-por-edad"><img src="img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="medir edad hijo"></a>
+                    <a href="crecimiento-infantil-por-edad.php"><img src="img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="medir edad hijo"></a>
                 </div>
                 <div class="cuadros-crecimiento margin-top-20 ">
                     <div class="titulos-principal">
@@ -167,8 +167,8 @@
                         <h2>FACTORES ENDÓGENOS <br> (PROPIOS DEL NIÑO)</h2>
                         </div>
                     </div>
-                    <div class="textos-principal ph-6 ocultar">
-                        <ul type="point">
+                    <div class="justificar-texto-90-listas ph-9 ocultar">
+                        <ul >
                             <li><span class="font-bold"> Factores genéticos del crecimiento:</span><br>Existen genes en el cuerpo humano que participan en el crecimiento de un niño y que son heredados de ambos padres . Los genes del crecimiento de los papás determinan el 80 % de la talla final
                                 adulta de su hijo.</li>
                             <li><span class="font-bold"> Factores hormonales del crecimiento:</span><br> Durante la etapa fetal interactúan genes y hormonas producidas por el bebe y la placenta para cumplir la función del crecimiento y después del nacimiento la hormona de crecimiento y las
@@ -189,8 +189,8 @@
                         <h2>FACTORES EXÓGENOS <br> (EXTERNOS):</h2>
                         </div>
                     </div>
-                    <div class="textos-principal ph-10 pb-2 ocultar">
-                        <ul type="point">
+                    <div class="justificar-texto-90-listas ph-12 pb-2 ocultar">
+                        <ul>
                             <li> La alimentación correcta del niño aporta el material energético necesario para su crecimiento. La desnutrición o enfermedades que no permitan la absorción adecuada de los nutrientes pueden dar como resultado una talla baja.
                             </li>
                             <li>Hábitos: La práctica regular del ejercicio para niños es beneficioso para el crecimiento, no así el de competición o alto rendimiento. El sueño durante la noche y de manera temprana es otro factor que influye en la producción
@@ -201,8 +201,8 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="textos-principal  ph-13 mostrar contenedor-50porciento pb-2">
-                        <ul type="point">
+                    <div class="justificar-texto-90-listas  ph-15 mostrar contenedor-50porciento pb-2">
+                        <ul>
                             <li> La alimentación correcta del niño aporta el material energético necesario para su crecimiento. La desnutrición o enfermedades que no permitan la absorción adecuada de los nutrientes pueden dar como resultado una talla baja.
                             </li>
                             <li>Hábitos: La práctica regular del ejercicio para niños es beneficioso para el crecimiento, no así el de competición o alto rendimiento. El sueño durante la noche y de manera temprana es otro factor que influye en la producción

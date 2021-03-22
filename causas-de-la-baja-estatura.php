@@ -35,8 +35,11 @@
                     </div>
                 </div>
             </div>
+            <div class="tamaño-img ph-3">
+                <img src="img/causas-de-la-baja-estatura/Banner-Causas-Baja-Estatural-.webp" alt="altura crecimiento estatura">
+            </div>
             <div class="textos-principal ph-3">
-            <p>Un crecimiento más lento de lo normal puede ser señal de un problema de salud importante. Así mismo algunos de los niños que tienen baja estatura que no está relacionada con alguna afección médica también pueden querer alcanzar una mayor
+            <p>Así mismo algunos de los niños que tienen baja estatura que no está relacionada con alguna afección médica también pueden querer alcanzar una mayor
                     estatura para sobresalir física y socialmente.</p>
             </div>
             <div class="contenedor-video">
@@ -53,7 +56,7 @@
                             <h2>Entre las causas de una baja estatura que <span class="font-bold">NO SE ASOCIAN</span> a enfermedades reconocidas, se incluyen:</h2>
                         </div>
                     </div>
-                    <div class="justificar-texto-90-listas ph-17 font-bold">
+                    <div class="justificar-texto-90-listas ph-14 font-bold">
                         <ul>
                             <li>Baja estatura en la familia</li>
                             <li>Baja estatura idiopática (sin causa identificable).</li>
@@ -82,10 +85,10 @@
                     </div>
                 </div>
                 <div class="tamaño-img ocultar-media pb-15">
-                    <a href="importancia-de-ser-mas-alto"><img src="img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil"></a>
+                    <a href="importancia-de-ser-mas-alto.php"><img src="img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil"></a>
                 </div>
                 <div class="tamaño-img mostrar-media pb-15">
-                    <a href="importancia-de-ser-mas-alto"><img src="img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil"></a>
+                    <a href="importancia-de-ser-mas-alto.php"><img src="img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil"></a>
                 </div>
                 <div class="cuadros-crecimiento ocultar-media">
                     <div class="titulos-principal">
@@ -103,30 +106,30 @@
                 </div>
                 <div class="ocultar-media">
                     <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
-                        <a href="Causas-de-la-baja-estatura/baja-estatura-familiar"><button class="boton-e boton-esp">Baja estatura familiar</button></a>
+                        <a href="causas-de-la-baja-estatura/baja-estatura-familiar"><button class="boton-e boton-esp">Baja estatura familiar</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="Causas-de-la-baja-estatura/baja-estatura-idiopatica"><button class="boton-e boton-esp">Baja estatura idiopática</button></a>
+                        <a href="causas-de-la-baja-estatura/baja-estatura-idiopatica"><button class="boton-e boton-esp">Baja estatura idiopática</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="Causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad"><button class="boton-e boton-esp">Retraso del crecimiento y pubertad</button></a>
+                        <a href="causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad"><button class="boton-e boton-esp">Retraso del crecimiento y pubertad</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="Causas-de-la-baja-estatura/nutricion-malnutricion-y-crecimiento"><button class="boton-e boton-esp">Malnutrición y malabsorción </button></a>
+                        <a href="causas-de-la-baja-estatura/nutricion-malnutricion-y-crecimiento"><button class="boton-e boton-esp">Malnutrición y malabsorción </button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="Causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional"><button class="boton-e boton-esp">Niños pequeños al nacer</button></a>
+                        <a href="causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional"><button class="boton-e boton-esp">Niños pequeños al nacer</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="Causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento"><button class="boton-e boton-esp">Deficiencia de hormona de
+                        <a href="causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento"><button class="boton-e boton-esp">Deficiencia de hormona de
                         crecimiento</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="Causas-de-la-baja-estatura/padecimientos-y-enfermedades-cronicas-que-afectan-el-crecimiento"><button class="boton-e boton-esp">Padecimientos y Enfermedades
+                        <a href="causas-de-la-baja-estatura/padecimientos-y-enfermedades-cronicas-que-afectan-el-crecimiento"><button class="boton-e boton-esp">Padecimientos y Enfermedades
                         crónicas</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="Causas-de-la-baja-estatura/sindromes-que-afectan-el-crecimiento"><button class="boton-e boton-esp">Síndromes que afectan el
+                        <a href="causas-de-la-baja-estatura/sindromes-que-afectan-el-crecimiento"><button class="boton-e boton-esp">Síndromes que afectan el
                         crecimiento</button></a>
                     </div>
                 </div>

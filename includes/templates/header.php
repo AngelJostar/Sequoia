@@ -8,9 +8,6 @@
                 <div data-wow-delay="0.1s">
                     <div>
                         <ul style="padding-top: 80px;" class="company-social">
-                        
-                            
-                        
                             <li class="social-facebook"><a href="https://www.facebook.com/centrosequoia/"><i class="fab fa-facebook-f fa-2x"></i></a></li>
                             <li class="social-youtube"><a href="https://www.youtube.com/watch?v=ygP78ev4eQI"><i class="fab fa-youtube fa-2x"></i></a></li>
                             <li class="social-whatsapp"><a href="https://api.whatsapp.com/send?phone=525559677135&text=%F0%9F%8D%83%20Hola!%20%0AQuiero%20informaci%C3%B3n%20de%20Centro%20Sequoia."><i class="fab fa-whatsapp fa-2x"></i></a></li>
@@ -74,11 +71,11 @@
                         <div class="wow fadeInDown" data-wow-delay="0.1s">
                             <div class="widget">
                                 <ul class="company-social company-social-header">
-                                    <li class="social-facebook"><a href="https://www.facebook.com/CentroBrexia/?ref=br_rs"><i class="fab fa-facebook-f fa-2x"></i></a></li>
-                                    <li class="social-whatsapp"><a href="https://api.whatsapp.com/send?phone=5215551358125&text=%22Hola!%20me%20gustar%C3%ADa%20obtener%20mas%20informaci%C3%B3n%22"><i class="fab fa-whatsapp fa-2x"></i></a></li>
-                                    <li class="social-twitter"><a href="https://twitter.com/Centro_Brexia"><i class="fab fa-twitter fa-2x"></i></a></li>
+                                    <li class="social-facebook"><a href="https://www.facebook.com/centrosequoia/"><i class="fab fa-facebook-f fa-2x"></i></a></li>
+                                    <li class="social-whatsapp"><a href="https://api.whatsapp.com/send?phone=525559677135&text=%F0%9F%8D%83%20Hola!%20%0AQuiero%20informaci%C3%B3n%20de%20Centro%20Sequoia."><i class="fab fa-whatsapp fa-2x"></i></a></li>
+                                    <li class="social-twitter"><a href="https://twitter.com/centrosequoia?lang=es"><i class="fab fa-twitter fa-2x"></i></a></li>
                                     <li class="social-instagram"><a href="https://www.instagram.com/centro.brexia/?hl=es-la"><i class="fab fa-instagram fa-2x"></i></a></li>
-
+                                    <li class="social-instagram"><a href="https://www.instagram.com/centro_sequoia/?hl=es"><i class="fab fa-instagram fa-2x"></i></a></li>                              
                                 </ul>
                             </div>
                         </div>

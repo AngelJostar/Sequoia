@@ -561,6 +561,10 @@
             text-align: left !important;
         }
         
+        .justificar-izquierda-input {
+            text-align: right;
+        }
+        
         .centrar-objeto {
             margin: 0 auto;
         }
@@ -770,9 +774,15 @@
         
         #boton {
             background: #c0d41f;
-            color: #FFF;
+            color: #00205E;
             max-width: 140px;
+            font-size: 1.3em;
+            font-weight: bold;
             padding: 15px 0;
+        }
+        
+        .input-color {
+            color: #b9b9b9 !important;
         }
         
         #boton:hover {
@@ -789,6 +799,14 @@
         @media (min-width: 720px) {
             .tercer-p p {
                 font-size: 1.5vw;
+            }
+            .contenedor-info-contacto {
+                max-width: 60%;
+                margin: 0 auto;
+                background: #00235d;
+            }
+            .font-ciudades {
+                font-size: 2.6vw;
             }
         }
         /*END-CONTACTO*/
@@ -1200,6 +1218,10 @@
         
         .ph-4 {
             padding-top: calc(4em + 1vw);
+        }
+        
+        .ph-5-5 {
+            padding-top: calc(5.55em + 1vw);
         }
         
         .ph-5 {
@@ -1630,6 +1652,7 @@
             font-weight: 600;
             font-size: calc(0.7em + .6vw);
             color: #00235d;
+            line-height: 1;
         }
         
         .boton-contacto {
