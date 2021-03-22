@@ -62,7 +62,7 @@
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="N9i126SBdP8"></div>
             </div>
-            <div class="cuadros-crecimiento margin-top-20 pb-15">
+            <div class="cuadros-crecimiento margin-top-20 pb-25">
                 <div class="titulos-principal-3 ocultar-media">
                     <h2>La importancia de ser MÁS ALTO </h2>
                 </div>
@@ -72,7 +72,7 @@
                 <div class="texto-importancia-2 pb-15 ocultar-media">
                     <p>Las investigaciones científicas sugieren que los hombres y mujeres altos tienen una ventaja significativa sobre otros más chaparros.</p>
                 </div>
-                <div class="texto-importancia-2 mostrar-media contenedor-45porciento">
+                <div class="texto-importancia-2 mostrar-media contenedor-45porciento pb-2">
                     <p>Las investigaciones científicas sugieren que los hombres <br>y mujeres altos tienen una ventaja significativa<br>sobre otros más chaparros.</p>
                 </div>
             </div>

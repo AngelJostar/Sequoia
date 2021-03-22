@@ -34,30 +34,43 @@
                     </div>
                 </div>
             </div>
-            <div class="textos-principal">
+            <div class="textos-principal ph-6 ocultar-media">
+                <p>Para identificar si existe un problema con el crecimiento de su hijo, es importante comprender cómo el crecimiento de niños y niñas puede variar según su edad.</p>
+            </div>
+            <div class="textos-principal ph-7 mostrar-media">
                 <p>Para identificar si existe un problema con el crecimiento de su hijo, es importante comprender cómo el crecimiento de niños y niñas puede variar según su edad.</p>
             </div>
             <div class="contenedor-video">
                 <div class="reproductor" data-id="BXOOo5c3LGM"></div>
             </div>
-
-            <div class="box efecto3">
-                <h3>“Las tasas de crecimiento dependen<br>de la edad de los niños”</h3>
+            <div class="cuadros-crecimiento margin-top-20 ocultar-media">
+                    <div class="titulos-principal">
+                    <h2><span class="font-bold">“LAS TASAS DE CRECIMIENTO</span> DEPENDEN DE LA EDAD DE LOS NIÑOS”</h2>
+                    </div>
             </div>
-            <div class="justificar-texto-90">
-                <p>Existe una guía conocida como la "regla de los cinco" que describe la tasa de crecimiento típica de un niño. Esta sugiere:</p>
+            <div class="cuadros-crecimiento margin-top-20 mostrar-media">
+                    <div class="titulos-principal  contenedor-50porciento">
+                    <h2><span class="font-bold">“LAS TASAS DE CRECIMIENTO<br></span> DEPENDEN DE LA EDAD DE LOS NIÑOS”</h2>
+                    </div>
             </div>
-            <div class="contenedor-principal">
+            
+            <div class="justificar-texto-90 ph-10 ocultar-media">
+                <p>Existe una guía conocida como la<span class="font-bold">"regla de los cinco"</span> que describe la tasa de crecimiento típica de un niño. Esta sugiere:</p>
+            </div>
+            <div class="justificar-texto-90 ph-7 mostrar-media">
+                <p>Existe una guía conocida como la <span class="font-bold">"regla de los cinco"</span> que describe la tasa de crecimiento típica de un niño. Esta sugiere:</p>
+            </div>
+            <div class="contenedor-principal margin-negativo-top-35">
                 <div class="justificar-texto-90-listas">
                     <ul>
-                        <li>Desde el nacimiento hasta el 1 año, los bebés crecen unos 25 cm.</li>
-                        <li>De 1 a 4 años de edad, los niños crecen a un ritmo de unos 10 cm por año.</li>
-                        <li>Desde los 4 años hasta la pubertad, su crecimiento se ralentiza a unos 5 cm por año.</li>
+                        <li><span class="font-bold">Desde el nacimiento hasta el 1 año, los bebés crecen unos 25 cm.</span></li>
+                        <li><span class="font-bold">De 1 a 4 años de edad, los niños crecen a un ritmo de unos 10 cm por año.</span></li>
+                        <li><span class="font-bold">Desde los 4 años hasta la pubertad, su crecimiento se ralentiza a unos 5 cm por año.</span></li>
                     </ul>
                 </div>
             </div>
             <div class="justificar-texto-90">
-                <p>Se estima que alrededor del 80% del crecimiento de un niño ocurrirá antes de la pubertad y durante la pubertad hay un período rápido de crecimiento, llamado estirón puberal, que es cuando finalmente se debe alcanzar la estatura adulta.
+                <p><span class="font-bold">Se estima que alrededor del 80% del crecimiento de un niño ocurrirá antes de la pubertad</span> y durante la pubertad hay un período rápido de crecimiento, llamado estirón puberal, que es cuando finalmente se debe alcanzar la estatura adulta.
                     Para las niñas, la pubertad generalmente comienza alrededor de los 11 años, y para los niños, la pubertad comienza alrededor de los 13 años.</p>
             </div>
             <div class="ocultar-media">
@@ -66,57 +79,71 @@
             <div class="tamaño-img mostrar-media">
                 <a href="contacto"><img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
-            <div class="curvi-cuadros-crecimiento ">
-                <h2>Crecimiento en bebes<br>(0-2 años de edad)</h2>
-                <p>Desde el nacimiento hasta el segundo año, es importante realizar un seguimiento del crecimiento de su bebé para identificar potencialmente cualquier problema temprano. Obtenga más información sobre el crecimiento de los bebés.</p>
-                <div class="aprende-mas">
-                    <a href="crecimiento-infantil-por-edad/bebes-0-2">
-                        <p>APRENDE MÁS</p>
-                    </a>
+            <div class="cuadros-crecimiento-crecimiento margin-negativo-2">
+                <div class="titulos-principal">
+                    <h2>CRECIMIENTO EN BEBÉS <br> <span class="letra-cursiva">(0 a 2 años de edad)</span></h2>
+                </div>
+                <div class="img-95 padding-1">
+                    <img src="img/crecimiento-infantil-por-edad/father-holds-hand-of-newly-born-babe-in-diapers (2).webp" alt="">
+                </div>
+                <div class="texto-importancia-2">
+                <p style=" font-size: calc(1.1em + .7vw);">Desde el nacimiento hasta el segundo año, es importante realizar un seguimiento del crecimiento de su bebé para identificar potencialmente cualquier problema temprano. Obtenga más información sobre el crecimiento de los bebés.</p>
+                </div>
+                <div class="centrar-texto texto-boton-esp-2 pb-2 margin-top-20">
+                    <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
                 </div>
             </div>
-            <div class="curvi-cuadros-crecimiento ">
-                <h2>Crecimiento en niños pequeños<br>(de 2 a 5 años de edad)</h2>
-                <p>Su pequeño bebé se ha convertido de repente en un niño pequeño, ¡y parece de la nada! Obtenga más información sobre el crecimiento de los niños pequeños.</p>
-                <div class="aprende-mas">
-                    <a href="crecimiento-infantil-por-edad/ninos-chicos-2-5">
-                        <p>APRENDE MÁS</p>
-                    </a>
+            <div class="cuadros-crecimiento-crecimiento margin-negativo-2">
+                <div class="titulos-principal">
+                    <h2>CRECIMIENTO EN NIÑOS PEQUEÑOS <br> <span class="letra-cursiva">(2 a 5 años de edad)</span></h2>
+                </div>
+                <div class="img-95 padding-1">
+                    <img src="img/crecimiento-infantil-por-edad/portrait-of-cute-girl-with-paintbrush (2).webp" alt="">
+                </div>
+                <div class="texto-importancia-2">
+                <p style=" font-size: calc(1.1em + .7vw);">Su pequeño bebé se ha convertido de repente en un niño pequeño, ¡y parece de la nada! Obtenga más información sobre el crecimiento de los niños pequeños.</p>
+                </div>
+                <div class="centrar-texto texto-boton-esp-2 pb-2 margin-top-20">
+                    <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
                 </div>
             </div>
-            <div class="curvi-cuadros-crecimiento ">
-                <h2>Crecimiento en niños<br>(6-11 años)</h2>
-                <p>Si su hijo comenzó la escuela y usted nota señales de que tal vez su hijo no está creciendo como debería. Como por ejemplo, que este dentro de los 3 mas bajitos de su salón de clases.</p>
-                <div class="aprende-mas">
-                    <a href="crecimiento-infantil-por-edad/ninos-de-6-11">
-                        <p>APRENDE MÁS</p>
-                    </a>
+            <div class="cuadros-crecimiento-crecimiento margin-negativo-2">
+                <div class="titulos-principal">
+                    <h2>CRECIMIENTO EN NIÑOS<br> <span class="letra-cursiva">(6 a 11 años de edad)</span></h2>
+                </div>
+                <div class="img-95 padding-1">
+                    <img src="img/crecimiento-infantil-por-edad/classmates-friends-bag-school-education (2).webp" alt="">
+                </div>
+                <div class="texto-importancia-2">
+                <p style=" font-size: calc(1.1em + .7vw);">Si su hijo comenzó la escuela y usted nota señales de que tal vez su hijo no está creciendo como debería. Como por ejemplo, que este dentro de los 3 mas bajitos de su salón de clases.</p>
+                </div>
+                <div class="centrar-texto texto-boton-esp-2 pb-2 margin-top-20">
+                    <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
                 </div>
             </div>
-            <div class="curvi-cuadros-crecimiento ">
-                <h2>Crecimiento en adolescentes<br>(12-16 años)</h2>
-                <p>La pubertad es un momento de crecimiento rápido. A esta edad es importante actuar rápido ya que una vez que tu hijo termine de crecer ya no es posible hacer nada para corregir su estatura.</p>
-                <div class="aprende-mas">
-                    <a href="crecimiento-infantil-por-edad/adolecentes-12-16">
-                        <p>APRENDE MÁS</p>
-                    </a>
+            <div class="cuadros-crecimiento-crecimiento margin-negativo-2">
+                <div class="titulos-principal">
+                <h2>CRECIMIENTO EN ADOLESCENTES<br> <span class="letra-cursiva">(12 a 16 años de edad)</span></h2>
+                </div>
+                <div class="img-95 padding-1">
+                    <img src="img/crecimiento-infantil-por-edad/beautiful-schoolgirl-sitting-in-the-library-and-reading-book-education (2).webp" alt="">
+                </div>
+                <div class="texto-importancia-2">
+                <p style=" font-size: calc(1.1em + .7vw);">La pubertad es un momento de crecimiento rápido. A esta edad es importante actuar rápido ya que una vez que tu hijo termine de crecer ya no es posible hacer nada para corregir su estatura.</p>
+                </div>
+                <div class="centrar-texto texto-boton-esp-2 pb-2 margin-top-20">
+                    <a href="/Generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
                 </div>
             </div>
-            <div class="pb-25 tamaño-img ocultar-media">
-                <a href="preguntas-frecuentes"><img src="img/banners/crecer-estatura-niño-crecimiento-infantil-2.webp" alt="banners-especialistas"></a>
-            </div>
-            <div class="pb-25 tamaño-img mostrar-media">
-                <a href="preguntas-frecuentes"><img src="img/banners/crecer-estatura-niño-crecimiento-infantil-1.webp" alt="banners-especialistas"></a>
-            </div>
-            <div class="justificar-texto-90">
-                <p>Te invitamos a que agendes una cita para que uno de nuestros médicos endocrinólogo pediatra especialista en crecimiento pueda hacer un diagnóstico personalizado de tu hijo y diseñar el tratamiento adecuado en caso de requerirlo y no sufra
+            <div class="textos-principal margin-negativo">
+                <p><span class="font-bold">Te invitamos a que agendes una cita</span> para que uno de nuestros médicos endocrinólogo pediatra especialista en crecimiento pueda hacer un diagnóstico personalizado de tu hijo y diseñar el tratamiento adecuado en caso de requerirlo y no sufra
                     de estatura baja.</p>
             </div>
-            <div class="ocultar-media">
-                <a href="crecimiento-infantil-deficiente"><img src="img/banners/altura-crecimiento-estatura-hijo-hija-2.webp" alt="altura-crecimiento-estatura"></a>
+            <div class="pb-25 tamaño-img ocultar-media pt-15">
+                <a href="preguntas-frecuentes"><img src="img/banners/crecer-estatura-niño-crecimiento-infantil-2.webp" alt="banners-especialistas"></a>
             </div>
-            <div class="tamaño-img mostrar-media">
-                <a href="crecimiento-infantil-deficiente"><img src="img/banners/CRECIMIENTO-Sequoia-Inicio-2021.webp" alt="altura-crecimiento-estatura"></a>
+            <div class="pb-25 tamaño-img mostrar-media ph-3">
+                <a href="preguntas-frecuentes"><img src="img/banners/crecer-estatura-niño-crecimiento-infantil-1.webp" alt="banners-especialistas"></a>
             </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>
