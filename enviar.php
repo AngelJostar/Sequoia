@@ -20,6 +20,11 @@
         mail($destino, "Contacto: ", $contenido);
         header("Location:gracias.php");
     }
-
+    if($centro == "MONTERREY"){
+        $destino = "itzeldelgado314@ciencias.unam.mx";   
+        $contenido = "Nombre: " . $nombre . "\nCorreo: " . $correo . "\nTeléfono: " . $telefono . "\nAsunto: " . $centro . "\nMensaje: " . $mensaje;
+        mail($destino, "Contacto: ", $contenido);
+        header("Location:gracias.php");
+    }
 
 ?>
