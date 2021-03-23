@@ -3,7 +3,7 @@
 
 <?php include_once 'includes/tags/google_tag_manager_head.php';?>
 
-<link rel="icon" type="image/png" href="img/cropped-favicon-1-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/FAVICON-SEQUOIA.webp" sizes="32x32">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
@@ -46,7 +46,7 @@
                     <h2>En Centro Sequoia queremos que tomes decisiones informadas, por eso te presentamos a continuación toda la información que necesitas para entender el crecimiento de tu hijo o hija.</h2>
                 </div>
             </div>
-            <div class="contenedor-video ph-2">
+            <div class="contenedor-video-2 ph-2">
                 <div class="reproductor-rectangular" data-id="ygP78ev4eQI"></div>
             </div>
             <div class="textos-principal ph-1 ocultar-media">
