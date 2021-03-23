@@ -77,10 +77,11 @@
                         <div class="reproductor" data-id="wXL4utyJGQc"></div>
                     </div>
 
-                    <div class="textos-principal-2columas ph-2">
-                    <p><span class="font-bold">Las hormonas son sustancias químicas</span> que afectan el funcionamiento muchas partes del cuerpo. Por ejemplo, las hormonas deciden cómo crece y madura un niño. <span class="font-bold">La endocrinología pediátrica es la ciencia que estudia estas glándulas y los
-                        efectos de las hormonas en los niños. </span>
-                    </p>
+
+                    <div class="textos-principal ocultar-media">
+                        <p><span class="font-bold">Las hormonas son sustancias químicas</span> que afectan el funcionamiento muchas partes del cuerpo. Por ejemplo, las hormonas deciden cómo crece y madura un niño. <span class="font-bold">La endocrinología pediátrica es la ciencia que estudia estas glándulas y los
+                            efectos de las hormonas en los niños. </span>
+                        </p>
                     </div>
                 </div>
 
@@ -107,10 +108,10 @@
                     <img src="img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="contacto crecimiento infantil">
                 </div>
                 <div class="ocultar-media">
-                    <a href="contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                    <a href="/contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="contacto"><img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                    <a href="/contacto"><img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
                 </div>
                 <div class="cuadros-crecimiento">
                     <div class="titulos-principal">
@@ -128,7 +129,7 @@
                     </p>
                 </div>
                 <div class="cuadros-crecimiento">
-                    <div class=" titulos-principal  margin-top-20 mb-1">
+                    <div class=" titulos-principal ">
                         <div class="barra-titulo"></div>
                         <div class = "ocultar-media">
                         <h2 class="contenedor-85porciento">Los endocrinólogos pediatras especializados en crecimiento infantil de Centro Sequoia son la mejor opción para los niños y niñas que busquen conseguir una mayor estatura.</h2>
@@ -139,17 +140,17 @@
                         <div class="barra-titulo"></div>
                     </div>
                 </div>
-                <div class="textos-principal ph-1">
+                <div class="textos-principal ph-23">
                     <p>Los problemas hormonales que afectan el crecimiento o el desarrollo sexual de un adolecente o un niño pueden tener efectos significativos en el bienestar físico y emocional del mismo. En Centro Sequoia somos sensibles a estos temas
                         y entendemos a su hijo. El personal de apoyo, incluidos enfermeras, psicólogos y nutriólogos estamos en sintonía con las necesidades de los niños y adolescentes que atendemos. Con el objetivo de lograr que todos nuestros pacientes
                         consigan una mayor estatura.
                     </p>
                 </div>
-                <div class="tamaño-img ocultar-media ">
-                    <img src="img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil">
+                <div class="tamaño-img ocultar-media">
+                    <a href="/importancia-de-ser-mas-alto.php"><img src="img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <img src="img/banners/BANNER-4-HORIZONTAL.webp" alt="estatura crecimiento infantil">
+                    <a href="/importancia-de-ser-mas-alto.php"><img src="img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil"></a>
                 </div>
             </div>
 
