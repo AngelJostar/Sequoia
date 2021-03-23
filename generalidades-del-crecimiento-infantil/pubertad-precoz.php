@@ -35,7 +35,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-3 ocultar-media">
+            <div class="tamaño-img ph-3  ocultar-media">
                 <img src="../img/generalidades-del-crecimiento-infantil/Banner-pubertad-precoz.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>El término pubertad precoz se refiere a la maduración sexual que comienza antes de los 9 años en niños o antes de los 8 años en niñas.</h2>
@@ -46,6 +46,9 @@
                 <div class="texto-imagen-izquierda">
                     <h2>El término pubertad precoz se refiere a la maduración sexual que comienza antes de los 9 años en niños o antes de los 8 años en niñas.</h2>
                 </div>
+            </div>
+            <div class="contenedor-video ph-2">
+                <div class="reproductor" data-id="TF1Oso4MFrA"></div>
             </div>
             <div class="justificar-texto-85 pt-15">
                 <p>Los signos y síntomas de la pubertad precoz son los siguientes:</p>       
@@ -114,7 +117,7 @@
                 <p>Si tu hijo presenta signos de pubertad precoz es importante acudir lo más pronto posible con los especialistas de SEQUOIA para atender de manera inmediata este padecimiento.<br>¡Ayuda a tu hijo a alcanzar una mayor estatura!</p>
             </div>
             <div class="tamaño-img pt-15 pb-30">
-                <img src="../img/generalidades-del-crecimiento-infantil/Banner-Talla-Familiar-Genertica.webp" alt="graficas-de-crecimiento">
+                <a href="talla_blanco_familiar"><img src="../img/generalidades-del-crecimiento-infantil/Banner-Talla-Familiar-Genertica.webp" alt="graficas-de-crecimiento"></a>
             </div> 
 
         </div>

@@ -25,7 +25,7 @@
 
         <div class="contenedor-principal" id="contenedor-principal">
             <div class="cuadros-crecimiento">
-                <div class="titulos-grid-baja-estatura">
+                <div class="titulos-grid-crecimiento-infantil">
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
@@ -35,12 +35,19 @@
                     </div>
                 </div>
             </div>
-            <div class="caja-imagen-hojas">
+            <div class="tamaño-img ph-7 ocultar-media">
                 <img src="/img/banners/Banner-Padecimientos-y-enfermedades.webp" alt="">
                 <div class="texto-imagen-izquierda">
                     <h2>El deterioro del crecimiento aparece en numerosos procesos crónicos. La fibrosis quística, la enfermedad de Crohn y la artritis juvenil idiopática son enfermedades crónicas relativamente frecuentes en la infancia, vinculadas a un deterioro sustancial del crecimiento. Mientras que el retraso en el crecimiento puede ser la característica patológica de presentación inicial, el patrón de crecimiento constituye también una medida útil de la gravedad de la enfermedad y de la respuesta al tratamiento.</h2>
                 </div>
             </div>
+            <div class="tamaño-img ph-6-5 mostrar-media">
+                <img src="/img/banners/Banner-Padecimientos-y-enfermedades.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>El deterioro del crecimiento aparece en numerosos procesos crónicos. La fibrosis quística, la enfermedad de Crohn y la artritis juvenil idiopática son enfermedades crónicas relativamente frecuentes en la infancia, vinculadas a un deterioro sustancial del crecimiento. Mientras que el retraso en el crecimiento puede ser la característica patológica de presentación inicial, el patrón de crecimiento constituye también una medida útil de la gravedad de la enfermedad y de la respuesta al tratamiento.</h2>
+                </div>
+            </div>
+
             <div class="tamaño-img">
                 <img src="../img/causas-de-la-baja-estatura/Padecimientos-y-Enfermedades-Cronicas-PORTADA-YOUTUBE-MONICA.webp" alt="contacto crecimiento">
             </div>

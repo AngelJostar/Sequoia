@@ -51,13 +51,13 @@
                 <p>Toda madre y todo padre quieren, sobre todas las cosas, que su bebé esté sano y sea feliz, y uno de los indicativos más visuales y evidentes es el aumento de peso y talla del pequeño.</p>       
             </div>
 
-            <div class="justificar-texto-90">
-                <p>AQUI VA UN VIDEO 1</p>
+            <div class="contenedor-video">
+                <div class="reproductor" data-id="zd-_vx5W9PQ"></div>
             </div>
-            <div class="justificar-texto-90">
-                <p>AQUI VA UN VIDEO 2</p>
+            <div class="contenedor-video ph-1">
+                <div class="reproductor" data-id="OcUKGcLcuxA"></div>
             </div>
-            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
                 <div class="titulos-principal">
                     <h2><span class="font-bold">CRECIMIENTO EN BEBES<br>DE 0 A 1 AÑO</span></h2>
                 </div>
@@ -76,7 +76,7 @@
                 </div>
             </div>
             <div class="tamaño-img centrar-imagen pb-30">
-                <img src="/img/nueva/Banner-Pequeño-Edad-Gestacional.webp" alt="Brexia_especialistas">
+                <a href="../causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional.php"><img src="/img/nueva/Banner-Pequeno-Edad-Gestacional.webp" alt="Pequeño Edad Gestacional"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">
@@ -105,7 +105,7 @@
             </div>   
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">
-                    <h2><span class="font-bold">PERCEPTIBLES DE CRECIMIENTO<br>EN BEBES DE 0 A 2 AÑOS</span></h2>
+                    <h2><span class="font-bold">PERCENTILES DE CRECIMIENTO<br>EN BEBES DE 0 A 2 AÑOS</span></h2>
                 </div>
             </div>
             <div class="justificar-texto-85 centrar-texto pt-15">
@@ -125,12 +125,9 @@
             <div class="justificar-texto-85 centrar-texto pt-15">
                 <p>A continuación te presentamos las gráficas de crecimiento y peso que debería de seguir tu hijo o hija de cero a dos años. Para aprender más sobre las gráficas de crecimiento visita nuestra sección de “Percentiles de crecimiento”</p>
             </div>
-            <div class="tamaño-img centrar-imagen pb-30">
-                <img src="/img/nueva/Banner-Graficas-de-Crecimiento.webp" alt="Brexia_especialistas">
-            </div>
-            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
                 <div class="titulos-principal">
-                    <h2><span class="font-bold">PERCEPTIBLES DE LONGITUD DE <br>NIÑAS Y NIÑOS POR EDAD Y SEXO<br>DE 0 A 2 AÑOS</span></h2>
+                    <h2><span class="font-bold">PERCENTILES DE LONGITUD DE <br>NIÑAS Y NIÑOS POR EDAD Y SEXO<br>DE 0 A 2 AÑOS</span></h2>
                 </div>
             </div>
             <div class="tamaño-img centrar-imagen pt-2">
@@ -150,8 +147,8 @@
             <div class="tamaño-img centrar-imagen pt-2">
                 <img src="/img/nueva/peso2.webp" alt="Brexia_especialistas">
             </div>
-            <div class="tamaño-img centrar-imagen pt-2">
-                <img src="/img/nueva/BANNER-2-DOC-VERTICAL.webp" alt="Brexia_especialistas">
+            <div class="tamaño-img centrar-imagen pb-30">
+                <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento"><img src="/img/nueva/Banner-Graficas-de-Crecimiento.webp" alt="Brexia_especialistas"></a>
             </div>
 
         </div>

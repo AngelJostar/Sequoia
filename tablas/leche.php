@@ -35,7 +35,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img">
+            <div class="tamaño-img ph-3">
                 <img src="../img/tablas/leche.webp" alt="contacto crecimiento">
             </div>
             <div class="justificar-texto-90 centrar-texto">
@@ -115,8 +115,11 @@
                 </div>
             </div>
   
-            <div class="tamaño-img pt-15 pt-15">
-                <img src="/img/causas-baja/BANNER-2-DOC-VERTICAL.webp" alt="contacto crecimiento">
+            <div class="ocultar-media">
+                <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+            </div>
+            <div class="tamaño-img mostrar-media ph-1">
+                <a href="/contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
 
 

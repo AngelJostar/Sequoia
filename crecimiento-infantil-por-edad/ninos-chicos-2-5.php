@@ -35,7 +35,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-4 ocultar-media">
+            <div class="tamaño-img ph-5 ocultar-media">
                 <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-2-5.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>A partir de los dos años, tu hijo crece a un ritmo más lento que en etapas anteriores.</h2> 
@@ -47,13 +47,13 @@
                     <h2>A partir de los dos años, tu hijo crece a un ritmo más lento que en etapas anteriores.</h2>
                 </div>
             </div>
-            <div class="justificar-texto-90">
-                <p>AQUI VA UN VIDEO 1</p>
+            <div class="contenedor-video ph-1">
+                <div class="reproductor" data-id="OcUKGcLcuxA"></div>
             </div>
-            <div class="justificar-texto-90">
-                <p>AQUI VA UN VIDEO 2</p>
+            <div class="contenedor-video ph-1">
+                <div class="reproductor" data-id="U3hGSEYyl9Q"></div>
             </div>
-            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-1 ">
                 <div class="titulos-principal">
                     <h2><span class="font-bold">CRECIMIENTO EN NIÑOS<br>DE 2 A 3 AÑOS</span></h2>
                 </div>
@@ -80,14 +80,14 @@
                     de niño pequeño" se aplana.</p>
             </div>
             <div class="pb-25 tamaño-img ocultar-media">
-                <a href="preguntas-frecuentes"><img src="../img/banners/crecer-estatura-niño-crecimiento-infantil-2.webp" alt="banners-especialistas"></a>
+                <a href="/preguntas-frecuentes"><img src="../img/banners/crecer-estatura-nino-crecimiento-infantil-2.webp" alt="banners-especialistas"></a>
             </div>
             <div class="pb-25 tamaño-img mostrar-media">
-                <a href="preguntas-frecuentes"><img src="../img/banners/crecer-estatura-niño-crecimiento-infantil-1.webp" alt="banners-especialistas"></a>
+                <a href="/preguntas-frecuentes"><img src="../img/banners/crecer-estatura-nino-crecimiento-infantil-1.webp" alt="banners-especialistas"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">
-                    <h2><span class="font-bold">PERCEPTIBLES DE CRECIMIENTO<br>EN NIÑOS DE 2 A 5 AÑOS</span></h2>
+                    <h2><span class="font-bold">PERCENTILES DE CRECIMIENTO<br>EN NIÑOS DE 2 A 5 AÑOS</span></h2>
                 </div>
             </div>
             <div class="justificar-texto-85 centrar-texto pt-15">
@@ -98,7 +98,7 @@
                 <p>Basándonos en las indicaciones de la OMS, podemos calcular el crecimiento del niño mes a mes, basándonos en si es niño o niña.</p>
             </div>
             <div class="tamaño-img centrar-imagen pb-30">
-                <img src="/img/nueva/Banner-Graficas-de-Crecimiento.webp" alt="Brexia_especialistas">
+                <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento"><img src="/img/nueva/Banner-Graficas-de-Crecimiento.webp" alt=""></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">
@@ -106,10 +106,10 @@
                 </div>
             </div>
             <div class="tamaño-img centrar-imagen pt-2">
-                <img src="/img/nueva/estatura-niñas-1.webp" alt="Brexia_especialistas">
+                <img src="/img/nueva/estatura-ninas-1.webp" alt="">
             </div>
             <div class="tamaño-img centrar-imagen pt-2">
-                <img src="/img/nueva/estatura-niños-2.webp" alt="Brexia_especialistas">
+                <img src="/img/nueva/estatura-ninos-2.webp" alt="">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">
@@ -117,16 +117,16 @@
                 </div>
             </div>
             <div class="tamaño-img centrar-imagen pt-2">
-                <img src="/img/nueva/peso-niñas-1.webp" alt="Brexia_especialistas">
+                <img src="/img/nueva/peso-ninas-1.webp" alt="">
             </div>
             <div class="tamaño-img centrar-imagen pt-2">
-                <img src="/img/nueva/peso-niños-2.webp" alt="Brexia_especialistas">
+                <img src="/img/nueva/peso-ninos-2.webp" alt="">
             </div>
             <div class="ocultar-media">
-                    <a href="contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto-crecimiento-infantil"></a>
+                    <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto-crecimiento-infantil"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto-crecimiento-infantil"></a>
+                    <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto-crecimiento-infantil"></a>
                 </div>
 
         </div>

@@ -170,10 +170,10 @@
                 </div>
             </div>
             <div class="tamaño-img ocultar-media ph-1">
-                <a href="importancia-de-ser-mas-alto.php"><img src="img/importancia-de-ser-mas-alto/BANNER-5-VERTICAL.webp" alt="especialistas crecimiento"></a>
+                <a href="/causas-de-la-baja-estatura.php"><img src="img/importancia-de-ser-mas-alto/BANNER-5-VERTICAL.webp" alt="especialistas crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media ph-1">
-                <a href="importancia-de-ser-mas-alto.php"><img src="img/banners/BANNER-5-HORIZONTAL.webp" alt="especialistas crecimiento"></a>
+                <a href="/causas-de-la-baja-estatura.php"><img src="img/banners/BANNER-5-HORIZONTAL.webp" alt="especialistas crecimiento"></a>
             </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>

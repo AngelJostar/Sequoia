@@ -35,12 +35,19 @@
                     </div>
                 </div>
             </div>
-            <div class="caja-imagen-hojas">
+            <div class="tamaño-img ph-5 ocultar-media">
                 <img src="/img/banners/Banner-estatura-ideopatica.webp" alt="">
                 <div class="texto-imagen-izquierda">
                     <h2>La baja estatura es una estatura que es inferior a la de casi todos los demás niños de la misma edad y sexo, es un motivo frecuente de consulta.</h2>
                 </div>
             </div>
+            <div class="tamaño-img ph-6-5 mostrar-media">
+                <img src="/img/banners/Banner-estatura-ideopatica.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>La baja estatura es una estatura que es inferior a la de casi todos los demás niños de la misma edad y sexo, es un motivo frecuente de consulta.</h2>
+                </div>
+            </div>
+
             <div class="tamaño-img">
                 <img src="../img/causas-de-la-baja-estatura/baja-estatura-idiopatica.webp" alt="contacto crecimiento">
             </div>

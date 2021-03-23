@@ -35,7 +35,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img">
+            <div class="tamaño-img ph-3">
                 <img src="../img/tablas/productos-de-origen-animal.webp" alt="contacto crecimiento">
             </div>
             <div class="justificar-texto-90 centrar-texto">
@@ -224,8 +224,8 @@
                     <div class="tablas-sombra mt-1">
                         <div class="tablas-grid-3-title">
                             <p>PESCADOS Y MARISCOS 40G</p>
-                            <p>OTROS 10G</p>
-                            <p>EMBUTIDOS 35G</p>
+                            <p>QUESOS</p>
+                            <p>RES</p>
                         </div>
                         <div class="linea-horizontal-tablas"></div>
                         <div class="tablas-grid-3-animal">
@@ -320,8 +320,11 @@
                     <div class="cuadro-tabla"></div>
                     
             </div>
-            <div class="tamaño-img pt-15 pt-15">
-                <img src="/img/causas-baja/BANNER-2-DOC-VERTICAL.webp" alt="contacto crecimiento">
+            <div class="ocultar-media">
+                <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+            </div>
+            <div class="tamaño-img mostrar-media ph-1">
+                <a href="/contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
 
 

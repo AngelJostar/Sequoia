@@ -36,16 +36,19 @@
                 </div>
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
-                <img src="../img/generalidades-del-crecimiento-infantil/Banner-pubertad-precoz.webp" alt="altura crecimiento estatura">
+                <img src="../img/banners/BANNERS-Finales-Web-nutrion.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>La nutrición en cada una de las diferentes etapas de la edad pediátrica tiene como objetivo conseguir un crecimiento y desarrollo adecuados.</h2>
                 </div>
             </div>
             <div class="tamaño-img ph-3 mostrar-media">
-                <img src="../img/generalidades-del-crecimiento-infantil/Banner-pubertad-precoz-desktop.webp" alt="altura crecimiento estatura">
+                <img src="../img/banners/BANNERS-Finales-Web-nutrion.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>La nutrición en cada una de las diferentes etapas de la edad pediátrica tiene como objetivo conseguir un crecimiento y desarrollo adecuados.</h2>
                 </div>
+            </div>
+            <div class="contenedor-video ph-2">
+                <div class="reproductor" data-id="vmjiVF1UkPE"></div>
             </div>
             <div class="justificar-texto-90 pb-15 justificar-derecha-texto">
                 <p>La nutrición en cada una de las diferentes etapas de la edad pediátrica tiene como objetivo conseguir un crecimiento y desarrollo adecuados. Los niños que padecen hambre o que reciben una alimentación de mala calidad tienen más probabilidades
@@ -142,7 +145,15 @@
             <div class="centrar-texto texto-boton-esp pb-2">
                 <a href="/tablas/frutas.php" target="_blank"><button class="boton-e boton-esp">FRUTOS</button></a>
             </div>
-            
+
+            <div class="ocultar-media">
+                <a href="../crecimiento-infantil"><img src="../img/banners/Banner-mujer-y-nino.webp" alt="contacto crecimiento"></a>
+            </div>
+            <div class="tamaño-img mostrar-media">
+                <a href="../crecimiento-infantil"><img src="../img/banners/estatura-crecer-crecimiento-infantil-1.webp" alt="contacto crecimiento"></a>
+            </div>
+        </div>
+
         </div>
 
         <?php include_once '../includes/templates/footer.php';?>

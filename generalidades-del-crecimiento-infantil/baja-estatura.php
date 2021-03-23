@@ -47,15 +47,19 @@
                     <h2>La baja estatura es una estatura que es inferior a la de casi todos los demás niños de la misma edad y sexo, es un motivo frecuente de consulta.</h2>
                 </div>
             </div>
+
+            <div class="contenedor-video ph-2">
+                <div class="reproductor" data-id="vjGNOgJ1jxs"></div>
+            </div>
             <div class="justificar-texto-85 centrar-texto">
-                <p>Su hijo puede ser pequeño para su edad, pero está creciendo bien y probablemente llegará a la pubertad después que sus<br>amigos, a esto se le conoce como<br><span class="font-bold">“retraso constitucional<br> del crecimiento".</span></p>
+                <p>Su hijo puede ser pequeño para su edad, pero está creciendo bien y probablemente llegará a la pubertad después que sus amigos, a esto se le conoce como <span class="font-bold">“retraso constitucional  del crecimiento".</span></p>
             </div>
             <div class="justificar-texto-85 centrar-texto pb-2">
                 <p><span class="font-bold">Si uno o ambos padres son bajos, es muy probable que su hijo también lo sea.</span> Su hijo deberá ser tan alto como uno de sus padres</p>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
-                    <h2><span class="font-bold">TRANSTORNOS DE LOS HUESOS<br> Ó EL ESQUELETO, COMO:</span></h2>
+                    <h2><span class="font-bold">TRASTORNOS DE LOS HUESOS<br> O EL ESQUELETO, COMO:</span></h2>
                 </div>
             </div>
             <div class="contenedor-85porciento pb-25">
@@ -176,7 +180,7 @@
 
             </div>
             <div class="tamaño-img">
-                <img src="../img/banners/BANNER-Como-medir-a-tu-hijo-de-manera-correcta.webp" alt="contacto crecimiento">
+                <a href="como-medir-a-tu-hijo-de-manera-correcta"><img src="../img/banners/BANNER-Como-medir-a-tu-hijo-de-manera-correcta.webp" alt="contacto crecimiento"></a>
             </div>
 
         </div>

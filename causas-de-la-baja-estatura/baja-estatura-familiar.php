@@ -35,12 +35,19 @@
                     </div>
                 </div>
             </div>
-            <div class="caja-imagen-hojas">
+            <div class="tamaño-img ph-3 ocultar-media">
                 <img src="/img/banners/Banner-baja-estatura-familiar.webp" alt="">
                 <div class="texto-imagen-izquierda">
                     <h2>Los trastornos del crecimiento puden tener muchas causas, entre ellas la Estatura baja familiar</h2>
                 </div>
             </div>
+            <div class="tamaño-img ph-3 mostrar-media">
+                <img src="/img/banners/Banner-baja-estatura-familiar.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>Los trastornos del crecimiento puden tener muchas causas, entre ellas la Estatura baja familiar</h2>
+                </div>
+            </div>
+
             <div class="tamaño-img pt-15">
                 <img src="/img/causas-baja/PORTADA-YOUTUBE-DOCTORES-SEQUOIA-DORANTES-4.webp" alt="contacto crecimiento">
             </div>

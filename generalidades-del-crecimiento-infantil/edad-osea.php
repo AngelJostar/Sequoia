@@ -35,7 +35,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-3 ocultar-media">
+            <div class="tamaño-img ph-3-5 ocultar-media">
                 <img src="../img/generalidades-del-crecimiento-infantil/Banner-edad-osea.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>La edad ósea muestra la maduración del esqueleto en un momento dado. No necesariamente tiene que coincidir con la edad real o cronológica del niño. Una diferencia de más de un año entre una y otra puede indicar que hay un problema de crecimiento.</h2>
@@ -46,6 +46,9 @@
                 <div class="texto-imagen-izquierda">
                     <h2>La edad ósea muestra la maduración del esqueleto en un momento dado. No necesariamente tiene que coincidir con la edad real o cronológica del niño. Una diferencia de más de un año entre una y otra puede indicar que hay un problema de crecimiento.</h2>
                 </div>
+            </div>
+            <div class="contenedor-video ph-2">
+                <div class="reproductor" data-id="3__Hs56Be00"></div>
             </div>
             <div class="justificar-texto-85 centrar-texto pb-2">
                 <p>Una diferencia de más de un año entre una y otra puede indicar que hay un problema de crecimiento.</p>
@@ -92,7 +95,7 @@
             <p>La forma más habitual es con una radiografía de la mano. Se hace de la mano por la gran cantidad de huesos que hay en ella, cada uno con su cartílago de crecimiento. Para cada año de edad hay un modelo de imagen radiológica, con el que se compara la radiografía del niño que se quiere estudiar. A través de la comparación de imágenes se sabe cuál es la edad ósea. </p>
             </div>
             <div class="tamaño-img">
-                <img src="../img/banners/Banner-Graficas-de-Crecimiento.webp" alt="contacto crecimiento">
+                <a href="graficas-de-crecimiento"><img src="../img/banners/Banner-Graficas-de-Crecimiento.webp" alt="contacto crecimiento"></a>
             </div>
 
         </div>

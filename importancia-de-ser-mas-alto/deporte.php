@@ -48,12 +48,16 @@
                     <h2>En general, los atletas más altos tienen ventajas sobre los atletas más bajos en muchos deportes.</h2>
                 </div>
             </div>
-            <div class="tamaño-img pt-2">
-                <img src="../img/importancia-de-ser-mas-alto/PORTADA-YOUTUBE-FRANCISCOEjercicio-como-factor-para-el-crecimiento-.webp" alt="contacto crecimiento">
-            </div>
             <div class="justificar-texto-90-listas">
                     <ul>
-                            <li>Los futbolistas más altos tienen mayor alcance, lo que los hace mejores defensas y porteros. Más velocidad, lo que los hace mejores mediocampistas y más potencia los que los hace mejores delanteros.</li>
+                            <li>Los futbolistas más altos tienen mayor alcance, lo que los hace mejores defensas y porteros. Más velocidad, lo que los hace mejores mediocampistas y más potencia los que los hace mejores delanteros.</li>   
+                    </ul>
+            </div>
+            <div class="tamaño-img">
+                <img src="/img/importancia-de-ser-mas-alto/NENESFUTBOL.webp" alt="contacto crecimiento">
+            </div>
+            <div class="justificar-texto-90-listas">
+                    <ul> 
                             <li>Un boxeador más alto con un alcance más largo puede hacer contacto con sus golpes mientras mantiene su cabeza fuera del alcance de su oponente.</li>
                             <li>Los nadadores más altos pueden cubrir más distancia y alcanzar a sus oponentes más bajos.</li>
                             <li>Los jugadores de basquetbol más altos pueden bloquear tiros y rebotar más fácilmente a los jugadores más bajos.</li>
@@ -62,11 +66,11 @@
                             <li>La altura es ventajosa para un jugador de tenis, ya que permite a los jugadores crear más potencia al sacar, además de darles a los jugadores una mayor amplitud de brazos, lo que les permite realizar tiros en ángulos agudos con mayor facilidad y una mayor probabilidad de devolver un tiro alto.</li>
                     </ul>
             </div>
-            <div class="ocultar-media">
-                <a href="contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+
+                <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                <a href="/contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
 

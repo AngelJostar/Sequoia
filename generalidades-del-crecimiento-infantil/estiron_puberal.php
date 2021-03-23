@@ -36,22 +36,25 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-3 ocultar-media">
+            <div class="tamaño-img ph-3-5 ocultar-media">
                 <img src="../img/generalidades-del-crecimiento-infantil/Banner-estiron-puberal.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>Con el término «pubertad» se hace refiere a los cambios somáticos y emocionales que configuran la maduración sexual. La compleja modificación biológica durante la maduración depende de la coordinación e integración de los componentes endócrinos del sistema reproductivo, donde se encuentran involucrados el hipotálamo, la hipófisis y las gónadas; en cada uno de estos niveles anatómicos se secretan factores hormonales responsables, tanto del crecimiento somático como de los fenómenos madurativos que coexisten en el inicio de la pubertad.</h2>
                 </div>
             </div>
-            <div class="tamaño-img ph-3 mostrar-media">
+            <div class="tamaño-img ph-3-5 mostrar-media">
                 <img src="../img/generalidades-del-crecimiento-infantil/Banner-estiron-puberal-desktop.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>Con el término «pubertad» se hace refiere a los cambios somáticos y emocionales que configuran la maduración sexual. La compleja modificación biológica durante la maduración depende de la coordinación e integración de los componentes endócrinos del sistema reproductivo, donde se encuentran involucrados el hipotálamo, la hipófisis y las gónadas; en cada uno de estos niveles anatómicos se secretan factores hormonales responsables, tanto del crecimiento somático como de los fenómenos madurativos que coexisten en el inicio de la pubertad.</h2>
                 </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="contenedor-video ph-1">
+                <div class="reproductor" data-id="trX2CxXTVlA"></div>
+            </div>
+            <div class="justificar-texto-90 justificar-derecha-texto">
                 <p>En esta etapa evolutiva en el hipotálamo se libera la hormona liberadora de gonadotropinas (GnRH), la hormona liberadora de hormona del crecimiento (GHRH) y la somatostatina. En cuanto a la respuesta hipofisiaria a estas señales químicas, se libera la hormona luteinizante (LH), la hormona folículo estimulante (FSH) y la hormona del crecimiento (GH), las que a su vez inducen la producción de andrógenos, progestágenos, estrógenos e inhibinas, así como factores de crecimiento semejantes a la insulina (IGF) y, desde luego, la producción de gametos a nivel gonadal.</p>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-90 justificar-derecha-texto ">
                 <p>Durante el crecimiento que ocurre en la etapa puberal son muchos los factores que influyen en el desarrollo de los carácteres sexuales, como: hormonas, algunas particularidades étnicas, la herencia, así como los factores ambientales y, en ocasiones, la ocurrencia enfermedades concomitantes en los jóvenes, y de manera específica incide su alimentación;7 dado que en esta fase ocurren tres etapas: la primera de éstas se caracteriza por la «desaceleración del ritmo de crecimiento»; la segunda se manifiesta coloquialmente como el «estirón puberal»: por la sinergia entre la hormona de crecimiento y los esteroides sexuales, y la tercera y última etapa es nuevamente iniciada por la desaceleración progresiva y el cierre de los cartílagos óseos durante el crecimiento.</p>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
@@ -59,16 +62,16 @@
                     <h2><span class="font-bold">¿CÓMO LO IDENTIFICO?</span></h2>
                 </div>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-90 justificar-derecha-texto" >
                 <p>El estirón puberal es un cambio brusco de la velocidad de crecimiento, que muestra diferencias en uno y otro sexo, tanto en su cronología como en su intensidad. En las niñas es un acontecimiento precoz que se inicia casi al mismo tiempo que la aparición de los caracteres sexuales secundarios, mientras que en los varones comienza cuando ya está avanzada la pubertad.</p>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-90 justificar-derecha-texto">
                 <p>El estirón de la adolescencia es importante para la talla final, ya que durante este periodo tiene lugar aproximadamente el 20% del crecimiento total. Sin embargo, la responsabilidad en la diferencia de talla entre uno y otro sexo es escasa. Esta se debe, fundamentalmente, al comienzo más tardío del estirón puberal y al crecimiento más prolongado durante el periodo prepuberal en los varones, lo que hace en el momento de iniciarse la aceleración de la adolescencia, los niños tengan ya una talla superior en 8 cm a la de las niñas. </p>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-90 justificar-derecha-texto">
                 <p>Los requerimientos nutritivos están estrechamente relacionados con el aumento de masa, el pico máximo de las necesidades nutritivas coincidirá con el momento de la máxima velocidad de crecimiento.</p>
             </div>
-            <div class="justificar-texto-90">
+            <div class="justificar-texto-90 justificar-derecha-texto">
                 <p>En general, la máxima velocidad de crecimiento se alcanza a la mitad del ciclo puberal, aunque con diferencia entre hombres y mujeres:</p>
             </div>
             <div class="contenedor-principal">
@@ -95,7 +98,7 @@
                 <p>El estirón y la pubertad comienzan a la vez, independientemente de la edad cronológica del individuo en correlación muy estrecha con la edad ósea. De modo que en la pubertad precoz el incremento de velocidad de crecimiento comienza mucho antes, coincidiendo con la aceleración de la edad ósea y, por el contrario, en la pubertad atrasada, con la edad ósea también retrasada, el estirón ocurre mucho más tarde. </p>
             </div>
             <div class="tamaño-img">
-                <img src="../img/banners/Banner-WEB-Etapas-del-desarrollo-de-Tanner.webp" alt="contacto crecimiento">
+                <a href="etapas_del_desarollo_de_tenner"><img src="../img/banners/Banner-WEB-Etapas-del-desarrollo-de-Tanner.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
 

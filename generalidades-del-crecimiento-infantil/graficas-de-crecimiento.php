@@ -46,6 +46,10 @@
                     <h2>Las gráficas o curvas de crecimiento se elaboran con las mediciones de amplios grupos de niños de distintas edades. Estos datos se someten a métodos estadísticos y se diseñan unas curvas de crecimiento. Tenemos gráficas para diferentes mediciones para niños y niñas.</h2>
                 </div>
             </div>
+            <div class="contenedor-video-2">
+                <div class="reproductor-rectangular" data-id="yLo6eB0NtOM"></div>
+            </div>
+
             <div class="justificar-texto-85 centrar-texto ">
                 <p>Estos datos se someten a métodos estadísticos y se diseñan unas curvas de crecimiento. Tenemos gráficas para diferentes mediciones para niños y niñas.</p>
             </div>
@@ -79,10 +83,10 @@
                 <p>Además del percentil también es útil conocer la velocidad de aumento del peso y de la talla. Las gráficas de crecimiento tienen más utilidad para realizar un seguimiento a lo largo del tiempo. Ver la variación del crecimiento a distintas edades y conocer cómo es la curva particular de un niño concreto es más importante que un valor aislado. Si un niño crece siguiendo un cierto patrón y en un momento dado cambia ese patrón y empieza a crecer más despacio, podemos estar ante un problema de salud y descubrirlo observando su curva de crecimiento. Aunque en determinados periodos, como entre los 6 y 18 meses o en la adolescencia, algunos niños normales pueden cambiar de percentil.</p>
             </div>
             <div class="tamaño-img pt-15">
-                <img src="../img/generalidades-del-crecimiento-infantil/NIÑOS-GRAFICA.webp" alt="graficas-de-crecimiento">
+                <img src="../img/generalidades-del-crecimiento-infantil/NINOS-GRAFICA.webp" alt="graficas-de-crecimiento">
             </div>
             <div class="tamaño-img pt-15 pb-30">
-                <img src="../img/generalidades-del-crecimiento-infantil/Banner-Edad-ósea-.webp" alt="graficas-de-crecimiento">
+                <a href="edad-osea"><img src="../img/generalidades-del-crecimiento-infantil/Banner-Edad-osea-.webp" alt="graficas-de-crecimiento"></a>
             </div>  
         </div>
 

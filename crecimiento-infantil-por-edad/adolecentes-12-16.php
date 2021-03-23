@@ -30,35 +30,39 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1>CRECIMIENTO EN ADOLECENTES<span class="font-bold">DE 12 A 16 AÑOS DE EDAD</span></h1>
+                    <h1>CRECIMIENTO EN ADOLECENTES<span class="font-bold"> DE 12 A 16 AÑOS DE EDAD</span></h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-7 ocultar-media">
+            <div class="tamaño-img ph-5 ocultar-media">
                 <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-adolecentes-12-16.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>Durante la adolescencia, las personas jóvenes atraviesan por muchos cambios a medida que pasan a la madurez física. <br> Los cambios prepuberales precoces ocurren cuando aparecen las características sexuales secundarias.</h2>
                 </div>
             </div>
-            <div class="tamaño-img ph-7 mostrar-media">
+            <div class="tamaño-img ph-6 mostrar-media">
                 <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-adolecentes-12-16-desktop.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>Durante la adolescencia, las personas jóvenes atraviesan por muchos cambios a medida que pasan a la madurez física. <br> Los cambios prepuberales precoces ocurren cuando aparecen las características sexuales secundarias.</h2>
                 </div>
             </div>
-            <div class="listas-grid">
-                <div class="tamaño-img-lateral">
-                    <img src="../img/banners/lateral-nina.webp" alt="contacto crecimiento">
+            <div class="contenedor-video ph-1">
+                <div class="reproductor" data-id="ghg416WQnZU"></div>
+            </div>
+
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-1 ">
+                <div class="tamaño-img ph-1">
+                    <img src="/img/crecimiento-infantil-por-edad/lateral-ninas.webp" alt="generalidades-del-crecimiento">
                 </div>
+            </div>
+
+            <div>
                 <div class="mt-1">
-                    <div class="justificar-texto-90">
-                        <h3>NIÑAS</h3>
-                    </div>
                     <div class="contenedor-generalidades">
-                        <div class="justificar-texto-90-listas-grid">
-                            <ol>
+                        <div class="justificar-texto-90-listas">
+                            <ol style="padding-left: 0px;">
                                 <li>Las niñas pueden empezar a desarrollar los brotes de senos a los 8 años de edad, con un desarrollo completo de estos que se alcanza en algún momento entre los 12 y los 18 años.</li>
                                 <li>El crecimiento del vello púbico, de la axila y de la pierna comienza usualmente alrededor de los 9 o 10 años de edad, y alcanza los patrones adultos alrededor de los 13 o 14 años.</li>
                                 <li>El comienzo de los periodos menstruales ocurre en forma característica alrededor de 2 años después de la aparición de los senos incipientes y el vello púbico. Puede suceder incluso desde los 9 años o, a más tardar, hacia los 16 años. La edad promedio de la menstruación en México es aproximadamente a los 12 años.</li>
@@ -68,21 +72,16 @@
                     </div>
                 </div>
             </div>
-            <div>
-                VIDEO
-            </div>
-
-            <div class="listas-grid">
-                <div class="tamaño-img-lateral">
-                    <img src="../img/banners/lateral-nino.webp" alt="contacto crecimiento">
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-1 ">
+                <div class="tamaño-img ph-1">
+                    <img src="/img/crecimiento-infantil-por-edad/lateral-ninos.webp" alt="generalidades-del-crecimiento">
                 </div>
+            </div>
+            <div>
                 <div class="mt-1">
-                    <div class="justificar-texto-90">
-                        <h3>NIÑOS</h3>
-                    </div>
                     <div class="contenedor-generalidades">
-                        <div class="justificar-texto-90-listas-grid">
-                            <ol>
+                        <div class="justificar-texto-90-listas">
+                            <ol style="padding-left: 0px;">
                                 <li>Las niños pueden comenzar a notar un crecimiento del escroto y los testículos desde los 9 años de edad. Pronto, el pene comienza a agrandarse. Hacia la edad de 17 a 18 años, sus genitales tienen usualmente el tamaño y la forma de los genitales adultos.</li>
                                 <li>El crecimiento del vello púbico, así como también el vello de la axila, la pierna, el pecho y la cara, comienza en los niños alrededor de los 12 años y alcanza los patrones adultos más o menos de los 17 a 18 años.</li>
                                 <li>Los niños no comienzan la pubertad con un incidente súbito, como lo es el comienzo de la menstruación en las mujeres. Tener emisiones nocturnas regulares (sueños húmedos) marca el inicio de la pubertad en los varones y ocurre normalmente entre las edades de 13 y 17 años. La edad promedio es alrededor de 14 años y medio.</li>
@@ -93,10 +92,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img">
-                <img src="../img/banners/Banner-Baja-estatura.webp" alt="generalidades-del-crecimiento">
-            </div>
-            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-1 ">
                 <div class="titulos-principal">
                     <h2><span class="font-bold">PERCENTILES DE CRECIMIENTO EN NIÑOS Y NIÑAS DE 12 A 16 AÑOS</span></h2>
                 </div>
@@ -107,9 +103,9 @@
                 <p>Basándonos en las indicaciones de la OMS, podemos calcular el crecimiento del niño mes a mes, basándonos en si es niño o niña. Para aprender más sobre las gráficas de crecimiento visita nuestra sección de “Percentiles de crecimiento”.</p>
             </div>
             <div class="tamaño-img">
-            <img src="../img/banners/Banner-Graficas-de-Crecimiento.webp" alt="generalidades-del-crecimiento">
+                <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento"><img src="../img/banners/Banner-Graficas-de-Crecimiento.webp" alt="generalidades-del-crecimiento"></a>
             </div>
-            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-1 ">
                 <div class="titulos-principal">
                     <h2><span class="font-bold">GRAFICAS ESTÁNDAR DE CRECIMIENTO <br> EN NIÑOS Y NIÑAS DE 12 A 16 AÑOS</span></h2>
                 </div>
@@ -135,11 +131,11 @@
                 <img src="/img/nueva/imc2.webp" alt="Brexia_especialistas">
             </div>
             <div class="ocultar-media">
-                <a href="contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <a href="contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
-            </div>
+                    <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto-crecimiento-infantil"></a>
+                </div>
+                <div class="tamaño-img mostrar-media">
+                    <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto-crecimiento-infantil"></a>
+                </div>
 
 
 

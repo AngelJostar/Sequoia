@@ -263,8 +263,17 @@
         
         .linea-blanca {
             border-top: 3px solid #ffffff;
-            margin: 0 auto;
             max-width: 100%;
+        }
+        
+        .wrapper {
+            display: grid;
+        }
+        
+        .linea-blanca-como-medir {
+            border-top: 3px solid #000000;
+            max-width: 80%;
+            margin-left: 3vw;
         }
         /*Low Header*/
         
@@ -936,6 +945,16 @@
             width: 100%;
         }
         
+        .barra-lateral {
+            background-color: #c0d41f;
+            max-width: 100%;
+            max-height: 100%;
+        }
+        
+        .wrapper {
+            display: grid;
+        }
+        
         .flexbox.padre {
             display: flex;
             align-items: center;
@@ -1226,6 +1245,10 @@
             padding-top: calc(3em + 1vw);
         }
         
+        .ph-3-5 {
+            padding-top: calc(3.5em + 1vw);
+        }
+        
         .ph-4 {
             padding-top: calc(4em + 1vw);
         }
@@ -1242,8 +1265,16 @@
             padding-top: calc(5.5em + 1vw);
         }
         
+        .ph-5-2 {
+            padding-top: calc(5.2em + 1vw);
+        }
+        
         .ph-6 {
             padding-top: calc(6em + 1vw);
+        }
+        
+        .ph-6-5 {
+            padding-top: calc(6.5em + 1vw);
         }
         
         .ph-7 {
@@ -1514,7 +1545,6 @@
             max-width: 90%;
             font-size: 3vh;
             color: #00205E;
-            text-align: justify;
             font-weight: bold;
             margin: 0 auto;
         }

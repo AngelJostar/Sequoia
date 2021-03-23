@@ -47,11 +47,11 @@
                     <h2>El desarrollo físico en la etapa de los 6 a 11 años es considerable, la constitución corporal cambia, la masa muscular aumenta, los huesos se hacen más fuertes</h2>
                 </div>
             </div>
-            <div class="justificar-texto-90">
-                <p>AQUI VA UN VIDEO 1</p>
+            <div class="contenedor-video">
+                <div class="reproductor" data-id="U3hGSEYyl9Q"></div>
             </div>
-            <div class="justificar-texto-90">
-                <p>AQUI VA UN VIDEO 2</p>
+            <div class="contenedor-video">
+                <div class="reproductor" data-id="ghg416WQnZU"></div>
             </div>
             <div class="justificar-texto-85 centrar-texto contenedor-75porciento">
                 <p>El niño es capaz de realizar actividades físicas que requieren más fuerza y destreza.</p>
@@ -80,11 +80,11 @@
                 <p>Los caracteres sexuales secundarios en los niños implican una musculatura más desarrollada, ensanche de tórax y hombros, mayor cantidad de vello corporal, salida del vello facial, voz más grave y depósito de grasa en torno al abdomen.</p>
             </div>
             <div class="tamaño-img centrar-imagen pb-30">
-                <img src="/img/nueva/Banner-Estiron-Puberal.webp" alt="Brexia_especialistas">
+                <a href="/generalidades-del-crecimiento-infantil/estiron_puberal"><img src="/img/nueva/Banner-Estiron-Puberal.webp" alt=""></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">
-                    <h2><span class="font-bold">PERCEPTIBLES DE CRECIMIENTO EN<br>NIÑOS Y NIÑAS DE 6 A 11 AÑOS</span></h2>
+                    <h2><span class="font-bold">PERCENTILES DE CRECIMIENTO EN<br>NIÑOS Y NIÑAS DE 6 A 11 AÑOS</span></h2>
                 </div>
             </div>
             <div class="justificar-texto-85 centrar-texto pt-15">
@@ -93,7 +93,7 @@
                 <p>Basándonos en las indicaciones de la OMS, podemos calcular el crecimiento del niño mes a mes, basándonos en si es niño o niña. Para aprender más sobre las gráficas de crecimiento visita nuestra sección de <span class="font-bold">“Percentiles de crecimiento”</span>.</p>
             </div>
             <div class="tamaño-img centrar-imagen pb-30">
-                <img src="/img/nueva/Banner-Graficas-de-Crecimiento.webp" alt="Brexia_especialistas">
+                <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento"><img src="/img/nueva/Banner-Graficas-de-Crecimiento.webp" alt=""></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">
@@ -101,30 +101,30 @@
                 </div>
             </div>
             <div class="tamaño-img centrar-imagen pt-15">
-                <img src="/img/nueva/estatura-6-11-niños.webp" alt="Brexia_especialistas">
+                <img src="/img/nueva/estatura-6-11-ninos.webp" alt="">
             </div>
             <div class="tamaño-img centrar-imagen pt-15 pb-30">
-                <img src="/img/nueva/estatura-6-11-niñas.webp" alt="Brexia_especialistas">
+                <img src="/img/nueva/estatura-6-11-ninas.webp" alt="">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2  margin-negativo-top-18">
                 <div class="titulos-principal">
-                    <h2><span class="font-bold">GRAFICAS ESTÁNDARES DE ÍNDICE DE<br>MASA CORPORAL(IMC) EN NIÑOS Y <br>NIÑAS DE 6 A 11 AÑOS</span></h2>
+                    <h2><span class="font-bold">GRAFICAS ESTÁNDARES DE ÍNDICE DE<br>MASA CORPORAL (IMC) EN NIÑOS Y <br>NIÑAS DE 6 A 11 AÑOS</span></h2>
                 </div>
             </div>
             <div class="justificar-texto-85 centrar-texto pt-15">
                 <p>A continuación te presentamos las gráficas de crecimiento y peso que debería de seguir tu hijo o hija de 6 a 11 años. </p>
             </div>
             <div class="tamaño-img centrar-imagen">
-                <img src="/img/nueva/imc-niños-6-11.webp" alt="Brexia_especialistas">
+                <img src="/img/nueva/imc-ninos-6-11.webp" alt="graficas">
             </div>
             <div class="tamaño-img centrar-imagen pt-15">
-                <img src="/img/nueva/imc-niñas-6-11.webp" alt="Brexia_especialistas">
+                <img src="/img/nueva/imc-ninas-6-11.webp" alt="graficas">
             </div>
             <div class="ocultar-media">
-                    <a href="contacto"><img src="../img/banners/BANNER-2-NIÑA-VERTICAL.webp" alt="altura-crecimiento-estatura"></a>
+                    <a href="contacto"><img src="../img/banners/BANNER-2-NINA-VERTICAL.webp" alt="altura-crecimiento-estatura"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="contacto"><img src="../img/banners/BANNER-2-NIÑA-HORIZONTAL.webp" alt="altura-crecimiento-estatura"></a>
+                    <a href="contacto"><img src="../img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt="altura-crecimiento-estatura"></a>
                 </div>
 
         </div>

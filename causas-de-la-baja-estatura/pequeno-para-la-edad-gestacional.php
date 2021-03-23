@@ -26,7 +26,7 @@
         <div class="contenedor-principal" id="contenedor-principal">
 
             <div class="cuadros-crecimiento">
-                <div class="titulos-grid-baja-estatura">
+                <div class="titulos-grid-crecimiento-infantil">
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
@@ -36,12 +36,20 @@
                     </div>
                 </div>
             </div>
-            <div class="caja-imagen-hojas">
+            <div class="tamaño-img ph-5-2 ocultar-media">
                 <img src="/img/banners/Banner-pequeno-para-la-edad-gestacional.webp" alt="">
                 <div class="texto-imagen-izquierda">
                     <h2>Los reciéntes nacidos cuyo peso es por debajo al percentil 10 para la edad gestacional se clasifican como pequeños para la edad gestacional.</h2>
                 </div>
             </div>
+            <div class="tamaño-img ph-6-5 mostrar-media">
+                <img src="/img/banners/Banner-pequeno-para-la-edad-gestacional.webp" alt="">
+                <div class="texto-imagen-izquierda">
+                    <h2>Los reciéntes nacidos cuyo peso es por debajo al percentil 10 para la edad gestacional se clasifican como pequeños para la edad gestacional.</h2>
+                </div>
+            </div>
+
+
             <div class="justificar-texto-90 centrar-texto">
                 <p>La edad gestacional no es la edad embriológica real del feto, pero es el valor estándar universal entre los obstetras y los neonatólogos para evaluar la maduración fetal.  Las causas que dan lugar a recién nacidos PEG, pueden agruparse en causas fetales, maternas, placentarias y ambientales. </p>
             </div>

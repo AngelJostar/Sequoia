@@ -35,13 +35,13 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img">
+            <div class="tamaño-img ph-2">
                 <img src="../img/tablas/leguminosas.webp" alt="contacto crecimiento">
             </div>
             <div class="justificar-texto-90 centrar-texto">
                 <div class="cuadros-crecimiento-2 efecto3-2  ">
                     <div class="titulos-principal">
-                        <h2><span class="font-bold">TRANSTORNOS DE LOS HUESOS<br> Ó EL ESQUELETO, COMO:</span></h2>
+                        <h2><span class="font-bold">DE LA OLLA, NO REFRITOS, SI MACHACADOS</span></h2>
                     </div>
                 </div>
                 <div>
@@ -94,8 +94,11 @@
                     <div class="cuadro-tabla"></div>
                 </div>
             </div>
-            <div class="tamaño-img pt-15 pt-15">
-                <img src="/img/causas-baja/BANNER-2-DOC-VERTICAL.webp" alt="contacto crecimiento">
+            <div class="ocultar-media">
+                <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+            </div>
+            <div class="tamaño-img mostrar-media ph-1">
+                <a href="/contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
 
 

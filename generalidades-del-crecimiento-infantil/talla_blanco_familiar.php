@@ -35,7 +35,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-3 ocultar-media">
+            <div class="tamaño-img ph-3-5 ocultar-media">
                 <img src="../img/generalidades-del-crecimiento-infantil/Banner-talla-blanco-familiar.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>La Talla Blanco familiar es el promedio de crecimiento que los padres heredan a sus hij@s</h2>
@@ -46,6 +46,9 @@
                 <div class="texto-imagen-izquierda">
                     <h2>La Talla Blanco familiar es el promedio de crecimiento que los padres heredan a sus hij@s</h2>
                 </div>
+            </div>
+            <div class="contenedor-video ph-1">
+                <div class="reproductor" data-id="YqrFjEF8vR0"></div>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
                 <div class="titulos-principal">
@@ -72,7 +75,7 @@
                 <p>También los factores metabólicos como el déficit de hormona del crecimiento (GH), el hipotiroidismo o la diabetes mal controlada, pueden alterar el crecimiento esperable genéticamente. Entre los factores ambientales o exógenos, inciden en el crecimiento aspectos como son la nutrición, la actividad física y los aspectos psicológicos, como es la deprivación emocional.</p>
             </div>
             <div class="tamaño-img pt-15 pb-15">
-                <img src="../img/generalidades-del-crecimiento-infantil/Banner-Pubertad-adelantada-o-atrasada.webp" alt="graficas-de-crecimiento">
+                <a href="pubertad-precoz"><img src="../img/generalidades-del-crecimiento-infantil/Banner-Pubertad-adelantada-o-atrasada.webp" alt="graficas-de-crecimiento"></a>
             </div>
 
         </div>

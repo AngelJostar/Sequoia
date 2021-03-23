@@ -47,6 +47,9 @@
                     <h2>Al medir la altura y el peso se puede saber si un niño está creciendo bien y detectar a tiempo un estancamiento del crecimiento. Para realizar una medición precisa se debe tomar en cuenta las siguientes observaciones:</h2>
                 </div>
             </div>
+            <div class="contenedor-video ph-2">
+                <div class="reproductor" data-id="vjGNOgJ1jxs"></div>
+            </div>
             <div class="justificar-texto-85">
                 <p>Para realizar una medición precisa se debe tomar en cuenta las siguientes observaciones:</p>
             </div>
@@ -64,8 +67,14 @@
                 </div>
             </div>
             <div class="listas-grid">
-                <div>
-                    <img src="../img/banners/regla-lateral.webp" alt="contacto crecimiento">
+                <div class="barra-lateral wrapper">
+                    <div class="linea-blanca-como-medir">
+                        <p>p</p>
+                    </div>
+                    <div class="linea-blanca-como-medir"></div>
+                    <div class="linea-blanca-como-medir"></div>
+                    <div class="linea-blanca-como-medir"></div>
+                    <div class="linea-blanca-como-medir"></div>
                 </div>
                 <div class="mt-1">
                     <div class="justificar-texto-90">
@@ -76,10 +85,10 @@
                             <ol>
                                 <li>Coloque la tabla de altura plana en el suelo o en una mesa o banco.</li>
                                 <li>Quítele los zapatos al niño y colóquelo suavemente sobre su espalda a lo largo del centro de la tabla.</li>
-                                <li>Sostenga los lados de la cabeza del niño, cubriendo las orejas y (con la ayuda del asistente o cuidador) coloque la cabeza tocando el tablero. La cabeza debe ser posicionada de manera que la línea de visión para el niño sea perpendicular
-                                    al respaldar de la tabla.</li>
-                                <li>Coloque sus manos suavemente sobre los tobillos o las rodillas del niño para mantenerlas planas y derechas. Mientras coloca las piernas del niño, coloque la tabla deslizante contra las plantas de los pies del niño, para mantenerlas
-                                    rectas sobre la tabla.</li>
+                                <li>Sostenga los lados de la cabeza del niño, cubriendo las orejas y (con la ayuda del asistente o cuidador) coloque la cabeza tocando el tablero. La cabeza debe ser posicionada de manera que la línea de visión para el niño
+                                    sea perpendicular al respaldar de la tabla.</li>
+                                <li>Coloque sus manos suavemente sobre los tobillos o las rodillas del niño para mantenerlas planas y derechas. Mientras coloca las piernas del niño, coloque la tabla deslizante contra las plantas de los pies del niño, para
+                                    mantenerlas rectas sobre la tabla.</li>
                                 <li>La persona que mide lee en voz alta la medida al 0.1 cm más cercano.</li>
                                 <li>La medición debe repetirse. Una segunda persona la debe registrar de inmediato.</li>
                             </ol>
@@ -118,7 +127,7 @@
                 <img src="../img/generalidades-del-crecimiento-infantil/nina-mediendose.webp" alt="generalidades-del-crecimiento">
             </div>
             <div class="tamaño-img">
-                <img src="../img/banners/Banner-Baja-estatura.webp" alt="contacto crecimiento">
+                <a href="baja-estatura"></a><img src="../img/banners/Banner-Baja-estatura.webp" alt="contacto crecimiento">
             </div>
 
 

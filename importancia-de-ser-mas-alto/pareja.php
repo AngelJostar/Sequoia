@@ -35,13 +35,13 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-5 ocultar-media">
+            <div class="tamaño-img ph-5-2 ocultar-media">
                 <img src="../img/importancia-de-ser-mas-alto/Banner-deporte-y-estatura.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>¿IMPORTA LA ESTATURA AL ELEGIR PAREJA?, La estatura es más importante al elegir pareja que aspectos como sonrisa, ojos, tono de voz y estilo de vestir, revela el estudio.</h2>
                 </div>
             </div>
-            <div class="tamaño-img ph-6 mostrar-media">
+            <div class="tamaño-img ph-6-5 mostrar-media">
                 <img src="../img/importancia-de-ser-mas-alto/Banner-deporte-y-estatura-desktop.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>¿IMPORTA LA ESTATURA AL ELEGIR PAREJA?, La estatura es más importante al elegir pareja que aspectos como sonrisa, ojos, tono de voz y estilo de vestir, revela el estudio.</h2>
@@ -68,10 +68,10 @@
                 <p>Ser alto ayuda en la vida romántica de tu hijo o hija. Por lo tanto, los adolescentes más altos de ambos sexos suelen tener más citas que sus compañeros más bajos, y los hombres y mujeres más altos tienen más probabilidades de encontrar una pareja a largo plazo. </p>
             </div>
             <div class="ocultar-media">
-                <a href="contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                <a href="/contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
 
         </div>

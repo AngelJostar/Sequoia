@@ -50,9 +50,6 @@
             <div class="justificar-texto-90 centrar-texto pt-15">
                 <p>Los niños y niñas más bajitos suelen ser acosados en la escuela y pueden mostrar cambios en su actitud o tener problemas de autoestima. Pueden ser sobreprotegidos, tanto por familiares, como por maestros, volviéndolos dependientes, con dificultades para enfrentar por sí mismos los problemas que le presenta la vida diaria.</p>
             </div>
-            <div class="tamaño-img">
-                <img src="../img/importancia-de-ser-mas-alto/PORTADA-YOUTUBE-FRANCISCOEjercicio-como-factor-para-el-crecimiento-.webp" alt="contacto crecimiento">
-            </div>
             <div class="justificar-texto-90 centrar-texto">
                 <p>De acuerdo con un estudio publicado en la revista Psychiatry Research, las personas que son de baja estatura suelen padecer baja autoestima. De acuerdo a la investigación de la Universidad de Oxford, las personas que son de baja estatura tienen un complejo de inferioridad y se sienten amenazados por los demás. En la adolescencia donde los cambios corporales están desconcertando al joven que al compararse con sus compañeros se siente atrasado en su crecimiento ser más bajos que sus compañeros los podría hacer vulnerables al acoso escolar, afectando su rendimiento académico y su desarrollo psicosocial.</p>
             </div>
@@ -72,7 +69,7 @@
                             <li>Responsabilidad de acuerdo a su edad</li>
                         </ul>
                     </div>
-            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-1 ">
                 <div class="titulos-principal">
                     <h2><span class="font-bold">MIENTRAS QUE UNA BAJA AUTOESTIMA<br>SE CARACTERIZA POR:</span></h2>
                 </div>
@@ -103,10 +100,10 @@
                 <img src="/img/nueva/autoestima2.webp" alt="Brexia_especialistas">
             </div>      
             <div class="ocultar-media">
-                <a href="contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                <a href="/contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
 
         </div>

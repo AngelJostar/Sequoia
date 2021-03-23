@@ -30,7 +30,7 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1><span class="font-bold">ETAPAS DEL DESARROLLO <br> DE TANNER</span></h1>
+                    <h1><span class="font-bold">CAMBIOS FÍSICOS Y <br> ETAPAS  DE TANNER</span></h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
@@ -52,6 +52,9 @@
                         16 años y en los varones a los 18 años aproximadamente.</h2>
                 </div>
             </div>
+            <div class="contenedor-video ph-1">
+                <div class="reproductor" data-id="tI0-hx_0QLg"></div>
+            </div>
             <div class="justificar-texto-90">
                 <p>
                     De tal modo que la máxima expresión de la potencialidad genética dependerá básicamente del estado de salud y nutrición
@@ -67,6 +70,9 @@
             </div>
             <div class="justificar-texto-90">
                 <p>En general la pubertad progresa a razón de un estadio de Tanner por año. Esto es muy importante para evaluar si el proceso está ocurriendo normalmente o no.</p>
+            </div>
+            <div class="contenedor-video">
+                <div class="reproductor" data-id="Jtta_Rl3dRA"></div>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
                 <div class="titulos-principal">
@@ -265,7 +271,7 @@
                 </div>
             </div>
             <div class="tamaño-img">
-                <img src="../img/banners/Banner-Estiron-Puberal.webp" alt="contacto crecimiento">
+                <a href="estiron_puberal"><img src="../img/banners/Banner-Estiron-Puberal.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
 
