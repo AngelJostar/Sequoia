@@ -108,7 +108,8 @@
         }
         
         .size-hojita img {
-            max-width: 60%;
+            max-width: 55%;
+            padding-left: 7px;
         }
         
         .hojita-menu img {
@@ -118,7 +119,8 @@
         
         .hoja-grid {
             display: grid;
-            grid-template-columns: 5% 95%;
+            grid-template-columns: 10% 90%;
+            margin-bottom: 1.2rem;
         }
         
         @media (max-width: 767px) {
@@ -445,6 +447,10 @@
         .menu-header {
             display: grid;
             grid-template-columns: repeat(2, 1fr);
+        }
+        
+        .menu-header img {
+            padding-left: 1rem;
         }
         /* ### GENERAL CONTENT STYLES ### */
         
@@ -1170,6 +1176,10 @@
             height: 20px;
             max-width: 100%;
             margin-top: 15px;
+        }
+        
+        .linea-index {
+            border-top: 3px solid rgb(192, 212, 31);
         }
         
         .letras-blue-footer {
@@ -1920,6 +1930,7 @@
             position: relative;
             width: 100%;
             margin: 0 auto;
+            height: 490px;
         }
         
         .texto-imagen-izquierda h2 {
@@ -2608,13 +2619,6 @@
                 word-spacing: 1px;
                 line-height: 1.7;
                 margin-bottom: 2rem;
-            }
-            .grid-index-2 {
-                max-width: 50%;
-                margin: 0 auto;
-                display: grid;
-                grid-template-columns: 50% 50%;
-                column-gap: 2rem;
             }
             .grid-index-2 p {
                 text-align: left;
