@@ -47,9 +47,8 @@
                     <h2>Los trastornos del crecimiento puden tener muchas causas, entre ellas la Estatura baja familiar</h2>
                 </div>
             </div>
-
-            <div class="tamaño-img pt-15">
-                <img src="/img/causas-baja/PORTADA-YOUTUBE-DOCTORES-SEQUOIA-DORANTES-4.webp" alt="contacto crecimiento">
+            <div class="contenedor-video">
+                <div class="reproductor" data-id="Kd1jNM7GdhE"></div>
             </div>
             <div class="justificar-texto-85 centrar-texto pt-15">
                 <p>Los trastornos del crecimiento pueden tener muchas causas, entre ellas la Estatura baja familiar. Esto significa que un niño es parte del patrón de altura baja heredado de su familia. Para valorar el crecimiento son importantes los antecedentes
@@ -59,7 +58,7 @@
                     de los padres. </p>
             </div>
             <div class="tamaño-img pt-15 pb-30">
-                <img src="/img/causas-baja/Banner-Talla-baja-Idiopatica.webp" alt="contacto crecimiento">
+                <a href="/causas-de-la-baja-estatura/baja-estatura-idiopatica"><img src="/img/causas-baja/Banner-Talla-baja-Idiopatica.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
@@ -110,13 +109,13 @@
                 <p>Si la estatura baja familiar está relacionada con la deficiencia de la hormona del crecimiento, el niño necesitará ser tratado antes de llegar a la pubertad para alcanzar su potencial máximo de estatura.</p>
             </div>
             <div class="tamaño-img pt-15">
-                <img src="/img/causas-baja/Banner-Deficiencia-de-Hormano-del-Crecimiento.webp" alt="contacto crecimiento">
+                <a href="/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento"><img src="/img/causas-baja/Banner-Deficiencia-de-Hormano-del-Crecimiento.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="ocultar-media">
-                <a href="contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                <a href="/contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
 
         </div>

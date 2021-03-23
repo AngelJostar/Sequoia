@@ -115,7 +115,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 mt-2 ">
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-1 ">
                 <div class="titulos-principal">
                     <h2><span class="font-bold">ETIOLOGÍA</span></h2>
                 </div>
@@ -168,7 +168,7 @@
                 <p>Un lactante también puede tener retraso del crecimiento asimétrico y ser pequeño para la edad gestacional (PEG) si la madre es consumidora de opiáceos, cocaína, alcohol o tabaco durante el embarazo.</p>
             </div>
             <div class="tamaño-img pb-30">
-                <img src="../img/Causas-de-la-baja-estatura/Banner-Retraso-constitucional-del-crecimiento-y-la-pubertad-.webp" alt="contacto crecimiento">
+                <a href="/causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad"><img src="../img/Causas-de-la-baja-estatura/Banner-Retraso-constitucional-del-crecimiento-y-la-pubertad-.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 mt-2 ">
                 <div class="titulos-principal">
@@ -179,10 +179,10 @@
                 <p>Una gran proporción de estos niños tienen patrones de crecimiento posparto alterados, la talla esperada es variable, a más inmadurez será más retrasado, lento e incluso incompleto, con una talla final significativamente afectada. Es importante que el niño se encuentre en seguimiento médico constantemente para que el especialista pueda valorarlo y darle un tratamiento para que pueda alcanzar una mayor estatura. </p>
             </div>
             <div class="ocultar-media">
-                <a href="contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                <a href="/contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
 

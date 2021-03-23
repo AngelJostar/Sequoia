@@ -47,8 +47,8 @@
                     <h2>El retraso constitucional del crecimiento y de la pubertad (RCCP) es una condición caracterizada por baja estatura y maduración esquelética retrasada, en niños sanos.</h2>
                 </div>
             </div>
-            <div class="tamaño-img pt-15">
-                <img src="/img/causas-baja/PORTADA-YOUTUBE-DOCTORES-SEQUOIA-DORANTES-5.webp" alt="contacto crecimiento">
+            <div class="contenedor-video ph-1">
+                <div class="reproductor" data-id="JF7uX44dN_E"></div>
             </div>
             <div class="justificar-texto-85 centrar-texto pt-15 pb-30">
                 <p>La pubertad constituye un estudio del desarrollo caracterizado por cambios anatómicos, fisiológicos y psicológicos, representando una fase preparatoria para la reproducción; el
@@ -61,7 +61,7 @@
                     <h2><span class="font-bold">ETIOLOGÍA</span></h2>
                 </div>
             </div>
-            <div class="justificar-texto-85 pt-1p pb-2">
+            <div class="justificar-texto-85 justificar-derecha-texto  pt-1p pb-2">
                 <p>No se conocen las causas del RCCP; se han mencionado como factores etiológicos, la nutrición subóptima en los primeros meses de vida, determinados factores genéticos y alteraciones en el eje GHIGF1.4 Los niños con RCCP frecuentemente presentan un biotipo longilíneo, por lo que se ha relacionado a la leptina con esta condición; la deficiencia de leptina causada por mutaciones del gen que la codifica provoca obesidad severa de inicio precoz, hipogonadismo, retraso del desarrollo y anormalidades del sistema inmune; se ha observado una variante del gen de la leptina en un niño de hábito longilíneo y RCCP, al igual que en su madre, también con biotipo longilíneo y antecedente de pubertad retrasada. </p>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
@@ -69,20 +69,20 @@
                     <h2><span class="font-bold">MANIFESTACIONES CLÍNICAS</span></h2>
                 </div>
             </div>
-            <div class="justificar-texto-85 pt-1p">
+            <div class="justificar-texto-85 justificar-derecha-texto pt-1p">
                 <p>El RCCP se caracteriza por la desaceleración del crecimiento en los primeros años de vida, posterior normalización de la velocidad de crecimiento e inicio tardío de la pubertad; es una imagen en espejo del adelanto constitucional del crecimiento, caracterizado por la aceleración del crecimiento desde el nacimiento, alcanzando el percentil más alto a los dos a cuatro años de edad, normalizándose después la velocidad de crecimiento hasta la pubertad, la cual frecuentemente inicia en forma temprana.</p>
                 <p>Se ha evidenciado que la velocidad de crecimiento en los niños que presentan RCCP antes del inicio de la pubertad, es menor que la observada en la población pediátrica general, por lo que se sugiere que la evaluación de los niños con RCCP debe realizarse con tablas específicas para ellos. En general, los niños con RCCP son delgados. </p>
                 <p>Por otro lado, los niños con diagnóstico presuntivo de RCCP presentan una elevada sensibilidad a la insulina, la cual probablemente se relacione con el tiempo de inicio de pubertad.</p>
             </div>
             <div class="tamaño-img pb-30">
-                <img src="/img/causas-baja/Banner-Pubertad-adelantada-o-atrasada.webp" alt="contacto crecimiento">
+                <a href="/generalidades-del-crecimiento-infantil/pubertad-precoz"><img src="/img/causas-baja/Banner-Pubertad-adelantada-o-atrasada.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
                     <h2><span class="font-bold">DIAGNÓSTICO</span></h2>
                 </div>
             </div>
-            <div class="justificar-texto-85 pt-1p pb-2">
+            <div class="justificar-texto-85 justificar-derecha-texto  pt-1p pb-2">
                 <p>El RCCP es una variante del crecimiento normal, no un proceso patológico; se diagnostica con mayor frecuencia en niños que en niñas; la edad ósea está retrasada, pero no es concluyente; por otro lado, no existe un examen específico de laboratorio para diagnosticar RCCP. La edad ósea es una medida de desarrollo y de madurez fisiológica; representa mejor que la edad cronológica el cuánto el individuo ha progresado hacia la madurez total; la evaluación de la madurez esquelética juega un rol importante en la confirmación del diagnóstico de RCCP y en la interpretación de los exámenes hormonales durante la pubertad; sin embargo, en cuanto a la predicción de la talla final adulta, basada en la edad ósea, se ha descrito que la predicción es más exacta en niños “normales”, no siendo aplicable en aquellos que presentan enfermedades óseas o endocrinas que afectan el crecimiento.</p>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
@@ -90,15 +90,15 @@
                     <h2><span class="font-bold">TRATAMIENTO</span></h2>
                 </div>
             </div>
-            <div class="justificar-texto-85 pt-1p">
+            <div class="justificar-texto-85 justificar-derecha-texto  pt-1p">
                 <p>En general los cuidados rutinarios en los pacientes con RCCP consisten en la observación y controles periódicos; los andrógenos, la hormona de crecimiento y los inhibidores de la aromatasa pueden ser utilizados para acelerar el crecimiento y el desarrollo puberal en estos niños, potencialmente mejorando su talla final adulta; sin embargo, ninguno de estos medicamentos actúa sobre la causa del RCCP.</p>
                 <p>Ante cualquier cambio en el crecimiento de tu hijo no dudes en acudir con nuestros Médicos Pediatras Endocrinólogos. Ellos diagnosticarán las causas por las que tu hijo no crece adecuadamente para alcanzar una mayor estatura.</p>
             </div>
             <div class="ocultar-media">
-                <a href="contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                <a href="/contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
  
         </div>

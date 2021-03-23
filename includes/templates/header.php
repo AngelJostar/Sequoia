@@ -2,7 +2,7 @@
     <div class="contenedor">
         <div class="mid-header">
             <div class="mid-image deepmid-header pt-1" id="mid-image">
-                <a href="index "><img src="../img/Logo-Horizontal.webp" alt="imagen-logo"></a>
+                <a href="index"><img src="../img/Logo-Horizontal.webp" alt="imagen-logo"></a>
             </div>
             <div class="icono">
                 <div data-wow-delay="0.1s">
@@ -95,13 +95,13 @@
 
         <div class="low-header">
             <ul>
-                <li><a href="index">Inicio</a></li>
-                <li><a href="crecimiento-infantil" class="menu-a">Crecimiento Infantil</a></li>
-                <li><a href="especialistas-en-crecimiento" class="menu-a">Especialistas en crecimiento infantil</a></li>
+                <li><a href="/index">Inicio</a></li>
+                <li><a href="/crecimiento-infantil" class="menu-a">Crecimiento Infantil</a></li>
+                <li><a href="/especialistas-en-crecimiento" class="menu-a">Especialistas en crecimiento infantil</a></li>
                 <br>
-                <li><a href="crecimiento-infantil-deficiente" class="menu-a">Crecimiento infantil deficiente</a></li>
-                <li><a href="preguntas-frecuentes" class="menu-a">Preguntas Frecuentes</a></li>
-                <li><a href="contacto">Contacto</a></li>
+                <li><a href="/crecimiento-infantil-deficiente" class="menu-a">Crecimiento infantil deficiente</a></li>
+                <li><a href="/preguntas-frecuentes" class="menu-a">Preguntas Frecuentes</a></li>
+                <li><a href="/contacto">Contacto</a></li>
             </ul>
         </div>
     </div>

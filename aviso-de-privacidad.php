@@ -24,7 +24,7 @@
         <?php include_once 'includes/templates/header.php';?>
 
         <div class="contendor-crecimiento">
-            <div class="cuadros-crecimiento">
+            <div class="cuadros-crecimiento mt-1">
                 <div class="titulos-grid-crecimiento-infantil">
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>

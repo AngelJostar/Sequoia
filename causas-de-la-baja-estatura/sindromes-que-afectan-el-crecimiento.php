@@ -41,10 +41,10 @@
                     <h2>La velocidad de crecimiento de los niños varía, si no se supervisa de cerca el crecimiento de un niño, es posible que no se detecten trastornos que lo afecten como:</h2>
                 </div>
             </div>
-            <div class="tamaño-img pt-15 pb-30">
-                <img src="/img/causas-baja/Sindromes-mas-frecuentes-que-afectan-el-crecimiento-PORTADA-YOUTUBE-MONICA.webp" alt="contacto crecimiento">
+            <div class="contenedor-video">
+                <div class="reproductor" data-id="JF7uX44dN_E"></div>
             </div>
-            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-1 ">
                 <div class="titulos-principal">
                     <h2><span class="font-bold">SÍNDROMES DISMÓRFICOS</span></h2>
                 </div>
@@ -85,7 +85,7 @@
                 <P>Los cambios más fuertes generalmente se producen a los 12 o 18 meses de edad, en un período de semanas o meses. Los síntomas y su gravedad pueden variar bastante de un niño a otro.</P>
             </div>
             <div class="tamaño-img pt-15 pb-30">
-                <img src="/img/causas-baja/Banner-Padecimeintos-y-Enfermedades-Cronicas.webp" alt="contacto crecimiento">
+                <a href="/causas-de-la-baja-estatura/padecimientos-y-enfermedades-cronicas-que-afectan-el-crecimiento"><img src="/img/causas-baja/Banner-Padecimeintos-y-Enfermedades-Cronicas.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
@@ -139,10 +139,10 @@
                 <P>Fue descrito por primera vez en 1912 por Maurice Klippel y André Feil. Su incidencia es de 1/40.000. Es una enfermedad congénita que consiste en la fusión de dos o más vértebras cervicales y está definida por la triada característica, implantación baja del cabello, cuello corto y limitación de la movilidad del mismo. El crecimiento en estos niños es escaso y referente al tratamiento con hormona de crecimiento.</P>
             </div>
             <div class="ocultar-media">
-                <a href="contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                <a href="/contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
 

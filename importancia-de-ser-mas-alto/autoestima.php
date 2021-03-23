@@ -46,9 +46,12 @@
                 <div class="texto-imagen-izquierda">
                     <h2>La estatura baja en los niños y adolescentes puede ser factor de una disminución de la autoestima y cambios de actitud debido a factores como el acoso escolar y otros problemas de la vida diaria. </h2>
                 </div>
-            </div>
+            </div>           
             <div class="justificar-texto-90 centrar-texto pt-15">
                 <p>Los niños y niñas más bajitos suelen ser acosados en la escuela y pueden mostrar cambios en su actitud o tener problemas de autoestima. Pueden ser sobreprotegidos, tanto por familiares, como por maestros, volviéndolos dependientes, con dificultades para enfrentar por sí mismos los problemas que le presenta la vida diaria.</p>
+            </div>
+            <div class="contenedor-video">
+                <div class="reproductor" data-id="7QDRQBR6a-s"></div>
             </div>
             <div class="justificar-texto-90 centrar-texto">
                 <p>De acuerdo con un estudio publicado en la revista Psychiatry Research, las personas que son de baja estatura suelen padecer baja autoestima. De acuerdo a la investigación de la Universidad de Oxford, las personas que son de baja estatura tienen un complejo de inferioridad y se sienten amenazados por los demás. En la adolescencia donde los cambios corporales están desconcertando al joven que al compararse con sus compañeros se siente atrasado en su crecimiento ser más bajos que sus compañeros los podría hacer vulnerables al acoso escolar, afectando su rendimiento académico y su desarrollo psicosocial.</p>
