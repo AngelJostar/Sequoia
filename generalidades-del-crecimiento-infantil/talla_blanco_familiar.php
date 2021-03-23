@@ -47,7 +47,7 @@
                     <h2>La Talla Blanco familiar es el promedio de crecimiento que los padres heredan a sus hij@s</h2>
                 </div>
             </div>
-            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
                 <div class="titulos-principal">
                     <h2><span class="font-bold">CÁLCULO DE TALLA BLANCO FAMILIAR</span></h2>
                 </div>

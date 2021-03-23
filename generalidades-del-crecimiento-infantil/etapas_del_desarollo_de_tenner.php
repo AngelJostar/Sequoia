@@ -37,7 +37,7 @@
                 </div>
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
-                <img src="../img/generalidades-del-crecimiento-infantil/Banner-graficas-de-crecimiento.webp" alt="altura crecimiento estatura">
+                <img src="../img/banners/Banner-doctor-doctora-etapas-tanner.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>El crecimiento y desarrollo físico es un proceso continuo y complejo, determinado por factores genéticos y modulado por factores ambientales, de tal modo que la máxima expresión de la potencialidad genética dependerá básicamente del
                         estado de salud y nutrición del individuo. Una vez iniciado el desarrollo puberal, el proceso avanza en forma progresiva, completándose en un lapso promedio de 3 a 4 años. En las niñas la pubertad normalmente se completa a los
@@ -45,7 +45,7 @@
                 </div>
             </div>
             <div class="tamaño-img ph-6 mostrar-media">
-                <img src="../img/generalidades-del-crecimiento-infantil/Banner-graficas-de-crecimiento-desktop.webp" alt="altura crecimiento estatura">
+                <img src="../img/banners/Banner-doctor-doctora-etapas-tanner.webp" alt="altura crecimiento estatura">
                 <div class="texto-imagen-izquierda">
                     <h2>El crecimiento y desarrollo físico es un proceso continuo y complejo, determinado por factores genéticos y modulado por factores ambientales, de tal modo que la máxima expresión de la potencialidad genética dependerá básicamente del
                         estado de salud y nutrición del individuo. Una vez iniciado el desarrollo puberal, el proceso avanza en forma progresiva, completándose en un lapso promedio de 3 a 4 años. En las niñas la pubertad normalmente se completa a los
