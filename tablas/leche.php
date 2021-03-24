@@ -46,13 +46,21 @@
                     <div class="linea-horizontal-tablas mt-1"></div>
                         <p class="tablas-letras-titulo">DESCREMADA</p>
                         <div class="linea-horizontal-tablas mb-1"></div>
-                    <div class="tablas-grid-2">
+                    <div class="tablas-grid-4">
                         <div class="tablas-letras">
-                            <p>Leche taza</p>
+                            <p>Leche descremada líquida</p>
                         </div>
                         <div class="linea-vertical-tablas"></div>
                         <div class="tablas-letras">
-                            <p>Leche en polvo 4 cdas</p>
+                            <p>1 taza</p>
+                        </div>
+                        <div class="linea-vertical-tablas"></div>
+                        <div class="tablas-letras">
+                            <p>Leche en polvo</p>
+                        </div>
+                        <div class="linea-vertical-tablas"></div>
+                        <div class="tablas-letras">
+                            <p>4 cdas</p>
                         </div>
                     </div>
                 </div>
@@ -82,7 +90,7 @@
                     </div>
                     <div class="tablas-grid-2">
                         <div class="tablas-letras">
-                            <p>Leche entera tza</p>
+                            <p>Leche entera 1 tza</p>
                             <p>Leche entera en polvo 2 cdas</p>
                         </div>
                         <div class="linea-vertical-tablas"></div>
@@ -100,7 +108,7 @@
                     </div>
                     <div class="tablas-grid-2">
                         <div class="tablas-letras">
-                            <p>Yorgurt para beber 1 bote 200ml</p>
+                            <p>Yorgurt para beber 1 bote /200mL</p>
                             <p>Leche saborizada 1 tza</p>
                         </div>
                         <div class="linea-vertical-tablas"></div>

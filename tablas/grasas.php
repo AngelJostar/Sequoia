@@ -68,7 +68,7 @@
                 <div>
                     <div>
                         <div class="linea-horizontal-tablas mt-1"></div>
-                        <p class="tablas-letras-titulo">2 CUCHARADA</p>
+                        <p class="tablas-letras-titulo">2 CUCHARADITAS</p>
                         <div class="linea-horizontal-tablas mb-1"></div>
                     </div>
                     <div class="tablas-grid-3">

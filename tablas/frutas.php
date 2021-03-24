@@ -48,7 +48,7 @@
                         <div class="linea-horizontal-tablas mb-1"></div>
                     <div class="tablas-grid-1">
                         <div class="tablas-letras">
-                            <p>Crepas para rellenar 2 pzas</p>
+                            <p>Plátano macho</p>
                         </div>
                     </div>
                 </div>
@@ -129,7 +129,25 @@
                 <div>
                     <div>
                         <div class="linea-horizontal-tablas mt-1"></div>
-                        <p class="tablas-letras-titulo">2 PIEZAS</p>
+                        <p class="tablas-letras-titulo">1 1/2 tazas o 1 1/2 piezas</p>
+                        <div class="linea-horizontal-tablas mb-1"></div>
+                    </div>
+                    <div class="tablas-grid-2">
+                        <div class="tablas-letras">
+                            <p>Agua de coco</p>
+                            <p>Mango criollo</p>
+                        </div>
+                        <div class="linea-vertical-tablas"></div>
+                        <div class="tablas-letras">
+                            <p>carambolo</p>
+                            <p>kiwi</p>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <div>
+                        <div class="linea-horizontal-tablas mt-1"></div>
+                        <p class="tablas-letras-titulo">2 tazas</p>
                         <div class="linea-horizontal-tablas mb-1"></div>
                     </div>
                     <div class="tablas-grid-3">
@@ -154,6 +172,7 @@
                         </div>
                     </div>
                 </div>
+                
                 <div>
                     <div>
                         <div class="linea-horizontal-tablas mt-1"></div>
@@ -174,8 +193,8 @@
                         </div>
                         <div class="linea-vertical-tablas"></div>
                         <div class="tablas-letras">
-                            <p>Nectarina</p>
-                            <p>Papaya</p>
+                            <p>Naranja</p>
+                            <p>Ciruela pasa</p>
                             <p>Capulines</p>
                         </div>
                     </div>
@@ -214,8 +233,8 @@
                         </div>
                         <div class="linea-vertical-tablas"></div>
                         <div class="tablas-letras">
-                            <p>Lima</p>
-                            <p>Durazno prisco</p>
+                            <p>Nanches 45 pzas</p>
+                            <p>Pasitas 10 pzas</p>
                         </div>
                         <div class="linea-vertical-tablas"></div>
                         <div class="tablas-letras">
@@ -224,7 +243,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tabla-letra-cursivo mt-1 ">
+            <div class="tabla-letra-cursivo centrar-texto mt-1 ">
                 <p>- La fruta no se come sola, siempre se debe de ir acompañada de un producto de origen animal.</p>
                 <p>- No es la cantidad que quiera comer</p>
                 <p>- Preferir poco madura (sin pecas, sin manchas, evitar muy suave).</p>

@@ -48,7 +48,7 @@
                 </div>
             </div>
             <div class="contenedor-video ph-2">
-                <div class="reproductor" data-id="vjGNOgJ1jxs"></div>
+                <div class="reproductor" data-id="YypQCqdoN3k"></div>
             </div>
             <div class="justificar-texto-85">
                 <p>Para realizar una medición precisa se debe tomar en cuenta las siguientes observaciones:</p>
@@ -57,42 +57,32 @@
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Los zapatos se deben retirar al medir la altura. </li>
-                        <li>Los niños menores de 2 años se miden acostados. <br> Los niños mayores de 2 años se miden de pie.</li>
+                        <li>Los niños menores de 2 años se miden acostados.</li>
+                        <li>Los niños mayores de 2 años se miden de pie.</li>
                     </ul>
                 </div>
             </div>
-            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
-                <div class="titulos-principal">
-                    <h2><span class="font-bold">¿CÓMO REALIZAR LA MEDICIÓN?</span></h2>
-                </div>
+            <div class="tamaño-img">
+                <img src="../img/generalidades-del-crecimiento-infantil/como-medir-hijo-hija-correctamente.webp" alt="generalidades-del-crecimiento">
             </div>
-            <div class="listas-grid">
-                <div class="barra-lateral wrapper">
-                    <div class="linea-blanca-como-medir">
-                        <p>p</p>
+            <div class="mt-1">
+                <div class="cuadros-crecimiento-2 efecto3-2 mt-1 ">
+                    <div class="titulos-principal">
+                        <h2><span class="font-bold">ACOSTADO</span></h2>
                     </div>
-                    <div class="linea-blanca-como-medir"></div>
-                    <div class="linea-blanca-como-medir"></div>
-                    <div class="linea-blanca-como-medir"></div>
-                    <div class="linea-blanca-como-medir"></div>
                 </div>
-                <div class="mt-1">
-                    <div class="justificar-texto-90">
-                        <h3>Acostado</h3>
-                    </div>
-                    <div class="contenedor-principal">
-                        <div class="justificar-texto-90-listas">
-                            <ol>
-                                <li>Coloque la tabla de altura plana en el suelo o en una mesa o banco.</li>
-                                <li>Quítele los zapatos al niño y colóquelo suavemente sobre su espalda a lo largo del centro de la tabla.</li>
-                                <li>Sostenga los lados de la cabeza del niño, cubriendo las orejas y (con la ayuda del asistente o cuidador) coloque la cabeza tocando el tablero. La cabeza debe ser posicionada de manera que la línea de visión para el niño
-                                    sea perpendicular al respaldar de la tabla.</li>
-                                <li>Coloque sus manos suavemente sobre los tobillos o las rodillas del niño para mantenerlas planas y derechas. Mientras coloca las piernas del niño, coloque la tabla deslizante contra las plantas de los pies del niño, para
-                                    mantenerlas rectas sobre la tabla.</li>
-                                <li>La persona que mide lee en voz alta la medida al 0.1 cm más cercano.</li>
-                                <li>La medición debe repetirse. Una segunda persona la debe registrar de inmediato.</li>
-                            </ol>
-                        </div>
+                <div class="contenedor-principal">
+                    <div class="justificar-texto-90-listas">
+                        <ol>
+                            <li>Coloque la tabla de altura plana en el suelo o en una mesa o banco.</li>
+                            <li>Quítele los zapatos al niño y colóquelo suavemente sobre su espalda a lo largo del centro de la tabla.</li>
+                            <li>Sostenga los lados de la cabeza del niño, cubriendo las orejas y (con la ayuda del asistente o cuidador) coloque la cabeza tocando el tablero. La cabeza debe ser posicionada de manera que la línea de visión para el niño sea
+                                perpendicular al respaldar de la tabla.</li>
+                            <li>Coloque sus manos suavemente sobre los tobillos o las rodillas del niño para mantenerlas planas y derechas. Mientras coloca las piernas del niño, coloque la tabla deslizante contra las plantas de los pies del niño, para mantenerlas
+                                rectas sobre la tabla.</li>
+                            <li>La persona que mide lee en voz alta la medida al 0.1 cm más cercano.</li>
+                            <li>La medición debe repetirse. Una segunda persona la debe registrar de inmediato.</li>
+                        </ol>
                     </div>
                 </div>
             </div>
@@ -100,29 +90,27 @@
                 <img src="../img/generalidades-del-crecimiento-infantil/nino-acostado.webp" alt="generalidades-del-crecimiento">
             </div>
 
-            <div class="listas-grid">
-                <div>
-                    <img src="../img/banners/regla-lateral.webp" alt="contacto crecimiento">
-                </div>
-                <div class="mt-1">
-                    <div class="justificar-texto-90">
-                        <h3>De pie</h3>
+            <div>
+                <div class="cuadros-crecimiento-2 efecto3-2  ">
+                    <div class="titulos-principal">
+                        <h2><span class="font-bold">DE PIE</span></h2>
                     </div>
-                    <div class="contenedor-principal">
-                        <div class="justificar-texto-90-listas">
-                            <ol>
-                                <li>Retire los zapatos del niño.</li>
-                                <li>Coloque al niño de pie contra el centro de la tabla de altura.</li>
-                                <li>Presione firmemente los tobillos y las rodillas del niño contra el tablero (ayudado por el asistente o cuidador), asegurándose de que su cabeza esté recta y de que esté mirando directamente al frente.</li>
-                                <li>La cabeza, los hombros, las nalgas y los talones del niño deben tocar la tabla.</li>
-                                <li>La parte deslizante de la tabla debe descansar plana contra la parte superior de la cabeza.</li>
-                                <li>La persona que mide lee en voz alta la medida al 0.1 cm más cercano.</li>
-                                <li>La medición debe repetirse. Una segunda persona la debe registrar de inmediato.</li>
-                            </ol>
-                        </div>
+                </div>
+                <div class="contenedor-principal">
+                    <div class="justificar-texto-90-listas">
+                        <ol>
+                            <li>Retire los zapatos del niño.</li>
+                            <li>Coloque al niño de pie contra el centro de la tabla de altura.</li>
+                            <li>Presione firmemente los tobillos y las rodillas del niño contra el tablero (ayudado por el asistente o cuidador), asegurándose de que su cabeza esté recta y de que esté mirando directamente al frente.</li>
+                            <li>La cabeza, los hombros, las nalgas y los talones del niño deben tocar la tabla.</li>
+                            <li>La parte deslizante de la tabla debe descansar plana contra la parte superior de la cabeza.</li>
+                            <li>La persona que mide lee en voz alta la medida al 0.1 cm más cercano.</li>
+                            <li>La medición debe repetirse. Una segunda persona la debe registrar de inmediato.</li>
+                        </ol>
                     </div>
                 </div>
             </div>
+
             <div>
                 <img src="../img/generalidades-del-crecimiento-infantil/nina-mediendose.webp" alt="generalidades-del-crecimiento">
             </div>

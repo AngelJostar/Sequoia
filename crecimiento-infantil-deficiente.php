@@ -90,10 +90,10 @@
                     <img src="img/banners/ICONOS WEB Sequoia 2021-17.webp" alt="">
                 </div>
                 <div class="tamaño-img ocultar-media">
-                    <a href="causas-de-la-baja-estatura"><img src="img/banners/banner-nino-llorando.webp" alt="causas crecimiento hijo"></a>
+                    <a href="/contacto"><img src="img/banners/BANNER-2-DOC-VERTICAL.webp" alt="causas crecimiento hijo"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="causas-de-la-baja-estatura.php"><img src="img/banners/BANNER-5-HORIZONTAL.webp" alt="causas crecimiento hijo"></a>
+                    <a href="/contacto"><img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="causas crecimiento hijo"></a>
                 </div>
 
             </div>

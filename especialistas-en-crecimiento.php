@@ -58,44 +58,25 @@
                 </div> 
                 <div class="cuadros-crecimiento">
                     <div class="titulos-principal">
-                        <h2><span class="font-bold">El Pediatra Endocrinólogo</span><br>es el especialista encargado de <br> los <span class="font-bold">problemas del crecimieto</span> </h2>
+                        <h2><span class="font-bold">El Pediatra Endocrinólogo</span>es el especialista <br> encargado  de los <span class="font-bold">problemas del crecimieto</span> </h2>
                     </div>
                 </div>
-                <div class="ocultar-media ph-11">
-                    <div class="textos-principal ocultar-media">
+                <div class=" ph-15">
+                    <div class="textos-principal ">
                     <p><span class="font-bold">Las hormonas son sustancias químicas</span> que afectan el funcionamiento muchas partes del cuerpo. Por ejemplo, las hormonas deciden cómo crece y madura un niño. <span class="font-bold">La endocrinología pediátrica es la ciencia que estudia estas glándulas y los
                         efectos de las hormonas en los niños. </span>
                     </p>
                     </div>
-                    <div class="contenedor-video pb-15">
+                    <div class="contenedor-video pb-7">
                         <div class="reproductor" data-id="wXL4utyJGQc"></div>
                     </div>
                 </div>
-
-                <div class="grid-index-2  mostrar-media ph-18 pb-25">
-                    <div class="contenedor-video">
-                        <div class="reproductor" data-id="wXL4utyJGQc"></div>
-                    </div>
-
-
-                    <div class="textos-principal ocultar-media">
-                        <p><span class="font-bold">Las hormonas son sustancias químicas</span> que afectan el funcionamiento muchas partes del cuerpo. Por ejemplo, las hormonas deciden cómo crece y madura un niño. <span class="font-bold">La endocrinología pediátrica es la ciencia que estudia estas glándulas y los
-                            efectos de las hormonas en los niños. </span>
-                        </p>
-                    </div>
-                </div>
-
-
-                <div class="cuadros-crecimiento">
+                <div class="cuadros-crecimiento mt-1">
                     <div class="titulos-principal ">
                         <h2><span class="font-bold">¿Cuándo acudir con un especialista en crecimiento infantil?</span></h2>
                     </div>
                 </div>
-                <div class="textos-principal ocultar-media ph-9">
-                    <p><span class="font-bold"> La baja estatura </span>con un crecimiento anormalmente lento es la preocupación más común a la que hay que estar pendientes . <span class="font-bold"> Un niño más bajo que sus compañeros es el claro ejemplo de que hay que visitar al especialista en crecimiento. </span>
-                    </p>
-                </div>
-                <div class="textos-principal mostrar-media ph-7">
+                <div class="textos-principal ph-11">
                     <p><span class="font-bold"> La baja estatura </span>con un crecimiento anormalmente lento es la preocupación más común a la que hay que estar pendientes . <span class="font-bold"> Un niño más bajo que sus compañeros es el claro ejemplo de que hay que visitar al especialista en crecimiento. </span>
                     </p>
                 </div>

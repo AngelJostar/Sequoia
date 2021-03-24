@@ -59,8 +59,8 @@
                         </div>
                         <div class="linea-vertical-tablas"></div>
                         <div class="tablas-letras">
-                            <p>Berros</p>
-                            <p>Cilandro 2t</p>
+                            <p>Berros 2tzas</p>
+                            <p>Cilandro 2tza</p>
                             <p>Col Blanca 2pza</p>
                             <p>Col Morada 1pza</p>
                             <p>Esparragos 6pza</p>
@@ -70,7 +70,7 @@
                             <p>Lechuga 3 tza</p>
                             <p>Papaloquelites 2 tza</p>
                             <p>Perejil 1 tza</p>
-                            <p>Pimiento 1 1/2 tza</p>
+                            <p>Pimiento 1 1/2 tzas</p>
                             <p>Tomate Verde 5pz</p>
                         </div>
                     </div>
@@ -144,7 +144,7 @@
                             <p>Betabel 1/4 de tza</p>
                             <p>Cebolla 1/3 de tza</p>
                             <p>C. de Cambray 3 pzas</p>
-                            <p>Chicharos 2 cdas</p>
+                            <p>Chícharos 2cdas</p>
                             <p>Ejotes 1 1/2 tzas</p>
                         </div>
                         <div class="linea-vertical-tablas"></div>

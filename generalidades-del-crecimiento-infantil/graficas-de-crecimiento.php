@@ -56,12 +56,6 @@
             <div class="justificar-texto-85 centrar-texto pb-2">
                 <p>Hasta los dos años se miden el peso, la longitud (la medida de pies a cabeza con el niño acostado) y el perímetro cefálico (tamaño de la cabeza en redondo). A partir de los dos años y hasta el final de crecimiento se miden el peso y la talla (la medida de pies a cabeza estando de pie). También es útil conocer el índice de masa corporal (IMC), que se obtiene dividiendo el peso por la talla al cuadrado (peso/talla2).</p>
             </div>
-            <div class="tamaño-img">
-                <img src="../img/generalidades-del-crecimiento-infantil/graficas-de-crecimiento-1.webp" alt="graficas-de-crecimiento">
-            </div>
-            <div class=" tamaño-img pt-15 pb-30">
-                <img src="../img/generalidades-del-crecimiento-infantil/graficas-de-crecimiento-2.webp" alt="graficas-de-crecimiento">
-            </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">
                     <h2><span class="font-bold">¿QUÉ SON LOS PERCENTILES?</span></h2>
@@ -76,14 +70,69 @@
             <div class="justificar-texto-85">
                 <p>Conocer cómo es el patrón normal de crecimiento y sus desviaciones, permite detectar, de forma precoz, la aparición de determinados problemas, pero también contribuye a evitar intervenciones o estudios innecesarios en niños que tienen variaciones normales del crecimiento.</p>
             </div>
+            <div class="tamaño-img pt-15">
+                <img src="../img/generalidades-del-crecimiento-infantil/NINOS-GRAFICA.webp" alt="graficas-de-crecimiento">
+            </div>
             <div class="justificar-texto-85">
                 <p>Por sí solos, los percentiles de crecimiento no indican el estado de salud de un niño. Es sólo una comparación. El percentil concreto de un niño, como dato aislado, no tiene demasiado valor. Las curvas de crecimiento no deben utilizarse como instrumento único para tomar decisiones, aunque los datos que proporcionan contribuyen a formar una impresión global del niño. El crecimiento debe valorarse en un contexto amplio y requiere considerar otros factores, como la talla de la familia o el ambiente.</p>
             </div>
             <div class="justificar-texto-85">
                 <p>Además del percentil también es útil conocer la velocidad de aumento del peso y de la talla. Las gráficas de crecimiento tienen más utilidad para realizar un seguimiento a lo largo del tiempo. Ver la variación del crecimiento a distintas edades y conocer cómo es la curva particular de un niño concreto es más importante que un valor aislado. Si un niño crece siguiendo un cierto patrón y en un momento dado cambia ese patrón y empieza a crecer más despacio, podemos estar ante un problema de salud y descubrirlo observando su curva de crecimiento. Aunque en determinados periodos, como entre los 6 y 18 meses o en la adolescencia, algunos niños normales pueden cambiar de percentil.</p>
             </div>
-            <div class="tamaño-img pt-15">
-                <img src="../img/generalidades-del-crecimiento-infantil/NINOS-GRAFICA.webp" alt="graficas-de-crecimiento">
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">GRAFICA DE LONGITUD EDAD <br> DE 0 A 2 AÑOS</span></h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-2">
+                <img src="../img/generalidades-del-crecimiento-infantil/LONGITUD-0-A-2-ANOS-NINAS.webp" alt="graficas-de-crecimiento">
+            </div>
+            <div class=" tamaño-img">
+                <img src="../img/generalidades-del-crecimiento-infantil/LONGITUD-0-A-2-ANOS-NINOS.webp" alt="graficas-de-crecimiento">
+            </div>
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">GRÁFICA DE PERÍMETRO CEFÁLICO <br> DE 0 A 5 AÑOS</span></h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-2">
+                <img src="../img/generalidades-del-crecimiento-infantil/PERIMETRO-CEFALICO-0A-5-NINAS.webp" alt="graficas-de-crecimiento">
+            </div>
+            <div class=" tamaño-img">
+                <img src="../img/generalidades-del-crecimiento-infantil/PERIMETRO-CEFALICO-0A-5-NINOS.webp" alt="graficas-de-crecimiento">
+            </div>
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">GRÁFICA DE ESTATURA POR EDAD <br> Y PESO POR EDAD 2 A 20 AÑOS</span></h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-2">
+                <img src="../img/generalidades-del-crecimiento-infantil/GRAFICA-DE-ESTATURA-POR-EDAD-Y-PESO-POR-EDAD-NINAS.webp" alt="graficas-de-crecimiento">
+            </div>
+            <div class=" tamaño-img">
+                <img src="../img/generalidades-del-crecimiento-infantil/GRAFICA-DE-ESTATURA-POR-EDAD-Y-PESO-POR-EDAD-NINOS.webp" alt="graficas-de-crecimiento">
+            </div>
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">GRÁFICA DE VELOCIDAD DE <br> CRECIMIENTO DE 0 A 18 AÑOS  </span></h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-2">
+                <img src="../img/generalidades-del-crecimiento-infantil/GRAFICA-DE-VELOCIDAD-DE-CRECIMEINTO-NINAS.webp" alt="graficas-de-crecimiento">
+            </div>
+            <div class=" tamaño-img">
+                <img src="../img/generalidades-del-crecimiento-infantil/GRAFICA-DE-VELOCIDAD-DE-CRECIMEINTO-NINOS.webp" alt="graficas-de-crecimiento">
+            </div>
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
+                <div class="titulos-principal">
+                    <h2><span class="font-bold">GRÁFICA DE INDICE DE MASA <br> CORPORAL (IMC) DE 2 A 20 AÑOS</span></h2>
+                </div>
+            </div>
+            <div class="tamaño-img ph-2">
+                <img src="../img/generalidades-del-crecimiento-infantil/IMC-NINAS-2-A-20.webp" alt="graficas-de-crecimiento">
+            </div>
+            <div class=" tamaño-img">
+                <img src="../img/generalidades-del-crecimiento-infantil/IMC-NINOS-2-A-20.webp" alt="graficas-de-crecimiento">
             </div>
             <div class="tamaño-img pt-15 pb-30">
                 <a href="edad-osea"><img src="../img/generalidades-del-crecimiento-infantil/Banner-Edad-osea-.webp" alt="graficas-de-crecimiento"></a>

@@ -66,8 +66,8 @@
                     <div class="tablas-grid-2">
                         <div class="tablas-letras">
                             <p>Tortilla de harina</p>
-                            <p>(Blanca ó integral)</p>
-                            <p>Granola 1/4 tza</p>
+                            <p>(Blanca o integral)</p>
+                            <p>Pay de frutas</p>
                         </div>
                         <div class="linea-vertical-tablas"></div>
                         <div class="tablas-letras">

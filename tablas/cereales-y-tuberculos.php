@@ -35,7 +35,7 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-5">
+            <div class="tamaño-img ph-3">
                 <img src="../img/tablas/cereales-y-tuberculos.webp" alt="contacto crecimiento">
             </div>
             <div class="justificar-texto-90 centrar-texto">
@@ -57,7 +57,7 @@
                         <div class="linea-vertical-tablas"></div>
                         <div class="tablas-letras">
                             <p>Galleta Sándwich</p>
-                            <p>Pan de caja blanco ó integral</p>
+                            <p>Pan de caja blanco o integral</p>
                             <p>Pan de jengibre</p>
                             <p>Pan alemán</p>
                         </div>
@@ -96,8 +96,6 @@
                             <p>Corn flakes</p>
                         </div>
                     </div>
-                    <div class="linea-vertical-tablas"></div>
-                        <p>Cereal integral 3/4 de taza</p>
                 </div>
                 <div>
                     <div>
@@ -108,7 +106,7 @@
                     <div class="tablas-grid-2">
                         <div class="tablas-letras">
                             <p>Masa de maíz 45g (Yuca cocida)</p>
-                            <p>Bolla para hamburguesa</p>
+                            <p>Bollo para hamburguesa</p>
                         </div>
                         <div class="linea-vertical-tablas"></div>
                         <div class="tablas-letras">
@@ -131,7 +129,6 @@
                         <div class="tablas-letras">
                             <p>Cereal con frutas</p>
                             <p>Bolillo sin migajón</p>
-                            <p>Maíz pozolero</p>
                         </div>
                         <div class="linea-vertical-tablas"></div>
                         <div class="tablas-letras">
@@ -162,6 +159,7 @@
                             <p>Para sopa 20 pzas</p>
                             <p>Pretzels 6 pzas</p>
                             <p>Integral s/grasa 4 pzas</p>
+                            <p>Salada integral 4pzas</p>
                             <p>De centeno 3 pzas</p>
                             <p>Salada 4 pzas</p>
                             <p>Salmas 3 pzas</p>
@@ -188,6 +186,7 @@
                         <div class="tablas-letras">
                             <p>De maizena 2 cdas</p>
                             <p>Germen de trigo 2 cdas</p>
+                            <p><span class="font-bold"> HARINA</span></p>
                             <p>De maizena 2 cdas</p>
                             <p>De trigo 2 1/2 cdas</p>
                             <p>De arroz 2 cdas</p>

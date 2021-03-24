@@ -83,7 +83,7 @@
                                 <p>Milanesa</p>
                                 <p>Pulpa</p>
                                 <p>Filete</p>
-                                <p>Quesos</p>
+                                <p><span class="font-bold"> Quesos</span></p>
                                 <p>Cotagge s/crema</p>
                                 <p>Manchega s/grasa</p>
                             </div>
@@ -105,7 +105,7 @@
                                 <P>Nuggets</P>
                                 <P>Hígado de pollo</P>
                                 <P>Carne oscura pavo</P>
-                                <P>Pato. ganzo</P>
+                                <P>Pato, Ganzo</P>
                             </div>
                             <div class="linea-vertical-tablas"></div>
                             <div class="tablas-letras">
@@ -136,8 +136,8 @@
                                 <p>Pierna</p>
                                 <p>Pulpa</p>
                                 <p>Higado</p>
-                                <p>BORROGO CARNERO</p>
-                                <p>Barbacoa maciza</p>
+                                <p><span class="font-bold"> BORREGO, CARNERO </span></p>
+                                <p>Barbacoa, maciza</p>
                             </div>
                         </div>
                     </div>
@@ -180,7 +180,7 @@
                     </div>
                     <div class="tablas-sombra">
                         <div class="tablas-grid-4-title">
-                            <p>AVES SIN PIEL</p>
+                            <p>AVES c/ PIEL</p>
                             <p>BORREGO CARNERO</p>
                             <p>QUESOS</p>
                             <p>EMBUTIDOS</p>
@@ -200,7 +200,7 @@
                                 <p>Molida</p>
                                 <p>Maciza</p>
                                 <p>Cabrito</p>
-                                <p>PESCADOS</p>
+                                <p><span class="font-bold"> PESCADOS</span></p>
                                 <p>Sardina con tomate</p>
                             </div>
                             <div class="linea-vertical-tablas"></div>
@@ -214,8 +214,9 @@
                             </div>
                             <div class="linea-vertical-tablas"></div>
                             <div class="tablas-letras">
-                                <p>CERDO</p>
+                                <p><span class="font-bold"> CERDO</span></p>
                                 <p>Jamón cocido</p>
+                                <p>Chuletas</p>
                                 <p>Chuleta ahumada</p>
                                 <p>La ahumada tiene leche</p>
                             </div>
@@ -223,7 +224,7 @@
                     </div>
                     <div class="tablas-sombra mt-1">
                         <div class="tablas-grid-3-title">
-                            <p>PESCADOS Y MARISCOS 40G</p>
+                            <p>PESCADOS 40G</p>
                             <p>QUESOS</p>
                             <p>RES</p>
                         </div>
@@ -245,8 +246,9 @@
                             <div class="tablas-letras">
                                 <p>Añejo chihuahua</p>
                                 <p>Fresco de vaca</p>
-                                <p>Mozarela</p>
-                                <p>EMBUTIDOS</p>
+                                <p>Manchego</p>
+                                <p>Ricotta</p>
+                                <p><span class="font-bold">EMBUTIDOS</span></p>
                                 <p>Morcilla</p>
                                 <p>Jamón de pierna</p>
                                 <p>Salchicha viena</p>
@@ -259,9 +261,10 @@
                                 <p>Molida regular</p>
                                 <p>Prime rib</p>
                                 <p>Hamburguesas</p>
-                                <p>HUEVO ENTERO 1pza</p>
-                                <p>OTROS Clara de huevo</p>
-                                <p>2pzas</p>
+                                <p><span class="font-bold">HUEVO ENTERO</span></p>
+                                <p>1 pza</p>
+                                <p><span class="font-bold">OTROS</span></p>
+                                <p>Clara huevo 2 pzas</p>
                             </div>
                         </div>
                     </div>
@@ -282,7 +285,7 @@
                             <div class="tablas-letras">
                                 <p>Alón de pollo 1 pza</p>
                                 <p>Paloma 45g</p>
-                                <p>CERDO</p>
+                                <p><span class="font-bold"> CERDO</span></p>
                                 <p>Lengua</p>
                                 <p>Molida</p>
                                 <p>Patas</p>
@@ -293,7 +296,7 @@
                                 <p>Chuleta</p>
                                 <p>Molida</p>
                                 <p>Maciza</p>
-                                <p>PESCADOS Y MARISCOS</p>
+                                <p><span class="font-bold"> PESCADOS Y MARISCOS</span></p>
                                 <p>Atún</p>
                                 <p>Sardina</p>
                                 <p>*en aceite</p>

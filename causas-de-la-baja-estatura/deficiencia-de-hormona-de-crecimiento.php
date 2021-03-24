@@ -47,9 +47,10 @@
                     <h2>¿QUÉ ES LA DEFICIENCIA DE LA HORMONA DE CRECIMIENTO? La deficiencia de la hormona de crecimiento (GHD, por sus siglas en inglés) es una afección poco común en la que el cuerpo no produce suficiente hormona del crecimiento (GH, por sus siglas en inglés).</h2>
                 </div>
             </div>
-            <div class="tamaño-img pt-15 pt-15">
-                <img src="/img/causas-de-la-baja-estatura/Deficiencia-de-hormona-del-crecimiento-PORTADA-YOUTUBE-MONICA.webp" alt="contacto crecimiento">
+            <div class="contenedor-video">
+                <div class="reproductor" data-id="9Q3bfWDOjAw"></div>
             </div>
+
             <div class="justificar-texto-90 justificar-derecha-texto pb-15">
                 <p>La glándula pituitaria, un órgano pequeño que se encuentra en la base del cráneo, produce la GH.</p>
                 <p>La hipófisis se encuentra en la base del cerebro. Esta glándula controla el equilibrio de las hormonas del cuerpo. También produce la hormona del crecimiento, la cual hace que un niño crezca. <br>

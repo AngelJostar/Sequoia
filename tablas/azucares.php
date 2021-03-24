@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Azucares</title>
+<title>Azúcares</title>
 <link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
 
@@ -29,7 +29,7 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1><span class="font-bold">AZUCARES</span></h1>
+                    <h1><span class="font-bold">AZÚCARES</span></h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
@@ -59,6 +59,7 @@
                         <div class="linea-vertical-tablas"></div>
                         <div class="tablas-letras">
                             <p>Miel de abeja</p>
+                            <P>Jarabe para agua</P>
                         </div>
                     </div>
                 </div>
@@ -112,6 +113,7 @@
                             <p>Almenda 1/3 pza</p>
                             <p>Cajeta 1 1/2 cda</p>
                             <p>Chocolate de mesa 1/2 pzas</p>
+                            <p>Chocolate de leche 1/4 tzas</p>
                             <p>Gelatina de agua 4 pzas</p>
                         </div>
                         <div class="linea-vertical-tablas"></div>

@@ -127,7 +127,7 @@
                     <div class="linea-index"></div>
                 </div>
             </div>
-            <div class="textos-principal ocultar">
+            <div class="textos-principal">
                 <p><span class="font-bold">Centro Sequoia</span> es el <span class="font-bold">CENTRO MÁS ESPECIALIZADO</span> de México en baja estatura. Nuestro equipo médico de alta especialidad junto con el personal altamente calificado para el servicio,
                     buscamos brindarte una grata experiencia y los mejores resultados para tu hijo.</p>
             </div>

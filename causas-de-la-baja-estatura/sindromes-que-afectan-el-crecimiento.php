@@ -42,7 +42,7 @@
                 </div>
             </div>
             <div class="contenedor-video">
-                <div class="reproductor" data-id="JF7uX44dN_E"></div>
+                <div class="reproductor" data-id="CttMlkKcgZo"></div>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-1 ">
                 <div class="titulos-principal">

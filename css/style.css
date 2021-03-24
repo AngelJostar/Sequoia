@@ -2417,6 +2417,9 @@
             .texto-imagen-footer {
                 max-width: 80%;
             }
+            .tabla-letra-cursivo p {
+                max-width: 50%;
+            }
             .img-footer {
                 max-height: 55em;
             }
