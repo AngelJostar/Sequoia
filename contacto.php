@@ -159,7 +159,7 @@
                     <input type="text" name="nombre" placeholder="Nombre" required>
                 </div>
                 <div class = "t-izquierda tercer-p">
-                    <p>CORREO ELECTRONICO *</p>
+                    <p>CORREO ELECTRONICO    *</p>
                     <input type="email" name="correo" placeholder="Correo" required>
                 </div>
                 <div class = "t-izquierda tercer-p">
@@ -169,7 +169,6 @@
                 <div class = "t-izquierda tercer-p">
                     <p>ELIGE UN CENTRO *</p>
                     <select name="centro" required>
-                    <option selected disabled>Elige una opción</option>
                     <option value="CDMX">CDMX</option> 
                     <option value="GUADALAJARA">GUADALAJARA</option> 
                     <option value="MOTERREY">MONTERREY</option>
@@ -212,6 +211,9 @@
 </section>
 <!--####HEADER####-->
 
+<a href="contacto" class="scrollup">
+    <p>CONTACTO</p>
+</a><!--####FOOTER####-->
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
