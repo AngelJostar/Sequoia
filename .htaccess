@@ -10,4 +10,3 @@ RewriteRule ^(.*)$ $1.php
 
 RewriteEngine inherit
 ErrorDocument 404 /404.php
-RewriteEngine On
