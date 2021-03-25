@@ -301,15 +301,15 @@
         }
         
         .low-header ul li a:focus {
-            color: #02132f !important;
+            color: #B5CD59 !important;
         }
         
         .low-header ul li a:hover {
-            color: #02132f !important;
+            color: #B5CD59 !important;
         }
         
         .low-header ul li a:active {
-            color: #02132f !important;
+            color: #B5CD59 !important;
         }
         /*Hamburger Menu*/
         /* ### GENERAL SITE STYLES ### */
@@ -444,7 +444,7 @@
         }
         
         #site-menu a:focus {
-            color: #c787a2;
+            color: #B5CD59;
         }
         
         .encabezado-menu {
@@ -1038,7 +1038,7 @@
         .contenedor-video {
             display: block;
             width: 100%;
-            max-width: 300px;
+            max-width: 350px;
             margin: 0 auto;
         }
         
@@ -1048,8 +1048,8 @@
             padding-bottom: 56.25%;
             overflow: hidden;
             position: relative;
-            width: 300px;
-            height: 300px;
+            width: 350px;
+            height: 350px;
             cursor: hand;
             cursor: pointer;
             display: block;
@@ -1073,8 +1073,8 @@
             display: block;
             left: 0;
             margin: auto;
-            width: 300px;
-            height: 300px;
+            width: 350px;
+            height: 350px;
             position: absolute;
             object-fit: cover;
             right: 0;

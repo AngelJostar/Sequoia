@@ -56,7 +56,7 @@
                 <p>En Centro Sequoia <span class="font-bold">única y exclusivamente</span> atendemos los padecimientos que afectan la estatura de los niños. <br> <span class="font-bold">Nuestros médicos especialistas</span> tienen la experiencia de mas
                     de 30,000 casos atendidos en este campo, lo que nos lleva a ser el centro <span class="font-bold">MÁS ESPECIALIZADO EN CRECIMIENTO INFANTIL DE MÉXICO.</span></p>
             </div>
-            <div class="pb-25 tamaño-img ocultar-media">
+            <div class=" tamaño-img ocultar-media">
                 <a href="especialistas-en-crecimiento"><img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="banners-especialistas"></a>
             </div>
             <div class="pb-25 tamaño-img mostrar-media">
