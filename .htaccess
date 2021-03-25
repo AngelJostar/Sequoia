@@ -8,5 +8,3 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule ^(.*)$ $1.php 
 
-RewriteEngine inherit
-ErrorDocument 404 /404.php
