@@ -12,19 +12,19 @@
         $destino = "angelrojas@ciencias.unam.mx";   
         $contenido = "Nombre: " . $nombre . "\nCorreo: " . $correo . "\nTeléfono: " . $telefono . "\nAsunto: " . $centro . "\nMensaje: " . $mensaje;
         mail($destino, "Contacto: ", $contenido);
-        header("Location:gracias.php");
+        header("Location:gracias-por-contactarnos.php");
     }
     if($centro == "GUADALAJARA"){
         $destino = "itzeldelgado314@ciencias.unam.mx";   
         $contenido = "Nombre: " . $nombre . "\nCorreo: " . $correo . "\nTeléfono: " . $telefono . "\nAsunto: " . $centro . "\nMensaje: " . $mensaje;
         mail($destino, "Contacto: ", $contenido);
-        header("Location:gracias.php");
+        header("Location:gracias-por-contactarnos.php");
     }
     if($centro == "MONTERREY"){
         $destino = "itzeldelgado314@ciencias.unam.mx";   
         $contenido = "Nombre: " . $nombre . "\nCorreo: " . $correo . "\nTeléfono: " . $telefono . "\nAsunto: " . $centro . "\nMensaje: " . $mensaje;
         mail($destino, "Contacto: ", $contenido);
-        header("Location:gracias.php");
+        header("Location:gracias-por-contactarnos.php");
     }
 
 ?>

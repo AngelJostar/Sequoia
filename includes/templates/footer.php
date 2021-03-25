@@ -65,7 +65,7 @@
                 <P>163300201A0419</P>
             </div>
             <div class="centrar-texto texto-boton pb-5">
-                <a href=""><button class="boton boton-footer">Aviso de Privacidad</button></a>
+                <a href="/aviso-de-privacidad"><button class="boton boton-footer">Aviso de Privacidad</button></a>
             </div>
         </footer>
 
@@ -97,7 +97,7 @@
                 <a href="../../preguntas-frecuentes"><button class="boton boton-footer">Preguntas frecuentes</button></a>
             </div>
             <div class="centrar-texto texto-boton">
-                <a href=""><button class="boton boton-footer">Artículos de interés</button></a>
+                <a href="#"><button class="boton boton-footer">Artículos de interés</button></a>
             </div>
             <div class="letras-blue-footer">
                 <p>Redes Sociales:</p>
@@ -126,7 +126,7 @@
                     <P>163300201A0419</P>
                 </div>
                 <div class="texto-footer ">
-                    <P>Aviso de Privacidad</P>
+                    <a href="/aviso-de-privacidad"><P>Aviso de Privacidad</P></a>
                 </div>
         </footer>
         </div>

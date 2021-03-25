@@ -58,7 +58,7 @@
                 </div> 
                 <div class="cuadros-crecimiento">
                     <div class="titulos-principal">
-                        <h2><span class="font-bold">El Pediatra Endocrinólogo</span>es el especialista <br> encargado  de los <span class="font-bold">problemas del crecimieto</span> </h2>
+                        <h2 style="font-size: calc(13px + .8vw) !important;  "><span class="font-bold">El Pediatra Endocrinólogo</span> es el especialista <br> encargado  de los <span class="font-bold">problemas del crecimiento</span> </h2>
                     </div>
                 </div>
                 <div class=" ph-15">
@@ -121,7 +121,7 @@
                         <div class="barra-titulo"></div>
                     </div>
                 </div>
-                <div class="textos-principal ph-23">
+                <div class="textos-principal ph-24">
                     <p>Los problemas hormonales que afectan el crecimiento o el desarrollo sexual de un adolecente o un niño pueden tener efectos significativos en el bienestar físico y emocional del mismo. En Centro Sequoia somos sensibles a estos temas
                         y entendemos a su hijo. El personal de apoyo, incluidos enfermeras, psicólogos y nutriólogos estamos en sintonía con las necesidades de los niños y adolescentes que atendemos. Con el objetivo de lograr que todos nuestros pacientes
                         consigan una mayor estatura.

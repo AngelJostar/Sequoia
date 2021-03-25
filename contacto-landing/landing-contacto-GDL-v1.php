@@ -92,9 +92,7 @@
                     <div class = "t-izquierda tercer-p">
                         <p>ELIGE UN CENTRO *</p>
                         <select name="centro" required>
-                        <option value="CDMX">CDMX</option> 
                         <option value="GUADALAJARA">GUADALAJARA</option> 
-                        <option value="MOTERREY">MONTERREY</option>
                         </select>
                     </div>
                     <div class = "t-izquierda tercer-p">
@@ -131,7 +129,8 @@
 
 </section>
 <!--####HEADER####-->
-
+<a href="contacto" class="scrollup">
+</a>
 <!--####FOOTER####-->
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>

@@ -97,8 +97,6 @@
                         <p>ELIGE UN CENTRO *</p>
                         <select name="centro" required>
                         <option value="CDMX">CDMX</option> 
-                        <option value="GUADALAJARA">GUADALAJARA</option> 
-                        <option value="MOTERREY">MONTERREY</option>
                         </select>
                     </div>
                     <div class = "t-izquierda tercer-p">
@@ -135,7 +133,8 @@
 
 </section>
 <!--####HEADER####-->
-
+<a href="contacto" class="scrollup">
+</a>
 
 <!--####FOOTER####-->
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>

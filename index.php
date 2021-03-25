@@ -37,10 +37,10 @@
                 </div>
             </div>
             <div class="sombras-img ph-5 pb-2 tamaño-img ocultar">
-                <a href="es"><img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada"></a>
+                <img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada">
             </div>
             <div class="sombras-img ph-4  tamaño-img mostrar">
-                <a href=""><img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" alt="Portada"></a>
+                <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" alt="Portada">
             </div>
 
             <div class="textos-principal margin-negativo-top-15 ">

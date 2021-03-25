@@ -54,7 +54,7 @@
                         </h2>
                         <p><span class="font-bold">DIRECCIÓN:</span>Rio Amazonas Ote. #316 Col. Del Valle</p>
                         <p>San Pedro Garza Garcia N.L C.P.66220</p>
-                        <p><span class="font-bold">EMAIL:</span>monterrey@centrosequoia.com.mx</p>
+                        <p><span class="font-bold">EMAIL:</span> monterrey@centrosequoia.com.mx</p>
                         <p><span class="font-bold">HORARIO DE ATENCIÓN:</span></p> 
                         <p>De Lunes a Viernes de 10:00 a 14:00 y 16:00 a 20:00hrs.</p>
                         <p>Sábados de 10:00 a 14:00 hrs.</p>
@@ -91,8 +91,6 @@
                     <div class = "t-izquierda tercer-p">
                         <p>ELIGE UN CENTRO *</p>
                         <select name="centro" required>
-                        <option value="CDMX">CDMX</option> 
-                        <option value="GUADALAJARA">GUADALAJARA</option> 
                         <option value="MOTERREY">MONTERREY</option>
                         </select>
                     </div>
@@ -131,7 +129,8 @@
 </section>
 <!--####HEADER####-->
 
-
+<a href="contacto" class="scrollup">
+</a>
 <!--####FOOTER####-->
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>

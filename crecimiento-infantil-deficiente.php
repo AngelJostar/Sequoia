@@ -66,7 +66,7 @@
 
                 <div class="cuadros-crecimiento margin-top-20">
                     <div class="titulos-principal">
-                        <h2><span class="font-bold">¿CÓMO RECONOCER UN CRECIMIENTO DEFICIENTE EN TU HIJO?</span></h2>
+                        <h2><span class="font-bold">¿CÓMO RECONOCER UN CRECIMIENTO <br> DEFICIENTE EN TU HIJO?</span></h2>
                     </div>
                 </div>
                 <div class="textos-principal ph-14">
