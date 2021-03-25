@@ -1216,6 +1216,10 @@
             padding-top: 15px;
         }
         
+        .pbh-1-3 {
+            padding-bottom: calc(1.3em + 1vw);
+        }
+        
         .pt-1 {
             padding-top: 1rem;
         }
@@ -1234,6 +1238,10 @@
         
         .ph-1 {
             padding-top: calc(1em + 1vw);
+        }
+        
+        .ph-1-3 {
+            padding-top: calc(1.3em + 1vw);
         }
         
         .ph-2 {
@@ -2694,6 +2702,10 @@
                 padding: 5px 0 5px 0;
                 margin: 0 auto;
                 line-height: 1.2;
+            }
+            .contenedor-45porciento-d {
+                max-width: 45% !important;
+                margin: 0 auto;
             }
         }
         

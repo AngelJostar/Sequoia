@@ -23,13 +23,17 @@
     <section id="site-canvas">
 
         <?php include_once 'includes/templates/header.php';?>
-
-        <div class="ocultar-media mt-2">
-                <img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento">
+        <div class="contendor-crecimiento">
+            <div class="cuadros-crecimiento ph-1-3 pbh-1-3">
+                <div class="barra-titulo"></div>
             </div>
-            <div class="tamaño-img mostrar-media mt-2">
-                <img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento">
+            <div class="ocultar-media ph-3">
+                    <img src="img/banners/MUCHAS GRACIAS (Despeus de que un cliente envia un mail) _MOVIL.webp" alt="contacto crecimiento">
             </div>
+            <div class="tamaño-img mostrar-media ph-4">
+                    <img src="img/banners/MUCHAS GRACIAS (Despeus de que un cliente envia un mail) _ESCRITORIO.webp" alt="contacto crecimiento">
+            </div>
+        </div>
         <?php include_once 'includes/templates/footer.php';?>
 
     </section>
