@@ -192,7 +192,6 @@
         }
         
         .company-social {
-            margin-left: calc(20px + 1vw);
             padding-left: 0;
             padding-right: 0;
             text-align: center;
@@ -2601,6 +2600,9 @@
             }
             .justificar-texto-90-listas {
                 max-width: 50%;
+            }
+            .ajustar-tanner {
+                max-width: 100% !important;
             }
             .justificar-texto-85 {
                 max-width: 60%;

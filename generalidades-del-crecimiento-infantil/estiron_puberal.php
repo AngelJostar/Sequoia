@@ -86,7 +86,7 @@
                 <p>Para valorar el desarrollo puberal, ordinariamente se usa la escala de Tanner, la cual toma en cuenta el desarrollo del vello del pubis, el desarrollo mamario en las niñas, y en el niño el desarrollo de sus genitales externos.</p>
                 <p>Siendo así:</p>
             </div>
-            <div class="contenedor-principal">
+            <div class="contenedor-principal" style="padding-top: 0px;">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Mujeres: El estirón puberal se inicia en el estadio II de Tanner, coincidiendo con la aparición del botón mamario y alcanzando el pico máximo de velocidad de crecimiento (VC) en el estadio III (VC de 9 ± 2 cm). Durante los tres años de máximo crecimiento en la adolescencia, se produce un incremento de la talla de aproximadamente 20 cm.</li>

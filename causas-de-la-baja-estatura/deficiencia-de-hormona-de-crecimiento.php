@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Padecimientos y Enfermedades Cronicas que Afectan el Crecimiento</title>
+<title>Deficiecia de hormona de crecimiento</title>
 <link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
 
@@ -81,9 +81,9 @@
                 </div>
             </div>
             <div class="justificar-texto-90 justificar-derecha-texto">
-                <p>ALgunas pruebas para ayudar a determinar la causa del crecimiento lento son:</p>
+                <p>Algunas pruebas para ayudar a determinar la causa del crecimiento lento son:</p>
             </div>
-            <div class="contenedor-principal">
+            <div class="contenedor-principal" style="padding-top: 0px;">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Una radiografía de la mano para determinar el crecimiento de los huesos (edad ósea) y evaluar el potencial de crecimiento</li>
@@ -93,6 +93,9 @@
                         <li>Resonancia magnética de la cabeza se buscará un problema en la pituitaria o el cerebro, y se puede descartar la presencia de un tumor en el cerebro.</li>
                     </ul>
                 </div>
+            </div>
+            <div class="tamaño-img pb-30">
+                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img src="../img/causas-de-la-baja-estatura/Banner-Nutrición-y-Crecimiento-.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="justificar-texto-90">
                 <h2><span class="font-bold ">¿CUÁL ES EL TRATAMIENTO PARA LA DEFICIENCIA DE LA HORMONA DE CRECIMIENTO EN LOS NIÑOS?</span></h2>

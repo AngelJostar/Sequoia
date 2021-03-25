@@ -129,7 +129,7 @@
                 <p>El niño con talla baja tiene menor competencia social y tiene más problemas que sus pares con talla normal. La inteligencia de los niños con Talla baja idiopática es normal y sus problemas sociales se incrementan durante la adolescencia, por ser un período especialmente vulnerable. La evaluación y el apoyo psicológico en los niños afectados son fundamentales en estrecha colaboración con el equipo médico, tanto para evitar falsas expectativas como para ayudarle a la mejor adaptación psicosocial a su medio. </p>
             </div>
             <div class="tamaño-img">
-                <a href="/causas-de-la-baja-estatura/baja-estatura-familiar"><img src="../img/Causas-de-la-baja-estatura/baja-estatura-familiar.webp" alt="contacto crecimiento"></a>
+                <a href="/causas-de-la-baja-estatura/baja-estatura-familiar"><img src="../img/causas-de-la-baja-estatura/baja-estatura-familiar.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="ocultar-media">
                 <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>

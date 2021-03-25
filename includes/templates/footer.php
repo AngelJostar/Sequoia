@@ -125,8 +125,8 @@
                 <div class="texto-footer">
                     <P>163300201A0419</P>
                 </div>
-                <div class="texto-footer ">
-                    <a href="/aviso-de-privacidad"><P>Aviso de Privacidad</P></a>
+                <div class="centrar-texto texto-boton pb-5">
+                    <a href="/aviso-de-privacidad"><button class="boton boton-footer">Aviso de Privacidad</button></a>
                 </div>
         </footer>
         </div>

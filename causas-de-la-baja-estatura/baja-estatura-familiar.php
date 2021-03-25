@@ -47,7 +47,7 @@
                     <h2>Los trastornos del crecimiento puden tener muchas causas, entre ellas la Estatura baja familiar</h2>
                 </div>
             </div>
-            <div class="contenedor-video">
+            <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="Kd1jNM7GdhE"></div>
             </div>
             <div class="justificar-texto-85 centrar-texto pt-15">

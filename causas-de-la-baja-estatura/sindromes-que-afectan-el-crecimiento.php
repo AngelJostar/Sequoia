@@ -138,6 +138,9 @@
             <div class="justificar-texto-85 pt-1p">
                 <P>Fue descrito por primera vez en 1912 por Maurice Klippel y André Feil. Su incidencia es de 1/40.000. Es una enfermedad congénita que consiste en la fusión de dos o más vértebras cervicales y está definida por la triada característica, implantación baja del cabello, cuello corto y limitación de la movilidad del mismo. El crecimiento en estos niños es escaso y referente al tratamiento con hormona de crecimiento.</P>
             </div>
+            <div class="tamaño-img pt-15 pb-30">
+                <a href="/generalidades-del-crecimiento-infantil/factores_que_afectan_el_crecimiento"><img src="/img/causas-de-la-baja-estatura/Banner-Factores-que-Afectan-el-crecimienito-.webp" alt="contacto crecimiento"></a>
+            </div>
             <div class="ocultar-media">
                 <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>

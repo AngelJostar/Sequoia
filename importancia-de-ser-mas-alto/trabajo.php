@@ -83,6 +83,9 @@
                 <p>La autoestima débil y las habilidades sociales subdesarrolladas pueden afectar negativamente la imagen que uno retrata a los compañeros de trabajo y gerentes como adulto. Una persona que carece de confianza generalmente se considera menos
                     autoritaria y puede tener más dificultades para convencer a los empleadores de su potencial de liderazgo.</p>
             </div>
+            <div class="tamaño-img">
+                <a href="/importancia-de-ser-mas-alto/deporte"><img src="../img/importancia-de-ser-mas-alto/Banner-Deporte-y-Crecimeinto-Infantil.webp" alt="contacto crecimiento"></a>
+            </div>
             <div class="ocultar-media">
                 <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>

@@ -101,7 +101,10 @@
             </div>      
             <div class="tamaño-img centrar-imagen pb-25">
                 <img src="/img/nueva/autoestima2.webp" alt="Brexia_especialistas">
-            </div>      
+            </div>
+            <div class="tamaño-img">
+                <a href="/importancia-de-ser-mas-alto/pareja"><img src="../img/importancia-de-ser-mas-alto/Banner-Parejar.webp" alt="contacto crecimiento"></a>
+        </div>      
             <div class="ocultar-media">
                 <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>

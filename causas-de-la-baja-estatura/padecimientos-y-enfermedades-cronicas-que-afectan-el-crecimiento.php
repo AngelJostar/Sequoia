@@ -57,7 +57,10 @@
                 <p>El deterioro del crecimiento lineal puede además exagerarse por el retraso en la pubertad, que se asocia frecuentemente a enfermedades crónicas. Las desviaciones del patrón de crecimiento normal pueden ser las primeras pistas.</p>
                 <p>En niños conocidos por presentar una enfermedad crónica, los registros seriados de la talla/longitud y el peso, representados en gráficas de distancia estándar, son vitales para monitorizar el bienestar, la actividad patológica, los efectos clínicos adversos y la respuesta al tratamiento. En niños con enfermedades resistentes, se destaca cada vez más el carácter problemático, tanto física como psicológicamente, del deterioro del crecimiento, la estatura baja, el retraso en la pubertad y la reducción de la talla adulta. En este trabajo presentamos una actualización de la fisiopatología general del deterioro del crecimiento lineal en enfermedades crónicas y algunos procesos clave en los que aparece un considerable deterioro del crecimiento.</p>
             </div>
-            <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 mt-2 ">
+            <div class="tamaño-img">
+                <a href="/causas-de-la-baja-estatura/sindromes-que-afectan-el-crecimiento"><img src="../img/causas-de-la-baja-estatura/Banner-Sindrome-de-Williams.webp" alt="contacto crecimiento"></a>
+            </div>
+            <div class="cuadros-crecimiento-2 efecto3-2 mt-1 ">
                 <div class="titulos-principal">
                     <h2><span class="font-bold">PROCESOS CRÓNICOS ASOCIADOS <br> AL DETERIORO DEL CRECIMIENTO</span></h2>
                 </div>
@@ -112,7 +115,7 @@
             </div>
 
             <div class="tamaño-img">
-                <a href="/causas-de-la-baja-estatura/nutricion-malnutricion-y-crecimiento"><img src="../img/Causas-de-la-baja-estatura/Banner-Mal-nutricion-y-Mal-Absorcion.webp" alt="contacto crecimiento"></a>
+                <a href="/causas-de-la-baja-estatura/nutricion-malnutricion-y-crecimiento"><img src="../img/causas-de-la-baja-estatura/Banner-Mal-nutricion-y-Mal-Absorcion.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="ocultar-media">
                 <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>

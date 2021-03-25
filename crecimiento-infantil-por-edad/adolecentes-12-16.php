@@ -114,10 +114,10 @@
                 <p>A continuación te presentamos las gráficas de crecimiento y peso que debería de seguir tu hijo o hija de 12 a 16 años. </p>
             </div>            
             <div class="tamaño-img"> 
-                <img src="../img/banners/estatura-nina-5-19.webp" alt="generalidades-del-crecimiento">
+                <img src="../img/generalidades-del-crecimiento-infantil/GRAFICA-DE-ESTATURA-POR-EDAD-Y-PESO-POR-EDAD-NINAS.webp" alt="generalidades-del-crecimiento">
             </div>
             <div class="tamaño-img">
-                <img src="../img/banners/estatura-nino-5-19.webp" alt="generalidades-del-crecimiento">
+                <img src="../img/generalidades-del-crecimiento-infantil/GRAFICA-DE-ESTATURA-POR-EDAD-Y-PESO-POR-EDAD-NINOS.webp" alt="generalidades-del-crecimiento">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
