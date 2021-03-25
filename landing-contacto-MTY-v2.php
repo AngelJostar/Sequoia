@@ -101,7 +101,7 @@
                     <div class = "t-izquierda tercer-p">
                         <p>ELIGE UN CENTRO *</p>
                         <select name="centro" required>
-                        <option value="MOTERREY">MONTERREY</option>
+                        <option value="MONTERREY">MONTERREY</option>
                         </select>
                     </div>
                     <div class = "t-izquierda tercer-p">

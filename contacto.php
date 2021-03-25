@@ -172,7 +172,7 @@
                     <option selected disabled required >Selecciona un centro:</option> 
                     <option value="CDMX">CDMX</option> 
                     <option value="GUADALAJARA">GUADALAJARA</option> 
-                    <option value="MOTERREY">MONTERREY</option>
+                    <option value="MONTERREY">MONTERREY</option>
                     </select>
                 </div>
                 <div class = "t-izquierda tercer-p">
