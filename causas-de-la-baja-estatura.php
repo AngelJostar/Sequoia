@@ -135,30 +135,30 @@
                 </div>
                 <div class="fondo-gris mostrar-media pt-15 pb-15 efecto3-2">
                     <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
-                        <a href="Causas-de-la-baja-estatura/baja-estatura-familiar"><button class="boton-e boton-esp">Baja estatura familiar</button></a>
+                        <a href="causas-de-la-baja-estatura/baja-estatura-familiar"><button class="boton-e boton-esp">Baja estatura familiar</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="Causas-de-la-baja-estatura/baja-estatura-idiopatica"><button class="boton-e boton-esp">Baja estatura idiopática</button></a>
+                        <a href="causas-de-la-baja-estatura/baja-estatura-idiopatica"><button class="boton-e boton-esp">Baja estatura idiopática</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="Causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad"><button class="boton-e boton-esp">Retraso del crecimiento y pubertad</button></a>
+                        <a href="causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad"><button class="boton-e boton-esp">Retraso del crecimiento y pubertad</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="Causas-de-la-baja-estatura/nutricion-malnutricion-y-crecimiento"><button class="boton-e boton-esp">Malnutrición y malabsorción </button></a>
+                        <a href="causas-de-la-baja-estatura/nutricion-malnutricion-y-crecimiento"><button class="boton-e boton-esp">Malnutrición y malabsorción </button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="Causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional"><button class="boton-e boton-esp">Niños pequeños al nacer</button></a>
+                        <a href="causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional"><button class="boton-e boton-esp">Niños pequeños al nacer</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="Causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento"><button class="boton-e boton-esp">Deficiencia de hormona de
+                        <a href="causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento"><button class="boton-e boton-esp">Deficiencia de hormona de
                         crecimiento</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="Causas-de-la-baja-estatura/padecimientos-y-enfermedades-cronicas-que-afectan-el-crecimiento"><button class="boton-e boton-esp">Padecimientos y Enfermedades
+                        <a href="causas-de-la-baja-estatura/padecimientos-y-enfermedades-cronicas-que-afectan-el-crecimiento"><button class="boton-e boton-esp">Padecimientos y Enfermedades
                         crónicas</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="Causas-de-la-baja-estatura/sindromes-que-afectan-el-crecimiento"><button class="boton-e boton-esp">Síndromes que afectan el
+                        <a href="causas-de-la-baja-estatura/sindromes-que-afectan-el-crecimiento"><button class="boton-e boton-esp">Síndromes que afectan el
                         crecimiento</button></a>
                     </div>
                 </div>

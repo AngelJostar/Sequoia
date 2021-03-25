@@ -28,10 +28,10 @@
                 <div class="barra-titulo"></div>
             </div>
             <div class="ocultar-media ph-4">
-                    <a href="/generalidades-del-crecimiento-infantil.php"><img src="img/banners/GRACIAS-MOVIL.webp" alt="contacto crecimiento"></a>
+                    <a href="/crecimiento-infantil"><img src="img/banners/GRACIAS-MOVIL.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media ph-4">
-                    <a href="/generalidades-del-crecimiento-infantil.php"><img src="img/banners/GRACIAS-DESKTOP.webp" alt="contacto crecimiento"></a>
+                    <a href="/crecimiento-infantil"><img src="img/banners/GRACIAS-DESKTOP.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>

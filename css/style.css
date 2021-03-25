@@ -2502,7 +2502,7 @@
                 max-width: 75%;
             }
             .contenedor-video {
-                max-width: 50%;
+                max-width: 400px;
             }
             .reproductor {
                 width: 400px;

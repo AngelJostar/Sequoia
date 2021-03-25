@@ -2,7 +2,7 @@
     <div class="contenedor">
         <div class="mid-header">
             <div class="mid-image deepmid-header pt-1" id="mid-image">
-                <a href="index"><img src="../img/Logo-Horizontal.webp" alt="imagen-logo"></a>
+                <a href="/index"><img src="../img/Logo-Horizontal.webp" alt="imagen-logo"></a>
             </div>
             <div class="icono">
                 <div data-wow-delay="0.1s">

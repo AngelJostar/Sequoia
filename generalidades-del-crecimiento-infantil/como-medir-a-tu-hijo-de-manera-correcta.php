@@ -111,11 +111,11 @@
                 </div>
             </div>
 
-            <div>
+            <div class="tamaño-img">
                 <img src="../img/generalidades-del-crecimiento-infantil/nina-mediendose.webp" alt="generalidades-del-crecimiento">
             </div>
             <div class="tamaño-img">
-                <a href="baja-estatura"></a><img src="../img/banners/Banner-Baja-estatura.webp" alt="contacto crecimiento">
+                <a href="/generalidades-del-crecimiento-infantil/baja-estatura"><img src="../img/banners/Banner-Baja-estatura.webp" alt="contacto crecimiento"></a>
             </div>
 
 

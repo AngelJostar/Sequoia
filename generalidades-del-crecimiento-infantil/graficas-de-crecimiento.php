@@ -28,7 +28,7 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1><span class="font-bold">GRÁFICAS<br>DE CRECIMIENTO</span></h1>
+                    <h1><span class="font-bold">GRÁFICAS DE CRECIMIENTO</span></h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>

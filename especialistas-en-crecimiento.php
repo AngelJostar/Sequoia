@@ -61,7 +61,7 @@
                         <h2 style="font-size: calc(13px + .8vw) !important;  "><span class="font-bold">El Pediatra Endocrinólogo</span> es el especialista <br> encargado  de los <span class="font-bold">problemas del crecimiento</span> </h2>
                     </div>
                 </div>
-                <div class=" ph-15">
+                <div class=" ph-9">
                     <div class="textos-principal ">
                     <p><span class="font-bold">Las hormonas son sustancias químicas</span> que afectan el funcionamiento muchas partes del cuerpo. Por ejemplo, las hormonas deciden cómo crece y madura un niño. <span class="font-bold">La endocrinología pediátrica es la ciencia que estudia estas glándulas y los
                         efectos de las hormonas en los niños. </span>

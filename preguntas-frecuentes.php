@@ -238,14 +238,11 @@
 
         </div>
         <div class="ocultar-media ph-05">
-                        <a href="contacto"><img src="img/banners/BANNER-2-NINA-VERTICAL.webp" alt=""></a>
-                    </div>
-                    <div class="tamaño-img mostrar-media ph-05">
-                        <a href="contacto"><img src="img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt=""></a>
-                    </div>  
-        <div class="tamaño-img ph-05">
-            <img src="img/banners/contacto-crecimiento-infantil-estatura-medir-hija-2.webp" alt="">
+            <a href="contacto"><img src="img/banners/BANNER-2-NINA-VERTICAL.webp" alt=""></a>
         </div>
+        <div class="tamaño-img mostrar-media ph-05">
+            <a href="contacto"><img src="img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt=""></a>
+        </div>  
         </div>
 
         <?php include_once 'includes/templates/footer.php';?>
