@@ -47,42 +47,7 @@
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="vilo7WGHKYQ"></div>
             </div>
-            <div class="textos-azules">
-                <p><span class="font-bold">Es muy importante que sepas si la tasa de crecimiento del niño es la que debería ser, a cualquier edad. </span></p>
-            </div>
-            <div class="contenedor-principal">
-
-                <div class="cuadros-crecimiento">
-                    <div class="titulos-principal">
-                        <h2><span class="font-bold">¿CÓMO RECONOCER UN CRECIMIENTO DEFICIENTE EN TU HIJO?</span></h2>
-                    </div>
-                </div>
-                <div class="textos-principal ph-14">
-                    <p>Hay señales a las que debe prestar atención que podrían indicar que su hijo no está creciendo como debería: </p>
-                </div>
-                <div class="tamaño-img">
-                    <img src="../img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="">
-                </div>
-                <div class="contenedor-video-2">
-                    <div class="reproductor-rectangular" data-id="zs9O0oeo3V4"></div>
-                </div>
-                <div class="cuadros-crecimiento margin-top-20">
-                    <div class="titulos-principal">
-                        <h2><span class="font-bold">¿QUÉ SIGNIFICA UN CRECIMIENTO <br> DEFICIENTE EN MI HIJO?<br></h2>
-                    </div>
-                </div>
-                <div class="textos-principal ph-12">
-                    <p>En algunos niños y niñas, el crecimiento deficiente puede no ser una causa de preocupación, pero, en otros, puede estar asociado con serios problemas de salud, el niño puede presentar afectaciones en: </p>
-                </div>
-                <div class="tamaño-img">
-                    <img src="../img/banners/ICONOS WEB Sequoia 2021-17.webp" alt="">
-                </div>
-                <div class="letra-cursiva-contacto centrar-texto">
-                    <p>"Es importante atender a tu hijo antes de que su crecimiento termine y sea demasiado tarde para corregir su talla.</p>
-                    <p>Consulta a un especialista en talla baja de Centro Sequoia"</p>
-                </div>
-            </div>
-            <section class="contenedor-info-contacto">
+            <section class="contenedor-info-contacto mt-2">
 
                 <div class="contacto-box ">
 
@@ -115,7 +80,7 @@
                     </div>
                 </div>
 
-                <div class="linea-blanca"></div>
+                
                 <div class="formulario">
                     <form action="enviar " method="post">
                     <div class="titulos-principal ">
