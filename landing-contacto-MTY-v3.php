@@ -130,7 +130,7 @@
                     </div>
                     <div class = "t-izquierda tercer-p">
                         <p>TELÉFONO</p>
-                        <input type="tel" name="telefono" placeholder="Teléfono" required>
+                        <input type="tel" name="telefono" placeholder="Teléfono" >
                     </div>
                     <div class = "t-izquierda tercer-p">
                         <p>ELIGE UN CENTRO *</p>
