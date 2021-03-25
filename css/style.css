@@ -2408,6 +2408,30 @@
             line-height: 1.15;
             margin: 0 auto;
         }
+        
+        .letra-cursiva-contacto {
+            font-family: 'Pacifico', cursive;
+            font-size: calc(1.5em + 1vw);
+            font-weight: 500;
+            color: #00205E;
+            margin: 0 auto;
+            max-width: 70%;
+            line-height: 1.15;
+        }
+        /*CONTACTO FORMATOS*/
+        
+        .boton-contacto-landing {
+            background: #B5CD59;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: calc(1.6em + .6vw);
+            color: #00205E !important;
+            height: calc(2em + 1vw);
+            width: calc(17em + 1vw);
+            border-radius: 5px;
+            border-color: rgb(192, 212, 31);
+            border-width: 2.5px;
+        }
         /*MEDIA QUERY PARA DESKTOP*/
         
         @media (min-width: 580px) {
@@ -2586,6 +2610,9 @@
                 border-radius: 20px;
                 color: white;
                 font-weight: 700 !important;
+            }
+            .letra-cursiva-contacto {
+                max-width: 40%;
             }
         }
         

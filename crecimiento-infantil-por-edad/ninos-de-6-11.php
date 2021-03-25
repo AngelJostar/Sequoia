@@ -47,10 +47,10 @@
                     <h2>El desarrollo físico en la etapa de los 6 a 11 años es considerable, la constitución corporal cambia, la masa muscular aumenta, los huesos se hacen más fuertes</h2>
                 </div>
             </div>
-            <div class="contenedor-video">
+            <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="U3hGSEYyl9Q"></div>
             </div>
-            <div class="contenedor-video">
+            <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="ghg416WQnZU"></div>
             </div>
             <div class="justificar-texto-85 centrar-texto contenedor-75porciento">

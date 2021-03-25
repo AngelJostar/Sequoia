@@ -72,10 +72,7 @@
                     <h2><span class="font-bold">TEMAS IMPORTANTES</span> RELACIONADOS CON EL CRECIMIENTO DE TU HIJ@</h2>
                     </div>
                 </div>
-                <div class="textos-principal  ph-11 ocultar-media">
-                    <p>La desinformación puede retrasar las intervenciones cuando realmente es necesario hacer algo. A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu niño o niña:</p>
-                </div>
-                <div class="textos-principal  ph-13 mostrar-media">
+                <div class="textos-principal  ph-13">
                     <p>La desinformación puede retrasar las intervenciones cuando realmente es necesario hacer algo. A continuación puedes explorar los temas más importantes relacionados con el crecimiento de tu niño o niña:</p>
                 </div>
                 <div class="ocultar-media">
