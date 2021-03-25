@@ -28,10 +28,10 @@
                 <div class="barra-titulo"></div>
             </div>
             <div class="ocultar-media ph-3">
-                    <img src="img/banners/MUCHAS GRACIAS (Despeus de que un cliente envia un mail) _MOVIL.webp" alt="contacto crecimiento">
+                    <img src="img/banners/GRACIAS-MOVIL.webp" alt="contacto crecimiento">
             </div>
             <div class="tamaño-img mostrar-media ph-4">
-                    <img src="img/banners/MUCHAS GRACIAS (Despeus de que un cliente envia un mail) _ESCRITORIO.webp" alt="contacto crecimiento">
+                    <img src="img/banners/GRACIAS-DESKTOP.webp" alt="contacto crecimiento">
             </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>
