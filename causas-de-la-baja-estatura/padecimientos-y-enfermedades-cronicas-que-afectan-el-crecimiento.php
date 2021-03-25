@@ -37,15 +37,9 @@
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
                 <img src="/img/banners/Banner-Padecimientos-y-enfermedades.webp" alt="">
-                <div class="texto-imagen-izquierda">
-                    <h2>El deterioro del crecimiento aparece en numerosos procesos crónicos. La fibrosis quística, la enfermedad de Crohn y la artritis juvenil idiopática son enfermedades crónicas relativamente frecuentes en la infancia, vinculadas a un deterioro sustancial del crecimiento. Mientras que el retraso en el crecimiento puede ser la característica patológica de presentación inicial, el patrón de crecimiento constituye también una medida útil de la gravedad de la enfermedad y de la respuesta al tratamiento.</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-6-5 mostrar-media">
                 <img src="/img/banners/Banner-Padecimientos-y-enfermedades.webp" alt="">
-                <div class="texto-imagen-izquierda">
-                    <h2>El deterioro del crecimiento aparece en numerosos procesos crónicos. La fibrosis quística, la enfermedad de Crohn y la artritis juvenil idiopática son enfermedades crónicas relativamente frecuentes en la infancia, vinculadas a un deterioro sustancial del crecimiento. Mientras que el retraso en el crecimiento puede ser la característica patológica de presentación inicial, el patrón de crecimiento constituye también una medida útil de la gravedad de la enfermedad y de la respuesta al tratamiento.</h2>
-                </div>
             </div>
             <div class="contenedor-video">
                 <div class="reproductor" data-id="zG5WEL9_G8U"></div>

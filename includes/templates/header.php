@@ -23,7 +23,7 @@
                     <div class="encabezado-menu">
                     </div>
                     <div class="menu-header">
-                        <a href="index "><img src="../img/Logo-Horizontal.webp" alt="imagen-logo"></a>
+                        <a href="/index"><img src="../img/Logo-Horizontal.webp" alt="imagen-logo"></a>
                         <a href="#" class="toggle-nav icono-menu"><i class="far fa-window-close"></i></a>
                     </div>
                     <ul class="resaltar">

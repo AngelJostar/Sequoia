@@ -190,7 +190,7 @@
                         </div>
                     </div>
                     <div class="accordion-item">
-                        <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">16.-¿El uso de tecnologías afecta el crecimiento de los niños?</span></button>
+                        <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">16.-¿El uso de tecnologías afecta el crecimiento de los niños?<span class="icon" aria-hidden="true"></span></span></button>
                         <div class="accordion-content">
                             <p>El uso de la tecnología como tal no tiene problema en el crecimiento de niños, siempre y cuando el uso de tecnologías no afecte la actividad física y el dormir. El sueño es esencial para crecer, si los niños se desvelan o no
                                 duermen bien el proceso de crecimiento se afectará.</p>

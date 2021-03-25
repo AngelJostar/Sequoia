@@ -47,17 +47,9 @@
             </div>
             <div class="tamaño-img ph-3 ocultar-media">
                 <img src="img/importancia-de-ser-mas-alto/Banner-Importancuia-de-ser-mas-Alto-.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>¿Una mayor altura aporta ventajas a una <br> persona en su vida?, Si es así, <br>¿cuáles son exactamente esas ventajas? <br> ¿Qué tan grandes son esas ventajas? <br> ¿En qué aspectos de la vida? <br> ¿Por qué la altura aporta ventajas
-                        a una <br> persona?</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-3 mostrar-media">
                 <img src="img/importancia-de-ser-mas-alto/Banner-Importancuia-de-ser-mas-Alto-desktop.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>¿Una mayor altura aporta ventajas a una <br> persona en su vida?, Si es así, <br>¿cuáles son exactamente esas ventajas? <br> ¿Qué tan grandes son esas ventajas? <br> ¿En qué aspectos de la vida? <br> ¿Por qué la altura aporta ventajas
-                        a una <br> persona?</h2>
-                </div>
             </div>
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="ygP78ev4eQI"></div>

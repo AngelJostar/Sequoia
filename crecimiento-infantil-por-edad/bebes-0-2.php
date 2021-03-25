@@ -37,15 +37,9 @@
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
                 <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-0-2.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>¿Te preguntas si tu bebé crece bien? Cómo crece tu bebé es algo que, como mamá o como papá, es normal que te cuestiones. Toda madre y todo padre quieren, sobre todas las cosas, que su bebé esté sano y sea feliz, y uno de los indicativos más visuales y evidentes es el aumento de peso y talla del pequeño.</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-6 mostrar-media">
                 <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-0-2-desktop.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>¿Te preguntas si tu bebé crece bien? Cómo crece tu bebé es algo que, como mamá o como papá, es normal que te cuestiones. Toda madre y todo padre quieren, sobre todas las cosas, que su bebé esté sano y sea feliz, y uno de los indicativos más visuales y evidentes es el aumento de peso y talla del pequeño.</h2>
-                </div>
             </div>
             <div class="justificar-texto-85 centrar-texto">
                 <p>Toda madre y todo padre quieren, sobre todas las cosas, que su bebé esté sano y sea feliz, y uno de los indicativos más visuales y evidentes es el aumento de peso y talla del pequeño.</p>       

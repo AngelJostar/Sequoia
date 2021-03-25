@@ -38,15 +38,9 @@
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
                 <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-adolecentes-12-16.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>Durante la adolescencia, las personas jóvenes atraviesan por muchos cambios a medida que pasan a la madurez física. <br> Los cambios prepuberales precoces ocurren cuando aparecen las características sexuales secundarias.</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-6 mostrar-media">
                 <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-adolecentes-12-16-desktop.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>Durante la adolescencia, las personas jóvenes atraviesan por muchos cambios a medida que pasan a la madurez física. <br> Los cambios prepuberales precoces ocurren cuando aparecen las características sexuales secundarias.</h2>
-                </div>
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="ghg416WQnZU"></div>

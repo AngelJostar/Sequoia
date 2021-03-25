@@ -37,9 +37,6 @@
             </div>
             <div class="tamaño-img ph-5">
                 <img src="/img/banners/Banner-sindromes-que-afectan-el-crecimiento.webp" alt="">
-                <div class="texto-imagen-izquierda">
-                    <h2>La velocidad de crecimiento de los niños varía, si no se supervisa de cerca el crecimiento de un niño, es posible que no se detecten trastornos que lo afecten como:</h2>
-                </div>
             </div>
             <div class="contenedor-video">
                 <div class="reproductor" data-id="CttMlkKcgZo"></div>

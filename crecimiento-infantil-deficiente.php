@@ -37,15 +37,9 @@
             </div>
             <div class="tamaño-img ph-4 ocultar-media">
                 <img src="img/banners/Banner-crecimiento-deficiente.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>Es muy importante que sepas si la tasa de crecimiento del niño es la que debería ser, a cualquier edad.</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-5 mostrar-media">
                 <img src="img/banners/Banner-crecimiento-deficiente-desktop.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>Es muy importante que sepas si la tasa de crecimiento del niño es la que debería ser, a cualquier edad.</h2>
-                </div>
             </div>
             <div class="textos-principal justificar-texto ">
                 <p>Si el niño no está creciendo adecuadamente, puede ser el primer signo de una posible condición médica.

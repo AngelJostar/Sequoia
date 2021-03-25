@@ -37,15 +37,9 @@
             </div>
             <div class="tamaño-img ph-7 ocultar-media">
                 <img src="/img/banners/Banner-deficiencia-de-hormona.webp" alt="">
-                <div class="texto-imagen-izquierda">
-                    <h2>¿QUÉ ES LA DEFICIENCIA DE LA HORMONA DE CRECIMIENTO? La deficiencia de la hormona de crecimiento (GHD, por sus siglas en inglés) es una afección poco común en la que el cuerpo no produce suficiente hormona del crecimiento (GH, por sus siglas en inglés).</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-6-5 mostrar-media">
-            <img src="/img/banners/Banner-deficiencia-de-hormona.webp" alt="">
-                <div class="texto-imagen-izquierda">
-                    <h2>¿QUÉ ES LA DEFICIENCIA DE LA HORMONA DE CRECIMIENTO? La deficiencia de la hormona de crecimiento (GHD, por sus siglas en inglés) es una afección poco común en la que el cuerpo no produce suficiente hormona del crecimiento (GH, por sus siglas en inglés).</h2>
-                </div>
+                <img src="/img/banners/Banner-deficiencia-de-hormona.webp" alt="">
             </div>
             <div class="contenedor-video">
                 <div class="reproductor" data-id="9Q3bfWDOjAw"></div>
@@ -95,7 +89,7 @@
                 </div>
             </div>
             <div class="tamaño-img pb-30">
-                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img src="../img/causas-de-la-baja-estatura/Banner-Nutrición-y-Crecimiento-.webp" alt="contacto crecimiento"></a>
+                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img src="../img/causas-de-la-baja-estatura/Banner-Nutricion-y-Crecimiento-.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="justificar-texto-90">
                 <h2><span class="font-bold ">¿CUÁL ES EL TRATAMIENTO PARA LA DEFICIENCIA DE LA HORMONA DE CRECIMIENTO EN LOS NIÑOS?</span></h2>

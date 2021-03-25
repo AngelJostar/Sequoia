@@ -47,16 +47,10 @@
             </div>
             <div class="contenedor-principal margin-negativo-top-35">
                     <div class="cuadros-crecimiento margin-top-20 ocultar-media">
-                        <div class="titulos-principal">
-                            <h2>Entre las causas de una baja estatura que <span class="font-bold">NO SE ASOCIAN</span> a enfermedades reconocidas, se incluyen:</h2>
-                        </div>
                     </div>
                     <div class="cuadros-crecimiento margin-top-20 mostrar-media">
-                        <div class="titulos-principal  contenedor-50porciento">
-                            <h2>Entre las causas de una baja estatura que <span class="font-bold">NO SE ASOCIAN</span> a enfermedades reconocidas, se incluyen:</h2>
-                        </div>
                     </div>
-                    <div class="justificar-texto-90-listas ph-14 font-bold">
+                    <div class="justificar-texto-90-listas ph-3 font-bold">
                         <ul>
                             <li>Baja estatura en la familia</li>
                             <li>Baja estatura idiopática (sin causa identificable).</li>

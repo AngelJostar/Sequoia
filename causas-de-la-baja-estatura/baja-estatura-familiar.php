@@ -37,15 +37,9 @@
             </div>
             <div class="tamaño-img ph-3 ocultar-media">
                 <img src="/img/banners/Banner-baja-estatura-familiar.webp" alt="">
-                <div class="texto-imagen-izquierda">
-                    <h2>Los trastornos del crecimiento puden tener muchas causas, entre ellas la Estatura baja familiar</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-3 mostrar-media">
                 <img src="/img/banners/Banner-baja-estatura-familiar.webp" alt="">
-                <div class="texto-imagen-izquierda">
-                    <h2>Los trastornos del crecimiento puden tener muchas causas, entre ellas la Estatura baja familiar</h2>
-                </div>
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="Kd1jNM7GdhE"></div>

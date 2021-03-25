@@ -38,15 +38,9 @@
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
                 <img src="../img/banners/banner-trabajo-1.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>En general, los atletas más altos tienen ventajas sobre los atletas más bajos en muchos deportes.</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-6 mostrar-media">
                 <img src="../img/banners/banner-trabajo-1-desktop.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>En general, los atletas más altos tienen ventajas sobre los atletas más bajos en muchos deportes.</h2>
-                </div>
             </div>
             <div class="justificar-texto-90-listas">
                     <ul>

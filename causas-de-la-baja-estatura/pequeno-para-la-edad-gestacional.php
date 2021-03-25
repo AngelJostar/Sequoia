@@ -38,15 +38,9 @@
             </div>
             <div class="tamaño-img ph-5-2 ocultar-media">
                 <img src="/img/banners/Banner-pequeno-para-la-edad-gestacional.webp" alt="">
-                <div class="texto-imagen-izquierda">
-                    <h2>Los reciéntes nacidos cuyo peso es por debajo al percentil 10 para la edad gestacional se clasifican como pequeños para la edad gestacional.</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-6-5 mostrar-media">
                 <img src="/img/banners/Banner-pequeno-para-la-edad-gestacional.webp" alt="">
-                <div class="texto-imagen-izquierda">
-                    <h2>Los reciéntes nacidos cuyo peso es por debajo al percentil 10 para la edad gestacional se clasifican como pequeños para la edad gestacional.</h2>
-                </div>
             </div>
 
 

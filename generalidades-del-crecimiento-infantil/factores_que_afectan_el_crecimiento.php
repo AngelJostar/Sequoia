@@ -38,15 +38,9 @@
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
                 <img src="/img/generalidades-del-crecimiento-infantil/BANNERS-factores-crecimeinto-Web-Sequoia-2021.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>Es muy importante que sepas si la tasa de crecimiento del niño es la que debería ser, a cualquier edad.</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-7 mostrar-media">
             <img src="/img/generalidades-del-crecimiento-infantil/BANNERS-factores-crecimeinto-Web-Sequoia-2021.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>Es muy importante que sepas si la tasa de crecimiento del niño es la que debería ser, a cualquier edad.</h2>
-                </div>
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="nifkbui3K-4"></div>
