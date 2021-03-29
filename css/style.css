@@ -85,18 +85,18 @@
             border-radius: 30px;
         }
         
-        @media (max-width: 767px) {
-            .top-header-inter span {
-                font-size: 11px;
+            @media (max-width: 767px) {
+                .top-header-inter span {
+                    font-size: 11px;
+                }
+                .top-header-inter {
+                    max-width: 290px;
+                }
+                .top-header {
+                    padding-top: 0.2rem;
+                    padding-bottom: 0.8rem;
+                }
             }
-            .top-header-inter {
-                max-width: 290px;
-            }
-            .top-header {
-                padding-top: 0.2rem;
-                padding-bottom: 0.8rem;
-            }
-        }
         /*MId header*/
         
         .mid-header {
