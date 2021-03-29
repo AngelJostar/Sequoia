@@ -9,7 +9,7 @@
                 <a href="../../preguntas-frecuentes"><button class="boton boton-footer">Preguntas frecuentes</button></a>
             </div>
             <div class="centrar-texto texto-boton">
-                <a href=""><button class="boton boton-footer">Artículos de interés</button></a>
+                <a href="https://blog-centro-sequoia.blogspot.com/"><button class="boton boton-footer">Artículos de interés</button></a>
             </div>
             <div class="">
                 <div class="letras-blue-footer">
@@ -97,7 +97,7 @@
                 <a href="../../preguntas-frecuentes"><button class="boton boton-footer">Preguntas frecuentes</button></a>
             </div>
             <div class="centrar-texto texto-boton">
-                <a href="#"><button class="boton boton-footer">Artículos de interés</button></a>
+                <a href="https://blog-centro-sequoia.blogspot.com/"><button class="boton boton-footer">Artículos de interés</button></a>
             </div>
             <div class="letras-blue-footer">
                 <p>Redes Sociales:</p>
