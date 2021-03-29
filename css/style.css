@@ -192,7 +192,6 @@
         }
         
         .company-social {
-            margin-left: calc(20px + 1vw);
             padding-left: 0;
             padding-right: 0;
             text-align: center;
@@ -301,15 +300,15 @@
         }
         
         .low-header ul li a:focus {
-            color: #02132f !important;
+            color: #B5CD59 !important;
         }
         
         .low-header ul li a:hover {
-            color: #02132f !important;
+            color: #B5CD59 !important;
         }
         
         .low-header ul li a:active {
-            color: #02132f !important;
+            color: #B5CD59 !important;
         }
         /*Hamburger Menu*/
         /* ### GENERAL SITE STYLES ### */
@@ -444,7 +443,7 @@
         }
         
         #site-menu a:focus {
-            color: #c787a2;
+            color: #B5CD59;
         }
         
         .encabezado-menu {
@@ -1038,7 +1037,7 @@
         .contenedor-video {
             display: block;
             width: 100%;
-            max-width: 300px;
+            max-width: 350px;
             margin: 0 auto;
         }
         
@@ -1048,8 +1047,8 @@
             padding-bottom: 56.25%;
             overflow: hidden;
             position: relative;
-            width: 300px;
-            height: 300px;
+            width: 350px;
+            height: 350px;
             cursor: hand;
             cursor: pointer;
             display: block;
@@ -1073,8 +1072,8 @@
             display: block;
             left: 0;
             margin: auto;
-            width: 300px;
-            height: 300px;
+            width: 350px;
+            height: 350px;
             position: absolute;
             object-fit: cover;
             right: 0;
@@ -1339,6 +1338,10 @@
         
         .ph-23 {
             padding-top: calc(23em + 1vw);
+        }
+        
+        .ph-24 {
+            padding-top: calc(24em + 1vw);
         }
         
         .ph-28 {
@@ -1687,7 +1690,7 @@
         }
         
         .boton-contacto-landing {
-            background: #B5CD59;
+            background: #BFDB49;
             text-decoration: none;
             font-weight: bold;
             font-size: calc(1.6em + .6vw);
@@ -2498,7 +2501,7 @@
                 max-width: 75%;
             }
             .contenedor-video {
-                max-width: 50%;
+                max-width: 400px;
             }
             .reproductor {
                 width: 400px;
@@ -2597,6 +2600,9 @@
             }
             .justificar-texto-90-listas {
                 max-width: 50%;
+            }
+            .ajustar-tanner {
+                max-width: 100% !important;
             }
             .justificar-texto-85 {
                 max-width: 60%;

@@ -29,7 +29,7 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1 style="font-size: calc(.8em + 1.5vw);"><span class="font-bold">CONTACTO DGL</span></h1>
+                    <h1 style="font-size: calc(.8em + 1.5vw);"><span class="font-bold">CONTACTO GDL</span></h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
@@ -47,25 +47,61 @@
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="vilo7WGHKYQ"></div>
             </div>
-            <section class="contenedor-info-contacto mt-2">
+            <div class="textos-azules">
+                <p><span class="font-bold">Es muy importante que sepas si la tasa de crecimiento del niño es la que debería ser, a cualquier edad. </span></p>
+            </div>
+            <div class="contenedor-principal">
 
-            <div class="contacto-box">
-                <div>
-                    <div class="tercer-p">
-                        <h2 class="font-ciudades">GUADALAJARA<br>
-                            <a href="tel:+333615-2825">
-                                <span>(33) 36152825</span>
-                            </a>
-                        </h2>
-                        <p><span class="font-bold">DIRECCIÓN:</span> José María Vigil #2750, Colonia Providencia,</p>
-                        <p>C.P.44639, Guadalajara, Jalisco</p>
-                        <p><span class="font-bold">EMAIL:</span> guadalajara@centrosequoia.com.mx </p>
-                        <p><span class="font-bold">HORARIO DE ATENCIÓN:</span></p> 
-                        <p>De Lunes a Viernes de 10:00 a 14:00 y 16:00 a 20:00hrs. </p>
-                        <p>Sábados de 10:00 a 14:00 hrs.</p>
+                <div class="cuadros-crecimiento">
+                    <div class="titulos-principal">
+                        <h2><span class="font-bold">¿CÓMO RECONOCER UN CRECIMIENTO DEFICIENTE EN TU HIJO?</span></h2>
                     </div>
                 </div>
+                <div class="textos-principal ph-11">
+                    <p>Hay señales a las que debe prestar atención que podrían indicar que su hijo no está creciendo como debería: </p>
+                </div>
+                <div class="tamaño-img">
+                    <img src="../img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="">
+                </div>
+                <div class="contenedor-video-2">
+                    <div class="reproductor-rectangular" data-id="zs9O0oeo3V4"></div>
+                </div>
+                <div class="cuadros-crecimiento margin-top-20">
+                    <div class="titulos-principal">
+                        <h2><span class="font-bold">¿QUÉ SIGNIFICA UN CRECIMIENTO <br> DEFICIENTE EN MI HIJO?<br></h2>
+                    </div>
+                </div>
+                <div class="textos-principal ph-13">
+                    <p>En algunos niños y niñas, el crecimiento deficiente puede no ser una causa de preocupación, pero, en otros, puede estar asociado con serios problemas de salud, el niño puede presentar afectaciones en: </p>
+                </div>
+                <div class="tamaño-img">
+                    <img src="../img/banners/ICONOS WEB Sequoia 2021-17.webp" alt="">
+                </div>
+                <div class="letra-cursiva-contacto centrar-texto">
+                    <p>"Es importante atender a tu hijo antes de que su crecimiento termine y sea demasiado tarde para corregir su talla.</p>
+                    <p>Consulta a un especialista en talla baja de Centro Sequoia"</p>
+                </div>
             </div>
+            <section class="contenedor-info-contacto">
+
+                <div class="contacto-box">
+
+                    <div>
+                        <div class="tercer-p">
+                            <h2 class="font-ciudades">GUADALAJARA<br>
+                                <a href="tel:+333615-2825">
+                                    <span>(33) 36152825</span>
+                                </a>
+                            </h2>
+                            <p><span class="font-bold">DIRECCIÓN:</span> José María Vigil #2750, Colonia Providencia,</p>
+                            <p>C.P.44639, Guadalajara, Jalisco</p>
+                            <p><span class="font-bold">EMAIL:</span> guadalajara@centrosequoia.com.mx </p>
+                            <p><span class="font-bold">HORARIO DE ATENCIÓN:</span></p> 
+                            <p>De Lunes a Viernes de 10:00 a 14:00 y 16:00 a 20:00hrs. </p>
+                            <p>Sábados de 10:00 a 14:00 hrs.</p>
+                        </div>
+                    </div>
+                </div>
 
                 <div class="contenedor-90porciento">
                 <a href="https://www.google.com/maps/place/Centro+Sequoia+Guadalajara-Crecimiento+Infantil/@20.6912993,-103.3831778,15z/data=!4m5!3m4!1s0x0:0x296b00874ce3a155!8m2!3d20.6912993!4d-103.3831778"><img src="../img/Mapas/MAPA-GUADALAJARA-1015x542.webp" alt="Mapa-CDMX"></a>
@@ -79,7 +115,7 @@
                     </div>
                 </div>
 
-                
+                <div class="linea-blanca"></div>
                 <div class="formulario">
                     <form action="enviar " method="post">
                     <div class="titulos-principal ">
@@ -95,14 +131,12 @@
                     </div>
                     <div class = "t-izquierda tercer-p">
                         <p>TELÉFONO</p>
-                        <input type="tel" name="telefono" placeholder="Teléfono" required>
+                        <input type="tel" name="telefono" placeholder="Teléfono">
                     </div>
                     <div class = "t-izquierda tercer-p">
                         <p>ELIGE UN CENTRO *</p>
                         <select name="centro" required>
-                        <option value="CDMX">CDMX</option> 
                         <option value="GUADALAJARA">GUADALAJARA</option> 
-                        <option value="MOTERREY">MONTERREY</option>
                         </select>
                     </div>
                     <div class = "t-izquierda tercer-p">
@@ -139,7 +173,8 @@
 
 </section>
 <!--####HEADER####-->
-
+<a href="contacto" class="scrollup">
+</a>
 <!--####FOOTER####-->
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>

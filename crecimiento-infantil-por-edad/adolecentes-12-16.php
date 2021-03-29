@@ -38,15 +38,9 @@
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
                 <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-adolecentes-12-16.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>Durante la adolescencia, las personas jóvenes atraviesan por muchos cambios a medida que pasan a la madurez física. <br> Los cambios prepuberales precoces ocurren cuando aparecen las características sexuales secundarias.</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-6 mostrar-media">
                 <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-adolecentes-12-16-desktop.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>Durante la adolescencia, las personas jóvenes atraviesan por muchos cambios a medida que pasan a la madurez física. <br> Los cambios prepuberales precoces ocurren cuando aparecen las características sexuales secundarias.</h2>
-                </div>
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="ghg416WQnZU"></div>
@@ -114,10 +108,10 @@
                 <p>A continuación te presentamos las gráficas de crecimiento y peso que debería de seguir tu hijo o hija de 12 a 16 años. </p>
             </div>            
             <div class="tamaño-img"> 
-                <img src="../img/banners/estatura-nina-5-19.webp" alt="generalidades-del-crecimiento">
+                <img src="../img/generalidades-del-crecimiento-infantil/GRAFICA-DE-ESTATURA-POR-EDAD-Y-PESO-POR-EDAD-NINAS.webp" alt="generalidades-del-crecimiento">
             </div>
             <div class="tamaño-img">
-                <img src="../img/banners/estatura-nino-5-19.webp" alt="generalidades-del-crecimiento">
+                <img src="../img/generalidades-del-crecimiento-infantil/GRAFICA-DE-ESTATURA-POR-EDAD-Y-PESO-POR-EDAD-NINOS.webp" alt="generalidades-del-crecimiento">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">

@@ -37,15 +37,9 @@
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
                 <img src="../img/importancia-de-ser-mas-alto/banner-autoestima-1.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>La estatura baja en los niños y adolescentes puede ser factor de una disminución de la autoestima y cambios de actitud debido a factores como el acoso escolar y otros problemas de la vida diaria. </h2>
-                </div>
             </div>
             <div class="tamaño-img ph-6 mostrar-media">
                 <img src="../img/importancia-de-ser-mas-alto/banner-autoestima-1-desktop.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>La estatura baja en los niños y adolescentes puede ser factor de una disminución de la autoestima y cambios de actitud debido a factores como el acoso escolar y otros problemas de la vida diaria. </h2>
-                </div>
             </div>           
             <div class="justificar-texto-90 centrar-texto pt-15">
                 <p>Los niños y niñas más bajitos suelen ser acosados en la escuela y pueden mostrar cambios en su actitud o tener problemas de autoestima. Pueden ser sobreprotegidos, tanto por familiares, como por maestros, volviéndolos dependientes, con dificultades para enfrentar por sí mismos los problemas que le presenta la vida diaria.</p>
@@ -101,7 +95,10 @@
             </div>      
             <div class="tamaño-img centrar-imagen pb-25">
                 <img src="/img/nueva/autoestima2.webp" alt="Brexia_especialistas">
-            </div>      
+            </div>
+            <div class="tamaño-img">
+                <a href="/importancia-de-ser-mas-alto/pareja"><img src="../img/importancia-de-ser-mas-alto/Banner-Parejar.webp" alt="contacto crecimiento"></a>
+        </div>      
             <div class="ocultar-media">
                 <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>

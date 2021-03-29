@@ -37,15 +37,9 @@
             </div>
             <div class="tamaño-img ph-5-5 ocultar-media">
                 <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-6-11.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>El desarrollo físico en la etapa de los 6 a 11 años es considerable, la constitución corporal cambia, la masa muscular aumenta, los huesos se hacen más fuertes</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-6 mostrar-media">
                 <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-6-11-desktop.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>El desarrollo físico en la etapa de los 6 a 11 años es considerable, la constitución corporal cambia, la masa muscular aumenta, los huesos se hacen más fuertes</h2>
-                </div>
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="U3hGSEYyl9Q"></div>
@@ -121,10 +115,10 @@
                 <img src="/img/nueva/imc-ninas-6-11.webp" alt="graficas">
             </div>
             <div class="ocultar-media">
-                    <a href="contacto"><img src="../img/banners/BANNER-2-NINA-VERTICAL.webp" alt="altura-crecimiento-estatura"></a>
+                    <a href="/contacto"><img src="../img/banners/BANNER-2-NINA-VERTICAL.webp" alt="altura-crecimiento-estatura"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="contacto"><img src="../img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt="altura-crecimiento-estatura"></a>
+                    <a href="/contacto"><img src="../img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt="altura-crecimiento-estatura"></a>
                 </div>
 
         </div>

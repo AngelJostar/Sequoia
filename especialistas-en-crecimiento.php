@@ -37,15 +37,9 @@
             </div>
             <div class="tamaño-img ph-5punto5 ocultar-media">
                 <img src="img/banners/Banner-Especialistas-en-crecimeinto-Infantil-.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>Es muy importante que sepas que existen médicos, pediatras con subespecialidad en endocrinología pediátrica, que además después se enfocan en tratar únicamente la estatura de los niños y niñas</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-8 mostrar-media">
                 <img src="img/banners/Banner-Especialistas-en-crecimeinto-Infantil-desktop.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                <h2>Es muy importante que sepas que existen médicos, pediatras con subespecialidad en endocrinología pediátrica, que además después se enfocan en tratar únicamente la estatura de los niños y niñas</h2>
-                </div>
             </div>
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="b2npaRv2dEw"></div>
@@ -58,10 +52,10 @@
                 </div> 
                 <div class="cuadros-crecimiento">
                     <div class="titulos-principal">
-                        <h2><span class="font-bold">El Pediatra Endocrinólogo</span>es el especialista <br> encargado  de los <span class="font-bold">problemas del crecimieto</span> </h2>
+                        <h2 style="font-size: calc(13px + .8vw) !important;  "><span class="font-bold">El Pediatra Endocrinólogo</span> es el especialista <br> encargado  de los <span class="font-bold">problemas del crecimiento</span> </h2>
                     </div>
                 </div>
-                <div class=" ph-15">
+                <div class=" ph-9">
                     <div class="textos-principal ">
                     <p><span class="font-bold">Las hormonas son sustancias químicas</span> que afectan el funcionamiento muchas partes del cuerpo. Por ejemplo, las hormonas deciden cómo crece y madura un niño. <span class="font-bold">La endocrinología pediátrica es la ciencia que estudia estas glándulas y los
                         efectos de las hormonas en los niños. </span>
@@ -121,7 +115,7 @@
                         <div class="barra-titulo"></div>
                     </div>
                 </div>
-                <div class="textos-principal ph-23">
+                <div class="textos-principal ph-24">
                     <p>Los problemas hormonales que afectan el crecimiento o el desarrollo sexual de un adolecente o un niño pueden tener efectos significativos en el bienestar físico y emocional del mismo. En Centro Sequoia somos sensibles a estos temas
                         y entendemos a su hijo. El personal de apoyo, incluidos enfermeras, psicólogos y nutriólogos estamos en sintonía con las necesidades de los niños y adolescentes que atendemos. Con el objetivo de lograr que todos nuestros pacientes
                         consigan una mayor estatura.

@@ -24,11 +24,11 @@
         <?php include_once 'includes/templates/header.php';?>
         <div class="contenedor-principal" id="contenedor-principal">
             <div class="cuadros-crecimiento ocultar">
-                <div class="titulos-grid-gci">
+                <div class="titulos-grid-crecimiento-infantil-deficiente">
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1 style="font-size: calc(1.35em + 1vw);"> <span class="font-bold">IMPORTANCIA DE<br>SER MÁS ALTO</h1>
+                    <h1 style="font-size: calc(1.35em + 1vw);"> <span class="font-bold">IMPORTANCIA DE SER MÁS ALTO</h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
@@ -45,19 +45,11 @@
                     </div>
                 </div>
             </div>
-            <div class="tamaño-img ph-5-5 ocultar-media">
+            <div class="tamaño-img ph-3 ocultar-media">
                 <img src="img/importancia-de-ser-mas-alto/Banner-Importancuia-de-ser-mas-Alto-.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>¿Una mayor altura aporta ventajas a una <br> persona en su vida?, Si es así, <br>¿cuáles son exactamente esas ventajas? <br> ¿Qué tan grandes son esas ventajas? <br> ¿En qué aspectos de la vida? <br> ¿Por qué la altura aporta ventajas
-                        a una <br> persona?</h2>
-                </div>
             </div>
-            <div class="tamaño-img ph-6 mostrar-media">
+            <div class="tamaño-img ph-3 mostrar-media">
                 <img src="img/importancia-de-ser-mas-alto/Banner-Importancuia-de-ser-mas-Alto-desktop.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>¿Una mayor altura aporta ventajas a una <br> persona en su vida?, Si es así, <br>¿cuáles son exactamente esas ventajas? <br> ¿Qué tan grandes son esas ventajas? <br> ¿En qué aspectos de la vida? <br> ¿Por qué la altura aporta ventajas
-                        a una <br> persona?</h2>
-                </div>
             </div>
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="ygP78ev4eQI"></div>
@@ -169,11 +161,11 @@
                     <h2><span class="letra-cursiva-2">¡Tu hija o hijo puede ser más alto!</span></h2>
                 </div>
             </div>
-            <div class="tamaño-img ocultar-media ph-1">
-                <a href="/causas-de-la-baja-estatura.php"><img src="img/importancia-de-ser-mas-alto/BANNER-5-VERTICAL.webp" alt="especialistas crecimiento"></a>
+            <div class="ocultar-media">
+                <a href="/contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media ph-1">
-                <a href="/causas-de-la-baja-estatura.php"><img src="img/banners/BANNER-5-HORIZONTAL.webp" alt="especialistas crecimiento"></a>
+                <a href="/contacto"><img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>

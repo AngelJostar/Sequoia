@@ -36,15 +36,9 @@
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
                 <img src="img/banners/Banner-crecimiento-infantil.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>En Centro Sequoia queremos que tomes decisiones informadas, por eso te presentamos a continuación toda la información que necesitas para entender el crecimiento de tu hijo o hija.</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-6 mostrar-media contenedor-50porciento">
                 <img src="img/banners/Banner-crecimiento-infantil-desktop.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>En Centro Sequoia queremos que tomes decisiones informadas, por eso te presentamos a continuación toda la información que necesitas para entender el crecimiento de tu hijo o hija.</h2>
-                </div>
             </div>
             <div class="contenedor-video-2 ph-2">
                 <div class="reproductor-rectangular" data-id="ygP78ev4eQI"></div>

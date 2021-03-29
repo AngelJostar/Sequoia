@@ -38,15 +38,9 @@
             </div>
             <div class="tamaño-img ph-5-2 ocultar-media">
                 <img src="/img/banners/Banner-pequeno-para-la-edad-gestacional.webp" alt="">
-                <div class="texto-imagen-izquierda">
-                    <h2>Los reciéntes nacidos cuyo peso es por debajo al percentil 10 para la edad gestacional se clasifican como pequeños para la edad gestacional.</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-6-5 mostrar-media">
                 <img src="/img/banners/Banner-pequeno-para-la-edad-gestacional.webp" alt="">
-                <div class="texto-imagen-izquierda">
-                    <h2>Los reciéntes nacidos cuyo peso es por debajo al percentil 10 para la edad gestacional se clasifican como pequeños para la edad gestacional.</h2>
-                </div>
             </div>
 
 
@@ -168,7 +162,7 @@
                 <p>Un lactante también puede tener retraso del crecimiento asimétrico y ser pequeño para la edad gestacional (PEG) si la madre es consumidora de opiáceos, cocaína, alcohol o tabaco durante el embarazo.</p>
             </div>
             <div class="tamaño-img pb-30">
-                <a href="/causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad"><img src="../img/Causas-de-la-baja-estatura/Banner-Retraso-constitucional-del-crecimiento-y-la-pubertad-.webp" alt="contacto crecimiento"></a>
+                <a href="/causas-de-la-baja-estatura/retraso-constitucional-del-crecimiento-y-la-pubertad"><img src="../img/causas-de-la-baja-estatura/Banner-Retraso-constitucional-del-crecimiento-y-la-pubertad-.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 mt-2 ">
                 <div class="titulos-principal">

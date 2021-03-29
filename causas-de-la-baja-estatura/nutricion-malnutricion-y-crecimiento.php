@@ -37,15 +37,9 @@
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
                 <img src="../img/banners/BANNERS-Finales-Web-nutrion.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>La nutrición en cada una de las diferentes etapas de la edad pediátrica tiene como objetivo conseguir un crecimiento y desarrollo adecuados.</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-3 mostrar-media">
                 <img src="../img/banners/BANNERS-Finales-Web-nutrion.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>La nutrición en cada una de las diferentes etapas de la edad pediátrica tiene como objetivo conseguir un crecimiento y desarrollo adecuados.</h2>
-                </div>
             </div>
             <div class="contenedor-video ph-2">
                 <div class="reproductor" data-id="vmjiVF1UkPE"></div>
