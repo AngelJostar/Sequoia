@@ -57,7 +57,7 @@
                         <h2><span class="font-bold">¿CÓMO RECONOCER UN CRECIMIENTO DEFICIENTE EN TU HIJO?</span></h2>
                     </div>
                 </div>
-                <div class="textos-principal ph-14">
+                <div class="textos-principal ph-11">
                     <p>Hay señales a las que debe prestar atención que podrían indicar que su hijo no está creciendo como debería: </p>
                 </div>
                 <div class="tamaño-img">
@@ -71,7 +71,7 @@
                         <h2><span class="font-bold">¿QUÉ SIGNIFICA UN CRECIMIENTO <br> DEFICIENTE EN MI HIJO?<br></h2>
                     </div>
                 </div>
-                <div class="textos-principal ph-12">
+                <div class="textos-principal ph-13">
                     <p>En algunos niños y niñas, el crecimiento deficiente puede no ser una causa de preocupación, pero, en otros, puede estar asociado con serios problemas de salud, el niño puede presentar afectaciones en: </p>
                 </div>
                 <div class="tamaño-img">
@@ -94,7 +94,7 @@
                         </h2>
                         <p><span class="font-bold">DIRECCIÓN:</span>Rio Amazonas Ote. #316 Col. Del Valle</p>
                         <p>San Pedro Garza Garcia N.L C.P.66220</p>
-                        <p><span class="font-bold">EMAIL:</span>monterrey@centrosequoia.com.mx</p>
+                        <p><span class="font-bold">EMAIL:</span> monterrey@centrosequoia.com.mx</p>
                         <p><span class="font-bold">HORARIO DE ATENCIÓN:</span></p> 
                         <p>De Lunes a Viernes de 10:00 a 14:00 y 16:00 a 20:00hrs.</p>
                         <p>Sábados de 10:00 a 14:00 hrs.</p>
@@ -130,14 +130,12 @@
                     </div>
                     <div class = "t-izquierda tercer-p">
                         <p>TELÉFONO</p>
-                        <input type="tel" name="telefono" placeholder="Teléfono" required>
+                        <input type="tel" name="telefono" placeholder="Teléfono" >
                     </div>
                     <div class = "t-izquierda tercer-p">
                         <p>ELIGE UN CENTRO *</p>
                         <select name="centro" required>
-                        <option value="CDMX">CDMX</option> 
-                        <option value="GUADALAJARA">GUADALAJARA</option> 
-                        <option value="MOTERREY">MONTERREY</option>
+                        <option value="MONTERREY">MONTERREY</option>
                         </select>
                     </div>
                     <div class = "t-izquierda tercer-p">
@@ -152,16 +150,16 @@
                 </div>
             </section>
             <div class="tamaño-img ocultar-media">
-            <a href="/contacto"><img src="../img/banners/crecer-estatura-nino-crecimiento-infantil-2.webp" alt="causas crecimiento hijo"></a>
+            <a href="/preguntas-frecuentes"><img src="../img/banners/crecer-estatura-nino-crecimiento-infantil-2.webp" alt="causas crecimiento hijo"></a>
                 </div>
             <div class="tamaño-img mostrar-media">
-                <a href="/contacto"><img src="../img/banners/crecer-estatura-nino-crecimiento-infantil-1.webp" alt="causas crecimiento hijo"></a>
+                <a href="/preguntas-frecuentes"><img src="../img/banners/crecer-estatura-nino-crecimiento-infantil-1.webp" alt="causas crecimiento hijo"></a>
             </div>
             <div class="textos-azules">
                 <p><span class="font-bold">CENTROS EN CDMX / GUADALAJARA / MONTERREY </span></p>
             </div>
             <div class="centrar-texto pb-2">
-                <a href="/contacto"><button class="boton-e boton-contacto-landing">OTRAS UBICACIONES</button></a>
+                <a href="/contact"><button class="boton-e boton-contacto-landing">OTRAS UBICACIONES</button></a>
             </div>
             
 
@@ -175,8 +173,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contacto" class="scrollup">
-    <p>CONTACTO</p>
+<a href="contact" class="scrollup">
 </a>
 <!--####FOOTER####-->
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>

@@ -2,7 +2,7 @@
     <div class="contenedor">
         <div class="mid-header">
             <div class="mid-image deepmid-header pt-1" id="mid-image">
-                <a href="index"><img src="../img/Logo-Horizontal.webp" alt="imagen-logo"></a>
+                <a href="/index"><img src="../img/Logo-Horizontal.webp" alt="imagen-logo"></a>
             </div>
             <div class="icono">
                 <div data-wow-delay="0.1s">
@@ -23,7 +23,7 @@
                     <div class="encabezado-menu">
                     </div>
                     <div class="menu-header">
-                        <a href="index "><img src="../img/Logo-Horizontal.webp" alt="imagen-logo"></a>
+                        <a href="/index"><img src="../img/Logo-Horizontal.webp" alt="imagen-logo"></a>
                         <a href="#" class="toggle-nav icono-menu"><i class="far fa-window-close"></i></a>
                     </div>
                     <ul class="resaltar">
@@ -101,7 +101,7 @@
                 <br>
                 <li><a href="/crecimiento-infantil-deficiente" class="menu-a">Crecimiento infantil deficiente</a></li>
                 <li><a href="/preguntas-frecuentes" class="menu-a">Preguntas Frecuentes</a></li>
-                <li><a href="/contacto">Contacto</a></li>
+                <li><a href="/contact">Contacto</a></li>
             </ul>
         </div>
     </div>

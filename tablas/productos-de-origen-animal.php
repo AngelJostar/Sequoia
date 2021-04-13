@@ -248,7 +248,7 @@
                                 <p>Fresco de vaca</p>
                                 <p>Manchego</p>
                                 <p>Ricotta</p>
-                                <p><span class="font-bold">EMBUTIDOS</span></p>
+                                <p style="font-size: calc(0.3em + 1vw) !important; "><span class="font-bold">EMBUTIDOS</span></p>
                                 <p>Morcilla</p>
                                 <p>Jamón de pierna</p>
                                 <p>Salchicha viena</p>
@@ -260,7 +260,7 @@
                                 <p>Costilla</p>
                                 <p>Molida regular</p>
                                 <p>Prime rib</p>
-                                <p>Hamburguesas</p>
+                                <p style="font-size: calc(0.2em + 1vw) !important; ">Hamburguesas</p>
                                 <p><span class="font-bold">HUEVO ENTERO</span></p>
                                 <p>1 pza</p>
                                 <p><span class="font-bold">OTROS</span></p>
@@ -270,7 +270,7 @@
                     </div>
                     <div>
                         <div class="linea-horizontal-tablas mt-1"></div>
-                        <p class="tablas-letras-titulo">ALTA EN GRASA 45G (1 RACIÓN POA + RACIÓN GRASA)</p>
+                        <p class="tablas-letras-titulo">ALTA EN GRASA 45G (1 RACIÓN POA <br> + RACIÓN GRASA)</p>
                         <div class="linea-horizontal-tablas mb-1"></div>
                     </div>
                     <div class="tablas-sombra">

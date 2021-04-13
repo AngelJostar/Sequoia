@@ -159,19 +159,20 @@
                     <input type="text" name="nombre" placeholder="Nombre" required>
                 </div>
                 <div class = "t-izquierda tercer-p">
-                    <p>CORREO ELECTRONICO    *</p>
+                    <p>CORREO ELECTRONICO *</p>
                     <input type="email" name="correo" placeholder="Correo" required>
                 </div>
                 <div class = "t-izquierda tercer-p">
                     <p>TELÉFONO</p>
-                    <input type="tel" name="telefono" placeholder="Teléfono" required>
+                    <input type="tel" name="telefono" placeholder="Teléfono" >
                 </div>
                 <div class = "t-izquierda tercer-p">
                     <p>ELIGE UN CENTRO *</p>
                     <select name="centro" required>
+                    <option selected disabled required >Selecciona un centro:</option> 
                     <option value="CDMX">CDMX</option> 
                     <option value="GUADALAJARA">GUADALAJARA</option> 
-                    <option value="MOTERREY">MONTERREY</option>
+                    <option value="MONTERREY">MONTERREY</option>
                     </select>
                 </div>
                 <div class = "t-izquierda tercer-p">
@@ -211,7 +212,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contacto" class="scrollup">
+<a href="contact" class="scrollup">
     <p>CONTACTO</p>
 </a><!--####FOOTER####-->
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>

@@ -30,7 +30,7 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1><span class="font-bold">DEPORTE<br> Y ESTATURA</span></h1>
+                    <h1><span class="font-bold">DEPORTE Y ESTATURA</span></h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
@@ -38,15 +38,9 @@
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
                 <img src="../img/banners/banner-trabajo-1.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>En general, los atletas más altos tienen ventajas sobre los atletas más bajos en muchos deportes.</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-6 mostrar-media">
                 <img src="../img/banners/banner-trabajo-1-desktop.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>En general, los atletas más altos tienen ventajas sobre los atletas más bajos en muchos deportes.</h2>
-                </div>
             </div>
             <div class="justificar-texto-90-listas">
                     <ul>
@@ -65,14 +59,16 @@
                             <li>Los jugadores de voleibol más altos tienen una ventaja en la red porque pueden golpear la pelota a mayor altura y bloquear tiros de manera más efectiva.</li>
                             <li>La altura es ventajosa para un jugador de tenis, ya que permite a los jugadores crear más potencia al sacar, además de darles a los jugadores una mayor amplitud de brazos, lo que les permite realizar tiros en ángulos agudos con mayor facilidad y una mayor probabilidad de devolver un tiro alto.</li>
                     </ul>
-            </div>
-
-                <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
-            </div>
-            <div class="tamaño-img mostrar-media">
-                <a href="/contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
-            </div>
         </div>
+        <div class="tamaño-img">
+                <a href="/importancia-de-ser-mas-alto/autoestima"><img src="../img/importancia-de-ser-mas-alto/Banner-Autoestima-y-Crecimiento-.webp" alt="contacto crecimiento"></a>
+        </div>
+        <div class="ocultar-media">
+                <a href="/contact"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+            </div>
+            <div class="tamaño-img mostrar-media ph-1">
+                <a href="/contact"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+            </div>
 
         <?php include_once '../includes/templates/footer.php';?>
 
@@ -82,7 +78,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contacto" class="scrollup">
+<a href="/contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

@@ -38,15 +38,9 @@
             </div>
             <div class="tamaño-img ph-3-5 ocultar-media">
                 <img src="../img/generalidades-del-crecimiento-infantil/Banner-estiron-puberal.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>Con el término «pubertad» se hace refiere a los cambios somáticos y emocionales que configuran la maduración sexual. La compleja modificación biológica durante la maduración depende de la coordinación e integración de los componentes endócrinos del sistema reproductivo, donde se encuentran involucrados el hipotálamo, la hipófisis y las gónadas; en cada uno de estos niveles anatómicos se secretan factores hormonales responsables, tanto del crecimiento somático como de los fenómenos madurativos que coexisten en el inicio de la pubertad.</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-3-5 mostrar-media">
                 <img src="../img/generalidades-del-crecimiento-infantil/Banner-estiron-puberal-desktop.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>Con el término «pubertad» se hace refiere a los cambios somáticos y emocionales que configuran la maduración sexual. La compleja modificación biológica durante la maduración depende de la coordinación e integración de los componentes endócrinos del sistema reproductivo, donde se encuentran involucrados el hipotálamo, la hipófisis y las gónadas; en cada uno de estos niveles anatómicos se secretan factores hormonales responsables, tanto del crecimiento somático como de los fenómenos madurativos que coexisten en el inicio de la pubertad.</h2>
-                </div>
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="trX2CxXTVlA"></div>
@@ -86,7 +80,7 @@
                 <p>Para valorar el desarrollo puberal, ordinariamente se usa la escala de Tanner, la cual toma en cuenta el desarrollo del vello del pubis, el desarrollo mamario en las niñas, y en el niño el desarrollo de sus genitales externos.</p>
                 <p>Siendo así:</p>
             </div>
-            <div class="contenedor-principal">
+            <div class="contenedor-principal" style="padding-top: 0px;">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Mujeres: El estirón puberal se inicia en el estadio II de Tanner, coincidiendo con la aparición del botón mamario y alcanzando el pico máximo de velocidad de crecimiento (VC) en el estadio III (VC de 9 ± 2 cm). Durante los tres años de máximo crecimiento en la adolescencia, se produce un incremento de la talla de aproximadamente 20 cm.</li>
@@ -110,7 +104,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contacto" class="scrollup">
+<a href="/contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

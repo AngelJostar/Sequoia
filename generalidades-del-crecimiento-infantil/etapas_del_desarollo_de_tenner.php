@@ -38,19 +38,9 @@
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
                 <img src="../img/banners/Banner-doctor-doctora-etapas-tanner.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>El crecimiento y desarrollo físico es un proceso continuo y complejo, determinado por factores genéticos y modulado por factores ambientales, de tal modo que la máxima expresión de la potencialidad genética dependerá básicamente del
-                        estado de salud y nutrición del individuo. Una vez iniciado el desarrollo puberal, el proceso avanza en forma progresiva, completándose en un lapso promedio de 3 a 4 años. En las niñas la pubertad normalmente se completa a los
-                        16 años y en los varones a los 18 años aproximadamente.</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-6 mostrar-media">
                 <img src="../img/banners/Banner-doctor-doctora-etapas-tanner.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>El crecimiento y desarrollo físico es un proceso continuo y complejo, determinado por factores genéticos y modulado por factores ambientales, de tal modo que la máxima expresión de la potencialidad genética dependerá básicamente del
-                        estado de salud y nutrición del individuo. Una vez iniciado el desarrollo puberal, el proceso avanza en forma progresiva, completándose en un lapso promedio de 3 a 4 años. En las niñas la pubertad normalmente se completa a los
-                        16 años y en los varones a los 18 años aproximadamente.</h2>
-                </div>
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="tI0-hx_0QLg"></div>
@@ -88,7 +78,7 @@
                     </div>
                     <div>
                         <div class="contenedor-85porciento">
-                            <div class="justificar-texto-90-listas">
+                            <div class="justificar-texto-90-listas ajustar-tanner">
                                 <ul>
                                     <li>Ausencia de caracteres sexuales secundarios. No hay tejido mamario palpable, sólo el pezón protuye, la areola no está pigmentada.</li>
                                     <li>No hay vello pubiano.</li>
@@ -106,7 +96,7 @@
                     </div>
                     <div>
                         <div class="contenedor-85porciento">
-                            <div class="justificar-texto-90-listas">
+                            <div class="justificar-texto-90-listas  ajustar-tanner">
                                 <ul>
                                     <li>Etapa de botón mamario. Se palpa tejido mamario bajo la areola sin sobrepasar ésta.</li>
                                     <li>Areola y pezón protuyen juntos, con aumento de diámetro areolar.</li>
@@ -126,7 +116,7 @@
                     </div>
                     <div>
                         <div class="contenedor-85porciento">
-                            <div class="justificar-texto-90-listas">
+                            <div class="justificar-texto-90-listas ajustar-tanner">
                                 <ul>
                                     <li>Se caracteriza por crecimiento de la mama y aureola con pigmentación de ésta; el pezón ha aumentado de tamaño; la aureola y la mama tienen un solo contorno</li>
                                     <li>Vello pubiano más abundante, alcanza la región púbica.</li>
@@ -144,7 +134,7 @@
                     </div>
                     <div>
                         <div class="contenedor-85porciento">
-                            <div class="justificar-texto-90-listas">
+                            <div class="justificar-texto-90-listas ajustar-tanner">
                                 <ul>
                                     <li>Existe mayor aumento del volumen mamario con areola más pigmentada y solevantada, por lo que se observan 3 contornos (pezón, areola y mama). Vello pubiano en zona pubiana.</li>
                                 </ul>
@@ -161,7 +151,7 @@
                     </div>
                     <div>
                         <div class="contenedor-85porciento">
-                            <div class="justificar-texto-90-listas">
+                            <div class="justificar-texto-90-listas ajustar-tanner">
                                 <ul>
                                     <li>Vello pubiano más abundante</li>
                                     <li>La mama es de tipo adulto, en el cual sólo el pezón protruye y la areola tiene el mismo contorno de la mama.</li>
@@ -186,7 +176,7 @@
                     </div>
                     <div>
                         <div class="contenedor-85porciento">
-                            <div class="justificar-texto-90-listas">
+                            <div class="justificar-texto-90-listas ajustar-tanner">
                                 <ul>
                                     <li>Ausencia de caracteres sexuales secundarios.</li>
                                     <li>Los testículos, escroto y pene tienen caracteristicas infantiles.</li>
@@ -204,7 +194,7 @@
                     </div>
                     <div>
                         <div class="contenedor-85porciento">
-                            <div class="justificar-texto-90-listas">
+                            <div class="justificar-texto-90-listas ajustar-tanner">
                                 <ul>
                                     <li>El pene no se modifica, mientras el escroto y los testículos aumenten ligeramente de tamaño; la piel del escroto se oscurece y se modifica su estructura, haciéndose más laxa.</li>
                                     <li>Volumen testicular de 4 cm3. Vello pubiano incipiente en la base del pene.</li>
@@ -222,7 +212,7 @@
                     </div>
                     <div>
                         <div class="contenedor-85porciento">
-                            <div class="justificar-texto-90-listas">
+                            <div class="justificar-texto-90-listas ajustar-tanner">
                                 <ul>
                                     <li>Se caracteriza por testículos y escroto más desarrollados. Vello pubiano alcanza el pubis.</li>
                                     <li>Volumen testicular de 10 a 15 cm3.</li>
@@ -241,7 +231,7 @@
                     </div>
                     <div>
                         <div class="contenedor-85porciento">
-                            <div class="justificar-texto-90-listas">
+                            <div class="justificar-texto-90-listas ajustar-tanner">
                                 <ul>
                                     <li>Hay mayor crecimiento peneano, con aumento de su diámetro y desarrollo del glande.</li>
                                     <li>Volumen testicular de 15 a 20 cm3. Vello pubiano con disposición de triángulo invertido.</li>
@@ -260,7 +250,7 @@
                     </div>
                     <div>
                         <div class="contenedor-85porciento">
-                            <div class="justificar-texto-90-listas">
+                            <div class="justificar-texto-90-listas ajustar-tanner">
                                 <ul>
                                     <li>Los genitales tienen forma y tamaño semejantes a los del adulto, con volumen testicular de 25cm3</li>
                                     <li>Vello pubiano adquiere forma romboidal típica del adulto y extensión hacia cara medial del muslo.</li>
@@ -283,7 +273,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contacto" class="scrollup">
+<a href="/contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

@@ -30,13 +30,13 @@
                 <div class="flexbox padre">
                     <div class="barra-titulo"></div>
                 </div>
-                <h1 style="font-size: 17px !important;"> <span class="font-bold">PREGUNTAS FRECUENTES</span><br>DEL CRECIMIENTO DE TU HIJ@</h1>
+                <h1 style="font-size: calc(1.2em + 1vw);"> <span class="font-bold">PREGUNTAS FRECUENTES</span><br>DEL CRECIMIENTO DE TU HIJ@</h1>
                 <div class="flexbox padre">
                     <div class="barra-titulo"></div>
                 </div>
             </div>
         </div>
-        <div class="tamaño-img ph-5">
+        <div class="tamaño-img ph-6">
             <img src="img/banners/PREGUNTAS-FRECUENTES-BANNER.webp" alt="altura crecimiento estatura">
         </div>
         <div class="titulos-azules">
@@ -146,7 +146,7 @@
                         </div>
                     </div>
                     <div class="tamaño-img ph-05">
-                        <a href="crecimiento-infantil-por-edad"><img src="img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="medir edad hijo hija"></a>
+                        <a href="/crecimiento-infantil-por-edad.php"><img src="img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="medir edad hijo hija"></a>
                     </div>
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">11.-¿Cómo afecta la estatura en la autoestima de un niño?<span class="icon" aria-hidden="true"></span></span></button>
@@ -190,7 +190,7 @@
                         </div>
                     </div>
                     <div class="accordion-item">
-                        <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">16.-¿El uso de tecnologías afecta el crecimiento de los niños?</span></button>
+                        <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">16.-¿El uso de tecnologías afecta el crecimiento de los niños?<span class="icon" aria-hidden="true"></span></span></button>
                         <div class="accordion-content">
                             <p>El uso de la tecnología como tal no tiene problema en el crecimiento de niños, siempre y cuando el uso de tecnologías no afecte la actividad física y el dormir. El sueño es esencial para crecer, si los niños se desvelan o no
                                 duermen bien el proceso de crecimiento se afectará.</p>
@@ -232,19 +232,17 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="ocultar-media ph-05">
-                        <a href="contacto"><img src="img/banners/BANNER-2-NIÑA-VERTICAL.webp" alt=""></a>
-                    </div>
-                    <div class="tamaño-img mostrar-media ph-05">
-                        <a href="contacto"><img src="img/banners/BANNER-2-NIÑA-HORIZONTAL.webp" alt=""></a>
-                    </div>
+
                 </div>
             </div>
 
         </div>
-        <div class="tamaño-img ph-05">
-            <img src="img/banners/contacto-crecimiento-infantil-estatura-medir-hija-2.webp" alt="">
+        <div class="ocultar-media ph-05">
+            <a href="contact"><img src="img/banners/BANNER-2-NINA-VERTICAL.webp" alt=""></a>
         </div>
+        <div class="tamaño-img mostrar-media ph-05">
+            <a href="contact"><img src="img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt=""></a>
+        </div>  
         </div>
 
         <?php include_once 'includes/templates/footer.php';?>
@@ -255,7 +253,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contacto" class="scrollup">
+<a href="contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

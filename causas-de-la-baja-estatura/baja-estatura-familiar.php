@@ -37,17 +37,11 @@
             </div>
             <div class="tamaño-img ph-3 ocultar-media">
                 <img src="/img/banners/Banner-baja-estatura-familiar.webp" alt="">
-                <div class="texto-imagen-izquierda">
-                    <h2>Los trastornos del crecimiento puden tener muchas causas, entre ellas la Estatura baja familiar</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-3 mostrar-media">
                 <img src="/img/banners/Banner-baja-estatura-familiar.webp" alt="">
-                <div class="texto-imagen-izquierda">
-                    <h2>Los trastornos del crecimiento puden tener muchas causas, entre ellas la Estatura baja familiar</h2>
-                </div>
             </div>
-            <div class="contenedor-video">
+            <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="Kd1jNM7GdhE"></div>
             </div>
             <div class="justificar-texto-85 centrar-texto pt-15">
@@ -112,10 +106,10 @@
                 <a href="/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento"><img src="/img/causas-baja/Banner-Deficiencia-de-Hormano-del-Crecimiento.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="ocultar-media">
-                <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="/contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
 
         </div>
@@ -128,7 +122,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contacto" class="scrollup">
+<a href="/contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

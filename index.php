@@ -37,10 +37,10 @@
                 </div>
             </div>
             <div class="sombras-img ph-5 pb-2 tamaño-img ocultar">
-                <a href="es"><img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada"></a>
+                <img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada">
             </div>
             <div class="sombras-img ph-4  tamaño-img mostrar">
-                <a href=""><img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" alt="Portada"></a>
+                <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" alt="Portada">
             </div>
 
             <div class="textos-principal margin-negativo-top-15 ">
@@ -56,7 +56,7 @@
                 <p>En Centro Sequoia <span class="font-bold">única y exclusivamente</span> atendemos los padecimientos que afectan la estatura de los niños. <br> <span class="font-bold">Nuestros médicos especialistas</span> tienen la experiencia de mas
                     de 30,000 casos atendidos en este campo, lo que nos lleva a ser el centro <span class="font-bold">MÁS ESPECIALIZADO EN CRECIMIENTO INFANTIL DE MÉXICO.</span></p>
             </div>
-            <div class="pb-25 tamaño-img ocultar-media">
+            <div class=" tamaño-img ocultar-media">
                 <a href="especialistas-en-crecimiento"><img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="banners-especialistas"></a>
             </div>
             <div class="pb-25 tamaño-img mostrar-media">
@@ -132,10 +132,10 @@
                     buscamos brindarte una grata experiencia y los mejores resultados para tu hijo.</p>
             </div>
             <div class="ocultar-media">
-                <a href="/contacto"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media ph-1">
-                <a href="/contacto"><img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
 
         </section>
@@ -150,7 +150,7 @@
 
 <!--####HEADER####-->
 
-<a href="contacto" class="scrollup">
+<a href="contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

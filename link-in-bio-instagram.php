@@ -44,13 +44,13 @@
             </div>
 
             <div class="centrar-texto texto-boton-esp pb-2 margin-top-20">
-                <a href="contacto"><button class="boton-e boton-esp">CONTACTO</button></a>
+                <a href="contact"><button class="boton-e boton-esp">CONTACTO</button></a>
             </div>
             <div class="centrar-texto texto-boton-esp pb-2">
                 <a href="index"><button class="boton-e boton-esp">WEB</button></a>
             </div>
             <div class="centrar-texto texto-boton-esp pb-2">
-                <a href="#"><button class="boton-e boton-esp">BLOG</button></a>
+                <a href="https://blog-centro-sequoia.blogspot.com/"><button class="boton-e boton-esp">BLOG</button></a>
             </div>
 
 
@@ -66,7 +66,7 @@
 
 <!--####HEADER####-->
 
-<a href="contacto" class="scrollup">
+<a href="contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

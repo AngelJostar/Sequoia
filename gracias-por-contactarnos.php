@@ -24,14 +24,14 @@
 
         <?php include_once 'includes/templates/header.php';?>
         <div class="contendor-crecimiento">
-            <div class="cuadros-crecimiento ph-1-3 pbh-1-3">
+            <div class="cuadros-crecimiento ph-1-3 pbh-1-3 mt-1">
                 <div class="barra-titulo"></div>
             </div>
-            <div class="ocultar-media ph-3">
-                    <img src="img/banners/MUCHAS GRACIAS (Despeus de que un cliente envia un mail) _MOVIL.webp" alt="contacto crecimiento">
+            <div class="ocultar-media ph-4">
+                    <a href="/crecimiento-infantil"><img src="img/banners/GRACIAS-MOVIL.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media ph-4">
-                    <img src="img/banners/MUCHAS GRACIAS (Despeus de que un cliente envia un mail) _ESCRITORIO.webp" alt="contacto crecimiento">
+                    <a href="/crecimiento-infantil"><img src="img/banners/GRACIAS-DESKTOP.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>
@@ -42,7 +42,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contacto" class="scrollup">
+<a href="contact" class="scrollup">
     <p>CONTACTO</p>
 </a><!--####FOOTER####-->
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>

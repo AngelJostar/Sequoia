@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Padecimientos y Enfermedades Cronicas que Afectan el Crecimiento</title>
+<title>Deficiecia de hormona de crecimiento</title>
 <link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
 
@@ -37,15 +37,9 @@
             </div>
             <div class="tamaño-img ph-7 ocultar-media">
                 <img src="/img/banners/Banner-deficiencia-de-hormona.webp" alt="">
-                <div class="texto-imagen-izquierda">
-                    <h2>¿QUÉ ES LA DEFICIENCIA DE LA HORMONA DE CRECIMIENTO? La deficiencia de la hormona de crecimiento (GHD, por sus siglas en inglés) es una afección poco común en la que el cuerpo no produce suficiente hormona del crecimiento (GH, por sus siglas en inglés).</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-6-5 mostrar-media">
-            <img src="/img/banners/Banner-deficiencia-de-hormona.webp" alt="">
-                <div class="texto-imagen-izquierda">
-                    <h2>¿QUÉ ES LA DEFICIENCIA DE LA HORMONA DE CRECIMIENTO? La deficiencia de la hormona de crecimiento (GHD, por sus siglas en inglés) es una afección poco común en la que el cuerpo no produce suficiente hormona del crecimiento (GH, por sus siglas en inglés).</h2>
-                </div>
+                <img src="/img/banners/Banner-deficiencia-de-hormona.webp" alt="">
             </div>
             <div class="contenedor-video">
                 <div class="reproductor" data-id="9Q3bfWDOjAw"></div>
@@ -81,9 +75,9 @@
                 </div>
             </div>
             <div class="justificar-texto-90 justificar-derecha-texto">
-                <p>ALgunas pruebas para ayudar a determinar la causa del crecimiento lento son:</p>
+                <p>Algunas pruebas para ayudar a determinar la causa del crecimiento lento son:</p>
             </div>
-            <div class="contenedor-principal">
+            <div class="contenedor-principal" style="padding-top: 0px;">
                 <div class="justificar-texto-90-listas">
                     <ul>
                         <li>Una radiografía de la mano para determinar el crecimiento de los huesos (edad ósea) y evaluar el potencial de crecimiento</li>
@@ -93,6 +87,9 @@
                         <li>Resonancia magnética de la cabeza se buscará un problema en la pituitaria o el cerebro, y se puede descartar la presencia de un tumor en el cerebro.</li>
                     </ul>
                 </div>
+            </div>
+            <div class="tamaño-img pb-30">
+                <a href="/generalidades-del-crecimiento-infantil/nutricion-malnutricion-y-crecimiento"><img src="../img/causas-de-la-baja-estatura/Banner-Nutricion-y-Crecimiento-.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="justificar-texto-90">
                 <h2><span class="font-bold ">¿CUÁL ES EL TRATAMIENTO PARA LA DEFICIENCIA DE LA HORMONA DE CRECIMIENTO EN LOS NIÑOS?</span></h2>
@@ -107,10 +104,10 @@
                <p>La hormona de crecimiento en la mayoría de los casos provoca un aumento de la estatura en las personas con deficiencia de esta hormona, esto siempre que los cartílagos de crecimiento no se hayan cerrado. Es importante mantener un seguimiento médico con los especialistas para que ellos puedan determinar las causas y tratamiento a seguir ante una estatura baja. </p>
             </div>
             <div class="ocultar-media">
-                <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="/contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
 
@@ -122,7 +119,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contacto" class="scrollup">
+<a href="/contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

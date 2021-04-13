@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Lading contacto CDMX - v1</title>
+<title>Lading contacto GDL - v1</title>
 <link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
 
@@ -29,7 +29,7 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1 style="font-size: calc(.8em + 1.5vw);"><span class="font-bold">CONTACTO CDMX</span></h1>
+                    <h1 style="font-size: calc(.8em + 1.5vw);"><span class="font-bold">CONTACTO GDL</span></h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
@@ -47,33 +47,29 @@
             <section class="contenedor-info-contacto">
 
                 <div class="contacto-box ">
-
-                    <div>
                         <div class="tercer-p">
-                            <h2 class="font-ciudades">CDMX<br>
-                                <a href="tel:+555687-6118">
-                                    <span>(55) 5687-6118</span>
+                            <h2 class="font-ciudades">GUADALAJARA<br>
+                                <a href="tel:+333615-2825">
+                                    <span>(33) 3615-2825</span>
                                 </a>
                             </h2>
-                            <p><span class="font-bold">DIRECCIÓN:</span> San Francisco #516 Colonia Del Valle, </p>
-                            <p>Del. Benito Juárez. C.P. 03100, Méx, DF.</p>
-                            <p><span class="font-bold">EMAIL:</span> contacto@centrosequoia.com.mx </p>
+                            <p><span class="font-bold">DIRECCIÓN:</span> José María Vigil #2750, Colonia Providencia,</p>
+                            <p>C.P.44639, Guadalajara, Jalisco</p>
+                            <p><span class="font-bold">EMAIL:</span> guadalajara@centrosequoia.com.mx </p>
                             <p><span class="font-bold">HORARIO DE ATENCIÓN:</span></p> 
-                            <p>De Lunes a Viernes de 10:00 a 20:00 hrs.</p>
+                            <p>De Lunes a Viernes de 10:00 a 14:00 y 16:00 a 20:00hrs. </p>
                             <p>Sábados de 10:00 a 14:00 hrs.</p>
                         </div>
-                    </div>
                 </div>
-
                 <div class="contenedor-90porciento">
-                    <a href="https://www.google.com/maps/place/Centro+Sequoia+CDMX-+Crecimiento+Infantil/@19.3916871,-99.1709422,15z/data=!4m5!3m4!1s0x0:0x1a23f6e38b618cce!8m2!3d19.3916871!4d-99.1709422"><img src="../img/Mapas/MAPA-CDMX-1015x542.webp" alt="Mapa-CDMX"></a>
+                    <a href="https://www.google.com/maps/place/Centro+Sequoia+Guadalajara-Crecimiento+Infantil/@20.6912993,-103.3831778,15z/data=!4m5!3m4!1s0x0:0x296b00874ce3a155!8m2!3d20.6912993!4d-103.3831778"><img src="../img/Mapas/MAPA-GUADALAJARA-1015x542.webp" alt="Mapa-CDMX"></a>
                 </div>
                 <div class="contacto-grid">
                     <div class="centrar-texto texto-boton-contacto pb-2 margin-top-20">
-                        <a href="https://www.google.com/maps/place/Centro+Sequoia+CDMX-+Crecimiento+Infantil/@19.3916871,-99.1709422,15z/data=!4m5!3m4!1s0x0:0x1a23f6e38b618cce!8m2!3d19.3916871!4d-99.1709422"><button class="boton-e boton-contacto">ABRIR UBICACIÓN <br> Google Maps</button></a>
+                        <a href="https://www.google.com/maps/place/Centro+Sequoia+Guadalajara-Crecimiento+Infantil/@20.6912993,-103.3831778,15z/data=!4m5!3m4!1s0x0:0x296b00874ce3a155!8m2!3d20.6912993!4d-103.3831778?shorturl=1"><button class="boton-e boton-contacto">ABRIR UBICACIÓN <br> Google Maps</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-contacto pb-2 margin-top-20">
-                        <a href="https://www.waze.com/live-map/directions?to=ll.19.391663%2C-99.170945"><button class="boton-e boton-contacto">ABRIR UBICACIÓN <br> Waze</button></a>
+                        <a href="https://www.waze.com/live-map/directions?to=ll.20.691311%2C-103.383172"><button class="boton-e boton-contacto">ABRIR UBICACIÓN <br> Waze</button></a>
                     </div>
                 </div>
                 <div class="formulario">
@@ -91,14 +87,12 @@
                     </div>
                     <div class = "t-izquierda tercer-p">
                         <p>TELÉFONO</p>
-                        <input type="tel" name="telefono" placeholder="Teléfono" required>
+                        <input type="tel" name="telefono" placeholder="Teléfono" >
                     </div>
                     <div class = "t-izquierda tercer-p">
                         <p>ELIGE UN CENTRO *</p>
                         <select name="centro" required>
-                        <option value="CDMX">CDMX</option> 
                         <option value="GUADALAJARA">GUADALAJARA</option> 
-                        <option value="MOTERREY">MONTERREY</option>
                         </select>
                     </div>
                     <div class = "t-izquierda tercer-p">
@@ -113,16 +107,16 @@
                 </div>
             </section>
             <div class="tamaño-img ocultar-media">
-            <a href="/contacto"><img src="../img/banners/crecer-estatura-nino-crecimiento-infantil-2.webp" alt="causas crecimiento hijo"></a>
+            <a href="/preguntas-frecuentes"><img src="../img/banners/crecer-estatura-nino-crecimiento-infantil-2.webp" alt="causas crecimiento hijo"></a>
                 </div>
             <div class="tamaño-img mostrar-media">
-                <a href="/contacto"><img src="../img/banners/crecer-estatura-nino-crecimiento-infantil-1.webp" alt="causas crecimiento hijo"></a>
+                <a href="/preguntas-frecuentes"><img src="../img/banners/crecer-estatura-nino-crecimiento-infantil-1.webp" alt="causas crecimiento hijo"></a>
             </div>
             <div class="textos-azules">
                 <p><span class="font-bold">CENTROS EN CDMX / GUADALAJARA / MONTERREY </span></p>
             </div>
             <div class="centrar-texto pb-2">
-                <a href="/contacto"><button class="boton-e boton-contacto-landing">OTRAS UBICACIONES</button></a>
+                <a href="/contact"><button class="boton-e boton-contacto-landing">OTRAS UBICACIONES</button></a>
             </div>
             
 
@@ -135,9 +129,7 @@
 
 </section>
 <!--####HEADER####-->
-
-<a href="contacto" class="scrollup">
-    <p>CONTACTO</p>
+<a href="contact" class="scrollup">
 </a>
 <!--####FOOTER####-->
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>

@@ -38,15 +38,9 @@
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
                 <img src="/img/generalidades-del-crecimiento-infantil/BANNERS-factores-crecimeinto-Web-Sequoia-2021.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>Es muy importante que sepas si la tasa de crecimiento del niño es la que debería ser, a cualquier edad.</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-7 mostrar-media">
             <img src="/img/generalidades-del-crecimiento-infantil/BANNERS-factores-crecimeinto-Web-Sequoia-2021.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>Es muy importante que sepas si la tasa de crecimiento del niño es la que debería ser, a cualquier edad.</h2>
-                </div>
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="nifkbui3K-4"></div>
@@ -139,10 +133,10 @@
                 <a href="/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento"><img src="../img/generalidades-del-crecimiento-infantil/Banner-Deficiencia-de-Hormano-del-Crecimiento.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="ocultar-media">
-                <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="../img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media ph-1">
-                <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="../img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
 
@@ -154,7 +148,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contacto" class="scrollup">
+<a href="/contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

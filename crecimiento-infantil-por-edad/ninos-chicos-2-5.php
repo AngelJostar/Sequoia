@@ -37,15 +37,9 @@
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
                 <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-2-5.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>A partir de los dos años, tu hijo crece a un ritmo más lento que en etapas anteriores.</h2> 
-                </div>
             </div>
             <div class="tamaño-img ph-6 mostrar-media">
                 <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-2-5-desktop.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>A partir de los dos años, tu hijo crece a un ritmo más lento que en etapas anteriores.</h2>
-                </div>
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="OcUKGcLcuxA"></div>
@@ -123,10 +117,10 @@
                 <img src="/img/nueva/peso-ninos-2.webp" alt="">
             </div>
             <div class="ocultar-media">
-                    <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto-crecimiento-infantil"></a>
+                    <a href="/contact"><img src="../img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto-crecimiento-infantil"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto-crecimiento-infantil"></a>
+                    <a href="/contact"><img src="../img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto-crecimiento-infantil"></a>
                 </div>
 
         </div>
@@ -145,7 +139,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contacto" class="scrollup">
+<a href="/contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

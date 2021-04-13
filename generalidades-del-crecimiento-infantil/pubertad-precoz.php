@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Pubertad Precoz</title>
+<title>Pubertad Precoz o Atrasada</title>
 <link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
 
@@ -29,7 +29,7 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1 style="font-size: calc(1.2em + 1vw);"> <span class="font-bold">PUBERTAD PRECOZ</h1>
+                    <h1 style="font-size: calc(1.2em + 1vw);"> <span class="font-bold">PUBERTAD PRECOZ O ATRASADA</h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
@@ -37,15 +37,9 @@
             </div>
             <div class="tamaño-img ph-3  ocultar-media">
                 <img src="../img/generalidades-del-crecimiento-infantil/Banner-pubertad-precoz.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>El término pubertad precoz se refiere a la maduración sexual que comienza antes de los 9 años en niños o antes de los 8 años en niñas.</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-3 mostrar-media">
                 <img src="../img/generalidades-del-crecimiento-infantil/Banner-pubertad-precoz-desktop.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>El término pubertad precoz se refiere a la maduración sexual que comienza antes de los 9 años en niños o antes de los 8 años en niñas.</h2>
-                </div>
             </div>
             <div class="contenedor-video ph-2">
                 <div class="reproductor" data-id="TF1Oso4MFrA"></div>
@@ -130,7 +124,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contacto" class="scrollup">
+<a href="/contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

@@ -37,15 +37,9 @@
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
                 <img src="../img/generalidades-del-crecimiento-infantil/Banner-como-medir-a-tu-hijo.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>Al medir la altura y el peso se puede saber si un niño está creciendo bien y detectar a tiempo un estancamiento del crecimiento. Para realizar una medición precisa se debe tomar en cuenta las siguientes observaciones:</h2>
-                </div>
             </div>
             <div class="tamaño-img ph-6 mostrar-media">
                 <img src="../img/generalidades-del-crecimiento-infantil/Banner-como-medir-a-tu-hijo-desktop.webp" alt="altura crecimiento estatura">
-                <div class="texto-imagen-izquierda">
-                    <h2>Al medir la altura y el peso se puede saber si un niño está creciendo bien y detectar a tiempo un estancamiento del crecimiento. Para realizar una medición precisa se debe tomar en cuenta las siguientes observaciones:</h2>
-                </div>
             </div>
             <div class="contenedor-video ph-2">
                 <div class="reproductor" data-id="YypQCqdoN3k"></div>
@@ -111,11 +105,11 @@
                 </div>
             </div>
 
-            <div>
+            <div class="tamaño-img">
                 <img src="../img/generalidades-del-crecimiento-infantil/nina-mediendose.webp" alt="generalidades-del-crecimiento">
             </div>
             <div class="tamaño-img">
-                <a href="baja-estatura"></a><img src="../img/banners/Banner-Baja-estatura.webp" alt="contacto crecimiento">
+                <a href="/generalidades-del-crecimiento-infantil/baja-estatura"><img src="../img/banners/Banner-Baja-estatura.webp" alt="contacto crecimiento"></a>
             </div>
 
 
@@ -130,7 +124,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contacto" class="scrollup">
+<a href="/contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->
