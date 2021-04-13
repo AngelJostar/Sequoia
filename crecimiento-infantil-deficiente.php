@@ -70,7 +70,7 @@
                     <img src="img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="">
                 </div>
                 <div class="tamaño-img">
-                    <a href="contacto"><img src="img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt="altura-crecimiento-estatura"></a>
+                    <a href="contact"><img src="img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt="altura-crecimiento-estatura"></a>
                 </div>
                 <div class="cuadros-crecimiento margin-top-20">
                     <div class="titulos-principal">
@@ -84,10 +84,10 @@
                     <img src="img/banners/ICONOS WEB Sequoia 2021-17.webp" alt="">
                 </div>
                 <div class="tamaño-img ocultar-media">
-                    <a href="/contacto"><img src="img/banners/BANNER-2-DOC-VERTICAL.webp" alt="causas crecimiento hijo"></a>
+                    <a href="/contact"><img src="img/banners/BANNER-2-DOC-VERTICAL.webp" alt="causas crecimiento hijo"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="/contacto"><img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="causas crecimiento hijo"></a>
+                    <a href="/contact"><img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="causas crecimiento hijo"></a>
                 </div>
 
             </div>
@@ -102,7 +102,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contacto" class="scrollup">
+<a href="contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

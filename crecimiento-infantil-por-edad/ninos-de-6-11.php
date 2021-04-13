@@ -115,10 +115,10 @@
                 <img src="/img/nueva/imc-ninas-6-11.webp" alt="graficas">
             </div>
             <div class="ocultar-media">
-                    <a href="/contacto"><img src="../img/banners/BANNER-2-NINA-VERTICAL.webp" alt="altura-crecimiento-estatura"></a>
+                    <a href="/contact"><img src="../img/banners/BANNER-2-NINA-VERTICAL.webp" alt="altura-crecimiento-estatura"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="/contacto"><img src="../img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt="altura-crecimiento-estatura"></a>
+                    <a href="/contact"><img src="../img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt="altura-crecimiento-estatura"></a>
                 </div>
 
         </div>
@@ -130,7 +130,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contacto" class="scrollup">
+<a href="/contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

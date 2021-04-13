@@ -101,7 +101,7 @@
                 <br>
                 <li><a href="/crecimiento-infantil-deficiente" class="menu-a">Crecimiento infantil deficiente</a></li>
                 <li><a href="/preguntas-frecuentes" class="menu-a">Preguntas Frecuentes</a></li>
-                <li><a href="/contacto">Contacto</a></li>
+                <li><a href="/contact">Contacto</a></li>
             </ul>
         </div>
     </div>

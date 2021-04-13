@@ -238,10 +238,10 @@
 
         </div>
         <div class="ocultar-media ph-05">
-            <a href="contacto"><img src="img/banners/BANNER-2-NINA-VERTICAL.webp" alt=""></a>
+            <a href="contact"><img src="img/banners/BANNER-2-NINA-VERTICAL.webp" alt=""></a>
         </div>
         <div class="tamaño-img mostrar-media ph-05">
-            <a href="contacto"><img src="img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt=""></a>
+            <a href="contact"><img src="img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt=""></a>
         </div>  
         </div>
 
@@ -253,7 +253,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contacto" class="scrollup">
+<a href="contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

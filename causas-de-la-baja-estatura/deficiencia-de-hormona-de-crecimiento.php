@@ -104,10 +104,10 @@
                <p>La hormona de crecimiento en la mayoría de los casos provoca un aumento de la estatura en las personas con deficiencia de esta hormona, esto siempre que los cartílagos de crecimiento no se hayan cerrado. Es importante mantener un seguimiento médico con los especialistas para que ellos puedan determinar las causas y tratamiento a seguir ante una estatura baja. </p>
             </div>
             <div class="ocultar-media">
-                <a href="/contacto"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="/contacto"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
 
@@ -119,7 +119,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contacto" class="scrollup">
+<a href="/contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

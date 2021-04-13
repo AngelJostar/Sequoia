@@ -159,7 +159,7 @@
                 <p><span class="font-bold">CENTROS EN CDMX / GUADALAJARA / MONTERREY </span></p>
             </div>
             <div class="centrar-texto pb-2">
-                <a href="/contacto"><button class="boton-e boton-contacto-landing">OTRAS UBICACIONES</button></a>
+                <a href="/contact"><button class="boton-e boton-contacto-landing">OTRAS UBICACIONES</button></a>
             </div>
             
 
@@ -173,7 +173,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contacto" class="scrollup">
+<a href="contact" class="scrollup">
 </a>
 <!--####FOOTER####-->
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
