@@ -58,7 +58,7 @@
                 </div>
                 <p>Le presentamos toda la información necesaria para entender a fondo el crecimiento de tu hijo o hija.</p>
                 <div class="centrar-texto texto-boton-esp pb-2">
-                    <a href="Generalidades-del-crecimiento-infantil"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
+                    <a href="/generalidades-del-crecimiento-infantil"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
 
@@ -71,7 +71,7 @@
                 </div>
                 <p>El crecimiento de niños y niñas puede variar según su edad. Las tasas de crecimiento dependen de la edad de los niños y niñas.</p>
                 <div class="centrar-texto texto-boton-esp pb-2">
-                    <a href="crecimiento-infantil-por-edad"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
+                    <a href="/crecimiento-infantil-por-edad"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
 
@@ -84,7 +84,7 @@
                 </div>
                 <p>Los diferentes transtornos del crecimiento pueden afectar la salud de un niño de muchas formas diferentes y pueden ser causados por una variedad de factores.</p>
                 <div class="centrar-texto texto-boton-esp pb-2 ">
-                    <a href="causas-de-la-baja-estatura"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
+                    <a href="/causas-de-la-baja-estatura"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
 
@@ -111,7 +111,7 @@
                 </div>
                 <p>Además de tener más confianza y habilidades sociales debidas a su complexión física, las personas altas también pueden presumir de mayor sueldo, más likes en redes sociales y también de una productividad laboral más amplia.</p>
                 <div class="centrar-texto texto-boton-esp pb-2">
-                    <a href="importancia-de-ser-mas-alto"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
+                    <a href="/importancia-de-ser-mas-alto"><button class="boton-e boton-crecimiento">APRENDE MÁS</button></a>
                 </div>
             </div>
             <div class="tamaño-img ocultar-media ph-2">
