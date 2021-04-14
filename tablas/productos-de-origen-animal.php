@@ -3,7 +3,7 @@
 
 <?php include_once '../includes/tags/google_tag_manager_head.php';?>
 
-<link rel="icon" type="image/png" href="../img/FAVICON-SEQUOIA.webp" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/FAVICON-SEQUOIA.webp" sizes="32x32">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
@@ -36,7 +36,7 @@
                 </div>
             </div>
             <div class="tamaño-img ph-3">
-                <img src="../img/tablas/productos-de-origen-animal.webp" alt="contacto crecimiento">
+                <img src="/img/tablas/productos-de-origen-animal.webp" alt="contacto crecimiento">
             </div>
             <div class="justificar-texto-90 centrar-texto">
                     <div class="cuadro-tabla"></div>
@@ -324,10 +324,10 @@
                     
             </div>
             <div class="ocultar-media">
-                <a href="/contact"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media ph-1">
-                <a href="/contact"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
 
 
