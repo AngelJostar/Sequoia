@@ -115,7 +115,7 @@
                     <h2>SER MÁS ALTO MEJORA EL RENDIMIENTO EN LOS DEPORTES</h2>
                 </div>
                 <div class="img-95 padding-1">
-                    <a href="causas-de-la-baja-estatura.php"><img src="/img/importancia-de-ser-mas-alto/female-football-player-with-ball-close-up.webp" alt=""></a>
+                    <a href="causas-de-la-baja-estatura"><img src="/img/importancia-de-ser-mas-alto/female-football-player-with-ball-close-up.webp" alt=""></a>
                 </div>
                 <div class="texto-importancia-2">
                     <P>Es una gran ventaja tener piernas y brazos mas largos para casi todas las ramas deportivas. Esto es natural especialmente para deportes relacionados con la altura como el futbol, basquetbol, béisbol, tenis, taekwondo, etc.
@@ -183,8 +183,8 @@
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-<script src="js/jquery-3.5.1.min.js"></script>
-<script src="js/scripts.js "></script>
+<script src="/js/jquery-3.5.1.min.js"></script>
+<script src="/js/scripts.js "></script>
 </body>
 
 

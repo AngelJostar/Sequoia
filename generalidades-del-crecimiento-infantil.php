@@ -95,7 +95,7 @@
                         <a href="/generalidades-del-crecimiento-infantil/talla_blanco_familiar"><button class="boton-e boton-esp">Talla genética o blanco familiar</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="/generalidades-del-crecimiento-infantil/etapas_del_desarollo_de_tenner.php"><button class="boton-e boton-esp">Cambios físicos en niños y niñas</button></a>
+                        <a href="/generalidades-del-crecimiento-infantil/etapas_del_desarollo_de_tenner"><button class="boton-e boton-esp">Cambios físicos en niños y niñas</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
                         <a href="/generalidades-del-crecimiento-infantil/estiron_puberal"><button class="boton-e boton-esp">Estirón Puberal</button></a>
@@ -127,17 +127,17 @@
                         <a href="/generalidades-del-crecimiento-infantil/talla_blanco_familiar"><button class="boton-e boton-esp">Talla genética o<br>blanco familiar</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
-                        <a href="/generalidades-del-crecimiento-infantil/etapas_del_desarollo_de_tenner.php"><button class="boton-e boton-esp">Cambios físicos en<br>niños y niñas</button></a>
+                        <a href="/generalidades-del-crecimiento-infantil/etapas_del_desarollo_de_tenner"><button class="boton-e boton-esp">Cambios físicos en<br>niños y niñas</button></a>
                     </div>
                     <div class="centrar-texto texto-boton-esp pb-2">
                         <a href="/generalidades-del-crecimiento-infantil/estiron_puberal"><button class="boton-e boton-esp">Estirón Puberal</button></a>
                     </div>
                 </div>
                 <div class="ocultar-media">
-                    <a href="crecimiento-infantil-por-edad.php"><img src="/img/banners/medir-edad-hijo-hija-crecimiento-infantil-2.webp" alt="medir edad hijo"></a>
+                    <a href="crecimiento-infantil-por-edad"><img src="/img/banners/medir-edad-hijo-hija-crecimiento-infantil-2.webp" alt="medir edad hijo"></a>
                 </div>
                 <div class="tamaño-img mostrar-media pt-20">
-                    <a href="crecimiento-infantil-por-edad.php"><img src="/img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="medir edad hijo"></a>
+                    <a href="crecimiento-infantil-por-edad"><img src="/img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="medir edad hijo"></a>
                 </div>
                 <div class="cuadros-crecimiento margin-top-20 ">
                     <div class="titulos-principal">
@@ -229,8 +229,8 @@
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-<script src="js/jquery-3.5.1.min.js"></script>
-<script src="js/scripts.js "></script>
+<script src="/js/jquery-3.5.1.min.js"></script>
+<script src="/js/scripts.js "></script>
 </body>
 
 

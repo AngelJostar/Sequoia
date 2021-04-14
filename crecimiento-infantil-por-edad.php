@@ -115,7 +115,7 @@
                     <p style=" font-size: calc(1.1em + .7vw);">Si su hijo comenzó la escuela y usted nota señales de que tal vez su hijo no está creciendo como debería. Como por ejemplo, que este dentro de los 3 mas bajitos de su salón de clases.</p>
                 </div>
                 <div class="centrar-texto texto-boton-esp-2 pb-2 margin-top-20">
-                    <a href="/crecimiento-infantil-por-edad/ninos-de-6-11.php"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
+                    <a href="/crecimiento-infantil-por-edad/ninos-de-6-11"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
                 </div>
             </div>
             <div class="cuadros-crecimiento-crecimiento margin-negativo-2">
@@ -129,7 +129,7 @@
                     <p style=" font-size: calc(1.1em + .7vw);">La pubertad es un momento de crecimiento rápido. A esta edad es importante actuar rápido ya que una vez que tu hijo termine de crecer ya no es posible hacer nada para corregir su estatura.</p>
                 </div>
                 <div class="centrar-texto texto-boton-esp-2 pb-2 margin-top-20">
-                    <a href="/crecimiento-infantil-por-edad/adolecentes-12-16.php"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
+                    <a href="/crecimiento-infantil-por-edad/adolecentes-12-16"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
                 </div>
             </div>
             <div class="textos-principal margin-negativo">
@@ -158,8 +158,8 @@
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-<script src="js/jquery-3.5.1.min.js"></script>
-<script src="js/scripts.js "></script>
+<script src="/js/jquery-3.5.1.min.js"></script>
+<script src="/js/scripts.js "></script>
 </body>
 
 
