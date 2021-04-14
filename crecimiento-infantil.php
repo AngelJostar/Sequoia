@@ -115,10 +115,10 @@
                 </div>
             </div>
             <div class="tamaño-img ocultar-media ph-2">
-                <a href="especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="banners-especialistas"></a>
+                <a href="/especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="banners-especialistas"></a>
             </div>
             <div class=" tamaño-img mostrar-media ph-2 contenedor-50porciento">
-                <a href="especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="banners-especialistas"></a>
+                <a href="/especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="banners-especialistas"></a>
             </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>
@@ -129,7 +129,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contact" class="scrollup">
+<a href="/contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->
