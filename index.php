@@ -57,10 +57,10 @@
                     de 30,000 casos atendidos en este campo, lo que nos lleva a ser el centro <span class="font-bold">MÁS ESPECIALIZADO EN CRECIMIENTO INFANTIL DE MÉXICO.</span></p>
             </div>
             <div class=" tamaño-img ocultar-media">
-                <a href="especialistas-en-crecimiento"><img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="banners-especialistas"></a>
+                <a href="especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="banners-especialistas"></a>
             </div>
             <div class="pb-25 tamaño-img mostrar-media">
-                <a href="especialistas-en-crecimiento"><img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="banners-especialistas"></a>
+                <a href="especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="banners-especialistas"></a>
             </div>
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="ygP78ev4eQI"></div>
@@ -79,10 +79,10 @@
                 </div>
             </div>
             <div class="pb-2 ocultar-media ph-10">
-                <a href="crecimiento-infantil"><img src="img/banners/Banner-mujer-y-nino.webp" alt="Banners-estatura-crecer"></a>
+                <a href="crecimiento-infantil"><img src="/img/banners/Banner-mujer-y-nino.webp" alt="Banners-estatura-crecer"></a>
             </div>
             <div class="pb-2 mostrar-media tamaño-img ph-10">
-                <a href="crecimiento-infantil"><img src="img/banners/BANNER-7-HORIZONTAL.webp" alt="Banners-estatura-crecer"></a>
+                <a href="crecimiento-infantil"><img src="/img/banners/BANNER-7-HORIZONTAL.webp" alt="Banners-estatura-crecer"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
@@ -114,10 +114,10 @@
                 </p>
             </div>
             <div class="tamaño-img ocultar-media">
-                <a href="importancia-de-ser-mas-alto.php"><img src="img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil"></a>
+                <a href="importancia-de-ser-mas-alto.php"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="importancia-de-ser-mas-alto.php"><img src="img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil"></a>
+                <a href="importancia-de-ser-mas-alto.php"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-2">
                 <div class="titulos-principal">
@@ -132,10 +132,10 @@
                     buscamos brindarte una grata experiencia y los mejores resultados para tu hijo.</p>
             </div>
             <div class="ocultar-media">
-                <a href="/contact"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media ph-1">
-                <a href="/contact"><img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
 
         </section>
