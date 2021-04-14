@@ -70,7 +70,7 @@
                 </div>
             </div>
             <div class="tamaño-img centrar-imagen pb-30">
-                <a href="../causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional.php"><img src="/img/nueva/Banner-Pequeno-Edad-Gestacional.webp" alt="Pequeño Edad Gestacional"></a>
+                <a href="/causas-de-la-baja-estatura/pequeno-para-la-edad-gestacional"><img src="/img/nueva/Banner-Pequeno-Edad-Gestacional.webp" alt="Pequeño Edad Gestacional"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">

@@ -71,10 +71,10 @@
                     alcanzar la estatura adulta. Para las niñas, la pubertad generalmente comienza alrededor de los 11 años, y para los niños, la pubertad comienza alrededor de los 13 años.</p>
             </div>
             <div class="ocultar-media">
-                <a href="contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="cuadros-crecimiento-crecimiento margin-negativo-2">
                 <div class="titulos-principal">
@@ -137,10 +137,10 @@
                     en caso de requerirlo y no sufra de estatura baja.</p>
             </div>
             <div class="pb-25 tamaño-img ocultar-media pt-15">
-                <a href="preguntas-frecuentes"><img src="/img/banners/crecer-estatura-nino-crecimiento-infantil-2.webp" alt="banners-especialistas"></a>
+                <a href="/preguntas-frecuentes"><img src="/img/banners/crecer-estatura-nino-crecimiento-infantil-2.webp" alt="banners-especialistas"></a>
             </div>
             <div class="pb-25 tamaño-img mostrar-media ph-3">
-                <a href="preguntas-frecuentes"><img src="/img/banners/crecer-estatura-nino-crecimiento-infantil-1.webp" alt="banners-especialistas"></a>
+                <a href="/preguntas-frecuentes"><img src="/img/banners/crecer-estatura-nino-crecimiento-infantil-1.webp" alt="banners-especialistas"></a>
             </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>
@@ -151,7 +151,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contact" class="scrollup">
+<a href="/contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

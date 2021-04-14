@@ -98,7 +98,7 @@
                         </div>
                     </div>
                     <div class="tamaño-img ph-05">
-                        <a href="crecimiento-infantil-deficiente"><img src="/img/banners/CRECIMIENTO-Sequoia-Inicio-2021.webp" alt="altura crecimiento estatura"></a>
+                        <a href="/crecimiento-infantil-deficiente"><img src="/img/banners/CRECIMIENTO-Sequoia-Inicio-2021.webp" alt="altura crecimiento estatura"></a>
                     </div>
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">6.-¿Hasta qué edad se puede recibir tratamiento?<span class="icon" aria-hidden="true"></span></span></button>
@@ -146,7 +146,7 @@
                         </div>
                     </div>
                     <div class="tamaño-img ph-05">
-                        <a href="/crecimiento-infantil-por-edad.php"><img src="/img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="medir edad hijo hija"></a>
+                        <a href="/crecimiento-infantil-por-edad"><img src="/img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="medir edad hijo hija"></a>
                     </div>
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">11.-¿Cómo afecta la estatura en la autoestima de un niño?<span class="icon" aria-hidden="true"></span></span></button>
@@ -238,10 +238,10 @@
 
         </div>
         <div class="ocultar-media ph-05">
-            <a href="contact"><img src="/img/banners/BANNER-2-NINA-VERTICAL.webp" alt=""></a>
+            <a href="/contact"><img src="/img/banners/BANNER-2-NINA-VERTICAL.webp" alt=""></a>
         </div>
         <div class="tamaño-img mostrar-media ph-05">
-            <a href="contact"><img src="/img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt=""></a>
+            <a href="/contact"><img src="/img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt=""></a>
         </div>  
         </div>
 
@@ -253,7 +253,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contact" class="scrollup">
+<a href="/contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

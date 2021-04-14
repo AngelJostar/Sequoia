@@ -187,10 +187,10 @@
             </div>
         </section>
         <div class="ocultar-media">
-                <a href="crecimiento-infantil"><img src="/img/banners/Banner-mujer-y-nino.webp" alt="contacto crecimiento"></a>
+                <a href="/crecimiento-infantil"><img src="/img/banners/Banner-mujer-y-nino.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="crecimiento-infantil"><img src="/img/banners/estatura-crecer-crecimiento-infantil-1.webp" alt="contacto crecimiento"></a>
+                <a href="/crecimiento-infantil"><img src="/img/banners/estatura-crecer-crecimiento-infantil-1.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
 
@@ -212,7 +212,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contact" class="scrollup">
+<a href="/contact" class="scrollup">
     <p>CONTACTO</p>
 </a><!--####FOOTER####-->
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>

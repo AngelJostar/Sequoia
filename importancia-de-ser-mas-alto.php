@@ -92,7 +92,7 @@
                     </p>
                 </div>
                 <div class="centrar-texto texto-boton-esp-2 pb-2 margin-top-20">
-                    <a href="importancia-de-ser-mas-alto/pareja"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
+                    <a href="/importancia-de-ser-mas-alto/pareja"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
                 </div>
             </div>
             <div class="cuadros-crecimiento-crecimiento margin-negativo-2">
@@ -107,7 +107,7 @@
                         por año.</P>
                 </div>
                 <div class="centrar-texto texto-boton-esp-2 pb-2 margin-top-20">
-                    <a href="importancia-de-ser-mas-alto/trabajo"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
+                    <a href="/importancia-de-ser-mas-alto/trabajo"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
                 </div>
             </div>
             <div class="cuadros-crecimiento-crecimiento margin-negativo-2">
@@ -122,7 +122,7 @@
                     </P>
                 </div>
                 <div class="centrar-texto texto-boton-esp-2 pb-2 margin-top-20">
-                    <a href="importancia-de-ser-mas-alto/deporte"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
+                    <a href="/importancia-de-ser-mas-alto/deporte"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
                 </div>
             </div>
 
@@ -138,7 +138,7 @@
                         que les ayuda a ser más felices en su vida diaria.</p>
                 </div>
                 <div class="centrar-texto texto-boton-esp-2 pb-2 margin-top-20">
-                    <a href="importancia-de-ser-mas-alto/autoestima"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
+                    <a href="/importancia-de-ser-mas-alto/autoestima"><button class="boton-e-2 boton-crecimiento-2">APRENDE MÁS</button></a>
                 </div>
             </div>
             <div class="textos-principal margin-negativo">
@@ -176,7 +176,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contact" class="scrollup">
+<a href="/contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

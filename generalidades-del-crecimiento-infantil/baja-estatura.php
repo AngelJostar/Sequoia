@@ -174,7 +174,7 @@
 
             </div>
             <div class="tamaño-img">
-                <a href="como-medir-a-tu-hijo-de-manera-correcta"><img src="/img/banners/BANNER-Como-medir-a-tu-hijo-de-manera-correcta.webp" alt="contacto crecimiento"></a>
+                <a href="/como-medir-a-tu-hijo-de-manera-correcta"><img src="/img/banners/BANNER-Como-medir-a-tu-hijo-de-manera-correcta.webp" alt="contacto crecimiento"></a>
             </div>
 
         </div>

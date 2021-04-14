@@ -79,10 +79,10 @@
                     </div>
                 </div>
                 <div class="tamaño-img ocultar-media pb-15">
-                    <a href="importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil"></a>
+                    <a href="/importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil"></a>
                 </div>
                 <div class="tamaño-img mostrar-media pb-15">
-                    <a href="importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil"></a>
+                    <a href="/importancia-de-ser-mas-alto"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil"></a>
                 </div>
                 <div class="cuadros-crecimiento ocultar-media">
                     <div class="titulos-principal">
@@ -167,10 +167,10 @@
                     </p>
                 </div>
                 <div class="ocultar-media">
-                    <a href="contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto-crecimiento-infantil"></a>
+                    <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto-crecimiento-infantil"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto-crecimiento-infantil"></a>
+                    <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto-crecimiento-infantil"></a>
                 </div>
 
             </div>
@@ -184,7 +184,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contact" class="scrollup">
+<a href="/contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->

@@ -129,7 +129,7 @@
                 <img src="/img/generalidades-del-crecimiento-infantil/IMC-NINOS-2-A-20.webp" alt="graficas-de-crecimiento">
             </div>
             <div class="tamaño-img pt-15 pb-30">
-                <a href="edad-osea"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Edad-osea-.webp" alt="graficas-de-crecimiento"></a>
+                <a href="/edad-osea"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Edad-osea-.webp" alt="graficas-de-crecimiento"></a>
             </div>  
         </div>
 

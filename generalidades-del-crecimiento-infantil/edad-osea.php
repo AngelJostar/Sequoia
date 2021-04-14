@@ -89,7 +89,7 @@
             <p>La forma más habitual es con una radiografía de la mano. Se hace de la mano por la gran cantidad de huesos que hay en ella, cada uno con su cartílago de crecimiento. Para cada año de edad hay un modelo de imagen radiológica, con el que se compara la radiografía del niño que se quiere estudiar. A través de la comparación de imágenes se sabe cuál es la edad ósea. </p>
             </div>
             <div class="tamaño-img">
-                <a href="graficas-de-crecimiento"><img src="/img/banners/Banner-Graficas-de-Crecimiento.webp" alt="contacto crecimiento"></a>
+                <a href="/graficas-de-crecimiento"><img src="/img/banners/Banner-Graficas-de-Crecimiento.webp" alt="contacto crecimiento"></a>
             </div>
 
         </div>

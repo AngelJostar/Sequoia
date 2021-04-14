@@ -70,7 +70,7 @@
                     <img src="/img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="">
                 </div>
                 <div class="tamaño-img">
-                    <a href="contact"><img src="/img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt="altura-crecimiento-estatura"></a>
+                    <a href="/contact"><img src="/img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt="altura-crecimiento-estatura"></a>
                 </div>
                 <div class="cuadros-crecimiento margin-top-20">
                     <div class="titulos-principal">
@@ -102,7 +102,7 @@
 </section>
 <!--####HEADER####-->
 
-<a href="contact" class="scrollup">
+<a href="/contact" class="scrollup">
     <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->
