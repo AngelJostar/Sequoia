@@ -8,8 +8,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <title>Crecimiento - especialistas-en-crecimiento</title>
-<link rel="stylesheet" rel="preload" href="css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 
 </head>
@@ -36,10 +36,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-5punto5 ocultar-media">
-                <img src="img/banners/Banner-Especialistas-en-crecimeinto-Infantil-.webp" alt="altura crecimiento estatura">
+                <img src="/img/banners/Banner-Especialistas-en-crecimeinto-Infantil-.webp" alt="altura crecimiento estatura">
             </div>
             <div class="tamaño-img ph-8 mostrar-media">
-                <img src="img/banners/Banner-Especialistas-en-crecimeinto-Infantil-desktop.webp" alt="altura crecimiento estatura">
+                <img src="/img/banners/Banner-Especialistas-en-crecimeinto-Infantil-desktop.webp" alt="altura crecimiento estatura">
             </div>
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="b2npaRv2dEw"></div>
@@ -80,13 +80,13 @@
                     </div>
                 </div>
                 <div class="tamaño-img pt-20 ph-9">
-                    <img src="img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="contacto crecimiento infantil">
+                    <img src="/img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="contacto crecimiento infantil">
                 </div>
                 <div class="ocultar-media">
-                    <a href="/contact"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                    <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="/contact"><img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                    <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
                 </div>
                 <div class="cuadros-crecimiento">
                     <div class="titulos-principal">
@@ -122,10 +122,10 @@
                     </p>
                 </div>
                 <div class="tamaño-img ocultar-media">
-                    <a href="/importancia-de-ser-mas-alto.php"><img src="img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil"></a>
+                    <a href="/importancia-de-ser-mas-alto.php"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="/importancia-de-ser-mas-alto.php"><img src="img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil"></a>
+                    <a href="/importancia-de-ser-mas-alto.php"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil"></a>
                 </div>
             </div>
 

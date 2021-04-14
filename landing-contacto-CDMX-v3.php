@@ -3,25 +3,25 @@
 
 <?php include_once 'includes/tags/google_tag_manager_head.php';?>
 
-<link rel="icon" type="image/png" href="../img/FAVICON-SEQUOIA.webp" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/FAVICON-SEQUOIA.webp" sizes="32x32">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <title>Lading contacto CDMX</title>
-<link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 </head>
 
-<?php include_once '../includes/tags/google_tag_manager_body.php';?>
-<?php include_once '../includes/templates/top-header.php';?>
+<?php include_once 'includes/tags/google_tag_manager_body.php';?>
+<?php include_once 'includes/templates/top-header.php';?>
 <!--####HEADER####-->
 <section id="site-wrapper">
 
     <!-- CANVAS -->
     <section id="site-canvas">
 
-        <?php include_once '../includes/templates/header.php';?>
+        <?php include_once 'includes/templates/header.php';?>
 
         <div class="contenedor-principal" id="contenedor-principal">
             <div class="cuadros-crecimiento">
@@ -36,10 +36,10 @@
                 </div>
             </div>
             <div class="sombras-img ph-3 tamaño-img ocultar">
-               <img src="../img/banners/BANNERS-Principal-2021-II.webp" alt="Portada">
+               <img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada">
             </div>
             <div class="sombras-img ph-4  tamaño-img mostrar">
-                <img src="../img/banners/BANNERS-Principal-2021-II-desktop.webp" alt="Portada">
+                <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" alt="Portada">
             </div>
             <div class="textos-azules">
                 <p>En el <span class="font-bold">Centro Sequoia</span> somos endocrinólogos pediatras especialistas en crecimiento infantil. Diagnosticaremos las causas por las que tu hijo no crece correctamente y lograremos que alcance una mayor estatura.</p>
@@ -61,7 +61,7 @@
                     <p>Hay señales a las que debe prestar atención que podrían indicar que su hijo no está creciendo como debería: </p>
                 </div>
                 <div class="tamaño-img">
-                    <img src="../img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="">
+                    <img src="/img/banners/ICONOS WEB Sequoia 2021-16.webp" alt="">
                 </div>
                 <div class="contenedor-video-2">
                     <div class="reproductor-rectangular" data-id="zs9O0oeo3V4"></div>
@@ -75,7 +75,7 @@
                     <p>En algunos niños y niñas, el crecimiento deficiente puede no ser una causa de preocupación, pero, en otros, puede estar asociado con serios problemas de salud, el niño puede presentar afectaciones en: </p>
                 </div>
                 <div class="tamaño-img">
-                    <img src="../img/banners/ICONOS WEB Sequoia 2021-17.webp" alt="">
+                    <img src="/img/banners/ICONOS WEB Sequoia 2021-17.webp" alt="">
                 </div>
                 <div class="letra-cursiva-contacto centrar-texto">
                     <p>"Es importante atender a tu hijo antes de que su crecimiento termine y sea demasiado tarde para corregir su talla.</p>
@@ -104,7 +104,7 @@
                 </div>
 
                 <div class="contenedor-90porciento">
-                    <a href="https://www.google.com/maps/place/Centro+Sequoia+CDMX-+Crecimiento+Infantil/@19.3916871,-99.1709422,15z/data=!4m5!3m4!1s0x0:0x1a23f6e38b618cce!8m2!3d19.3916871!4d-99.1709422"><img src="../img/Mapas/MAPA-CDMX-1015x542.webp" alt="Mapa-CDMX"></a>
+                    <a href="https://www.google.com/maps/place/Centro+Sequoia+CDMX-+Crecimiento+Infantil/@19.3916871,-99.1709422,15z/data=!4m5!3m4!1s0x0:0x1a23f6e38b618cce!8m2!3d19.3916871!4d-99.1709422"><img src="/img/Mapas/MAPA-CDMX-1015x542.webp" alt="Mapa-CDMX"></a>
                 </div>
                 <div class="contacto-grid">
                     <div class="centrar-texto texto-boton-contacto pb-2 margin-top-20">
@@ -151,10 +151,10 @@
                 </div>
             </section>
             <div class="tamaño-img ocultar-media">
-            <a href="/preguntas-frecuentes"><img src="../img/banners/crecer-estatura-nino-crecimiento-infantil-2.webp" alt="causas crecimiento hijo"></a>
+            <a href="/preguntas-frecuentes"><img src="/img/banners/crecer-estatura-nino-crecimiento-infantil-2.webp" alt="causas crecimiento hijo"></a>
                 </div>
             <div class="tamaño-img mostrar-media">
-                <a href="/preguntas-frecuentes"><img src="../img/banners/crecer-estatura-nino-crecimiento-infantil-1.webp" alt="causas crecimiento hijo"></a>
+                <a href="/preguntas-frecuentes"><img src="/img/banners/crecer-estatura-nino-crecimiento-infantil-1.webp" alt="causas crecimiento hijo"></a>
             </div>
             <div class="textos-azules">
                 <p><span class="font-bold">CENTROS EN CDMX / GUADALAJARA / MONTERREY </span></p>
@@ -166,7 +166,7 @@
 
 
         </div>
-        <?php include_once '../includes/templates/footer.php';?>
+        <?php include_once 'includes/templates/footer.php';?>
 
     </section>
     <!-- END SITE CONTENT -->

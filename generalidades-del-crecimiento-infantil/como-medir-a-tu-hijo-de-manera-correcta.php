@@ -3,13 +3,13 @@
 
 <?php include_once '../includes/tags/google_tag_manager_head.php';?>
 
-<link rel="icon" type="image/png" href="../img/FAVICON-SEQUOIA.webp" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/FAVICON-SEQUOIA.webp" sizes="32x32">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <title>Como medir a tu hijo de manera correcto</title>
-<link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 </head>
 
@@ -36,10 +36,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
-                <img src="../img/generalidades-del-crecimiento-infantil/Banner-como-medir-a-tu-hijo.webp" alt="altura crecimiento estatura">
+                <img src="/img/generalidades-del-crecimiento-infantil/Banner-como-medir-a-tu-hijo.webp" alt="altura crecimiento estatura">
             </div>
             <div class="tamaño-img ph-6 mostrar-media">
-                <img src="../img/generalidades-del-crecimiento-infantil/Banner-como-medir-a-tu-hijo-desktop.webp" alt="altura crecimiento estatura">
+                <img src="/img/generalidades-del-crecimiento-infantil/Banner-como-medir-a-tu-hijo-desktop.webp" alt="altura crecimiento estatura">
             </div>
             <div class="contenedor-video ph-2">
                 <div class="reproductor" data-id="YypQCqdoN3k"></div>
@@ -57,7 +57,7 @@
                 </div>
             </div>
             <div class="tamaño-img">
-                <img src="../img/generalidades-del-crecimiento-infantil/como-medir-hijo-hija-correctamente.webp" alt="generalidades-del-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/como-medir-hijo-hija-correctamente.webp" alt="generalidades-del-crecimiento">
             </div>
             <div class="mt-1">
                 <div class="cuadros-crecimiento-2 efecto3-2 mt-1 ">
@@ -81,7 +81,7 @@
                 </div>
             </div>
             <div class="tamaño-img">
-                <img src="../img/generalidades-del-crecimiento-infantil/nino-acostado.webp" alt="generalidades-del-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/nino-acostado.webp" alt="generalidades-del-crecimiento">
             </div>
 
             <div>
@@ -106,7 +106,7 @@
             </div>
 
             <div class="tamaño-img">
-                <img src="../img/generalidades-del-crecimiento-infantil/nina-mediendose.webp" alt="generalidades-del-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/nina-mediendose.webp" alt="generalidades-del-crecimiento">
             </div>
             <div class="tamaño-img">
                 <a href="/generalidades-del-crecimiento-infantil/baja-estatura"><img src="../img/banners/Banner-Baja-estatura.webp" alt="contacto crecimiento"></a>

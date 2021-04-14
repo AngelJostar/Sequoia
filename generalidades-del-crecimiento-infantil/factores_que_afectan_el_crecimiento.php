@@ -3,13 +3,13 @@
 
 <?php include_once '../includes/tags/google_tag_manager_head.php';?>
 
-<link rel="icon" type="image/png" href="../img/FAVICON-SEQUOIA.webp" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/FAVICON-SEQUOIA.webp" sizes="32x32">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <title>Factores que afectan el crecimiento</title>
-<link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 </head>
 
@@ -130,13 +130,13 @@
                 <p>En cuanto al sexo generalmente las niñas miden menos que los niños, la raza es un factor determinante en el crecimiento de un niño debido al estilo de vida que asume en el lugar en el que nace, crece y se desarrolla.</p>
             </div>
             <div class="tamaño-img">
-                <a href="/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento"><img src="../img/generalidades-del-crecimiento-infantil/Banner-Deficiencia-de-Hormano-del-Crecimiento.webp" alt="contacto crecimiento"></a>
+                <a href="/causas-de-la-baja-estatura/deficiencia-de-hormona-de-crecimiento"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Deficiencia-de-Hormano-del-Crecimiento.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="ocultar-media">
-                <a href="/contact"><img src="../img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media ph-1">
-                <a href="/contact"><img src="../img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
 

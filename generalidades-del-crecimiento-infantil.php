@@ -8,8 +8,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <title>Crecimiento - generalidades-del-crecimiento-infantil</title>
-<link rel="stylesheet" rel="preload" href="css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 </head>
 
@@ -47,10 +47,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-5-5 ocultar-media">
-                <img src="img/generalidades-del-crecimiento-infantil/Banner-generalidades.webp" alt="altura crecimiento estatura">
+                <img src="/img/generalidades-del-crecimiento-infantil/Banner-generalidades.webp" alt="altura crecimiento estatura">
             </div>
             <div class="tamaño-img ph-6 mostrar-media">
-                <img src="img/generalidades-del-crecimiento-infantil/Banner-generalidades-desktop.webp" alt="altura crecimiento estatura">
+                <img src="/img/generalidades-del-crecimiento-infantil/Banner-generalidades-desktop.webp" alt="altura crecimiento estatura">
             </div>
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="yIhxulvi3r0"></div>
@@ -134,10 +134,10 @@
                     </div>
                 </div>
                 <div class="ocultar-media">
-                    <a href="crecimiento-infantil-por-edad.php"><img src="img/banners/medir-edad-hijo-hija-crecimiento-infantil-2.webp" alt="medir edad hijo"></a>
+                    <a href="crecimiento-infantil-por-edad.php"><img src="/img/banners/medir-edad-hijo-hija-crecimiento-infantil-2.webp" alt="medir edad hijo"></a>
                 </div>
                 <div class="tamaño-img mostrar-media pt-20">
-                    <a href="crecimiento-infantil-por-edad.php"><img src="img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="medir edad hijo"></a>
+                    <a href="crecimiento-infantil-por-edad.php"><img src="/img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="medir edad hijo"></a>
                 </div>
                 <div class="cuadros-crecimiento margin-top-20 ">
                     <div class="titulos-principal">
@@ -205,10 +205,10 @@
                         </ul>
                     </div>
                     <div class="ocultar-media">
-                        <a href="contact"><img src="img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                        <a href="contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
                     </div>
                     <div class="tamaño-img mostrar-media">
-                        <a href="contact"><img src="img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                        <a href="contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
                     </div>
             </div>
 

@@ -3,13 +3,13 @@
 
 <?php include_once '../includes/tags/google_tag_manager_head.php';?>
 
-<link rel="icon" type="image/png" href="../img/FAVICON-SEQUOIA.webp" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/FAVICON-SEQUOIA.webp" sizes="32x32">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <title>Etapas del desarrollo de Tanner</title>
-<link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 </head>
 
@@ -37,10 +37,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
-                <img src="../img/banners/Banner-doctor-doctora-etapas-tanner.webp" alt="altura crecimiento estatura">
+                <img src="/img/banners/Banner-doctor-doctora-etapas-tanner.webp" alt="altura crecimiento estatura">
             </div>
             <div class="tamaño-img ph-6 mostrar-media">
-                <img src="../img/banners/Banner-doctor-doctora-etapas-tanner.webp" alt="altura crecimiento estatura">
+                <img src="/img/banners/Banner-doctor-doctora-etapas-tanner.webp" alt="altura crecimiento estatura">
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="tI0-hx_0QLg"></div>
@@ -261,7 +261,7 @@
                 </div>
             </div>
             <div class="tamaño-img">
-                <a href="estiron_puberal"><img src="../img/banners/Banner-Estiron-Puberal.webp" alt="contacto crecimiento"></a>
+                <a href="estiron_puberal"><img src="/img/banners/Banner-Estiron-Puberal.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
 

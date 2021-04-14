@@ -3,13 +3,13 @@
 
 <?php include_once '../includes/tags/google_tag_manager_head.php';?>
 
-<link rel="icon" type="image/png" href="../img/FAVICON-SEQUOIA.webp" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/FAVICON-SEQUOIA.webp" sizes="32x32">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <title>Deporte</title>
-<link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 </head>
 
@@ -37,10 +37,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
-                <img src="../img/banners/banner-trabajo-1.webp" alt="altura crecimiento estatura">
+                <img src="/img/banners/banner-trabajo-1.webp" alt="altura crecimiento estatura">
             </div>
             <div class="tamaño-img ph-6 mostrar-media">
-                <img src="../img/banners/banner-trabajo-1-desktop.webp" alt="altura crecimiento estatura">
+                <img src="/img/banners/banner-trabajo-1-desktop.webp" alt="altura crecimiento estatura">
             </div>
             <div class="justificar-texto-90-listas">
                     <ul>
@@ -64,10 +64,10 @@
                 <a href="/importancia-de-ser-mas-alto/autoestima"><img src="../img/importancia-de-ser-mas-alto/Banner-Autoestima-y-Crecimiento-.webp" alt="contacto crecimiento"></a>
         </div>
         <div class="ocultar-media">
-                <a href="/contact"><img src="../img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media ph-1">
-                <a href="/contact"><img src="../img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
+                <a href="/contact"><img src="/img/banners/BANNER-2-DOC-HORIZONTAL.webp" alt="contacto crecimiento"></a>
             </div>
 
         <?php include_once '../includes/templates/footer.php';?>

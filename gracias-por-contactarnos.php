@@ -8,9 +8,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <title>Home - Centro Sequoia</title>
-<link rel="stylesheet" rel="preload" href="css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="css/style-slider.css" media="all">
-<link rel="stylesheet" rel="preload" href="css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style-slider.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 </head>
 
@@ -28,10 +28,10 @@
                 <div class="barra-titulo"></div>
             </div>
             <div class="ocultar-media ph-4">
-                    <a href="/crecimiento-infantil"><img src="img/banners/GRACIAS-MOVIL.webp" alt="contacto crecimiento"></a>
+                    <a href="/crecimiento-infantil"><img src="/img/banners/GRACIAS-MOVIL.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media ph-4">
-                    <a href="/crecimiento-infantil"><img src="img/banners/GRACIAS-DESKTOP.webp" alt="contacto crecimiento"></a>
+                    <a href="/crecimiento-infantil"><img src="/img/banners/GRACIAS-DESKTOP.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
         <?php include_once 'includes/templates/footer.php';?>

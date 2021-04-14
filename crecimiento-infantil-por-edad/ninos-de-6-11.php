@@ -3,13 +3,13 @@
 
 <?php include_once '../includes/tags/google_tag_manager_head.php';?>
 
-<link rel="icon" type="image/png" href="../img/FAVICON-SEQUOIA.webp" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/FAVICON-SEQUOIA.webp" sizes="32x32">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <title>Niños Chicos 6-11</title>
-<link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 </head>
 
@@ -36,10 +36,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-5-5 ocultar-media">
-                <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-6-11.webp" alt="altura crecimiento estatura">
+                <img src="/img/crecimiento-infantil-por-edad/Banner-crecimiento-6-11.webp" alt="altura crecimiento estatura">
             </div>
             <div class="tamaño-img ph-6 mostrar-media">
-                <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-6-11-desktop.webp" alt="altura crecimiento estatura">
+                <img src="/img/crecimiento-infantil-por-edad/Banner-crecimiento-6-11-desktop.webp" alt="altura crecimiento estatura">
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="U3hGSEYyl9Q"></div>
@@ -115,10 +115,10 @@
                 <img src="/img/nueva/imc-ninas-6-11.webp" alt="graficas">
             </div>
             <div class="ocultar-media">
-                    <a href="/contact"><img src="../img/banners/BANNER-2-NINA-VERTICAL.webp" alt="altura-crecimiento-estatura"></a>
+                    <a href="/contact"><img src="/img/banners/BANNER-2-NINA-VERTICAL.webp" alt="altura-crecimiento-estatura"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="/contact"><img src="../img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt="altura-crecimiento-estatura"></a>
+                    <a href="/contact"><img src="/img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt="altura-crecimiento-estatura"></a>
                 </div>
 
         </div>

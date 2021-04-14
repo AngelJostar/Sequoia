@@ -8,9 +8,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <title>Crecimiento - especialistas-en-crecimiento</title>
-<link rel="stylesheet" rel="preload" href="css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="css/style-slider.css" media="all">
-<link rel="stylesheet" rel="preload" href="css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style-slider.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 
 </head>
@@ -37,7 +37,7 @@
             </div>
         </div>
         <div class="tamaño-img ph-6">
-            <img src="img/banners/PREGUNTAS-FRECUENTES-BANNER.webp" alt="altura crecimiento estatura">
+            <img src="/img/banners/PREGUNTAS-FRECUENTES-BANNER.webp" alt="altura crecimiento estatura">
         </div>
         <div class="titulos-azules">
             <h3>¿Mi hij@ esta creciendo bien? <br>
@@ -98,7 +98,7 @@
                         </div>
                     </div>
                     <div class="tamaño-img ph-05">
-                        <a href="crecimiento-infantil-deficiente"><img src="img/banners/CRECIMIENTO-Sequoia-Inicio-2021.webp" alt="altura crecimiento estatura"></a>
+                        <a href="crecimiento-infantil-deficiente"><img src="/img/banners/CRECIMIENTO-Sequoia-Inicio-2021.webp" alt="altura crecimiento estatura"></a>
                     </div>
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">6.-¿Hasta qué edad se puede recibir tratamiento?<span class="icon" aria-hidden="true"></span></span></button>
@@ -146,7 +146,7 @@
                         </div>
                     </div>
                     <div class="tamaño-img ph-05">
-                        <a href="/crecimiento-infantil-por-edad.php"><img src="img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="medir edad hijo hija"></a>
+                        <a href="/crecimiento-infantil-por-edad.php"><img src="/img/banners/PERCENTILES-Y-CRECIEMEINTO--Sequoia-Inicio-2021.webp" alt="medir edad hijo hija"></a>
                     </div>
                     <div class="accordion-item">
                         <button id="accordion-button-5" aria-expanded="false"><span class="accordion-title">11.-¿Cómo afecta la estatura en la autoestima de un niño?<span class="icon" aria-hidden="true"></span></span></button>
@@ -238,10 +238,10 @@
 
         </div>
         <div class="ocultar-media ph-05">
-            <a href="contact"><img src="img/banners/BANNER-2-NINA-VERTICAL.webp" alt=""></a>
+            <a href="contact"><img src="/img/banners/BANNER-2-NINA-VERTICAL.webp" alt=""></a>
         </div>
         <div class="tamaño-img mostrar-media ph-05">
-            <a href="contact"><img src="img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt=""></a>
+            <a href="contact"><img src="/img/banners/BANNER-2-NINA-HORIZONTAL.webp" alt=""></a>
         </div>  
         </div>
 

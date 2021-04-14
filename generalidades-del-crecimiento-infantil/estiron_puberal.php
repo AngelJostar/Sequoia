@@ -3,13 +3,13 @@
 
 <?php include_once '../includes/tags/google_tag_manager_head.php';?>
 
-<link rel="icon" type="image/png" href="../img/FAVICON-SEQUOIA.webp" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/FAVICON-SEQUOIA.webp" sizes="32x32">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <title>Etapas del desarrollo de Tanner</title>
-<link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 </head>
 
@@ -37,10 +37,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-3-5 ocultar-media">
-                <img src="../img/generalidades-del-crecimiento-infantil/Banner-estiron-puberal.webp" alt="altura crecimiento estatura">
+                <img src="/img/generalidades-del-crecimiento-infantil/Banner-estiron-puberal.webp" alt="altura crecimiento estatura">
             </div>
             <div class="tamaño-img ph-3-5 mostrar-media">
-                <img src="../img/generalidades-del-crecimiento-infantil/Banner-estiron-puberal-desktop.webp" alt="altura crecimiento estatura">
+                <img src="/img/generalidades-del-crecimiento-infantil/Banner-estiron-puberal-desktop.webp" alt="altura crecimiento estatura">
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="trX2CxXTVlA"></div>
@@ -92,7 +92,7 @@
                 <p>El estirón y la pubertad comienzan a la vez, independientemente de la edad cronológica del individuo en correlación muy estrecha con la edad ósea. De modo que en la pubertad precoz el incremento de velocidad de crecimiento comienza mucho antes, coincidiendo con la aceleración de la edad ósea y, por el contrario, en la pubertad atrasada, con la edad ósea también retrasada, el estirón ocurre mucho más tarde. </p>
             </div>
             <div class="tamaño-img">
-                <a href="etapas_del_desarollo_de_tenner"><img src="../img/banners/Banner-WEB-Etapas-del-desarrollo-de-Tanner.webp" alt="contacto crecimiento"></a>
+                <a href="etapas_del_desarollo_de_tenner"><img src="/img/banners/Banner-WEB-Etapas-del-desarrollo-de-Tanner.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
 

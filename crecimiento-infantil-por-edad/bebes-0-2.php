@@ -3,13 +3,13 @@
 
 <?php include_once '../includes/tags/google_tag_manager_head.php';?>
 
-<link rel="icon" type="image/png" href="../img/FAVICON-SEQUOIA.webp" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/FAVICON-SEQUOIA.webp" sizes="32x32">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <title>Bebes-0-2</title>
-<link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 </head>
 
@@ -36,10 +36,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
-                <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-0-2.webp" alt="altura crecimiento estatura">
+                <img src="/img/crecimiento-infantil-por-edad/Banner-crecimiento-0-2.webp" alt="altura crecimiento estatura">
             </div>
             <div class="tamaño-img ph-6 mostrar-media">
-                <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-0-2-desktop.webp" alt="altura crecimiento estatura">
+                <img src="/img/crecimiento-infantil-por-edad/Banner-crecimiento-0-2-desktop.webp" alt="altura crecimiento estatura">
             </div>
             <div class="justificar-texto-85 centrar-texto">
                 <p>Toda madre y todo padre quieren, sobre todas las cosas, que su bebé esté sano y sea feliz, y uno de los indicativos más visuales y evidentes es el aumento de peso y talla del pequeño.</p>       

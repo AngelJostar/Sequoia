@@ -3,13 +3,13 @@
 
 <?php include_once '../includes/tags/google_tag_manager_head.php';?>
 
-<link rel="icon" type="image/png" href="../img/FAVICON-SEQUOIA.webp" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/FAVICON-SEQUOIA.webp" sizes="32x32">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <title>Adolecentes 12-16</title>
-<link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 </head>
 
@@ -37,10 +37,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
-                <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-adolecentes-12-16.webp" alt="altura crecimiento estatura">
+                <img src="/img/crecimiento-infantil-por-edad/Banner-crecimiento-adolecentes-12-16.webp" alt="altura crecimiento estatura">
             </div>
             <div class="tamaño-img ph-6 mostrar-media">
-                <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-adolecentes-12-16-desktop.webp" alt="altura crecimiento estatura">
+                <img src="/img/crecimiento-infantil-por-edad/Banner-crecimiento-adolecentes-12-16-desktop.webp" alt="altura crecimiento estatura">
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="ghg416WQnZU"></div>
@@ -97,7 +97,7 @@
                 <p>Basándonos en las indicaciones de la OMS, podemos calcular el crecimiento del niño mes a mes, basándonos en si es niño o niña. Para aprender más sobre las gráficas de crecimiento visita nuestra sección de “Percentiles de crecimiento”.</p>
             </div>
             <div class="tamaño-img">
-                <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento"><img src="../img/banners/Banner-Graficas-de-Crecimiento.webp" alt="generalidades-del-crecimiento"></a>
+                <a href="/generalidades-del-crecimiento-infantil/graficas-de-crecimiento"><img src="/img/banners/Banner-Graficas-de-Crecimiento.webp" alt="generalidades-del-crecimiento"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-1 ">
                 <div class="titulos-principal">
@@ -108,10 +108,10 @@
                 <p>A continuación te presentamos las gráficas de crecimiento y peso que debería de seguir tu hijo o hija de 12 a 16 años. </p>
             </div>            
             <div class="tamaño-img"> 
-                <img src="../img/generalidades-del-crecimiento-infantil/GRAFICA-DE-ESTATURA-POR-EDAD-Y-PESO-POR-EDAD-NINAS.webp" alt="generalidades-del-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/GRAFICA-DE-ESTATURA-POR-EDAD-Y-PESO-POR-EDAD-NINAS.webp" alt="generalidades-del-crecimiento">
             </div>
             <div class="tamaño-img">
-                <img src="../img/generalidades-del-crecimiento-infantil/GRAFICA-DE-ESTATURA-POR-EDAD-Y-PESO-POR-EDAD-NINOS.webp" alt="generalidades-del-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/GRAFICA-DE-ESTATURA-POR-EDAD-Y-PESO-POR-EDAD-NINOS.webp" alt="generalidades-del-crecimiento">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
@@ -125,10 +125,10 @@
                 <img src="/img/nueva/imc2.webp" alt="Brexia_especialistas">
             </div>
             <div class="ocultar-media">
-                    <a href="/contact"><img src="../img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto-crecimiento-infantil"></a>
+                    <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto-crecimiento-infantil"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="/contact"><img src="../img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto-crecimiento-infantil"></a>
+                    <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto-crecimiento-infantil"></a>
                 </div>
 
 

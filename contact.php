@@ -78,7 +78,7 @@
             </div>
 
             <div class="contenedor-90porciento">
-                <a href="https://www.google.com/maps/place/Centro+Sequoia+CDMX-+Crecimiento+Infantil/@19.3916871,-99.1709422,15z/data=!4m5!3m4!1s0x0:0x1a23f6e38b618cce!8m2!3d19.3916871!4d-99.1709422"><img src="img/Mapas/MAPA-CDMX-1015x542.webp" alt="Mapa-CDMX"></a>
+                <a href="https://www.google.com/maps/place/Centro+Sequoia+CDMX-+Crecimiento+Infantil/@19.3916871,-99.1709422,15z/data=!4m5!3m4!1s0x0:0x1a23f6e38b618cce!8m2!3d19.3916871!4d-99.1709422"><img src="/img/Mapas/MAPA-CDMX-1015x542.webp" alt="Mapa-CDMX"></a>
             </div>
             <div class="contacto-grid">
                 <div class="centrar-texto texto-boton-contacto pb-2 margin-top-20">
@@ -108,7 +108,7 @@
                 </div>
             </div>
             <div class="contenedor-90porciento">
-                <a href="https://www.google.com/maps/place/Centro+Sequoia+Guadalajara-Crecimiento+Infantil/@20.6912993,-103.3831778,15z/data=!4m5!3m4!1s0x0:0x296b00874ce3a155!8m2!3d20.6912993!4d-103.3831778"><img src="img/Mapas/MAPA-GUADALAJARA-1015x542.webp" alt="Mapa-CDMX"></a>
+                <a href="https://www.google.com/maps/place/Centro+Sequoia+Guadalajara-Crecimiento+Infantil/@20.6912993,-103.3831778,15z/data=!4m5!3m4!1s0x0:0x296b00874ce3a155!8m2!3d20.6912993!4d-103.3831778"><img src="/img/Mapas/MAPA-GUADALAJARA-1015x542.webp" alt="Mapa-CDMX"></a>
             </div>
             <div class="contacto-grid">
                 <div class="centrar-texto texto-boton-contacto pb-2 margin-top-20">
@@ -138,7 +138,7 @@
                 </div>
             </div>
             <div class="contenedor-90porciento">
-                <a href="https://www.google.com/maps/place/Centro+Sequoia+Monterrey+-+Crecimiento+Infantil/@25.658951,-100.3604245,15z/data=!4m5!3m4!1s0x0:0xeb31f6ebb43acd2d!8m2!3d25.658951!4d-100.3604245"><img src="img/Mapas/MAPA-MONTERREY-1015x542.webp" alt="Mapa-CDMX"></a>
+                <a href="https://www.google.com/maps/place/Centro+Sequoia+Monterrey+-+Crecimiento+Infantil/@25.658951,-100.3604245,15z/data=!4m5!3m4!1s0x0:0xeb31f6ebb43acd2d!8m2!3d25.658951!4d-100.3604245"><img src="/img/Mapas/MAPA-MONTERREY-1015x542.webp" alt="Mapa-CDMX"></a>
             </div>
             <div class="contacto-grid">
                 <div class="centrar-texto texto-boton-contacto pb-2 margin-top-20">
@@ -187,10 +187,10 @@
             </div>
         </section>
         <div class="ocultar-media">
-                <a href="crecimiento-infantil"><img src="img/banners/Banner-mujer-y-nino.webp" alt="contacto crecimiento"></a>
+                <a href="crecimiento-infantil"><img src="/img/banners/Banner-mujer-y-nino.webp" alt="contacto crecimiento"></a>
             </div>
             <div class="tamaño-img mostrar-media">
-                <a href="crecimiento-infantil"><img src="img/banners/estatura-crecer-crecimiento-infantil-1.webp" alt="contacto crecimiento"></a>
+                <a href="crecimiento-infantil"><img src="/img/banners/estatura-crecer-crecimiento-infantil-1.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
 

@@ -1,6 +1,6 @@
 <div id="top-header" class="top-header">
     <div class="top-header-inter">
-        <img class="top-header-icono" src="../../img/banners/Telefono web sequoia-01.webp" alt="">
+        <img class="top-header-icono" src="/img/banners/Telefono web sequoia-01.webp" alt="">
         <a href="tel:+5556876118">
             <span>
                         &nbsp; <span class="color-verde">CDMX:</span><br>

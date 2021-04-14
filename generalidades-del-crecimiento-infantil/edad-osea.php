@@ -3,13 +3,13 @@
 
 <?php include_once '../includes/tags/google_tag_manager_head.php';?>
 
-<link rel="icon" type="image/png" href="../img/FAVICON-SEQUOIA.webp" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/FAVICON-SEQUOIA.webp" sizes="32x32">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <title>Edad Ósea</title>
-<link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 </head>
 
@@ -36,10 +36,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-3-5 ocultar-media">
-                <img src="../img/generalidades-del-crecimiento-infantil/Banner-edad-osea.webp" alt="altura crecimiento estatura">
+                <img src="/img/generalidades-del-crecimiento-infantil/Banner-edad-osea.webp" alt="altura crecimiento estatura">
             </div>
             <div class="tamaño-img ph-3 mostrar-media">
-                <img src="../img/generalidades-del-crecimiento-infantil/Banner-edad-osea-desktop.webp" alt="altura crecimiento estatura">
+                <img src="/img/generalidades-del-crecimiento-infantil/Banner-edad-osea-desktop.webp" alt="altura crecimiento estatura">
             </div>
             <div class="contenedor-video ph-2">
                 <div class="reproductor" data-id="3__Hs56Be00"></div>
@@ -89,7 +89,7 @@
             <p>La forma más habitual es con una radiografía de la mano. Se hace de la mano por la gran cantidad de huesos que hay en ella, cada uno con su cartílago de crecimiento. Para cada año de edad hay un modelo de imagen radiológica, con el que se compara la radiografía del niño que se quiere estudiar. A través de la comparación de imágenes se sabe cuál es la edad ósea. </p>
             </div>
             <div class="tamaño-img">
-                <a href="graficas-de-crecimiento"><img src="../img/banners/Banner-Graficas-de-Crecimiento.webp" alt="contacto crecimiento"></a>
+                <a href="graficas-de-crecimiento"><img src="/img/banners/Banner-Graficas-de-Crecimiento.webp" alt="contacto crecimiento"></a>
             </div>
 
         </div>

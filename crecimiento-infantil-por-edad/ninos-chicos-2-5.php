@@ -3,13 +3,13 @@
 
 <?php include_once '../includes/tags/google_tag_manager_head.php';?>
 
-<link rel="icon" type="image/png" href="../img/FAVICON-SEQUOIA.webp" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/FAVICON-SEQUOIA.webp" sizes="32x32">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <title>Niños Chicos 2-5</title>
-<link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 </head>
 
@@ -36,10 +36,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
-                <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-2-5.webp" alt="altura crecimiento estatura">
+                <img src="/img/crecimiento-infantil-por-edad/Banner-crecimiento-2-5.webp" alt="altura crecimiento estatura">
             </div>
             <div class="tamaño-img ph-6 mostrar-media">
-                <img src="../img/crecimiento-infantil-por-edad/Banner-crecimiento-2-5-desktop.webp" alt="altura crecimiento estatura">
+                <img src="/img/crecimiento-infantil-por-edad/Banner-crecimiento-2-5-desktop.webp" alt="altura crecimiento estatura">
             </div>
             <div class="contenedor-video ph-1">
                 <div class="reproductor" data-id="OcUKGcLcuxA"></div>
@@ -74,10 +74,10 @@
                     de niño pequeño" se aplana.</p>
             </div>
             <div class="pb-25 tamaño-img ocultar-media">
-                <a href="/preguntas-frecuentes"><img src="../img/banners/crecer-estatura-nino-crecimiento-infantil-2.webp" alt="banners-especialistas"></a>
+                <a href="/preguntas-frecuentes"><img src="/img/banners/crecer-estatura-nino-crecimiento-infantil-2.webp" alt="banners-especialistas"></a>
             </div>
             <div class="pb-25 tamaño-img mostrar-media">
-                <a href="/preguntas-frecuentes"><img src="../img/banners/crecer-estatura-nino-crecimiento-infantil-1.webp" alt="banners-especialistas"></a>
+                <a href="/preguntas-frecuentes"><img src="/img/banners/crecer-estatura-nino-crecimiento-infantil-1.webp" alt="banners-especialistas"></a>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">
@@ -117,10 +117,10 @@
                 <img src="/img/nueva/peso-ninos-2.webp" alt="">
             </div>
             <div class="ocultar-media">
-                    <a href="/contact"><img src="../img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto-crecimiento-infantil"></a>
+                    <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto-crecimiento-infantil"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="/contact"><img src="../img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto-crecimiento-infantil"></a>
+                    <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto-crecimiento-infantil"></a>
                 </div>
 
         </div>

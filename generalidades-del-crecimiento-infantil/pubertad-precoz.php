@@ -3,13 +3,13 @@
 
 <?php include_once '../includes/tags/google_tag_manager_head.php';?>
 
-<link rel="icon" type="image/png" href="../img/FAVICON-SEQUOIA.webp" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/FAVICON-SEQUOIA.webp" sizes="32x32">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <title>Pubertad Precoz o Atrasada</title>
-<link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 </head>
 
@@ -36,10 +36,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-3  ocultar-media">
-                <img src="../img/generalidades-del-crecimiento-infantil/Banner-pubertad-precoz.webp" alt="altura crecimiento estatura">
+                <img src="/img/generalidades-del-crecimiento-infantil/Banner-pubertad-precoz.webp" alt="altura crecimiento estatura">
             </div>
             <div class="tamaño-img ph-3 mostrar-media">
-                <img src="../img/generalidades-del-crecimiento-infantil/Banner-pubertad-precoz-desktop.webp" alt="altura crecimiento estatura">
+                <img src="/img/generalidades-del-crecimiento-infantil/Banner-pubertad-precoz-desktop.webp" alt="altura crecimiento estatura">
             </div>
             <div class="contenedor-video ph-2">
                 <div class="reproductor" data-id="TF1Oso4MFrA"></div>
@@ -111,7 +111,7 @@
                 <p>Si tu hijo presenta signos de pubertad precoz es importante acudir lo más pronto posible con los especialistas de SEQUOIA para atender de manera inmediata este padecimiento.<br>¡Ayuda a tu hijo a alcanzar una mayor estatura!</p>
             </div>
             <div class="tamaño-img pt-15 pb-30">
-                <a href="talla_blanco_familiar"><img src="../img/generalidades-del-crecimiento-infantil/Banner-Talla-Familiar-Genertica.webp" alt="graficas-de-crecimiento"></a>
+                <a href="talla_blanco_familiar"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Talla-Familiar-Genertica.webp" alt="graficas-de-crecimiento"></a>
             </div> 
 
         </div>

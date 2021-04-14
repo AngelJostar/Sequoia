@@ -6,7 +6,7 @@
                 <p>“ Es importante atender a tu hijo antes de que su crecimiento termine y sea demasiado tarde para corregir su talla. Consulta a un especialista en talla baja de Centro Sequoia.”</p>
             </div>
             <div class="centrar-texto texto-boton">
-                <a href="../../preguntas-frecuentes"><button class="boton boton-footer">Preguntas frecuentes</button></a>
+                <a href="/preguntas-frecuentes"><button class="boton boton-footer">Preguntas frecuentes</button></a>
             </div>
             <div class="centrar-texto texto-boton">
                 <a href="https://blog-centro-sequoia.blogspot.com/"><button class="boton boton-footer">Artículos de interés</button></a>
@@ -94,7 +94,7 @@
                 </div>
             </div>
             <div class="centrar-texto texto-boton">
-                <a href="../../preguntas-frecuentes"><button class="boton boton-footer">Preguntas frecuentes</button></a>
+                <a href="/preguntas-frecuentes"><button class="boton boton-footer">Preguntas frecuentes</button></a>
             </div>
             <div class="centrar-texto texto-boton">
                 <a href="https://blog-centro-sequoia.blogspot.com/"><button class="boton boton-footer">Artículos de interés</button></a>

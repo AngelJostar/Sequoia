@@ -2,7 +2,7 @@
     <div class="contenedor">
         <div class="mid-header">
             <div class="mid-image deepmid-header pt-1" id="mid-image">
-                <a href="/index"><img src="../img/Logo-Horizontal.webp" alt="imagen-logo"></a>
+                <a href="/index"><img src="/img/Logo-Horizontal.webp" alt="imagen-logo"></a>
             </div>
             <div class="icono">
                 <div data-wow-delay="0.1s">
@@ -28,33 +28,33 @@
                     </div>
                     <ul class="resaltar">
                         <li class="size-hojita hojita-menu margin-top-20 hoja-grid">
-                            <img src="../../img/banners/HOJITA VERDE-01.webp" alt="hojita verde">
-                            <a href="../../index" class="menu-a"> Inicio</a>
+                            <img src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">
+                            <a href="/index" class="menu-a"> Inicio</a>
                         </li>
                         <div class="linea-menu"></div>
                         <li class="size-hojita hojita-menu  hoja-grid">
-                            <img src="../../img/banners/HOJITA VERDE-01.webp" alt="hojita verde">
-                            <a href="../../crecimiento-infantil" class="menu-a"> Crecimiento Infantil</a>
+                            <img src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">
+                            <a href="/crecimiento-infantil" class="menu-a"> Crecimiento Infantil</a>
                         </li>
                         <div class="linea-menu"></div>
                         <li class="size-hojita hojita-menu  hoja-grid">
-                            <img src="../../img/banners/HOJITA VERDE-01.webp" alt="hojita verde">
-                            <a href="../../especialistas-en-crecimiento" class="menu-a"> Especialistas en crecimiento infantil</a>
+                            <img src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">
+                            <a href="/especialistas-en-crecimiento" class="menu-a"> Especialistas en crecimiento infantil</a>
                         </li>
                         <div class="linea-menu"></div>
                         <li class="size-hojita hojita-menu  hoja-grid">
-                            <img src="../../img/banners/HOJITA VERDE-01.webp" alt="hojita verde">
-                            <a href="../../crecimiento-infantil-deficiente" class="menu-a"> Crecimiento infantil deficiente</a>
+                            <img src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">
+                            <a href="/crecimiento-infantil-deficiente" class="menu-a"> Crecimiento infantil deficiente</a>
                         </li>
                         <div class="linea-menu"></div>
                         <li class="size-hojita hojita-menu  hoja-grid">
-                            <img src="../../img/banners/HOJITA VERDE-01.webp" alt="hojita verde">
-                            <a href="../../preguntas-frecuentes" class="menu-a"> Preguntas Frecuentes</a>
+                            <img src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">
+                            <a href="/preguntas-frecuentes" class="menu-a"> Preguntas Frecuentes</a>
                         </li>
                         <div class="linea-menu"></div>
                         <li class="size-hojita hojita-menu  hoja-grid">
-                            <img src="../../img/banners/HOJITA VERDE-01.webp" alt="hojita verde">   
-                            <a href="../../contacto" class="menu-a"> Contacto</a>
+                            <img src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">   
+                            <a href="/contacto" class="menu-a"> Contacto</a>
                         </li>
                         <div class="linea-menu"></div>
                     </ul>

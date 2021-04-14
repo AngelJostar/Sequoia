@@ -3,25 +3,25 @@
 
 <?php include_once 'includes/tags/google_tag_manager_head.php';?>
 
-<link rel="icon" type="image/png" href="../img/FAVICON-SEQUOIA.webp" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/FAVICON-SEQUOIA.webp" sizes="32x32">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <title>Lading contacto GDL</title>
-<link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 </head>
 
-<?php include_once '../includes/tags/google_tag_manager_body.php';?>
-<?php include_once '../includes/templates/top-header.php';?>
+<?php include_once 'includes/tags/google_tag_manager_body.php';?>
+<?php include_once 'includes/templates/top-header.php';?>
 <!--####HEADER####-->
 <section id="site-wrapper">
 
     <!-- CANVAS -->
     <section id="site-canvas">
 
-        <?php include_once '../includes/templates/header.php';?>
+        <?php include_once 'includes/templates/header.php';?>
 
         <div class="contenedor-principal" id="contenedor-principal">
             <div class="cuadros-crecimiento">
@@ -36,10 +36,10 @@
                 </div>
             </div>
             <div class="sombras-img ph-3 tamaño-img ocultar">
-               <img src="../img/banners/BANNERS-Principal-2021-II.webp" alt="Portada">
+               <img src="/img/banners/BANNERS-Principal-2021-II.webp" alt="Portada">
             </div>
             <div class="sombras-img ph-4  tamaño-img mostrar">
-                <img src="../img/banners/BANNERS-Principal-2021-II-desktop.webp" alt="Portada">
+                <img src="/img/banners/BANNERS-Principal-2021-II-desktop.webp" alt="Portada">
             </div>
             <div class="textos-azules">
                 <p>En el <span class="font-bold">Centro Sequoia</span> somos endocrinólogos pediatras especialistas en crecimiento infantil. Diagnosticaremos las causas por las que tu hijo no crece correctamente y lograremos que alcance una mayor estatura.</p>
@@ -68,7 +68,7 @@
             </div>
 
                 <div class="contenedor-90porciento">
-                <a href="https://www.google.com/maps/place/Centro+Sequoia+Guadalajara-Crecimiento+Infantil/@20.6912993,-103.3831778,15z/data=!4m5!3m4!1s0x0:0x296b00874ce3a155!8m2!3d20.6912993!4d-103.3831778"><img src="../img/Mapas/MAPA-GUADALAJARA-1015x542.webp" alt="Mapa-CDMX"></a>
+                <a href="https://www.google.com/maps/place/Centro+Sequoia+Guadalajara-Crecimiento+Infantil/@20.6912993,-103.3831778,15z/data=!4m5!3m4!1s0x0:0x296b00874ce3a155!8m2!3d20.6912993!4d-103.3831778"><img src="/img/Mapas/MAPA-GUADALAJARA-1015x542.webp" alt="Mapa-CDMX"></a>
                 </div>
                 <div class="contacto-grid">
                     <div class="centrar-texto texto-boton-contacto pb-2 margin-top-20">
@@ -115,10 +115,10 @@
                 </div>
             </section>
             <div class="tamaño-img ocultar-media">
-            <a href="/preguntas-frecuentes"><img src="../img/banners/crecer-estatura-nino-crecimiento-infantil-2.webp" alt="causas crecimiento hijo"></a>
+            <a href="/preguntas-frecuentes"><img src="/img/banners/crecer-estatura-nino-crecimiento-infantil-2.webp" alt="causas crecimiento hijo"></a>
                 </div>
             <div class="tamaño-img mostrar-media">
-                <a href="/preguntas-frecuentes"><img src="../img/banners/crecer-estatura-nino-crecimiento-infantil-1.webp" alt="causas crecimiento hijo"></a>
+                <a href="/preguntas-frecuentes"><img src="/img/banners/crecer-estatura-nino-crecimiento-infantil-1.webp" alt="causas crecimiento hijo"></a>
             </div>
             <div class="textos-azules">
                 <p><span class="font-bold">CENTROS EN CDMX / GUADALAJARA / MONTERREY </span></p>
@@ -130,7 +130,7 @@
 
 
         </div>
-        <?php include_once '../includes/templates/footer.php';?>
+        <?php include_once 'includes/templates/footer.php';?>
 
     </section>
     <!-- END SITE CONTENT -->

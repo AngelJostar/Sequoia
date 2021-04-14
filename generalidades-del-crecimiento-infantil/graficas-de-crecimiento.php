@@ -3,13 +3,13 @@
 
 <?php include_once '../includes/tags/google_tag_manager_head.php';?>
 
-<link rel="icon" type="image/png" href="../img/FAVICON-SEQUOIA.webp" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/FAVICON-SEQUOIA.webp" sizes="32x32">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <title>graficas-de-crecimiento</title>
-<link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 </head>
 
@@ -35,10 +35,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-5 ocultar-media">
-                <img src="../img/generalidades-del-crecimiento-infantil/Banner-graficas-de-crecimiento.webp" alt="altura crecimiento estatura">
+                <img src="/img/generalidades-del-crecimiento-infantil/Banner-graficas-de-crecimiento.webp" alt="altura crecimiento estatura">
             </div>
             <div class="tamaño-img ph-6 mostrar-media">
-                <img src="../img/generalidades-del-crecimiento-infantil/Banner-graficas-de-crecimiento.webp" alt="altura crecimiento estatura">
+                <img src="/img/generalidades-del-crecimiento-infantil/Banner-graficas-de-crecimiento.webp" alt="altura crecimiento estatura">
             </div>
             <div class="contenedor-video-2">
                 <div class="reproductor-rectangular" data-id="yLo6eB0NtOM"></div>
@@ -65,7 +65,7 @@
                 <p>Conocer cómo es el patrón normal de crecimiento y sus desviaciones, permite detectar, de forma precoz, la aparición de determinados problemas, pero también contribuye a evitar intervenciones o estudios innecesarios en niños que tienen variaciones normales del crecimiento.</p>
             </div>
             <div class="tamaño-img pt-15">
-                <img src="../img/generalidades-del-crecimiento-infantil/NINOS-GRAFICA.webp" alt="graficas-de-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/NINOS-GRAFICA.webp" alt="graficas-de-crecimiento">
             </div>
             <div class="justificar-texto-85">
                 <p>Por sí solos, los percentiles de crecimiento no indican el estado de salud de un niño. Es sólo una comparación. El percentil concreto de un niño, como dato aislado, no tiene demasiado valor. Las curvas de crecimiento no deben utilizarse como instrumento único para tomar decisiones, aunque los datos que proporcionan contribuyen a formar una impresión global del niño. El crecimiento debe valorarse en un contexto amplio y requiere considerar otros factores, como la talla de la familia o el ambiente.</p>
@@ -79,10 +79,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-2">
-                <img src="../img/generalidades-del-crecimiento-infantil/LONGITUD-0-A-2-ANOS-NINAS.webp" alt="graficas-de-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/LONGITUD-0-A-2-ANOS-NINAS.webp" alt="graficas-de-crecimiento">
             </div>
             <div class=" tamaño-img">
-                <img src="../img/generalidades-del-crecimiento-infantil/LONGITUD-0-A-2-ANOS-NINOS.webp" alt="graficas-de-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/LONGITUD-0-A-2-ANOS-NINOS.webp" alt="graficas-de-crecimiento">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
                 <div class="titulos-principal">
@@ -90,10 +90,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-2">
-                <img src="../img/generalidades-del-crecimiento-infantil/PERIMETRO-CEFALICO-0A-5-NINAS.webp" alt="graficas-de-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/PERIMETRO-CEFALICO-0A-5-NINAS.webp" alt="graficas-de-crecimiento">
             </div>
             <div class=" tamaño-img">
-                <img src="../img/generalidades-del-crecimiento-infantil/PERIMETRO-CEFALICO-0A-5-NINOS.webp" alt="graficas-de-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/PERIMETRO-CEFALICO-0A-5-NINOS.webp" alt="graficas-de-crecimiento">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
                 <div class="titulos-principal">
@@ -101,10 +101,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-2">
-                <img src="../img/generalidades-del-crecimiento-infantil/GRAFICA-DE-ESTATURA-POR-EDAD-Y-PESO-POR-EDAD-NINAS.webp" alt="graficas-de-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/GRAFICA-DE-ESTATURA-POR-EDAD-Y-PESO-POR-EDAD-NINAS.webp" alt="graficas-de-crecimiento">
             </div>
             <div class=" tamaño-img">
-                <img src="../img/generalidades-del-crecimiento-infantil/GRAFICA-DE-ESTATURA-POR-EDAD-Y-PESO-POR-EDAD-NINOS.webp" alt="graficas-de-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/GRAFICA-DE-ESTATURA-POR-EDAD-Y-PESO-POR-EDAD-NINOS.webp" alt="graficas-de-crecimiento">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
                 <div class="titulos-principal">
@@ -112,10 +112,10 @@
                 </div>
             </div>
             <div class="tamaño-img ph-2">
-                <img src="../img/generalidades-del-crecimiento-infantil/GRAFICA-DE-VELOCIDAD-DE-CRECIMEINTO-NINAS.webp" alt="graficas-de-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/GRAFICA-DE-VELOCIDAD-DE-CRECIMEINTO-NINAS.webp" alt="graficas-de-crecimiento">
             </div>
             <div class=" tamaño-img">
-                <img src="../img/generalidades-del-crecimiento-infantil/GRAFICA-DE-VELOCIDAD-DE-CRECIMEINTO-NINOS.webp" alt="graficas-de-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/GRAFICA-DE-VELOCIDAD-DE-CRECIMEINTO-NINOS.webp" alt="graficas-de-crecimiento">
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
                 <div class="titulos-principal">
@@ -123,13 +123,13 @@
                 </div>
             </div>
             <div class="tamaño-img ph-2">
-                <img src="../img/generalidades-del-crecimiento-infantil/IMC-NINAS-2-A-20.webp" alt="graficas-de-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/IMC-NINAS-2-A-20.webp" alt="graficas-de-crecimiento">
             </div>
             <div class=" tamaño-img">
-                <img src="../img/generalidades-del-crecimiento-infantil/IMC-NINOS-2-A-20.webp" alt="graficas-de-crecimiento">
+                <img src="/img/generalidades-del-crecimiento-infantil/IMC-NINOS-2-A-20.webp" alt="graficas-de-crecimiento">
             </div>
             <div class="tamaño-img pt-15 pb-30">
-                <a href="edad-osea"><img src="../img/generalidades-del-crecimiento-infantil/Banner-Edad-osea-.webp" alt="graficas-de-crecimiento"></a>
+                <a href="edad-osea"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Edad-osea-.webp" alt="graficas-de-crecimiento"></a>
             </div>  
         </div>
 

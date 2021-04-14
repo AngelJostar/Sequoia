@@ -1,27 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include_once '../includes/tags/google_tag_manager_head.php';?>
+<?php include_once 'includes/tags/google_tag_manager_head.php';?>
 
 <link rel="icon" type="image/png" href="../img/FAVICON-SEQUOIA.webp" sizes="32x32">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <title>Lading contacto MONTERREY -v1</title>
-<link rel="stylesheet" rel="preload" href="../css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="../css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 </head>
 
-<?php include_once '../includes/tags/google_tag_manager_body.php';?>
-<?php include_once '../includes/templates/top-header.php';?>
+<?php include_once 'includes/tags/google_tag_manager_body.php';?>
+<?php include_once 'includes/templates/top-header.php';?>
 <!--####HEADER####-->
 <section id="site-wrapper">
 
     <!-- CANVAS -->
     <section id="site-canvas">
 
-        <?php include_once '../includes/templates/header.php';?>
+        <?php include_once 'includes/templates/header.php';?>
 
         <div class="contenedor-principal" id="contenedor-principal">
             <div class="cuadros-crecimiento">
@@ -121,7 +121,7 @@
 
 
         </div>
-        <?php include_once '../includes/templates/footer.php';?>
+        <?php include_once 'includes/templates/footer.php';?>
 
     </section>
     <!-- END SITE CONTENT -->
@@ -130,6 +130,7 @@
 <!--####HEADER####-->
 
 <a href="contact" class="scrollup">
+    <p>CONTACTO</p>
 </a>
 <!--####FOOTER####-->
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>

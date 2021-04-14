@@ -8,8 +8,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <title>Crecimiento - Causas-de-la-baja-estatura</title>
-<link rel="stylesheet" rel="preload" href="css/style.css" media="all">
-<link rel="stylesheet" rel="preload" href="css/normalize.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
+<link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
 </head>
 
@@ -36,7 +36,7 @@
                 </div>
             </div>
             <div class="tamaño-img ph-3">
-                <img src="img/causas-de-la-baja-estatura/Banner-Causas-Baja-Estatural-.webp" alt="altura crecimiento estatura">
+                <img src="/img/causas-de-la-baja-estatura/Banner-Causas-Baja-Estatural-.webp" alt="altura crecimiento estatura">
             </div>
             <div class="textos-principal ph-3">
             <p>Así mismo algunos de los niños que tienen baja estatura que no está relacionada con alguna afección médica también pueden querer alcanzar una mayor
@@ -79,10 +79,10 @@
                     </div>
                 </div>
                 <div class="tamaño-img ocultar-media pb-15">
-                    <a href="importancia-de-ser-mas-alto.php"><img src="img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil"></a>
+                    <a href="importancia-de-ser-mas-alto.php"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-2.webp" alt="estatura crecimiento infantil"></a>
                 </div>
                 <div class="tamaño-img mostrar-media pb-15">
-                    <a href="importancia-de-ser-mas-alto.php"><img src="img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil"></a>
+                    <a href="importancia-de-ser-mas-alto.php"><img src="/img/banners/estatura-crecimiento-infantil-especialistas-1.webp" alt="estatura crecimiento infantil"></a>
                 </div>
                 <div class="cuadros-crecimiento ocultar-media">
                     <div class="titulos-principal">
@@ -157,20 +157,20 @@
                     </div>
                 </div>
                 <div class="tamaño-img ocultar-media">
-                    <a href="especialistas-en-crecimiento"><img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="banners-especialistas"></a>
+                    <a href="especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="banners-especialistas"></a>
                 </div>
                 <div class="tamaño-img mostrar-media ph-3">
-                    <a href="especialistas-en-crecimiento"><img src="img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="banners-especialistas"></a>
+                    <a href="especialistas-en-crecimiento"><img src="/img/banners/especialista-crecimiento-infantil-estatura-doctor-medico-1.webp" alt="banners-especialistas"></a>
                 </div>
                 <div class="justificar-texto-90 pt-15 centrar-texto pb-15">
                     <p>Te invitamos a que agendes una cita para que uno de nuestros médicos endocrinólogos pediatras especialistas en crecimiento pueda hacer un diagnóstico personalizado de tu hijo y diseñar el tratamiento adecuado en caso de requerirlo.
                     </p>
                 </div>
                 <div class="ocultar-media">
-                    <a href="contact"><img src="img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto-crecimiento-infantil"></a>
+                    <a href="contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-2.webp" alt="contacto-crecimiento-infantil"></a>
                 </div>
                 <div class="tamaño-img mostrar-media">
-                    <a href="contact"><img src="img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto-crecimiento-infantil"></a>
+                    <a href="contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-medir-hijo-1.webp" alt="contacto-crecimiento-infantil"></a>
                 </div>
 
             </div>
