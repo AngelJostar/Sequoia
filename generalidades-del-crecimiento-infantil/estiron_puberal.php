@@ -92,7 +92,7 @@
                 <p>El estirón y la pubertad comienzan a la vez, independientemente de la edad cronológica del individuo en correlación muy estrecha con la edad ósea. De modo que en la pubertad precoz el incremento de velocidad de crecimiento comienza mucho antes, coincidiendo con la aceleración de la edad ósea y, por el contrario, en la pubertad atrasada, con la edad ósea también retrasada, el estirón ocurre mucho más tarde. </p>
             </div>
             <div class="tamaño-img">
-                <a href="/etapas_del_desarollo_de_tenner"><img src="/img/banners/Banner-WEB-Etapas-del-desarrollo-de-Tanner.webp" alt="contacto crecimiento"></a>
+                <a href="/generalidades-del-crecimiento-infantil/etapas_del_desarollo_de_tenner"><img src="/img/banners/Banner-WEB-Etapas-del-desarrollo-de-Tanner.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
 

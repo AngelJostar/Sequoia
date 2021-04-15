@@ -140,14 +140,14 @@
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
                     <h2><span class="font-bold">¿CÓMO SE DETERMINA<br>LA BAJA ESTATURA?</span></h2>
-                </div>
             </div>
-            <div class="justificar-texto-85 pt-15">
-                <p><span class="font-bold"> Los especialistas:</span></p>
-                <p>Sus dientes definitivos salen más tarde de los normal tienen proporcienes normales (sus brazos y piernas concuerdan con sus estatura).</p>
-            </div>
-            <div class="justificar-texto-85 centrar-texto">
-                <p><span class="font-bold"></div>
+        </div>
+        <div class="justificar-texto-85 pt-15">
+            <p><span class="font-bold"> Los especialistas:</span></p>
+            <p>Sus dientes definitivos salen más tarde de los normal tienen proporcienes normales (sus brazos y piernas concuerdan con sus estatura).</p>
+        </div>
+        <div class="justificar-texto-85 centrar-texto">
+            <p><span class="font-bold"></div>
             <div class="contenedor-85porciento pb-25">
                 <div class="justificar-texto-90-listas">
                     <ul>
@@ -159,23 +159,23 @@
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18 ">
                 <div class="titulos-principal">
                     <h2><span class="font-bold">PARA AVERIGUAR LA CAUSA DE LA<br>BAJA ESTATURA DE SU HIJO,<br>LOS MÉDICOS PUEDEN SOLICITAR:</span></h2>
-                </div>
+        </div>
+        </div>
+        <div class="contenedor-85porciento">
+            <div class="justificar-texto-90-listas">
+                <ul>
+                    <li>Tomografía computarizada (TC) o resonancia magnética nuclear (RMN) de la cabeza</li>
+                    <li>Estimulación de la hormona del crecimiento</li>
+                    <li>Pruebas de función tiroidea</li>
+                    <li>Nivel del factor de crecimiento de tipo insulínico 1 (IGF-1)</li>
+                    <li>Exámenes de sangre para buscar problemas en el hígado, riñones, tiroides, sistema inmunitario y otros problemas médicos</li>
+                </ul>
             </div>
-            <div class="contenedor-85porciento">
-                <div class="justificar-texto-90-listas">
-                    <ul>
-                        <li>Tomografía computarizada (TC) o resonancia magnética nuclear (RMN) de la cabeza</li>
-                        <li>Estimulación de la hormona del crecimiento</li>
-                        <li>Pruebas de función tiroidea</li>
-                        <li>Nivel del factor de crecimiento de tipo insulínico 1 (IGF-1)</li>
-                        <li>Exámenes de sangre para buscar problemas en el hígado, riñones, tiroides, sistema inmunitario y otros problemas médicos</li>
-                    </ul>
-                </div>
 
-            </div>
-            <div class="tamaño-img">
-                <a href="/como-medir-a-tu-hijo-de-manera-correcta"><img src="/img/banners/BANNER-Como-medir-a-tu-hijo-de-manera-correcta.webp" alt="contacto crecimiento"></a>
-            </div>
+        </div>
+        <div class="tamaño-img">
+            <a href="/generalidades-del-crecimiento-infantil/como-medir-a-tu-hijo-de-manera-correcta"><img src="/img/banners/BANNER-Como-medir-a-tu-hijo-de-manera-correcta.webp" alt="contacto crecimiento"></a>
+        </div>
 
         </div>
 

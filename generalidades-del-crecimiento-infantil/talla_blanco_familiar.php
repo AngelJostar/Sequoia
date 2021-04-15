@@ -69,7 +69,7 @@
                 <p>También los factores metabólicos como el déficit de hormona del crecimiento (GH), el hipotiroidismo o la diabetes mal controlada, pueden alterar el crecimiento esperable genéticamente. Entre los factores ambientales o exógenos, inciden en el crecimiento aspectos como son la nutrición, la actividad física y los aspectos psicológicos, como es la deprivación emocional.</p>
             </div>
             <div class="tamaño-img pt-15 pb-15">
-                <a href="/pubertad-precoz"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Pubertad-adelantada-o-atrasada.webp" alt="graficas-de-crecimiento"></a>
+                <a href="/generalidades-del-crecimiento-infantil/pubertad-precoz"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Pubertad-adelantada-o-atrasada.webp" alt="graficas-de-crecimiento"></a>
             </div>
 
         </div>

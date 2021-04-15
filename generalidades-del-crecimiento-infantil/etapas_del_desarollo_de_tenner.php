@@ -261,7 +261,7 @@
                 </div>
             </div>
             <div class="tamaño-img">
-                <a href="/estiron_puberal"><img src="/img/banners/Banner-Estiron-Puberal.webp" alt="contacto crecimiento"></a>
+                <a href="/generalidades-del-crecimiento-infantil/estiron_puberal"><img src="/img/banners/Banner-Estiron-Puberal.webp" alt="contacto crecimiento"></a>
             </div>
         </div>
 

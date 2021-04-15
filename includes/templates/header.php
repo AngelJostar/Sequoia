@@ -23,7 +23,7 @@
                     <div class="encabezado-menu">
                     </div>
                     <div class="menu-header">
-                        <a href="/index"><img src="../img/Logo-Horizontal.webp" alt="imagen-logo"></a>
+                        <a href="/index"><img src="/img/Logo-Horizontal.webp" alt="imagen-logo"></a>
                         <a href="#" class="toggle-nav icono-menu"><i class="far fa-window-close"></i></a>
                     </div>
                     <ul class="resaltar">
@@ -54,7 +54,7 @@
                         <div class="linea-menu"></div>
                         <li class="size-hojita hojita-menu  hoja-grid">
                             <img src="/img/banners/HOJITA VERDE-01.webp" alt="hojita verde">   
-                            <a href="/contacto" class="menu-a"> Contacto</a>
+                            <a href="/contact" class="menu-a"> Contacto</a>
                         </li>
                         <div class="linea-menu"></div>
                     </ul>

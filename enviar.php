@@ -12,19 +12,19 @@
         $destino = "contacto@centrosequoia.com.mx";   
         $contenido = "Nombre: " . $nombre . "\nCorreo: " . $correo . "\nTeléfono: " . $telefono . "\nAsunto: " . $centro . "\nMensaje: " . $mensaje;
         mail($destino, "Contacto: ", $contenido);
-        header("Location:gracias-por-contactarnos.php");
+        header("Location:/gracias-por-contactarnos.php");
     }
     if($centro == "GUADALAJARA"){
         $destino = "guadalajara@centrosequoia.com.mx";   
         $contenido = "Nombre: " . $nombre . "\nCorreo: " . $correo . "\nTeléfono: " . $telefono . "\nAsunto: " . $centro . "\nMensaje: " . $mensaje;
         mail($destino, "Contacto: ", $contenido);
-        header("Location:gracias-por-contactarnos.php");
+        header("Location:/gracias-por-contactarnos.php");
     }
     if($centro == "MONTERREY"){
         $destino = "monterrey@centrosequoia.com.mx";   
         $contenido = "Nombre: " . $nombre . "\nCorreo: " . $correo . "\nTeléfono: " . $telefono . "\nAsunto: " . $centro . "\nMensaje: " . $mensaje;
         mail($destino, "Contacto: ", $contenido);
-        header("Location:gracias-por-contactarnos.php");
+        header("Location:/gracias-por-contactarnos.php");
     }
 
 ?>

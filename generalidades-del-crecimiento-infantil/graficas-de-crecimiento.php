@@ -48,7 +48,8 @@
                 <p>Estos datos se someten a métodos estadísticos y se diseñan unas curvas de crecimiento. Tenemos gráficas para diferentes mediciones para niños y niñas.</p>
             </div>
             <div class="justificar-texto-85 centrar-texto pb-2">
-                <p>Hasta los dos años se miden el peso, la longitud (la medida de pies a cabeza con el niño acostado) y el perímetro cefálico (tamaño de la cabeza en redondo). A partir de los dos años y hasta el final de crecimiento se miden el peso y la talla (la medida de pies a cabeza estando de pie). También es útil conocer el índice de masa corporal (IMC), que se obtiene dividiendo el peso por la talla al cuadrado (peso/talla2).</p>
+                <p>Hasta los dos años se miden el peso, la longitud (la medida de pies a cabeza con el niño acostado) y el perímetro cefálico (tamaño de la cabeza en redondo). A partir de los dos años y hasta el final de crecimiento se miden el peso y la
+                    talla (la medida de pies a cabeza estando de pie). También es útil conocer el índice de masa corporal (IMC), que se obtiene dividiendo el peso por la talla al cuadrado (peso/talla2).</p>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">
@@ -59,19 +60,25 @@
                 <p>Los percentiles son una medida estadística que nos indica cómo es un valor en relación a otros. En este caso, cómo es el peso, o la altura o le perímetro cefálico de un niño frente a otros de su edad y sexo.</p>
             </div>
             <div class="justificar-texto-85">
-                <p>Cuanto mayor sea el número de percentil, más grande será el niño respecto a los de su misma edad y, cuanto menor número de percentil, menor tamaño tendrá. El percentil es solo un dato estadístico cuya interpretación requiere conocimiento y experiencia en el crecimiento normal, sus variaciones normales y las que sugieren problemas.</p>
+                <p>Cuanto mayor sea el número de percentil, más grande será el niño respecto a los de su misma edad y, cuanto menor número de percentil, menor tamaño tendrá. El percentil es solo un dato estadístico cuya interpretación requiere conocimiento
+                    y experiencia en el crecimiento normal, sus variaciones normales y las que sugieren problemas.</p>
             </div>
             <div class="justificar-texto-85">
-                <p>Conocer cómo es el patrón normal de crecimiento y sus desviaciones, permite detectar, de forma precoz, la aparición de determinados problemas, pero también contribuye a evitar intervenciones o estudios innecesarios en niños que tienen variaciones normales del crecimiento.</p>
+                <p>Conocer cómo es el patrón normal de crecimiento y sus desviaciones, permite detectar, de forma precoz, la aparición de determinados problemas, pero también contribuye a evitar intervenciones o estudios innecesarios en niños que tienen
+                    variaciones normales del crecimiento.</p>
             </div>
             <div class="tamaño-img pt-15">
                 <img src="/img/generalidades-del-crecimiento-infantil/NINOS-GRAFICA.webp" alt="graficas-de-crecimiento">
             </div>
             <div class="justificar-texto-85">
-                <p>Por sí solos, los percentiles de crecimiento no indican el estado de salud de un niño. Es sólo una comparación. El percentil concreto de un niño, como dato aislado, no tiene demasiado valor. Las curvas de crecimiento no deben utilizarse como instrumento único para tomar decisiones, aunque los datos que proporcionan contribuyen a formar una impresión global del niño. El crecimiento debe valorarse en un contexto amplio y requiere considerar otros factores, como la talla de la familia o el ambiente.</p>
+                <p>Por sí solos, los percentiles de crecimiento no indican el estado de salud de un niño. Es sólo una comparación. El percentil concreto de un niño, como dato aislado, no tiene demasiado valor. Las curvas de crecimiento no deben utilizarse
+                    como instrumento único para tomar decisiones, aunque los datos que proporcionan contribuyen a formar una impresión global del niño. El crecimiento debe valorarse en un contexto amplio y requiere considerar otros factores, como la talla
+                    de la familia o el ambiente.</p>
             </div>
             <div class="justificar-texto-85">
-                <p>Además del percentil también es útil conocer la velocidad de aumento del peso y de la talla. Las gráficas de crecimiento tienen más utilidad para realizar un seguimiento a lo largo del tiempo. Ver la variación del crecimiento a distintas edades y conocer cómo es la curva particular de un niño concreto es más importante que un valor aislado. Si un niño crece siguiendo un cierto patrón y en un momento dado cambia ese patrón y empieza a crecer más despacio, podemos estar ante un problema de salud y descubrirlo observando su curva de crecimiento. Aunque en determinados periodos, como entre los 6 y 18 meses o en la adolescencia, algunos niños normales pueden cambiar de percentil.</p>
+                <p>Además del percentil también es útil conocer la velocidad de aumento del peso y de la talla. Las gráficas de crecimiento tienen más utilidad para realizar un seguimiento a lo largo del tiempo. Ver la variación del crecimiento a distintas
+                    edades y conocer cómo es la curva particular de un niño concreto es más importante que un valor aislado. Si un niño crece siguiendo un cierto patrón y en un momento dado cambia ese patrón y empieza a crecer más despacio, podemos estar
+                    ante un problema de salud y descubrirlo observando su curva de crecimiento. Aunque en determinados periodos, como entre los 6 y 18 meses o en la adolescencia, algunos niños normales pueden cambiar de percentil.</p>
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
                 <div class="titulos-principal">
@@ -129,8 +136,8 @@
                 <img src="/img/generalidades-del-crecimiento-infantil/IMC-NINOS-2-A-20.webp" alt="graficas-de-crecimiento">
             </div>
             <div class="tamaño-img pt-15 pb-30">
-                <a href="/edad-osea"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Edad-osea-.webp" alt="graficas-de-crecimiento"></a>
-            </div>  
+                <a href="/generalidades-del-crecimiento-infantil/edad-osea"><img src="/img/generalidades-del-crecimiento-infantil/Banner-Edad-osea-.webp" alt="graficas-de-crecimiento"></a>
+            </div>
         </div>
 
         <?php include_once '../includes/templates/footer.php';?>
