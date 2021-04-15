@@ -12,19 +12,19 @@
         $destino = "contacto@centrosequoia.com.mx";   
         $contenido = "Nombre: " . $nombre . "\nCorreo: " . $correo . "\nTeléfono: " . $telefono . "\nAsunto: " . $centro . "\nMensaje: " . $mensaje;
         mail($destino, "Contacto: ", $contenido);
-        header("Location:https://centrosequoia.com.mx/gracias-por-contactarnos/");
+        header("Location: https://centrosequoia.com.mx/gracias-por-contactarnos/");
     }
     if($centro == "GUADALAJARA"){
         $destino = "guadalajara@centrosequoia.com.mx";   
         $contenido = "Nombre: " . $nombre . "\nCorreo: " . $correo . "\nTeléfono: " . $telefono . "\nAsunto: " . $centro . "\nMensaje: " . $mensaje;
         mail($destino, "Contacto: ", $contenido);
-        header("Location:https://centrosequoia.com.mx/gracias-por-contactarnos/");
+        header("Location: https://centrosequoia.com.mx/gracias-por-contactarnos/");
     }
     if($centro == "MONTERREY"){
         $destino = "monterrey@centrosequoia.com.mx";   
         $contenido = "Nombre: " . $nombre . "\nCorreo: " . $correo . "\nTeléfono: " . $telefono . "\nAsunto: " . $centro . "\nMensaje: " . $mensaje;
         mail($destino, "Contacto: ", $contenido);
-        header("Location:https://centrosequoia.com.mx/gracias-por-contactarnos/");
+        header("Location: https://centrosequoia.com.mx/gracias-por-contactarnos/");
     }
 
 ?>

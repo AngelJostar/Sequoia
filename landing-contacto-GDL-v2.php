@@ -81,7 +81,7 @@
 
                 
                 <div class="formulario">
-                    <form action="enviar " method="post">
+                    <form action="/enviar.php" method="post">
                     <div class="titulos-principal ">
                         <h2>FORMULARIO DE CONTACTO<br><span class="letra-cursiva">Juntos ayudamos a tu hij@</span></h2>
                     </div>
