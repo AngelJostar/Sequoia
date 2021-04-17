@@ -173,7 +173,7 @@
 
 </section>
 <!--####HEADER####-->
-<a href="contact" class="scrollup">
+<a href="/contact" class="scrollup">
 </a>
 <!--####FOOTER####-->
 <script src="https://kit.fontawesome.com/3919625d45.js" crossorigin="anonymous"></script>

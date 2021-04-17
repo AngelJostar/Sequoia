@@ -61,7 +61,7 @@
                     </ul>
         </div>
         <div class="tamaño-img">
-                <a href="/importancia-de-ser-mas-alto/autoestima"><img src="../img/importancia-de-ser-mas-alto/Banner-Autoestima-y-Crecimiento-.webp" alt="contacto crecimiento"></a>
+                <a href="/importancia-de-ser-mas-alto/autoestima"><img src="/img/importancia-de-ser-mas-alto/Banner-Autoestima-y-Crecimiento-.webp" alt="contacto crecimiento"></a>
         </div>
         <div class="ocultar-media">
                 <a href="/contact"><img src="/img/banners/contacto-crecimiento-infantil-estatura-doctor-medico-2.webp" alt="contacto crecimiento"></a>
