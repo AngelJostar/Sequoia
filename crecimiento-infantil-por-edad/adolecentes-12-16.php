@@ -30,7 +30,7 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1>CRECIMIENTO EN ADOLECENTES<span class="font-bold"> DE 12 A 16 AÑOS DE EDAD</span></h1>
+                    <h1>CRECIMIENTO EN ADOLESCENTES<span class="font-bold"> DE 12 A 16 AÑOS DE EDAD</span></h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>

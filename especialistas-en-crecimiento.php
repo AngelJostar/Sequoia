@@ -29,7 +29,7 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1 style=" font-size: calc(0.9em + 1vw);"> <span class="font-bold">El especialista adecuado</span> para tratar<br>el crecimiento infantil es el endocrinólico<br>pediatra especializado en crecimiento.</h1>
+                    <h1 style=" font-size: calc(0.9em + 1vw);"> <span class="font-bold">El especialista adecuado</span> para tratar<br>el crecimiento infantil es el Endocrinólico<br>pediatra especializado en crecimiento.</h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>

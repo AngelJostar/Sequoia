@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
-<title>Bebes-0-2</title>
+<title>Bebés-0-2</title>
 <link rel="stylesheet" rel="preload" href="/css/style.css" media="all">
 <link rel="stylesheet" rel="preload" href="/css/normalize.css" media="all">
 
@@ -29,7 +29,7 @@
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
-                    <h1><span class="font-bold">CRECIMIENTO EN BEBES<br>DE 0 A 2 AÑOS DE EDAD</span></h1>
+                    <h1><span class="font-bold">CRECIMIENTO EN BEBÉS<br>DE 0 A 2 AÑOS DE EDAD</span></h1>
                     <div class="flexbox padre">
                         <div class="barra-titulo"></div>
                     </div>
@@ -53,7 +53,7 @@
             </div>
             <div class="cuadros-crecimiento-2 efecto3-2 mt-1">
                 <div class="titulos-principal">
-                    <h2><span class="font-bold">CRECIMIENTO EN BEBES<br>DE 0 A 1 AÑO</span></h2>
+                    <h2><span class="font-bold">CRECIMIENTO EN BEBÉS<br>DE 0 A 1 AÑO</span></h2>
                 </div>
             </div>
             <div class="justificar-texto-85 font-bold pt-15">
@@ -99,11 +99,11 @@
             </div>   
             <div class="cuadros-crecimiento-2 efecto3-2 margin-negativo-top-18">
                 <div class="titulos-principal">
-                    <h2><span class="font-bold">PERCENTILES DE CRECIMIENTO<br>EN BEBES DE 0 A 2 AÑOS</span></h2>
+                    <h2><span class="font-bold">PERCENTILES DE CRECIMIENTO<br>EN BEBÉS DE 0 A 2 AÑOS</span></h2>
                 </div>
             </div>
             <div class="justificar-texto-85 centrar-texto pt-15">
-                <p>Para poder valorar el crecimiento de los bebes se utilizan las llamadas graficas de percentiles. El percentil del bebé es una medida que valora el crecimiento, según la altura y el peso del bebé, comparándolo con otros niños de su edad.</p>
+                <p>Para poder valorar el crecimiento de los bebés se utilizan las llamadas graficas de percentiles. El percentil del bebé es una medida que valora el crecimiento, según la altura y el peso del bebé, comparándolo con otros niños de su edad.</p>
                 <p>Cuando un niño ocupa el percentil X significa que un X por ciento de niños miden igual o menos que él para un determinado parámetro de medida, sexo y edad, y que un 100 por ciento mide más. Por ejemplo, si un niño de 7 meses está en el percentil 25, significa que hay un 25 por ciento de niños del mismo sexo y edad que pesa menos que él y un 75 por ciento que pesa más. Esto quiere decir que está por debajo de la media (percentil 50), aunque su peso estadísticamente es normal ya que se encuentra entre el percentil 3 y 97 (rangos que se consideran normales). Hay gráficas para cada parámetro como talla, peso, perímetro de la cabeza, grasa corporal, etc. </p>
                 <p>Se debe tener en cuenta el caso de los niños prematuros, cuyo seguimiento y percentiles deben seguir criterios diferentes, que el pediatra te habrá explicado, o te explicará, en su momento.</p>
                 <p>Basándonos en las indicaciones de la OMS, podemos calcular el crecimiento del bebé y el niño mes a mes, basándonos en si es niño o niña, en su edad.</p>

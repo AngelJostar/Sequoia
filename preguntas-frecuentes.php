@@ -41,9 +41,9 @@
         </div>
         <div class="titulos-azules">
             <h3>¿Mi hij@ esta creciendo bien? <br>
-            ¿Qué puedo hacer para que mi hijo cresca?  <br>
-            ¿A qué edad dejan de crecer los adolecentes? <br>
-            ¿Porqué unos niños crecen más rápido que otros? <br>
+            ¿Qué puedo hacer para que mi hijo crezca?  <br>
+            ¿A qué edad dejan de crecer los Adolecentes? <br>
+            ¿Por qué unos niños crecen más rápido que otros? <br>
             ¿Niños y niñas crecen diferente?</h3>
         </div>
         <div class="contenedor-video-2 pb-2">
